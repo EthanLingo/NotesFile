@@ -1,0 +1,1 @@
+贷款价值比（loan to value,简写LTV）是指贷款金额和抵押品价值的比例，多见于[抵押贷款](https://baike.baidu.com/item/%E6%8A%B5%E6%8A%BC%E8%B4%B7%E6%AC%BE/3340207)，如[房产抵押贷款](https://baike.baidu.com/item/%E6%88%BF%E4%BA%A7%E6%8A%B5%E6%8A%BC%E8%B4%B7%E6%AC%BE/6037878)。

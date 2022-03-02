@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"name": "NotesFile",
+			"path": "."
+		}
+	],
+	"settings": {
+		"workbench.colorCustomizations": {
+            "editor.background": "#fffdf1"
+        },
+		"pasteImage.path": "${currentFileDir}/assets",
+		"pasteImage.defaultName": "YMMDDHHmmss",
+		"pasteImage.namePrefix": "image-",
+		"editor.fontFamily": "Times, Menlo, Monaco, 'Courier New', monospace",
+		"files.exclude": {
+			"attachment": true
+		},
+		"search.exclude": {
+			"**/*.assets": true
+		},
+		"markdown.styles": [
+			"management/my_markdown_style_for_vscode.css"
+		],
+		"julia.environmentPath": "/Users/ethan/.julia/environments/v1.7"
+	}
+}

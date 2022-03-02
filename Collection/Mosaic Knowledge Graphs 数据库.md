@@ -1,0 +1,1 @@
+网站链接：[mosaickg knowledge graph](https://mosaickg.apps.allenai.org/kg_atomic2020) ；
