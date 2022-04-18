@@ -155,7 +155,7 @@ struct ModelType end
 
 ## 定义模型核心内容
 struct ModelContent
-    content::Expr
+    components::Array{Any}
 end
 
 ## 定义通用模型
@@ -168,7 +168,10 @@ end
 ## 定义模型外围架构
 function modelSkeleton(modelContent::ModelContent)
     println("我是模型外围架构。")
-    eval(modelContent.content)  # 此处运行模型核心内容
+    for i in modelContent.components
+        println(i) # 此处运行模型核心内容
+    end
+    println("\n")
 end
 
 ## 定义生成模型
@@ -196,15 +199,23 @@ end
 #===== 设置文件头 ======#
 
 ## 写入模型xxx之名称、核心内容
-xxxName="xxx"
+xxxName = "xxx"
 xxxContent = ModelContent(
-    :(println("我是模型核心内容XXX。\n"))
+    [
+    "我是模型核心组件1。",
+    "我是模型核心组件3。",
+    "我是模型核心组件5。"
+]
 )
 
 ## 写入模型yyy之名称、核心内容
-yyyName="yyy"
+yyyName = "yyy"
 yyyContent = ModelContent(
-    :(println("我是模型核心内容YYY。\n"))
+    [
+    "我是模型核心组件1。",
+    "我是模型核心组件2。",
+    "我是模型核心组件4。"
+]
 )
 
 #===== 设置文件尾 ======#
@@ -226,18 +237,25 @@ yyyModel = buildModel(yyyName, yyyContent)
 ## 运行模型yyy
 runModel(yyyModel)
 #===== 主文件尾 ==========#
+
 ```
 
 ## 运行结果
 
+
 ```text
 已经生成模型xxx
 我是模型外围架构。
-我是模型核心内容XXX。
+我是模型核心组件1。
+我是模型核心组件3。
+我是模型核心组件5。
+
 
 已经生成模型yyy
 我是模型外围架构。
-我是模型核心内容XXX。
+我是模型核心组件1。
+我是模型核心组件2。
+我是模型核心组件4。
 ```
 
 
