@@ -8,7 +8,7 @@ DSGE.jl
 
 ## 【文件】
 
-[本地DSGE_study](file:///Users/ethan/LocalFiles/ProjectsFile/Study/DSGE_study)
+[本地DSGE_study](file:///Users/ethan/LocalFiles/StudyFile/DSGE_study)
 
 #### DSGE.jl
 

@@ -30,7 +30,7 @@ Progress: 25%
 
 #### NetLogo  
 
-[Netlogo_study](file:///Users/ethan/LocalFiles/ProjectsFile/Study/ABM_study/Netlogo_study)
+[Netlogo_study](file:///Users/ethan/LocalFiles/StudyFile/ABM_study/Netlogo_study)
 
 
 ###### 学习其中的重要样例  

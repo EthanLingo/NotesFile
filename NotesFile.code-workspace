@@ -22,6 +22,8 @@
 		"markdown.styles": [
 			"management/my_markdown_style_for_vscode.css"
 		],
-		"julia.environmentPath": "/Users/ethan/.julia/environments/v1.7"
+		"julia.environmentPath": "/Users/ethan/.julia/environments/v1.7",
+		"window.autoDetectColorScheme": false,
+		"workbench.colorTheme": "MacOS Modern Light - Big Sur Xcode"
 	}
 }
