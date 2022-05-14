@@ -1,10 +1,20 @@
-# Python基础
+Python基础
+=====
 
 
 
 
+# Python管理文件
 
+[[Python复制文件及其路径]]
 
+[[Python获取目录路径]]
+
+[[区别之于Python之模块os和sys]]
+
+# Python列表操作
+
+[[Python语言获取list指定下标]]
 
 # Python控制流
 

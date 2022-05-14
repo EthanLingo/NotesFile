@@ -15,6 +15,9 @@
 
 [[R语言转换数据类型]]
 
+[[R语言获取list指定下标]]
+
+
 ## 相关资料
 
 [本地查阅资料](file:///Users/ethan/Documents/CoreFiles/ReadingsFile/编程语言/R语言)
