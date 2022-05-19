@@ -1,3 +1,5 @@
+# Julia数组索引
+
 
 #内容/编程/Julia语言 
 #知识 
@@ -9,6 +11,9 @@
 
 
 Julia数组索引的例子：
+
+## 例子：
+
 ```julia
 
 julia> bi=Bool.([1 1 0;0 0 1;1 1 0])
@@ -82,4 +87,27 @@ julia> set1
  Set([3])
  Set([2, 1])
  
+```
+
+
+## 例子：
+
+```julia
+julia> a
+3×3 Matrix{Int64}:
+ 10  20  30
+ 40  50  60
+ 70  80  90
+
+julia> pairs(IndexCartesian(), a)
+pairs(::Matrix{Int64})(...):
+  CartesianIndex(1, 1) => 10
+  CartesianIndex(2, 1) => 40
+  CartesianIndex(3, 1) => 70
+  CartesianIndex(1, 2) => 20
+  CartesianIndex(2, 2) => 50
+  CartesianIndex(3, 2) => 80
+  CartesianIndex(1, 3) => 30
+  CartesianIndex(2, 3) => 60
+  CartesianIndex(3, 3) => 90
 ```

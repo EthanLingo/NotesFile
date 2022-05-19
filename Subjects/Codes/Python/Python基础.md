@@ -8,7 +8,7 @@ Python基础
 
 [[Python复制文件及其路径]]
 
-[[Python获取目录路径]]
+[[Python操作目录路径]]
 
 [[区别之于Python之模块os和sys]]
 
