@@ -1,0 +1,330 @@
+
+# 1. latex常用符号
+
+> 本文转载自  [https://kz16.top/latex/symbol/](https://kz16.top/latex/symbol/)
+
+#来源/转载 #内容/LaTeX 
+
+## 1.1. 显示公式
+
+显示latex格式的公式需要加美元号`$`，例如`$\beta$`显示的结果为$\beta$，如果单独一行的公式可用双美元符号，例如`$$a+b=c$$`会单独成行
+$$
+a+b=c
+$$
+
+## 1.2. 常用公式
+|||
+|---|--|
+|$x=\frac{-b\mp\sqrt{b^2-4ac}}{2a}$|`x=\frac{-b\mp\sqrt{b^2-4ac}}{2a}`
+|$x=\dfrac{-b\pm\sqrt{b^2-4ac}}{2a}$|`x=\dfrac{-b\pm\sqrt{b^2-4ac}}{2a}`
+|$n! = 1\times2\times3\cdots\times n$|`n! = 1\times2\times3\cdots\times n`|
+|$\oint f(s)\mathrm{d}s$|`\oint f(s)\mathrm{d}r`|
+|$\displaystyle\oint f(s)\mathrm{d}s$|`\displaystyle\oint f(s)\mathrm{d}s`|
+|$\displaystyle\int_{-1}^{+\infty} f(x)\mathrm{d}x$|`\displaystyle\int_{-1}^{+\infty} f(x)\mathrm{d}x`|
+|$\displaystyle\iint f({\boldsymbol x})\mathrm{d}{\boldsymbol x}$|`\displaystyle\iint f({\boldsymbol x})\mathrm{d}{\boldsymbol x}`|
+|$\left\|\sum_{i=1}^{p+1} \right\|$| `\left\|\sum_{i=1}^{p+1}\right\|`|
+|$\left\|\displaystyle\sum_{i=1}^{p+1} \right\|$|`\left\|\displaystyle\sum_{i=1}^{p+1} \right\|`
+|$\Big\Vert\displaystyle\sum_{i=1}^{p+1}\bigg\Vert$|`\Big\Vert\displaystyle\sum_{i=1}^{p+1}\bigg\Vert`|
+|$\nabla\cdot\nabla u = \Delta u$|`\nabla\cdot\nabla u = \Delta u`|
+|$\tbinom{a+b+c}{a+b}$|`\tbinom{a+b+c}{a+b}`|
+|$\dbinom{a+b+c}{a+b}$|`\dbinom{a+b+c}{a+b}`|
+|${a+b+c\brack a+b}$|`{a+b+c\brack a+b}`|
+|${a+b+c\brace a+b}$|`{a+b+c\brace a+b}`|
+|${a+b+c \choose a+b}$|`{a+b+c \choose a+b}`
+|$\left(_{a+b}^{a+b+c}\right)$|`\left(_{a+b}^{a+b+c}\right)`|
+|${a+b \atop a+b+c}$|`{a+b \atop a+b+c}`|
+|$C_{a+b+c}^{a+b}$|`C_{a+b+c}^{a+b}`|
+|$\min\limits^{x\in\mathcal{R}}f(x)$|`\min\limits^{x\in\mathcal{R}}f(x)`
+|$\max\limits_{x\in\mathcal{R}}f(x)$|`\max\limits_{x\in\mathcal{R}}f(x)`|
+
+
+
+
+$\dfrac{\mathrm{d}u}{\mathrm{d}t}=\dfrac{\partial u}{\partial x}\dfrac{\partial x}{\partial t} + \dfrac{\partial u}{\partial y}\dfrac{\partial y}{\partial t}$
+```java
+\dfrac{\mathrm{d}u}{\mathrm{d}t}
+=
+\dfrac{\partial u}{\partial x}\dfrac{\partial x}{\partial t}
++
+\dfrac{\partial u}{\partial y}\dfrac{\partial y}{\partial t}
+```
+
+## 1.3. 希腊字母
+||||||||||||
+|---|--|---|--|--|---|--|--|---|--|--|
+|$\alpha$|\alpha||$\theta$|\theta||$o$|o||$\tau$|\tau|
+|$\beta$|\beta||$\vartheta$|\vartheta||$\pi$|\pi||$\upsilon$|\upsilon|
+|$\gamma$|\gamma||$\iota$|\iota||$\varpi$|\varpi||$\phi$|\phi|
+|$\delta$|\delta||$\kappa$|\kappa||$\rho$|\rho||$\varphi$|\varphi|
+|$\epsilon$|\epsilon||$\lambda$|\lambda||$\varrho$|\varrho||$\chi$|\chi|
+|$\varepsilon$|\varepsilon||$\mu$|\mu||$\sigma$|\sigma||$\psi$|\psi|
+|$\zeta$|\zeta||$\nu$|\nu||$\varsigma$|\varsigma||$\omega$|\omega|
+|$\eta$|\eta||$\zeta$|\zeta|
+||
+|$\Gamma$|\Gamma||$\Lambda$|\Lambda||$\Sigma$|\Sigma||$\Psi$|\Psi|
+|$\Delta$|\Delta||$\Xi$|\Xi||$\Upsilon$|\Upsilon||$\Omega$|\Omega|
+|$\Theta$|\Theta||$\Pi$|\Pi||$\Phi$|\Phi|
+||
+|$\aleph$|\aleph||$\beth$|\beth||$\daleth$|\daleth||$\gimel$|\gimel|
+
+## 1.4. 数学相关
+
+|||||||||
+|---|--|---|--|--|---|--|--|
+|$\dfrac{abc}{xyz}$|\dfrac{abc}{xyz}||$\frac{abc}{xyz}$|\frac{abc}{xyz}||$\overline{abc}$|\overline{abc}|
+|$\sqrt{abc}$|\sqrt{abc}||$\sqrt[n]{abc}$|\sqrt[n]{abc}||$\underline{abc}$|\underline{abc}|
+|$\widehat{abc}$|\widehat{abc}||$\widetilde{abc}$|\widetilde{abc}||$\overrightarrow{abc}$|\overrightarrow{abc}|
+|$\overleftarrow{abc}$|\overleftarrow{abc}||$\overbrace{abc}$|\overbrace{abc}||$\underbrace{abc}$|\underbrace{abc}|
+|$\overset{\frown} {ab}$|\overset{\frown}{ab}||$\overgroup{AB}$|\overparen{ab}|
+
+注：头顶的弧盖`\overparen{ab}`用于$\LaTeX$,  `\overgroup{AB}`$\overgroup{AB}$用于$\KaTeX$
+
+## 1.5. 分割符号
+||||||||||||
+|---|--|---|--|--|---|--|--|---|--|--|
+|$\vert$|\vert||$\langle$|\langle||$\lfloor$|\lfoolr||$\lceil$|\lceil
+|$\Vert$|\Vert||$\rangle$|\rangle||$\rfloor$|\rfloor||$\rceil$|\rceil|
+|$\Uparrow$| \Uparrow||$\uparrow$|\uparrow||$\Downarrow$|\Downarrow||$\downarrow$|\downarrow|
+|$\llcorner$|\llcorner||$\lrcorner$|\lrcorner||$\ulcorner$|\ulcorner||$\urcorner$|\urcorner|
+|$/$| / ||$\backslash$|\backslash
+
+
+## 1.6. 可变公式
+|||||||||
+|---|--|---|--|--|---|--|--|
+|$\sum$|\sum||$\prod$|\prod||$\coprod$|\coprod|
+|$\int$|\int||$\oint$|\ont||$\iint$|\iint|
+|$\biguplus$|\biguplus||$\bigcap$|\bigcap||$\bigcup$|\bigcup|
+|$\bigoplus$|\bigoplus||$\bigotimes$|\bigotimes||$\bigodot$|\bigodot|
+|$\bigvee$|\bigvee||$\bigwedge$|\bigwedge||$\bigsqcup$|\bigsqcup|
+
+## 1.7. 数学函数
+只需要在常用数学函数前加上斜杠`\`即可
+`$\sin, \cos, \tan, \exp, \min, \max, \log, \ln, \lim, \cdots$`
+$\sin, \cos, \tan, \exp, \min, \max, \log, \ln, \lim, \cdots$
+
+## 1.8. 运算符号
+||||||||||||
+|---|--|---|--|--|---|--|--|---|--|--|
+|$+$|+||$-$|-||$\times$|\times||$\div$|\div|
+|$\ast$|\ast||$\star$|\star||$\cdot$|\cdot||$\circ$|\circ
+|$\pm$|\pm||$\mp$|\mp||$\oplus$|\oplus||$\otimes$|\otimes
+|$\divideontimes$|\divideontimes||$\centerdot$|\centerdot||$\odot$|\odot||$\circledcirc$|\circledcirc
+|$\cap$|\cap||$\cup$|\cup||$\vee$|\vee||$\wedge$|\wedge
+|$\bot$|\bot||$\perp$|\perp||$\setminus$|\setminus||$\backslash$|\backslash
+|$\Box$|\Box||$\square$|\square||$\wr$|\wr||$\boxplus$|\boxplus
+|$\triangle$|\triangle||$\bigtriangledown$|\bigtriangledown||$\Delta$|\Delta||$\nabla$|\nabla|
+||
+|$\equiv$|\equiv||$\neq$|\neq||$\sim$|\sim||$\approx$|\approx
+|$\triangleq$|\triangleq||$\varpropto$|\varpropto||$\ll$|\ll||$\lll$|\lll
+|$\leq$|\leq||$\geq$|\geq||$\leqslant$|\leqslant||$\geqslant$|\geqslant
+|$\in$|\in||$\notin$|\notin||$\prec$|\prec||$\succ$|\succ
+|$\subset$|\subset||$\subseteq$|\subseteq||$\supset$|\supset||$\supseteq$|\supseteq|
+|$\supseteqq$|\supseteqq||$\subseteqq$|\subseteqq||$\nsubseteq$|\nsubseteq||$\nsubseteqq$|\nsubseteqq|
+|$\subsetneq$|\subsetneq||$\subsetneqq$|\subsetneqq||$\supsetneq$|\supsetneq||$\supsetneqq$|\supsetneqq|
+|$\complement$|\complement||$\cong$|\cong||≌|\text{≌}||∽|\text{∽}|
+
+相似全等符号$\text{≅∼≌∽}$可以直接输入，建议用`\text{≅∼≌∽}`
+
+也可以组合 $\begin{matrix} \sim\\[-0.8em]= \end{matrix}$ ，`\begin{matrix} \sim\\[-0.8em]= \end{matrix}`
+
+## 1.9. 其它符号
+||||||||||||
+|---|--|---|--|--|---|--|--|---|--|--|
+|$\because$|\because||$\therefore$|\therefore||$//$|`//`||$\perp$|\perp
+|$\triangle$|\triangle||$\square$|\square||$\text{▱}$|`\text{▱}`||${}_{=}^{//}$|`{}_{=}^{//}`
+|$\infty$|\infty||$\angle$|\angle||$\measuredangle$|\measuredangle||$\sphericalangle$|\sphericalangle|
+|$\forall$|\foall||$\exist$|\exist||$\varnothing$|\varnothing| |$\emptyset$|\emptyset
+|$\partial$|\partial||$\prime$|\prime||$\hbar$|\hbar||$\surd$|\surd
+|$\cdots$|\cdots||$\vdots$|\vdots||$\ldots$|\ldots||$\ddots$|\ddots|
+|$\Im$|\Im||$\Re$|\Re||$\lozenge$|\lozenge||$\mho$|\mho
+|$\spadesuit$|\spadesuit||$\heartsuit$|\heartsuit||$\clubsuit$|\clubsuit||$\diamondsuit$|\diamondsuit
+|$\copyright$|\copyright||$\circledS$|\circledS||$\circledR$|\circledR||$\pounds$|\pounds|
+|$|`\$`||$\%$|`\%`| |$\#$|`\#`| |~| `\~{}`
+|$\imath$|\imath||$\jmath$|\jmath||$\ell$|\ell|
+
+
+>注1：平行四边形符号`▱`并不是内置的latex符号而是特殊字符
+>注2：$//$与${}_{=}^{//}$是组合生成，并非内置
+
+## 1.10. 箭头合集
+|||||||
+|---|--|---|--|--|---|
+|$\rightarrow$|\rightarrow|$\longrightarrow$|\longrightarrow|$\Rightarrow$|\Rightarrow|
+$\Longrightarrow$|\Longrightarrow|$\leftarrow$|\leftarrow|$\longleftarrow$|\longleftarrow|
+$\Leftarrow$|\Leftarrow|$\Longleftarrow$|\Longleftarrow|$\nearrow$|\nearrow|
+$\searrow$|\searrow|$\swarrow$|\swarrow|$\nwarrow$|\nwarrow|
+$\mapsto$|\mapsto|$\longmapsto$|\longmapsto|$\rightsquigarrow$|\rightsquigarrow|
+$\rightrightarrows$|\rightrightarrows|$\leftrightarrow$|\leftrightarrow|$\longleftrightarrow$|\longleftrightarrow|
+$\Leftrightarrow$|\Leftrightarrow|$\Longleftrightarrow$|\Longleftrightarrow|$\rightleftharpoons$|\rightleftharpoons|
+$\leftrightarrows$|\leftrightarrows|$\leftrightharpoons$|\leftrightharpoons|$\rightleftarrows$|\rightleftarrows|
+$\circlearrowleft$|\circlearrowleft|$\circlearrowright$|\circlearrowright|$\nLeftarrow$|\nLeftarrow|
+$\nRightarrow$|\nRightarrow|$\nLeftrightarrow$|\nLeftrightarrow|$\leftrightsquigarrow$|\leftrightsquigarrow|
+$\dashrightarrow$|\dashrightarrow|$\dashleftarrow$|\dashleftarrow
+## 1.11. 帽子标记
+||||||||||||
+|---|--|---|--|--|---|--|--|---|--|--|
+|$\bar{a}$|\bar{a}||$\acute{a}$|\acute{a}||$\check{a}$|\check{a}||$\grave{a}$|\grave{a}
+|$\dot{a}$|\dot{a}||$\hat{a}$|\hat{a}||$\breve{a}$|\breve{a}||$\vec{a}$|\vec{a}|
+|$\ddot{a}$|\ddot{a}||$\tilde{a}$|\tilde{a}
+
+
+## 1.12. 数学样式
+`\mathcal{A}`
+$\mathcal{ABCDEFGHIJKLMNOPQRSTUVWXYZ}$
+
+`\mathbb{A}`
+$\mathbb{ABCDEFGHIJKLMNOPQRSTUVWXYZ}$
+
+`\mathfrak{A}`
+$\mathfrak{ABCDEFGHIJKLMNOPQRSTUVWXYZ}$
+
+`\mathsf{A}`
+$\mathsf{ABCDEFGHIJKLMNOPQRSTUVWXYZ}$
+
+`\mathscr{A}`
+$\mathscr{ABCDEFGHIJKLMNOPQRSTUVWXYZ}$
+
+`\mathrm{A}`
+$\mathrm{ABCDEFGHIJKLMNOPQRSTUVWXYZ}$
+
+`\mathit{A}`
+$\mathit{ABCDEFGHIJKLMNOPQRSTUVWXYZ}$
+
+`\mathnormal{A}`
+$\mathnormal{ABCDEFGHIJKLMNOPQRSTUVWXYZ}$
+
+
+
+`\mathbf{A}`
+$\mathbf{ABCDEFGHIJKLMNOPQRSTUVWXYZ}$
+
+`\textbf{A}` 文本样式粗体
+$\textbf{ABCDEFGHIJKLMNOPQRSTUVWXYZ}$
+
+`\text{A}` 文本样式
+$\text{ABCDEFGHIJKLMNOPQRSTUVWXYZ}$
+
+
+`\bm{A}`
+$\bm{ABCDEFGHIJKLMNOPQRSTUVWXYZ}$
+
+`\boldsymbol{A}`
+$\boldsymbol{ABCDEFGHIJKLMNOPQRSTUVWXYZ}$
+
+
+
+
+
+## 1.13. 大小颜色
+|||
+|--|--|
+|${\color{red}123} {\color{blue}456} {\color{green}789}$ |`{\color{red}123} {\color{blue}456} {\color{green}789}`
+|$\tiny{abc}$|`\tiny{abc}`|
+|$\scriptsize{abc}$|`\scriptsize{abc}`|
+|$\footnotesize{abc}$|`\footnotesize{abc}`|
+|$\small{abc}$|`\small{abc}`|
+|$\normalsize{abc}$|`\normalsize{abc}`|
+|$\large{abc}$|`\large{abc}`|
+|$\Large{abc}$|`\Large{abc}`|
+|$\LARGE{abc}$|`\LARGE{abc}`|
+|$\huge{abc}$|`\huge{abc}`|
+|$\Huge{abc}$|`\Huge{abc}`|
+|$\left[ \Bigg(  \bigg( \Big[ \big(  \right.$|`\left[ \Bigg(  \bigg( \Big[ \big(  \right.`|
+|$\left[   \bigg\{ \Big\}\big\}  \right]$|`\left[   \bigg\{ \Big\}\big\}  \right]`|
+>注：`\left`与`\right`成对出现，缺省可用`.`补充，它会自动设置大小
+
+## 1.14. 多行公式
+多行公式常用的两环境有`cases`与`aligned`
+
+$\begin{cases}
+x+y=1\\
+x-y=1
+\end{cases},
+\qquad % %后面是接注释，\qquaa表示空格
+\begin{aligned}
+&\int_{-\infty}^{+\infty}f(x)\mathrm{d}x\\[.8em]
+&\sum_{k=0}^n k
+\end{aligned}$
+```python
+\begin{cases}
+x+y=1\\
+x-y=1
+\end{cases},
+\qquad % %后面是接注释，\qquaa表示空格
+\begin{aligned}
+&\int_{-\infty}^{+\infty}f(x)\mathrm{d}x\\[.5em]
+&\sum_{k=0}^n k
+\end{aligned}
+% &字符号表示对齐，\\另起一行, \\[.5em]里面的.5表示行高
+```
+
+矩阵格式
+
+$\left(\begin{matrix}
+1&2&3\\
+4&5&6\\
+7&8&9
+\end{matrix}\right)
+,\qquad
+\left|
+\begin{matrix}
+a&b\\
+c&d
+\end{matrix}\right|
+,\qquad
+\begin{matrix}
+a&b\\
+c&d \\
+e&f
+\end{matrix}$
+
+```python
+\left(\begin{matrix}
+1&2&3\\
+4&5&6\\
+7&8&9
+\end{matrix}\right)
+,\qquad
+\left|
+\begin{matrix}
+a&b\\
+c&d
+\end{matrix}\right|
+,\qquad
+\begin{matrix}
+a&b\\
+c&d \\
+e&f
+\end{matrix}
+```
+## 1.15. 间距微调
+
+间距紧凑：`\!`
+|||
+|---|--|
+|$x+y$| `x+y`
+|$x\!+y$| `x\!+y`
+|$x\!\!+y$| `x\!\!+y`
+
+间距拉开：`\,` `\;` `\quad` `\qquad`
+|||
+|---|--|
+|$x+y$| `x+y`
+|$x+\,y$| `x+\,y`
+|$x+\;y$| `x+\;y`
+|$x+\quad y$| `x+\quad y`
+|$x+\qquad y$| `x+\qquad y`
+
+
+
+
+
+------
+
+
+> 本文参考[https://katex.org/docs/supported.html](https://katex.org/docs/supported.html)
+
+
+> 本文转载自  [https://kz16.top/latex/symbol/](https://kz16.top/latex/symbol/)。原作者`kz16`制作辛苦不易。
+
