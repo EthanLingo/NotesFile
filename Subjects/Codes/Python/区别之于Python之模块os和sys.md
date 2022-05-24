@@ -1,6 +1,6 @@
 # 区别之于Python之模块os和sys
 
-#内容/Python #内容/Python/os #内容/Python/sys
+#内容/编程语言/Python #内容/编程语言/Python/os #内容/编程语言/Python/sys
 
 <os和sys的官方解释>
 

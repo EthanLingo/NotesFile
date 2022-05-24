@@ -1,7 +1,7 @@
 # Python语言获取list指定下标
 =====
 
-#内容/Python 
+#内容/编程语言/Python 
 
 
 方法一：index字段

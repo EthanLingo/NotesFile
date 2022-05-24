@@ -1,6 +1,6 @@
 #知识 
 #笔记 
-#内容/Python/Numpy
+#内容/编程语言/Python/Numpy
 #内容/编程
 #内容/科学计算
 

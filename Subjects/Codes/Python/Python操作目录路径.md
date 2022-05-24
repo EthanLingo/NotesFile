@@ -1,6 +1,6 @@
 # Python获取目录路径
 
-#内容/Python 
+#内容/编程语言/Python 
 
 在使用python的时候总会遇到路径切换的使用情况，如想从文件夹test下的test.py调用data文件夹下的data.txt文件：
 
@@ -120,3 +120,16 @@ print "目录修改成功 %s" % retval
 ```
 
  [![Python File(文件) 方法](https://www.runoob.com/images/up.gif) Python OS 文件/目录方法](https://www.runoob.com/python/os-file-methods.html)
+
+
+
+Python遍历目录和子目录
+
+```python
+for root, dirs, files in os.walk(dir_path):
+    print(root)
+    for dir in dirs:
+        print(dir)    #输出所有子目录名（不含路径）
+    for f in files:
+        print(f)      #输出所有文件名（不含路径）
+```

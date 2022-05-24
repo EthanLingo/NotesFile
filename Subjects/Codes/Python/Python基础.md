@@ -12,6 +12,11 @@ Python基础
 
 [[区别之于Python之模块os和sys]]
 
+# Python操作各种数据类型
+[[Python转换各类数据类型]]
+
+[[Python操作字符串]]
+
 # Python列表操作
 
 [[Python语言获取list指定下标]]
@@ -23,10 +28,17 @@ Python基础
 [[Python循环控制]]
 
 
+
+
 # Python花边功能
 
 [[Python换行写代码]]
 
+
+
+
+# Python处理Excel表格
+[[Python处理Excel表格]]
 
 # 重要科学计算工具包
 
