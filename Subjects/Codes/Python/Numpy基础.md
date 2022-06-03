@@ -109,17 +109,6 @@ b =  numpy.loadtxt("filename.txt")
 ### 多维数组
 
 
-#### 数组切片
-
-![[Pasted image 20211101195928.png]]
-
-#### 访问数组元素
-
-![[Pasted image 20211101200049.png]]
-
-
-   
-
 
 ### 展平数组
 

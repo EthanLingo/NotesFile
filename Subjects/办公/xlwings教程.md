@@ -5,7 +5,7 @@ xlwings教程
 
 
 > 作者：那个百分十先生
-> 链接：https://zhuanlan.zhihu.com/p/149878144
+> 链接：[知乎专栏：Python操作Excel 办公自动化，让你的Excel飞起来](https://www.zhihu.com/column/c_1316498113192546304)
 > 来源：知乎
 > 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 
