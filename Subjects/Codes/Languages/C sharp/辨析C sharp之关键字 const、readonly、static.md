@@ -1,6 +1,6 @@
 辨析C Sharp之关键字 const、readonly、static
 ====
-tags: #来源/转载 #内容/编程/Csharp #类型/辨析 
+tags: #来源/转载 #内容/编程/Csharp #类型/辨析 #发布/个人网站 
 
 const: compile time初始化，效率高，属于类（所以不用加static）的常量，只能用常数来给它赋值。 
 
@@ -11,5 +11,5 @@ readonly：runtime初始化，效率没有const高。
 ————————————————
 
 > 版权声明：本文为CSDN博主「Andy韩」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
-原文链接：https://blog.csdn.net/andyhan_1001/article/details/80331460
+原文链接：[Fetching Title#l46q](https://blog.csdn.net/andyhan_1001/article/details/80331460)
 
