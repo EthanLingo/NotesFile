@@ -75,6 +75,8 @@ $ chown -R git:git /srv/myfiles.git/ # 因为当前用户是 root，为了让后
 
 # 配置免密登录
 
+具体见[[Linux设置免密登录]]
+
 推荐本地用linux系统, 可以很方便处理
 
 - 本地终端输入`ssh-keygen`, 一路回车即可
