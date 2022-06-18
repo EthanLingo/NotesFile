@@ -1,5 +1,5 @@
 # Julia数组重复
-#内容/编程/Julia语言 
+tags: #内容/编程/Julia语言 
 
 `repeat()`举例
 

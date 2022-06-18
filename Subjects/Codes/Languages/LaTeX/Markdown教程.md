@@ -1,6 +1,6 @@
 > 转载自[http://kz16.top/md](http://kz16.top/md)
 
-#来源/转载 #内容/Markdown 
+tags: #来源/转载 #内容/Markdown 
 
 # 1. markdown教程案例
 

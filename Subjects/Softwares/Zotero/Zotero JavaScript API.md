@@ -1,6 +1,6 @@
-#来源/转载 
-#用途/查阅 
-#用途/指南 
+tags: #来源/转载 
+tags: #用途/查阅 
+tags: #用途/指南 
 
 # Zotero JavaScript API
 

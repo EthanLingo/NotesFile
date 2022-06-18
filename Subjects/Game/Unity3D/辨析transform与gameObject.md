@@ -1,6 +1,6 @@
 # 辨析transform与gameObject
 
-#内容/Unity 
+tags: #内容/Unity 
 
 
 **Transform**是一个类，用来描述物体的位置，大小，旋转等等信息。  

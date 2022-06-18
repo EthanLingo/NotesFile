@@ -1,9 +1,9 @@
 # Julia数组索引
 
 
-#内容/编程/Julia语言 
+tags: #内容/编程/Julia语言 
 #知识 
-#类型/举例 
+tags: #类型/举例 
 
 
 # Julia数组索引

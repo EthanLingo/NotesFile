@@ -4,7 +4,7 @@
 
 
 
-#内容/NodeJS #类型/解决 
+tags: #内容/NodeJS #类型/解决 
 
 NPM（Node Package Manager），是NodeJs的模块依赖管理工具。由于Npm源在国外，使用起来不方便，
 

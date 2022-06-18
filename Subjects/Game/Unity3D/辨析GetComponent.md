@@ -1,7 +1,7 @@
 辨析`GetComponent<T>()`
 ====
 
-#内容/Unity #来源/转载 
+tags: #内容/Unity #来源/转载 
 
 ```c#
 MyComponment myCom=gameObject.GetComponent<MyComponment>();

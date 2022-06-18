@@ -1,6 +1,6 @@
 # Unity碰撞器Collider与触发器Trigger，碰撞的条件和触发器的条件
 
-#内容/Unity #来源/转载 #传播/禁止 
+tags: #内容/Unity #来源/转载 #传播/禁止 
 
 
 

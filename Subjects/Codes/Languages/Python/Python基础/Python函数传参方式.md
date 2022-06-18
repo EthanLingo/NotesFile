@@ -1,6 +1,6 @@
-#内容/编程语言/Python 
+tags: #内容/编程语言/Python 
 #知识 
-#来源/转载 
+tags: #来源/转载 
 
 
 # Python函数传参方式

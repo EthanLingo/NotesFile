@@ -1,6 +1,6 @@
 # 辨析GameObject.Find和Transform.Find
 
-#内容/Unity 
+tags: #内容/Unity 
 
 在普通情况下，GameObject.Find以及Transform.Find和Transform.FindChild是可以做到相同的功能，但是他们有本质上的区别，望新手谨记：
 

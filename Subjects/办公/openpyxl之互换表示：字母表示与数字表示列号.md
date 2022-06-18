@@ -1,7 +1,7 @@
 openpyxl之互换表示：字母表示与数字表示列号
 =========
 
- #内容/Excel软件 #内容/自动办公 #内容/编程语言/Python 
+tags: #内容/编程语言/Python 
 
 ```python
 from openpyxl.utils import get_column_letter, column_index_from_string

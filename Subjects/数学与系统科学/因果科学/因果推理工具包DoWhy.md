@@ -1,7 +1,7 @@
 # 因果推理工具包DoWhy
 
-#内容/因果推理 
-#内容/工具 
+tags: #内容/因果推理 
+tags: #内容/工具 
 
 [因果推理工具包DoWhy线上文档](https://microsoft.github.io/dowhy/)
 

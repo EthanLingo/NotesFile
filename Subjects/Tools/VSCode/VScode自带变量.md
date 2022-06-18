@@ -1,7 +1,7 @@
 
 # VScode自带变量
 
-#内容/自动办公 #内容/vscode 
+tags: #内容/自动办公 #内容/vscode 
 
 Variables Reference
 

@@ -1,5 +1,5 @@
-#内容/工具/PyPhi 
-#内容/整合信息论 
+tags: #内容/工具/PyPhi 
+tags: #内容/整合信息论 
 
 
 [Pyphi](https://github.com/wmayner/pyphi)

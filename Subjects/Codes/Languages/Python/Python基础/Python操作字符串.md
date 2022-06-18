@@ -1,6 +1,6 @@
 # Python操作字符串
 
-#内容/编程语言/Python 
+tags: #内容/编程语言/Python 
 
 
 ## 去空格及特殊符号

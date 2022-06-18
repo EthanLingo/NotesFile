@@ -1,6 +1,6 @@
 # Python循环控制
 
-#内容/编程语言/Python 
+tags: #内容/编程语言/Python 
 #转载 
 
 ## 转载笔记

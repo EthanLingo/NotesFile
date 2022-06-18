@@ -1,6 +1,6 @@
 # Python获取目录路径
 
-#内容/编程语言/Python 
+tags: #内容/编程语言/Python 
 
 在使用python的时候总会遇到路径切换的使用情况，如想从文件夹test下的test.py调用data文件夹下的data.txt文件：
 

@@ -1,7 +1,7 @@
 [[Linux]]
 [[Vim]]
 
-#来源/转载 
+tags: #来源/转载 
 #资料 
 
 ![](https://blog.ull.im/assets/vim_cheat_sheet_for_programmers_screen.png)

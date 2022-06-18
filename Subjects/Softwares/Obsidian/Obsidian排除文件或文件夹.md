@@ -9,7 +9,7 @@ Files and directories are only considered for synchronization if they pass all f
   
 
 #解决 
-#内容/Obsidian 
+tags: #内容/Obsidian 
 
 
 ### Example: Match items of a folder pair
