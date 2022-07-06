@@ -19,6 +19,7 @@
  [[Subjects/Codes/Languages/Python/Python基础/Python操作目录路径|Python操作目录路径]]
  [[Subjects/Codes/Languages/Python/Python基础/Python文件和文件夹的移动、复制、删除、重命名|Python文件和文件夹的移动、复制、删除、重命名]]
  [[Subjects/Codes/Languages/Python/Python基础/Python离线打包和安装|Python离线打包和安装]]
+ [[Subjects/Codes/Languages/Python/Python基础/Python类与对象|Python类与对象]]
  [[Subjects/Codes/Languages/Python/Python基础/Python虚拟环境|Python虚拟环境]]
  [[Subjects/Codes/Languages/Python/Python基础/Python虚拟环境venv|Python虚拟环境venv]]
  [[Subjects/Codes/Languages/Python/Python基础/Python虚拟环境virtualenv|Python虚拟环境virtualenv]]
