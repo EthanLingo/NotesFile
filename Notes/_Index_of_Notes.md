@@ -3,6 +3,7 @@
  [[Notes/A Paradigm for Situated and Goal-Driven Language Learning-mdnotes|A Paradigm for Situated and Goal-Driven Language Learning-mdnotes]]
  [[Notes/EM算法及其推广|EM算法及其推广]]
  [[Notes/一阶逻辑|一阶逻辑]]
+ [[Notes/动态认知逻辑概率|动态认知逻辑概率]]
  [[Notes/图神经网络_石川_集智学园课程_3-8|图神经网络_石川_集智学园课程_3-8]]
  [[Notes/图神经网络-集智学园课程.assets/_Index_of_图神经网络-集智学园课程.assets|_Index_of_图神经网络-集智学园课程.assets]]
  [[Notes/学习归纳逻辑|学习归纳逻辑]]
