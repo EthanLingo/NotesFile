@@ -1,12 +1,11 @@
+# Octave for macOS
+
 tags: #来源/转载 
 #笔记 
 #资料 
 
 [[Octave]]
 [[安装]]
-
-Octave for macOS
-================
 
 [Jump to navigation](https://wiki.octave.org/Octave_for_macOS#mw-head)[Jump to search](https://wiki.octave.org/Octave_for_macOS#searchInput)
 

@@ -1,10 +1,4 @@
-# markdown_file_template_for_obsidian
-{{Title}}
-====
+# {{Title}}
 
-
-tags: #类型/笔记 #日期/{{date:YYYY-MM-DD}} 
-
-
-
+tags: #日期/{{date:YYYY-MM-DD}} #类型/笔记 
 

@@ -1,5 +1,4 @@
-辨析`GetComponent<T>()`
-====
+# 辨析`GetComponent<T>()`
 
 tags: #内容/Unity #来源/转载 
 
