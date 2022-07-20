@@ -1,4 +1,4 @@
-# 辨析GameObject.Find和Transform.Find
+# Unity辨析GameObject.Find与Transform.Find
 
 tags: #内容/Unity 
 
