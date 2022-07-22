@@ -37,7 +37,7 @@ d
 
 参考书目：参见[【DSGE书单】DSGE理论与应用：从入门到精通](http://mp.weixin.qq.com/s?__biz=MzAwODY5MDA3NA==&mid=2455728074&idx=1&sn=050cbef7185b8a2f5a6a7278b82042de&chksm=8cc0cf3fbbb746290d616b14dd4bf64207b7b4d1f2916932a2cb359982fbe7c80d507ab570ae&scene=21#wechat_redirect)中入门级书目。
 
-![Image](640.jpeg)
+![Image](Subjects/Economics/宏观经济学/DSGE/宏观经济研学会%20-%20DSGE建模与编程汇总/DSGE：解构RBC.assets/640.jpeg)
 
 
 
