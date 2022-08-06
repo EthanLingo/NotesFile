@@ -4,6 +4,7 @@
  [[Notes/A Paradigm for Situated and Goal-Driven Language Learning-mdnotes|A Paradigm for Situated and Goal-Driven Language Learning-mdnotes]]
  [[Notes/EM算法及其推广|EM算法及其推广]]
  [[Notes/Numba基础|Numba基础]]
+ [[Notes/Unity辨析gameObject、transform、GameObject、Transform|Unity辨析gameObject、transform、GameObject、Transform]]
  [[Notes/一阶逻辑|一阶逻辑]]
  [[Notes/关于社会道德与经济行为|关于社会道德与经济行为]]
  [[Notes/动态认知逻辑概率|动态认知逻辑概率]]
