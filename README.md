@@ -11,7 +11,6 @@
 	- Reference：文献与文献内容笔记文件夹
 	- Resources：资源文件夹
 	- Study：学习文件夹
-		- [[Study]]
 	- Subjects：学科知识文件夹
 	- Thoughts：思想文件夹
 - 存储管理内容：
