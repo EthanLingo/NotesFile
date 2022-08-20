@@ -1,6 +1,13 @@
 
 # added by Ethan Lin
 
+#######
+Projects
+Reference
+
+######
+
+
 ### FreeFileSync ###
 *.ffs_db
 *.sync.ffs_db
