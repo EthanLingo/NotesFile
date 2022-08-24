@@ -8,7 +8,7 @@
 
 ![img](python-environment-mac-20210320114006317.jpg)
 
-# Mac下终端pip与pip3配置（软链接）
+# 配置pip在Mac之终端之内
 
 [2020-02-05 由 ](https://www.omegaxyz.com/2020/02/05/mac-pip-config/)[xyjisaw](https://www.omegaxyz.com/author/xuyi/)
 
