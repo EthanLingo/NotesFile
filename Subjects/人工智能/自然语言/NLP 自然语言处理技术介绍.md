@@ -19,7 +19,7 @@ NLP，英文全称 Natural Language Processing，中文叫自然语言处理，
 -   断词/分词（Text segmentation/Word tokenization）
 -   中文自动分词（Chinese word segmentation）
 -   语法分析/剖析（Syntactic analysis/Parsing）
--   汉语自动句法分析
+-   [[句法分析]]
 -   词汇标示框架(Lexical Markup Framework)
 -   n元语法 (n-gram）
 -   词嵌入 (Word2vec)
