@@ -12,6 +12,7 @@
  [[Subjects/Codes/Languages/Python/Python基础/Python处理Excel表格.assets/_Index_of_Python处理Excel表格.assets|_Index_of_Python处理Excel表格.assets]]
  [[Subjects/Codes/Languages/Python/Python基础/Python处理Excel表格|Python处理Excel表格]]
  [[Subjects/Codes/Languages/Python/Python基础/Python复制文件及其路径|Python复制文件及其路径]]
+ [[Subjects/Codes/Languages/Python/Python基础/Python实例方法、类方法、静态方法|Python实例方法、类方法、静态方法]]
  [[Subjects/Codes/Languages/Python/Python基础/Python循环控制|Python循环控制]]
  [[Subjects/Codes/Languages/Python/Python基础/Python打包与发布.assets/_Index_of_Python打包与发布.assets|_Index_of_Python打包与发布.assets]]
  [[Subjects/Codes/Languages/Python/Python基础/Python打包与发布|Python打包与发布]]
