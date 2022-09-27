@@ -1,4 +1,4 @@
-# # Python语言获取list指定下标
+# Python语言获取list指定下标
 
 tags: #内容/编程语言/Python 
 
