@@ -6,6 +6,7 @@
  [[Subjects/Codes/Languages/Julia/Julia基础/Julia几种方式间接地实现构造结构体之方法|Julia几种方式间接地实现构造结构体之方法]]
  [[Subjects/Codes/Languages/Julia/Julia基础/Julia函数|Julia函数]]
  [[Subjects/Codes/Languages/Julia/Julia基础/Julia函数传参方式|Julia函数传参方式]]
+ [[Subjects/Codes/Languages/Julia/Julia基础/Julia切换镜像源|Julia切换镜像源]]
  [[Subjects/Codes/Languages/Julia/Julia基础/Julia卸载|Julia卸载]]
  [[Subjects/Codes/Languages/Julia/Julia基础/Julia字典操作|Julia字典操作]]
  [[Subjects/Codes/Languages/Julia/Julia基础/Julia常量|Julia常量]]
