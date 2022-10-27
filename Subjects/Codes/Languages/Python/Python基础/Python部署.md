@@ -5,6 +5,11 @@
 
 关于Python pip命令：
 
+
+[[pip删除所有包]]
+
+[[pip备份离线包]]
+
 [[Python Pip 参考手册]]
 
 [[配置pip在Mac之终端之内]]
