@@ -24,9 +24,20 @@ tags: #日期/2022-11-01 #类型/笔记 #内容/多智能体强化学习 #内容
 	- `components`：包含各种设计好的组件；
 	- `entities`：包含各种实体。默认有3组实体：`landmarks`、`endogenous`、`resources`。
 	- `scenarios`：包含各种预设场景；
+	  - `utils`：包含一些工具；
+	    - `rewards.py`：计算agent之效用；
 	- `utils`：实用工具；
 
 
+
+# 变量结构
+
+- `env`：
+  - `agent_starting_pos
+
+
+# 关系
+`Components`相当于一个中介，实现互动之于各实体`Entities`与环境`env`。
 
 # 运作流程：
 - [ ] TODO AI-Economist之运作流程
