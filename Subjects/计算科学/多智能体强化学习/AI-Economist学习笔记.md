@@ -33,9 +33,31 @@ tags: #日期/2022-11-01 #类型/笔记 #内容/多智能体强化学习 #内容
 # 变量结构
 
 - `env`：
-  - `agent_starting_pos`：；
+
+  - 初始化之参数：
+
+    - ```python
+      components=None,
+      n_agents=None,
+      world_size=None,
+      episode_length=1000,
+      multi_action_mode_agents=False,
+      multi_action_mode_planner=True,
+      flatten_observations=True,
+      flatten_masks=True,
+      allow_observation_scaling=True,
+      dense_log_frequency=None,
+      world_dense_log_frequency=50,
+      collate_agent_step_and_reset_data=False,
+      seed=None,
+      ```
+
+    - 
+
   - TODO
+
 - `base_agent`：来自`ai_economist.foundation.base.base_agent.py`；
+
   - `action`：行为之字典；
   - `action_dim`：行为之维度；
   - `_action_names`：行为之名称；
@@ -43,10 +65,27 @@ tags: #日期/2022-11-01 #类型/笔记 #内容/多智能体强化学习 #内容
   - `_unique_actions`：单一行为数；
   - `_total_actions`：总行为数；
   - `state`： 状态，记录位置，持有的资源情况`dict(loc=[0, 0], inventory={}, escrow={}, endogenous={})`；
+
 - `base_env`：来自`ai_economist.foundation.base.base_env.py`
+
   - 
 
 
+
+- `components`关键字：
+
+  - 需要以元组嵌套字典形式。例如：
+
+    ```python
+    'components': [
+        # (1) Building houses
+        ('Build', {'skill_dist': "pareto", 'payment_max_skill_multiplier': 3}),
+        # (2) Trading collectible resources
+        ('ContinuousDoubleAuction', {'max_num_orders': 5}),
+        # (3) Movement and resource collection
+        ('Gather', {}),
+    ],
+    ```
 
 
 
