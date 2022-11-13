@@ -33,7 +33,28 @@ tags: #日期/2022-11-01 #类型/笔记 #内容/多智能体强化学习 #内容
 # 变量结构
 
 - `env`：
-  - `agent_starting_pos
+  - `agent_starting_pos`：；
+  - TODO
+- `base_agent`：来自`ai_economist.foundation.base.base_agent.py`；
+  - `action`：行为之字典；
+  - `action_dim`：行为之维度；
+  - `_action_names`：行为之名称；
+  - `_multi_action_dict`：多重行为之字典；
+  - `_unique_actions`：单一行为数；
+  - `_total_actions`：总行为数；
+  - `state`： 状态，记录位置，持有的资源情况`dict(loc=[0, 0], inventory={}, escrow={}, endogenous={})`；
+- `base_env`：来自`ai_economist.foundation.base.base_env.py`
+  - 
+
+
+
+
+
+
+
+
+
+
 
 
 # 关系
