@@ -33,28 +33,29 @@ tags: #日期/2022-11-01 #类型/笔记 #内容/多智能体强化学习 #内容
 # 变量结构
 
 - `env`：
+  
   - 初始化之参数：
-
-    - ```python
-      components=None,
-      n_agents=None,
-      world_size=None,
-      episode_length=1000,
-      multi_action_mode_agents=False,
-      multi_action_mode_planner=True,
-      flatten_observations=True,
-      flatten_masks=True,
-      allow_observation_scaling=True,
-      dense_log_frequency=None,
-      world_dense_log_frequency=50,
-      collate_agent_step_and_reset_data=False,
-      seed=None,
-      ```
-
-    - 
-
+  
+    ```python
+    components=None,
+    n_agents=None,
+    world_size=None,
+    episode_length=1000,
+    multi_action_mode_agents=False,
+    multi_action_mode_planner=True,
+    flatten_observations=True,
+    flatten_masks=True,
+    allow_observation_scaling=True,
+    dense_log_frequency=None,
+    world_dense_log_frequency=50,
+    collate_agent_step_and_reset_data=False,
+    seed=None,
+    ```
+  
+  - 
+  
   - TODO
-
+  
 - `base_agent`：来自`ai_economist.foundation.base.base_agent.py`；
 
   - `action`：行为之字典；
@@ -67,6 +68,38 @@ tags: #日期/2022-11-01 #类型/笔记 #内容/多智能体强化学习 #内容
 
 - `base_env`：来自`ai_economist.foundation.base.base_env.py`
 
+  - 初始化：
+  
+    ```python
+    def __init__(
+            self,
+            components=None,  # 组件
+            n_agents=None,  # agent数量
+            world_size=None,  # 世界大小
+            episode_length=1000,  # 回合长度
+            multi_action_mode_agents=False,  # 普通agent之多重行为模式
+            multi_action_mode_planner=True,  # 规划者agent之多重行为模式
+            flatten_observations=True,  # 是否展开所得到的观察
+            flatten_masks=True,  # 是否展开掩码
+            allow_observation_scaling=True,  # 是否允许观察缩放
+            dense_log_frequency=None,  # 记录日志频率
+            world_dense_log_frequency=50,  # 世界纪录日志频率
+            collate_agent_step_and_reset_data=False,  # 是否收集agent之步进信息并且重置数据
+            seed=None,  # 随机种子
+    ):
+    ```
+  
+  - ```python
+    self.world = World(
+        self.world_size,  # 世界尺寸
+        self.n_agents,  # agent数量
+        self.resources,  # 资源众
+        self.landmarks,  # 标记众
+        self.multi_action_mode_agents,  # 普通agent之多重行为模式
+        self.multi_action_mode_planner,  # 规划者agent之多重行为模式
+    )
+    ```
+  
   - 
 
 
