@@ -56,7 +56,7 @@ tags: #日期/2022-11-01 #类型/笔记 #内容/多智能体强化学习 #内容
   
   - TODO
   
-- `base_agent`：来自`ai_economist.foundation.base.base_agent.py`；
+- `base_agent`：来自`ai_economist/foundation/base/base_agent.py`；
 
   - `action`：行为之字典；
   - `action_dim`：行为之维度；
@@ -66,7 +66,7 @@ tags: #日期/2022-11-01 #类型/笔记 #内容/多智能体强化学习 #内容
   - `_total_actions`：总行为数；
   - `state`： 状态，记录位置，持有的资源情况`dict(loc=[0, 0], inventory={}, escrow={}, endogenous={})`；
 
-- `base_env`：来自`ai_economist.foundation.base.base_env.py`
+- `base_env`：来自`ai_economist/foundation/base/base_env.py`
 
   - 初始化：
   
@@ -89,7 +89,7 @@ tags: #日期/2022-11-01 #类型/笔记 #内容/多智能体强化学习 #内容
     ):
     ```
   
-  - ```python
+    ```python
     self.world = World(
         self.world_size,  # 世界尺寸
         self.n_agents,  # agent数量
@@ -100,26 +100,50 @@ tags: #日期/2022-11-01 #类型/笔记 #内容/多智能体强化学习 #内容
     )
     ```
   
-  - 
+    ```python
+    component_cls = component_registry.get(component_name)  # 注册组件，获得组件相关的参数
+    ```
+  
+  
 
+- `component_cls`，来自`ai_economist/foundation/base/.py`：
 
+  - `world`
+  - `episode_length`
+  - `inv_scale`
+  - `shofthand`
 
 - `components`关键字：
 
-  - 需要以元组嵌套字典形式。例如：
+  需要以元组嵌套字典形式。例如：
 
-    ```python
-    'components': [
-        # (1) Building houses
-        ('Build', {'skill_dist': "pareto", 'payment_max_skill_multiplier': 3}),
-        # (2) Trading collectible resources
-        ('ContinuousDoubleAuction', {'max_num_orders': 5}),
-        # (3) Movement and resource collection
-        ('Gather', {}),
-    ],
-    ```
-
-
+  ```python
+  'components': [
+      # (1) Building houses
+      ('Build', {'skill_dist': "pareto", 'payment_max_skill_multiplier': 3}),
+      # (2) Trading collectible resources
+      ('ContinuousDoubleAuction', {'max_num_orders': 5}),
+      # (3) Movement and resource collection
+      ('Gather', {}),
+  ],
+  ```
+  
+  相关的字段：
+  
+  `episode_length`
+  `inv_scale`
+  `resources`
+  `landmarks`
+  `endogenous`
+  `all_agents `
+  `previou_episode_metrics`
+  `metrics `
+  `components`
+  `dense_log`
+  `replay_log`
+  `previous_episode_dense_log`
+  `previous_episode_replay_log`
+  `generate_rewards`
 
 
 
