@@ -1,4 +1,4 @@
-# AI-Economist学习笔记
+# AI-Economist工具学习笔记
 
 
 
