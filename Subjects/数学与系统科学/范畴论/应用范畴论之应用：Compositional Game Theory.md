@@ -1,5 +1,11 @@
 
-# 应用范畴论
+# 应用范畴论之应用：Compositional Game Theory
+
+
+
+tags: #日期/202-11-27 #类型/笔记 #内容/范畴论 #来源/转载 #类型/资源 
+
+
 
 
 Compositional Game Theory （CGT）是一个例子。
@@ -12,7 +18,7 @@ Compositional Game Theory （CGT）是一个例子。
 
   
   
-作者：匿名用户  
-链接：https://www.zhihu.com/question/411142220/answer/1438573439  
-来源：知乎  
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+> 作者：匿名用户  
+> 链接：[](https://www.zhihu.com/question/411142220/answer/1438573439)  
+> 来源：知乎  
+> 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
