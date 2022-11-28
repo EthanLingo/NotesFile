@@ -1,4 +1,4 @@
-# Python之模块os和sys
+# 区别之于Python之模块os和sys
 
 tags: #内容/编程语言/Python #内容/编程语言/Python/os #内容/编程语言/Python/sys
 
@@ -137,6 +137,7 @@ for f in (sys.stdin,sys.stdout, sys.stderr): print f
 
     Python提供了一个StringIO模块来完成这个设想，比如：
 
+``` python
 from StringIO import StringIOimport sys  
 buff =StringIO()
 
@@ -145,4 +146,5 @@ print 42, 'hello', 0.001
 
 sys.stdout=temp                                #恢复标准I/O流  
 print buff.getvalue()
+```
 
