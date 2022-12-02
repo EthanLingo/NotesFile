@@ -60,28 +60,37 @@ Out: '/'
 
 先看一下os(os.path)模块里部分函数与`pathlib.Path`对应的方法吧。下面列出的这些可以直接用pathlib里面的用法代替:
 
-| os and os.path | pathlib |
-| ------------------------ | --------------------------------------- |
-| `os.path.abspath` | `Path.resolve` |
-| `os.chmod` | `Path.chmod` |
-| `os.mkdir` | `Path.mkdir` |
-| `os.rename` | `Path.rename` |
-| `os.replace` | `Path.replace` |
-| `os.rmdir` | `Path.rmdir` |
-| `os.remove`, `os.unlink` | `Path.unlink` |
-| `os.getcwd` | `Path.cwd` |
-| `os.path.exists` | `Path.exists` |
-| `os.path.expanduser` | `Path.expanduser` and `Path.home` |
-| `os.path.isdir` | `Path.is_dir` |
-| `os.path.isfile` | `Path.is_file` |
-| `os.path.islink` | `Path.is_symlink` |
-| `os.stat` | `Path.stat`, `Path.owner`, `Path.group` |
-| `os.path.isabs` | `PurePath.is_absolute`|
-| `os.path.join` | `PurePath.joinpath` |
-| `os.path.basename` | `PurePath.name` |
-| `os.path.dirname` | `PurePath.parent` |
-| `os.path.samefile` | `Path.samefile` |
-| `os.path.splitext` | `PurePath.suffix` |
+
+
+| os 和 os.path                                                | pathlib                                                      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [`os.path.abspath()`](https://docs.python.org/zh-cn/3.9/library/os.path.html#os.path.abspath) | [`Path.resolve()`](https://docs.python.org/zh-cn/3.9/library/pathlib.html#pathlib.Path.resolve) |
+| [`os.chmod()`](https://docs.python.org/zh-cn/3.9/library/os.html#os.chmod) | [`Path.chmod()`](https://docs.python.org/zh-cn/3.9/library/pathlib.html#pathlib.Path.chmod) |
+| [`os.mkdir()`](https://docs.python.org/zh-cn/3.9/library/os.html#os.mkdir) | [`Path.mkdir()`](https://docs.python.org/zh-cn/3.9/library/pathlib.html#pathlib.Path.mkdir) |
+| [`os.makedirs()`](https://docs.python.org/zh-cn/3.9/library/os.html#os.makedirs) | [`Path.mkdir()`](https://docs.python.org/zh-cn/3.9/library/pathlib.html#pathlib.Path.mkdir) |
+| [`os.rename()`](https://docs.python.org/zh-cn/3.9/library/os.html#os.rename) | [`Path.rename()`](https://docs.python.org/zh-cn/3.9/library/pathlib.html#pathlib.Path.rename) |
+| [`os.replace()`](https://docs.python.org/zh-cn/3.9/library/os.html#os.replace) | [`Path.replace()`](https://docs.python.org/zh-cn/3.9/library/pathlib.html#pathlib.Path.replace) |
+| [`os.rmdir()`](https://docs.python.org/zh-cn/3.9/library/os.html#os.rmdir) | [`Path.rmdir()`](https://docs.python.org/zh-cn/3.9/library/pathlib.html#pathlib.Path.rmdir) |
+| [`os.remove()`](https://docs.python.org/zh-cn/3.9/library/os.html#os.remove), [`os.unlink()`](https://docs.python.org/zh-cn/3.9/library/os.html#os.unlink) | [`Path.unlink()`](https://docs.python.org/zh-cn/3.9/library/pathlib.html#pathlib.Path.unlink) |
+| [`os.getcwd()`](https://docs.python.org/zh-cn/3.9/library/os.html#os.getcwd) | [`Path.cwd()`](https://docs.python.org/zh-cn/3.9/library/pathlib.html#pathlib.Path.cwd) |
+| [`os.path.exists()`](https://docs.python.org/zh-cn/3.9/library/os.path.html#os.path.exists) | [`Path.exists()`](https://docs.python.org/zh-cn/3.9/library/pathlib.html#pathlib.Path.exists) |
+| [`os.path.expanduser()`](https://docs.python.org/zh-cn/3.9/library/os.path.html#os.path.expanduser) | [`Path.expanduser()`](https://docs.python.org/zh-cn/3.9/library/pathlib.html#pathlib.Path.expanduser) 和 [`Path.home()`](https://docs.python.org/zh-cn/3.9/library/pathlib.html#pathlib.Path.home) |
+| [`os.listdir()`](https://docs.python.org/zh-cn/3.9/library/os.html#os.listdir) | [`Path.iterdir()`](https://docs.python.org/zh-cn/3.9/library/pathlib.html#pathlib.Path.iterdir) |
+| [`os.path.isdir()`](https://docs.python.org/zh-cn/3.9/library/os.path.html#os.path.isdir) | [`Path.is_dir()`](https://docs.python.org/zh-cn/3.9/library/pathlib.html#pathlib.Path.is_dir) |
+| [`os.path.isfile()`](https://docs.python.org/zh-cn/3.9/library/os.path.html#os.path.isfile) | [`Path.is_file()`](https://docs.python.org/zh-cn/3.9/library/pathlib.html#pathlib.Path.is_file) |
+| [`os.path.islink()`](https://docs.python.org/zh-cn/3.9/library/os.path.html#os.path.islink) | [`Path.is_symlink()`](https://docs.python.org/zh-cn/3.9/library/pathlib.html#pathlib.Path.is_symlink) |
+| [`os.link()`](https://docs.python.org/zh-cn/3.9/library/os.html#os.link) | [`Path.link_to()`](https://docs.python.org/zh-cn/3.9/library/pathlib.html#pathlib.Path.link_to) |
+| [`os.symlink()`](https://docs.python.org/zh-cn/3.9/library/os.html#os.symlink) | [`Path.symlink_to()`](https://docs.python.org/zh-cn/3.9/library/pathlib.html#pathlib.Path.symlink_to) |
+| [`os.readlink()`](https://docs.python.org/zh-cn/3.9/library/os.html#os.readlink) | [`Path.readlink()`](https://docs.python.org/zh-cn/3.9/library/pathlib.html#pathlib.Path.readlink) |
+| [`os.stat()`](https://docs.python.org/zh-cn/3.9/library/os.html#os.stat) | [`Path.stat()`](https://docs.python.org/zh-cn/3.9/library/pathlib.html#pathlib.Path.stat), [`Path.owner()`](https://docs.python.org/zh-cn/3.9/library/pathlib.html#pathlib.Path.owner), [`Path.group()`](https://docs.python.org/zh-cn/3.9/library/pathlib.html#pathlib.Path.group) |
+| [`os.path.isabs()`](https://docs.python.org/zh-cn/3.9/library/os.path.html#os.path.isabs) | [`PurePath.is_absolute()`](https://docs.python.org/zh-cn/3.9/library/pathlib.html#pathlib.PurePath.is_absolute) |
+| [`os.path.join()`](https://docs.python.org/zh-cn/3.9/library/os.path.html#os.path.join) | [`PurePath.joinpath()`](https://docs.python.org/zh-cn/3.9/library/pathlib.html#pathlib.PurePath.joinpath) |
+| [`os.path.basename()`](https://docs.python.org/zh-cn/3.9/library/os.path.html#os.path.basename) | [`PurePath.name`](https://docs.python.org/zh-cn/3.9/library/pathlib.html#pathlib.PurePath.name) |
+| [`os.path.dirname()`](https://docs.python.org/zh-cn/3.9/library/os.path.html#os.path.dirname) | [`PurePath.parent`](https://docs.python.org/zh-cn/3.9/library/pathlib.html#pathlib.PurePath.parent) |
+| [`os.path.samefile()`](https://docs.python.org/zh-cn/3.9/library/os.path.html#os.path.samefile) | [`Path.samefile()`](https://docs.python.org/zh-cn/3.9/library/pathlib.html#pathlib.Path.samefile) |
+| [`os.path.splitext()`](https://docs.python.org/zh-cn/3.9/library/os.path.html#os.path.splitext) | [`PurePath.suffix`](https://docs.python.org/zh-cn/3.9/library/pathlib.html#pathlib.PurePath.suffix) |
+
+
 
 举2个例子:
 
