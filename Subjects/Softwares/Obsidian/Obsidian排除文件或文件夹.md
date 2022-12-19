@@ -1,3 +1,4 @@
+# Obsidian排除文件或文件夹
 Files and directories are only considered for synchronization if they pass all filter rules: They have to match **at least one** entry in the include list and **none** of the entries in the exclude list as presented in the filter configuration dialog.   
  
 
