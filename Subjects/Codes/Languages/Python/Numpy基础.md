@@ -14,9 +14,36 @@
 
 
 
+类型参数及缩写：
+
+类型	字符代码
+bool	?, b1
+int8	b, i1
+uint8	B, u1
+int16	h, i2
+uint16	H, u2
+int32	i, i4
+uint32	I, u4
+int64	q, i8
+uint64	Q, u8
+float16	f2, e
+float32	f4, f
+float64	f8, d
+complex64	F4, F
+complex128	F8, D
+str	a, S（可以在S后面添加数字，表示字符串长度，比如S3表示长度为三的字符串，不写则为最大长度）
+unicode	U
+object	O
+void	V
+
+> 来源：
+> [Numpy数据类型对象](https://blog.csdn.net/Zhili_wang/article/details/81140282)
+
+
+
 ## 常用功能函数
 
-   
+
 ### max、maximum
 -   np.max：(a, axis=None, out=None, keepdims=False) 
 
