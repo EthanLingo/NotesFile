@@ -7,6 +7,7 @@
  [[NotesFile.code-workspace|NotesFile.code-workspace]]
  [[Projects/_Index_of_Projects|_Index_of_Projects]]
  [[README|README]]
+ [[Reference_zotfile/_Index_of_Reference_zotfile|_Index_of_Reference_zotfile]]
  [[Reference/_Index_of_Reference|_Index_of_Reference]]
  [[ReferenceNote/_Index_of_ReferenceNote|_Index_of_ReferenceNote]]
  [[Resources/_Index_of_Resources|_Index_of_Resources]]
