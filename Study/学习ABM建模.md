@@ -97,6 +97,12 @@ Priority: 2
 
 [[Tierra人工世界：竞争有机体]]
 
+相关的程序：
+
+[tierra](https://github.com/acisternino/tierra)
+
+改进的：[salis-1.0](https://github.com/PaulTOliver/salis-1.0)
+
 
 #### DeepMind：
 
