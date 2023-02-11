@@ -93,8 +93,12 @@ Priority: 2
 
 ### 相关平台
 
+#### Tierra人工世界：
 
-DeepMind：
+[[Tierra人工世界：竞争有机体]]
+
+
+#### DeepMind：
 
 [Lanctot M, Lockhart E, Lespiau J-B, 等, 2020. OpenSpiel: A Framework for Reinforcement Learning in Games[J/OL]. ArXiv:1908.09453 [Cs][2022–01–03]. [http://arxiv.org/abs/1908.09453](http://arxiv.org/abs/1908.09453).](zotero://select/library/items/YX9MF26R)
 
@@ -102,10 +106,10 @@ DeepMind：
 
 
 
-Unity3D：
+#### Unity3D：
 - [ ] Flock Box插件：包括经典版和DOTS版；
 
-OpenAI：
+#### OpenAI：
 
 	Petting Zoo：
 
@@ -136,5 +140,7 @@ OpenAI：
 # 相关学习内容
 
 [[学习多智能体强化学习]]
+
+[[经济方法ABM建模相关工具]]
 
 
