@@ -6,6 +6,7 @@
  [[Notes/Numba基础|Numba基础]]
  [[Notes/Python继承初始化.assets/_Index_of_Python继承初始化.assets|_Index_of_Python继承初始化.assets]]
  [[Notes/Python继承初始化|Python继承初始化]]
+ [[Notes/Typora测试版过期破解方法.assets/_Index_of_Typora测试版过期破解方法.assets|_Index_of_Typora测试版过期破解方法.assets]]
  [[Notes/Unity辨析gameObject、transform、GameObject、Transform|Unity辨析gameObject、transform、GameObject、Transform]]
  [[Notes/一阶逻辑|一阶逻辑]]
  [[Notes/乔姆斯基文法|乔姆斯基文法]]
