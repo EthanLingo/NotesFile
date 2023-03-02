@@ -9,6 +9,7 @@
  [[Subjects/Economics/宏观审慎政策工具和潜在指标.numbers|宏观审慎政策工具和潜在指标.numbers]]
  [[Subjects/Economics/宏观经济学/_Index_of_宏观经济学|_Index_of_宏观经济学]]
  [[Subjects/Economics/我国各类政策工具.itmz|我国各类政策工具.itmz]]
+ [[Subjects/Economics/经管类的相关工具/_Index_of_经管类的相关工具|_Index_of_经管类的相关工具]]
  [[Subjects/Economics/英语之经济金融/_Index_of_英语之经济金融|_Index_of_英语之经济金融]]
  [[Subjects/Economics/行为与实验经济学/_Index_of_行为与实验经济学|_Index_of_行为与实验经济学]]
  [[Subjects/Economics/规章/_Index_of_规章|_Index_of_规章]]
