@@ -83,6 +83,7 @@ Temporary Items
 ### Obsidian ###
 # config dir
 .obsidian/
+!.obsidian/workspaces.json
 
 ### Windows ###
 # Windows thumbnail cache files
