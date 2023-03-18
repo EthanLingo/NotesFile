@@ -113,3 +113,5 @@ $RECYCLE.BIN/
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,windows,linux,goodsync,obsidian,git
 *.bkp
+Subjects/Management/电脑系统/Linux/SSH隧道使用.md
+Subjects/Management/电脑系统/Linux/搭建静态网页.md
