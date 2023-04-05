@@ -46,6 +46,7 @@
  [[Subjects/Economics/通用经济与金融/流动性风险|流动性风险]]
  [[Subjects/Economics/通用经济与金融/系统性风险|系统性风险]]
  [[Subjects/Economics/通用经济与金融/计量实证方法|计量实证方法]]
+ [[Subjects/Economics/通用经济与金融/讲座_公共经济学基础：框架、原理与案例_2023-03-28|讲座_公共经济学基础：框架、原理与案例_2023-03-28]]
  [[Subjects/Economics/通用经济与金融/货币.assets/_Index_of_货币.assets|_Index_of_货币.assets]]
  [[Subjects/Economics/通用经济与金融/货币|货币]]
  [[Subjects/Economics/通用经济与金融/货币供应过程|货币供应过程]]
