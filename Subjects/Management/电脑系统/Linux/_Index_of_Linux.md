@@ -2,6 +2,7 @@
  [[Subjects/Management/电脑系统/Linux/Linux安装ssh服务并设置开机自启动|Linux安装ssh服务并设置开机自启动]]
  [[Subjects/Management/电脑系统/Linux/Linux设置免密登录|Linux设置免密登录]]
  [[Subjects/Management/电脑系统/Linux/Linux设置远程传输文件服务|Linux设置远程传输文件服务]]
+ [[Subjects/Management/电脑系统/Linux/ssh免密登陆以及安全配置|ssh免密登陆以及安全配置]]
  [[Subjects/Management/电脑系统/Linux/SSH隧道使用|SSH隧道使用]]
  [[Subjects/Management/电脑系统/Linux/Ubuntu快捷键|Ubuntu快捷键]]
  [[Subjects/Management/电脑系统/Linux/Ubuntu设置防火墙|Ubuntu设置防火墙]]
