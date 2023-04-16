@@ -1,3 +1,11 @@
+# 学习NARS系统
+
+
+
+
+tags:   #类型/学习 #类型/汇总笔记 
+
+
 #### NARS系统  
 
 Link: [/iCloud/MLMS/Projects Management.itmz][18]  
