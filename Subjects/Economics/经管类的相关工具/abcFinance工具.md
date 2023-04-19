@@ -146,9 +146,10 @@ Example::
 	  
 	          for account in self.flow_accounts:
 	              account = Account()
+	```
 	- `get_balance(...)`：更新资产负债表。通过比较单个账户科目里的借方与贷方金额，确定帐户余额位置位于「借」或者「贷」与相应的金额。
 	
-	  ```
+	  ```python
 	  def get_balance(self):
 	          """
 	          更新资产负债表。通过比较单个账户科目里的借方与贷方金额，确定帐户余额位置位于「借」或者「贷」与相应的金额
@@ -181,3 +182,5 @@ Example::
 
 
 
+
+对于收到违约等冲击造成的资产小于负债的情况，该工具包直接简化，使用了负资本金填充缺失的资产部分，用以配平资产负债表。样例在：[Ex4\_Crises](https://www.siebenbrunner.com/moneycreation/Ex4_Crises.html)。

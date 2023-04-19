@@ -4,8 +4,11 @@
 相关平台、工具：
 
 abcEconomics系列
-- [[abcEconomics工具学习笔记]]
+- [[abcEcnomics工具]]
+
+姊妹篇：abcFinance系列
+- [[abcFinance工具]]
 
 
 AI-Economist
-- [[AI-Economist工具学习笔记]]
+- [[AI-Economist工具]]
