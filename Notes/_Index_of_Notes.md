@@ -12,6 +12,7 @@
  [[Notes/Python几个PDF库比较|Python几个PDF库比较]]
  [[Notes/Python继承初始化.assets/_Index_of_Python继承初始化.assets|_Index_of_Python继承初始化.assets]]
  [[Notes/Python继承初始化|Python继承初始化]]
+ [[Notes/Unity3D实现简单的足球AI|Unity3D实现简单的足球AI]]
  [[Notes/Unity3D第三方插件Agent Navigation学习笔记|Unity3D第三方插件Agent Navigation学习笔记]]
  [[Notes/Unity辨析gameObject、transform、GameObject、Transform|Unity辨析gameObject、transform、GameObject、Transform]]
  [[Notes/一阶逻辑|一阶逻辑]]
