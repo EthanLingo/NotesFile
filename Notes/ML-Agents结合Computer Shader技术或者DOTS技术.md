@@ -88,6 +88,40 @@ public class NeuralNetwork : MonoBehaviour
 
 以上代码中，NeuralNetwork类表示一个简单的神经网络模型，它使用Compute Shader来实现神经网络的计算，并将输入数据和输出数据存储在ComputeBuffer中。在`Update()`函数中，NeuralNetwork类调用Compute Shader来进行计算，并将结果存储在输出数据缓冲区中。在销毁对象时，NeuralNetwork类释放输入和输出数据缓冲区。
 
+```HLSL
+#pragma kernel ComputeNeuralNetwork
+
+struct NeuralNetwork
+{
+    float weights[9];
+};
+
+RWStructuredBuffer<float> input : register(u0);
+RWStructuredBuffer<float> output : register(u1);
+StructuredBuffer<NeuralNetwork> network : register(t0);
+
+[numthreads(3, 1, 1)]
+void ComputeNeuralNetwork(uint3 id : SV_DispatchThreadID)
+{
+    float3 inputData = input[id.x];
+
+    // 计算神经网络的输出
+    float outputData = 0.0f;
+    for (int i = 0; i < 3; i++)
+    {
+        float3 weights = float3(network[i].weights[0], network[i].weights[1], network[i].weights[2]);
+        float3 bias = float3(network[i].weights[3], network[i].weights[4], network[i].weights[5]);
+        float3 hiddenWeights = float3(network[i].weights[6], network[i].weights[7], network[i].weights[8]);
+
+        float3 hiddenData = inputData * weights + bias;
+        float3 hiddenOutput = max(float3(0, 0, 0), hiddenData);
+        outputData += dot(hiddenOutput, hiddenWeights);
+    }
+
+    output[id.x] = outputData;
+}
+```
+
 需要注意的是，以上示例代码仅用于演示如何使用Compute Shader加速神经网络计算，实际的ML-Agents和Compute Shader结合使用的实现方式可能因应用场景而异，开发者需要根据自己的需求和技术水平来选择合适的技术方案。同时，ML-Agents官方文档和社区中也提供了丰富的教程和示例代码，可以帮助开发者了解如何使用Compute Shader来加速智能体的训练和测试过程。
 」
 
