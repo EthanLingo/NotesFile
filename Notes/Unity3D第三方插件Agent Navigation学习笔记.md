@@ -5,10 +5,34 @@
 tags:  #类型/笔记 #类型/AI问答笔记 
 
 
+# 相关资源
+
+官方文档：[Agents Navigation](https://lukaschod.github.io/agents-navigation-docs/manual/)
+
+
+
+# 基础知识
+
+## 多种 agent 组件之执行顺序
+
+if you have agents that have components: `Agent`, `AgentBody`, `AgentShape`, `AgentSteering`, `AgentSonarAvoid`, `AgentCollider`, `NavMeshPath` and `NavMeshNode`.
+
+Execution logic would be:
+
+1. `NavMeshPath` would request new path into `DynamicBuffer<NavMeshNode>`.
+2. `AgentSteering` would compute steering direction into `AgentBody`.
+3. `DynamicBuffer<NavMeshNode>` would modify steering direction of `AgentBody` by following path locations.
+4. `AgentSonarAvoid` would modify steering direction of `AgentBody` to account for avoiding nearby `Agents`.
+5. `AgentSteering` and `AgentBody` would be used to translate `Agent` position.
+6. `NavMeshPath` would be used to correct position to make sure `Agent` is still in Nav Mesh.
+
+
 # AI问答系列
 
 > [!attention]
 > 以下由AI回答，不保证正确性！
+
+
 
 
 #### `Execute`与`Entities.WithReadOnly().ForEach(){}.Schedule()`
