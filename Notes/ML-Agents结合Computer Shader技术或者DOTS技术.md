@@ -1,9 +1,9 @@
-# ML-Agents结合Computer Shader技术或者DOTS技术
+# ML-Agents结合Compute Shader技术或者DOTS技术
 
 
 
 
-tags: #日期/2023-06-04 #类型/AI问答笔记 #内容/ML-Agents #内容/ComputerShader #内容/DOTS 
+tags: #日期/2023-06-04 #类型/AI问答笔记 #内容/ML-Agents #内容/ComputeShader #内容/DOTS 
 
 
 
@@ -13,7 +13,7 @@ tags: #日期/2023-06-04 #类型/AI问答笔记 #内容/ML-Agents #内容/Comput
 
 
 > [!question] 
-> 请举一个ML-Agents和Computer Shader技术结合使用简单的例子。附上代码。
+> 请举一个ML-Agents和Compute Shader技术结合使用简单的例子。附上代码。
 
 
 回答1：
@@ -127,11 +127,11 @@ void ComputeNeuralNetwork(uint3 id : SV_DispatchThreadID)
 
 回答2：
 「
-ML-Agents是Unity的一个开源项目，它可以让游戏和模拟成为训练智能代理的环境，使用深度强化学习和模仿学习。Computer Shader是Unity的一个着色器程序，它可以让你在游戏中实现更高级的图形效果。这两个技术结合使用的例子比较少，但是你可以通过使用Computer Shader来改变ML-Agents的渲染效果，从而实现更好的视觉效果。
+ML-Agents是Unity的一个开源项目，它可以让游戏和模拟成为训练智能代理的环境，使用深度强化学习和模仿学习。Compute Shader是Unity的一个着色器程序，它可以让你在游戏中实现更高级的图形效果。这两个技术结合使用的例子比较少，但是你可以通过使用Compute Shader来改变ML-Agents的渲染效果，从而实现更好的视觉效果。
 
-这里有一个简单的例子，展示了如何在Unity中使用ML-Agents和Computer Shader技术结合。这个例子是一个简单的3D场景，其中有一个球体和一个立方体。球体会随机移动，而立方体则会跟随球体移动。你可以使用ML-Agents来训练立方体，使其能够跟随球体移动，并且使用Computer Shader来改变球体和立方体的渲染效果。
+这里有一个简单的例子，展示了如何在Unity中使用ML-Agents和Compute Shader技术结合。这个例子是一个简单的3D场景，其中有一个球体和一个立方体。球体会随机移动，而立方体则会跟随球体移动。你可以使用ML-Agents来训练立方体，使其能够跟随球体移动，并且使用Compute Shader来改变球体和立方体的渲染效果。
 
-这里是一个示例代码，展示了如何在Unity中使用ML-Agents和Computer Shader技术结合：¹⁵
+这里是一个示例代码，展示了如何在Unity中使用ML-Agents和Compute Shader技术结合：¹⁵
 
 ```csharp
 using UnityEngine;
@@ -171,7 +171,7 @@ public class BallAgent : Agent
 }
 ```
 
-我希望这可以帮助你了解如何在Unity中使用ML-Agents和Computer Shader技术结合。如果你需要更多信息，请查看参考资料。谢谢！😊
+我希望这可以帮助你了解如何在Unity中使用ML-Agents和Compute Shader技术结合。如果你需要更多信息，请查看参考资料。谢谢！😊
 
 参考资料：
 
