@@ -1,4 +1,4 @@
-# ML-Agents结合Compute Shader技术或者DOTS技术
+# ML-Agents结合Computer Shader技术或者DOTS技术
 
 
 
