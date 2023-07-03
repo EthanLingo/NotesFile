@@ -118,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "subjects/人工智能/数学证明/AI数学证明.md"
+              }
             }
           }
         ]
@@ -190,6 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "subjects/人工智能/数学证明/AI数学证明.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,6 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "subjects/人工智能/数学证明/AI数学证明.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,6 +228,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "subjects/人工智能/数学证明/AI数学证明.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -393,6 +398,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
+                        "file": "subjects/人工智能/数学证明/AI数学证明.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -605,7 +611,9 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {}
+                      "state": {
+                        "file": "subjects/人工智能/数学证明/AI数学证明.md"
+                      }
                     }
                   }
                 ]
@@ -621,6 +629,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
+                        "file": "subjects/人工智能/数学证明/AI数学证明.md",
                         "options": {
                           "collapse-filter": false,
                           "search": "",
@@ -796,6 +805,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
+                        "file": "subjects/人工智能/数学证明/AI数学证明.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -818,6 +828,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
+                        "file": "subjects/人工智能/数学证明/AI数学证明.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -830,10 +841,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 380,
-        "y": 170,
-        "width": 1800,
-        "height": 1125,
+        "x": 144,
+        "y": 134,
+        "width": 1512,
+        "height": 944,
         "maximize": true,
         "zoom": -1
       },
@@ -856,7 +867,9 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {}
+                      "state": {
+                        "file": "subjects/人工智能/数学证明/AI数学证明.md"
+                      }
                     }
                   }
                 ]
@@ -872,6 +885,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
+                        "file": "subjects/人工智能/数学证明/AI数学证明.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1063,6 +1077,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
+                        "file": "subjects/人工智能/数学证明/AI数学证明.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1085,6 +1100,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
+                        "file": "subjects/人工智能/数学证明/AI数学证明.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1123,7 +1139,9 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {}
+                      "state": {
+                        "file": "subjects/人工智能/数学证明/AI数学证明.md"
+                      }
                     }
                   }
                 ]
@@ -1139,6 +1157,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
+                        "file": "subjects/人工智能/数学证明/AI数学证明.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1321,6 +1340,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
+                        "file": "subjects/人工智能/数学证明/AI数学证明.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1343,6 +1363,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
+                        "file": "subjects/人工智能/数学证明/AI数学证明.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1380,7 +1401,9 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {}
+                      "state": {
+                        "file": "subjects/人工智能/数学证明/AI数学证明.md"
+                      }
                     }
                   }
                 ]
@@ -1395,6 +1418,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
+                        "file": "subjects/人工智能/数学证明/AI数学证明.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1557,6 +1581,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
+                        "file": "subjects/人工智能/数学证明/AI数学证明.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1579,6 +1604,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
+                        "file": "subjects/人工智能/数学证明/AI数学证明.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1591,10 +1617,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 380,
-        "y": 170,
-        "width": 1800,
-        "height": 1125,
+        "x": 144,
+        "y": 134,
+        "width": 1512,
+        "height": 944,
         "maximize": true,
         "zoom": 0
       },
@@ -1617,7 +1643,9 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {}
+                      "state": {
+                        "file": "subjects/人工智能/数学证明/AI数学证明.md"
+                      }
                     }
                   }
                 ]
@@ -1633,6 +1661,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
+                        "file": "subjects/人工智能/数学证明/AI数学证明.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1803,6 +1832,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
+                        "file": "subjects/人工智能/数学证明/AI数学证明.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1825,6 +1855,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
+                        "file": "subjects/人工智能/数学证明/AI数学证明.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1863,7 +1894,9 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {}
+                      "state": {
+                        "file": "subjects/人工智能/数学证明/AI数学证明.md"
+                      }
                     }
                   }
                 ]
@@ -1879,6 +1912,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
+                        "file": "subjects/人工智能/数学证明/AI数学证明.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -2012,6 +2046,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
+                        "file": "subjects/人工智能/数学证明/AI数学证明.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -2034,6 +2069,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
+                        "file": "subjects/人工智能/数学证明/AI数学证明.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -2072,7 +2108,9 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {}
+                      "state": {
+                        "file": "subjects/人工智能/数学证明/AI数学证明.md"
+                      }
                     }
                   }
                 ]
@@ -2088,6 +2126,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
+                        "file": "subjects/人工智能/数学证明/AI数学证明.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -2299,9 +2338,21 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "b67e0803b6ccf6e2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "subjects/人工智能/数学证明/AI数学证明.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
             ],
-            "currentTab": 4
+            "currentTab": 8
           },
           {
             "id": "159941faed59d868",
@@ -2318,6 +2369,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
+                        "file": "subjects/人工智能/数学证明/AI数学证明.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -2340,6 +2392,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
+                        "file": "subjects/人工智能/数学证明/AI数学证明.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -2352,62 +2405,62 @@
           }
         ],
         "direction": "vertical",
-        "x": 380,
-        "y": 170,
-        "width": 1800,
-        "height": 1125,
+        "x": 144,
+        "y": 134,
+        "width": 1512,
+        "height": 944,
         "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "ad78d49e796159fb",
+  "active": "e6b5eb5a09a11503",
   "lastOpenFiles": [
+    "Subjects/人工智能/数学证明/AI数学证明.md",
+    "Subjects/人工智能/数学证明/_Index_of_数学证明.md",
+    "Subjects/人工智能/数学证明",
+    "Projects/EntelechySystem_theory/sync.ffs_lock",
+    "Projects/ComplexAgentsGame_design/sync.ffs_lock",
     "Subjects/Economics/sync.ffs_lock",
     "Subjects/sync.ffs_lock",
     "Reference_zotfile/sync.ffs_lock",
     "Reference/sync.ffs_lock",
     "Projects/SystemicRisk_project/sync.ffs_lock",
-    "Projects/EntelechySystem_theory/sync.ffs_lock",
-    "Projects/ComplexAgentsGame_design/sync.ffs_lock",
-    "Thoughts/sync.ffs_lock",
-    "sync.ffs_lock",
-    "Study/Study.md",
-    "DailyNotes/2023-07-03.md",
-    "Subjects/Tools/Git/git配置中的CRLF、LF、CR.md",
+    "Subjects/语言/NLP基础：常见语言学缩写.md",
+    "subjects/人工智能/数学证明/AI数学证明.md",
     "Study/学习通用人工智能.md",
-    "Projects/ComplexAgentsGame_design/Develope/PuzzleGame开发笔记.md",
-    "Notes/Unity3D第三方插件Agent Navigation学习笔记.md",
-    "Projects/fanshemoxing_hujinning/fanshemoxing_hujinning基本思想_20220919.md",
-    "DailyNotes/2023-06-29.md",
-    "Subjects/Tools/Git/Git合并分支.md",
-    "Notes/配置Git.md",
-    "Notes/学习图神经网络和组合优化.md",
-    "Subjects/IT/算法与数据结构/二叉树三种遍历统一风格非递归写法.md",
-    "Study/学习经管社科类.md",
-    "Study/学习多智能体强化学习.md",
-    "DailyNotes/2023-06-24.md",
-    "DailyNotes/2023-06-23.md",
-    "DailyNotes/2023-06-22.md",
-    "Notes/经济方法ABM建模相关工具.md",
-    "Study/学习ABM建模.md",
-    "Notes/评论一篇文章的要求、步骤.md",
-    "Study/学习NARS系统.md",
-    "Subjects/Game/DOTS/DOTS学习笔记.md",
-    "Study/学习多媒体艺术.md",
-    "Study/学习图网络.md",
-    "Notes/学习因果涌现.md",
-    "Projects/ComplexAgentsGame_design/Resource/概念画板源文件/ComplexAgentsGame/突破重围.concept",
-    "Projects/ComplexAgentsGame_design/Design/突破重围/突破重围.assets/image-20230610205157246.png",
-    "Subjects/Codes/Programming/可视化工具/如何画出漂亮的神经网络图？神经网络可视化工具集锦搜集.assets/640-20230610174500606.png",
-    "Subjects/Codes/Programming/可视化工具/如何画出漂亮的神经网络图？神经网络可视化工具集锦搜集.assets/640-20230610174500550.png",
-    "Subjects/Codes/Programming/可视化工具/如何画出漂亮的神经网络图？神经网络可视化工具集锦搜集.assets/640-20230610174500423.png",
-    "Subjects/Codes/Programming/可视化工具/如何画出漂亮的神经网络图？神经网络可视化工具集锦搜集.assets/640-20230610174500250.png",
-    "Subjects/Codes/Programming/可视化工具/如何画出漂亮的神经网络图？神经网络可视化工具集锦搜集.assets/640-20230610174500216.png",
-    "Subjects/Codes/Programming/可视化工具/如何画出漂亮的神经网络图？神经网络可视化工具集锦搜集.assets/640-20230610174500210.png",
-    "Subjects/Codes/Programming/可视化工具/如何画出漂亮的神经网络图？神经网络可视化工具集锦搜集.assets/640-20230610174500187.png",
-    "Subjects/Codes/Programming/可视化工具/如何画出漂亮的神经网络图？神经网络可视化工具集锦搜集.assets/640-20230610174459738.png",
-    "Subjects/Codes/Programming/可视化工具/如何画出漂亮的神经网络图？神经网络可视化工具集锦搜集.assets/640-20230610174459723.png",
+    "subjects/人工智能/通用人工智能/思考/六顶思考帽.assets/六顶思考帽.gif",
+    "subjects/人工智能/通用人工智能/NARS/NARS的一些视频会议笔记.assets/IMG_3293.JPG",
+    "subjects/人工智能/通用人工智能/NARS/NARS的一些视频会议笔记.assets/IMG_3293-9173390.JPG",
+    "subjects/人工智能/通用人工智能/NARS/NARS的一些视频会议笔记.assets/IMG_3293-9173388.JPG",
+    "subjects/人工智能/通用人工智能/NARS/NARS的一些视频会议笔记.assets/IMG_3293-9173386.JPG",
+    "subjects/人工智能/通用人工智能/NARS/NARS的一些视频会议笔记.assets/IMG_3214.PNG",
+    "subjects/人工智能/通用人工智能/NARS/NARS的一些视频会议笔记.assets/IMG_3217.jpeg",
+    "subjects/人工智能/认知人工智能/讲座_李嫣然_常识因果在AI认知的进展_2021-11-06.assets/IMG_3616.jpeg",
+    "subjects/人工智能/认知人工智能/讲座_李嫣然_常识因果在AI认知的进展_2021-11-06.assets/IMG_3615.jpeg",
+    "subjects/人工智能/认知人工智能/讲座_李嫣然_常识因果在AI认知的进展_2021-11-06.assets/IMG_3614.PNG",
+    "subjects/人工智能/通用人工智能/北冥星辰AI/北冥星辰通用人工智能.md",
+    "subjects/人工智能/通用人工智能/思考/六顶思考帽.md",
+    "subjects/人工智能/通用人工智能/思考/六顶思考帽.assets",
+    "subjects/人工智能/通用人工智能/NARS/_Index_of_NARS.md",
+    "subjects/人工智能/通用人工智能/NARS/NARS简介（翻译）.md",
+    "subjects/人工智能/通用人工智能/NARS/NARS相关项目.md",
+    "subjects/人工智能/通用人工智能/NARS/NARS的一些视频会议笔记.assets",
+    "subjects/人工智能/通用人工智能/NARS/NARS的一些视频会议笔记.md",
+    "subjects/人工智能/通用人工智能/NARS/NARS一些资料.md",
+    "subjects/人工智能/认知人工智能/讲座_李嫣然_常识因果在AI认知的进展_2021-11-06.md",
+    "subjects/人工智能/通用人工智能/虚构开放大世界建模（转载）.md",
+    "subjects/人工智能/认知人工智能/认知人工智能.md",
+    "subjects/人工智能/认知人工智能/MetaCat工具.md",
+    "subjects/人工智能/通用人工智能/朱松纯：浅谈人工智能：现状、任务、构架与统一.md",
+    "subjects/人工智能/通用人工智能/一种能阅读和对话的类脑智能意识系统的设想与架构.md",
+    "subjects/人工智能/通用人工智能/_Index_of_通用人工智能.md",
+    "subjects/人工智能/自生成结构/技术演化和电路进化计算机仿真模型.md",
+    "subjects/人工智能/自生成结构/_Index_of_自生成结构.md",
+    "subjects/人工智能/自生成结构/Tierra人工世界：竞争有机体.md",
+    "subjects/人工智能/自然语言/NLP 自然语言处理技术介绍.md",
+    "subjects/人工智能/自然语言/_Index_of_自然语言.md",
+    "subjects/人工智能/知识图谱/知识图谱论坛2022.md",
     "Untitled.canvas"
   ]
 }

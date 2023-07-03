@@ -4,6 +4,7 @@
  [[Subjects/人工智能/人工智能导论/_Index_of_人工智能导论|_Index_of_人工智能导论]]
  [[Subjects/人工智能/人工智能领域相关会议|人工智能领域相关会议]]
  [[Subjects/人工智能/多智能体强化学习代码汇总/_Index_of_多智能体强化学习代码汇总|_Index_of_多智能体强化学习代码汇总]]
+ [[Subjects/人工智能/数学证明/_Index_of_数学证明|_Index_of_数学证明]]
  [[Subjects/人工智能/数据库/_Index_of_数据库|_Index_of_数据库]]
  [[Subjects/人工智能/数据挖掘/_Index_of_数据挖掘|_Index_of_数据挖掘]]
  [[Subjects/人工智能/相关会议/_Index_of_相关会议|_Index_of_相关会议]]
