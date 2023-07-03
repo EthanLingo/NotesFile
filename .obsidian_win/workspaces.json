@@ -25339,7 +25339,7 @@
       },
       "active": "ae4ce4ba7b386dca"
     },
-    "2023-07-03": {
+    "2023-07-02": {
       "main": {
         "id": "7e467fc4fa9fb681",
         "type": "split",
@@ -25517,8 +25517,7 @@
                   "state": {}
                 }
               }
-            ],
-            "currentTab": 4
+            ]
           },
           {
             "id": "eca75cfe58f07c07",
@@ -25673,24 +25672,23 @@
       },
       "left-ribbon": {
         "hiddenItems": {
-          "command-palette:Open command palette": false,
-          "switcher:Open quick switcher": false,
-          "graph:Open graph view": false,
-          "canvas:Create new canvas": false,
-          "daily-notes:Open today's daily note": false,
-          "templates:Insert template": false,
-          "markdown-importer:Open format converter": false,
-          "zk-prefixer:Create new unique note": false,
-          "random-note:Open random note": false,
-          "audio-recorder:Start/stop recording": false,
-          "workspaces:Manage workspace layouts": false,
+          "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "markdown-importer:打开 Markdown 格式转换器": false,
+          "zk-prefixer:创建时间戳笔记": false,
+          "random-note:开始漫游笔记": false,
+          "audio-recorder:开始/结束录音": false,
+          "workspaces:管理工作区布局": false,
           "juggl:Juggl global graph": false,
           "open-vscode:VSCode": false,
           "table-editor-obsidian:Advanced Tables Toolbar": false,
           "obsidian42-text-transporter:Obsidian42 - Text Transporter": false,
-          "obsidian-excalidraw-plugin:Create new drawing": false,
-          "obsidian-wordnet-plugin:WordNet Dictionary": false,
-          "copilot:Copilot Chat": false
+          "obsidian-wordnet-plugin:WordNet Dictionary": false
         }
       },
       "floating": {
@@ -25862,8 +25860,7 @@
                       "pinned": true
                     }
                   }
-                ],
-                "currentTab": 1
+                ]
               },
               {
                 "id": "8a5a32b02624cbbc",
@@ -25920,10 +25917,10 @@
               }
             ],
             "direction": "vertical",
-            "x": 0,
-            "y": 67,
-            "width": 1506,
-            "height": 915,
+            "x": 341,
+            "y": 251,
+            "width": 1698,
+            "height": 1045,
             "maximize": false,
             "zoom": 0
           },
@@ -26439,9 +26436,9 @@
             ],
             "direction": "vertical",
             "x": 27,
-            "y": 38,
-            "width": 1461,
-            "height": 944,
+            "y": 48,
+            "width": 1462,
+            "height": 1086,
             "maximize": false,
             "zoom": -1
           },
@@ -26600,12 +26597,8 @@
                     "id": "6f84e8cf99059545",
                     "type": "leaf",
                     "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Notes/学习图神经网络和组合优化.md",
-                        "mode": "source",
-                        "source": false
-                      }
+                      "type": "empty",
+                      "state": {}
                     }
                   },
                   {
@@ -26636,12 +26629,8 @@
                     "id": "fac70a037032bfcf",
                     "type": "leaf",
                     "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Notes/学习图神经网络和组合优化.md",
-                        "mode": "source",
-                        "source": false
-                      }
+                      "type": "empty",
+                      "state": {}
                     }
                   }
                 ],
@@ -26697,7 +26686,7 @@
             ],
             "direction": "vertical",
             "x": 189,
-            "y": 106,
+            "y": 137,
             "width": 1238,
             "height": 876,
             "maximize": false,
@@ -26879,9 +26868,33 @@
                       },
                       "pinned": true
                     }
+                  },
+                  {
+                    "id": "9eda6c1b54a41f0a",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Notes/Unity3D工具包ML-Agents.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "7d640252638d5a1f",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Notes/ML-Agents结合Computer Shader技术或者DOTS技术.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
                   }
                 ],
-                "currentTab": 2
+                "currentTab": 3
               },
               {
                 "id": "2677eddafa0c3c68",
@@ -27182,7 +27195,7 @@
             "y": 134,
             "width": 1512,
             "height": 944,
-            "maximize": true,
+            "maximize": false,
             "zoom": 0
           },
           {
@@ -27387,10 +27400,10 @@
               }
             ],
             "direction": "vertical",
-            "x": 219,
-            "y": 38,
-            "width": 1293,
-            "height": 944,
+            "x": 269,
+            "y": 94,
+            "width": 1294,
+            "height": 1060,
             "maximize": false,
             "zoom": 0
           },
@@ -27705,5 +27718,5 @@
       "active": "ae4ce4ba7b386dca"
     }
   },
-  "active": "2023-07-03"
+  "active": "2023-07-02"
 }

@@ -1,0 +1,214 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "常用编程语言提取正则表达式",
+      "path": "Subjects/Codes/正则表达式/常用编程语言提取正则表达式.md"
+    },
+    {
+      "type": "file",
+      "title": "货币银行学笔记",
+      "path": "Subjects/Economics/货币银行学/货币银行学笔记.md"
+    },
+    {
+      "type": "file",
+      "title": "《因果涌现读书会》主笔记",
+      "path": "Subjects/数学与系统科学/因果涌现/《因果涌现读书会》/《因果涌现读书会》主笔记.md"
+    },
+    {
+      "type": "file",
+      "title": "Mosaic Knowledge Graphs 数据库",
+      "path": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md"
+    },
+    {
+      "type": "file",
+      "title": "整合信息论",
+      "path": "Subjects/认知科学/整合信息论/整合信息论.md"
+    },
+    {
+      "type": "file",
+      "title": "从 git 的历史记录中彻底删除文件或文件夹",
+      "path": "Subjects/Tools/Git/从 git 的历史记录中彻底删除文件或文件夹.md"
+    },
+    {
+      "type": "file",
+      "title": "学习因果推理",
+      "path": "Study/学习因果科学.md"
+    },
+    {
+      "type": "file",
+      "title": "学习数学系统科学物理学",
+      "path": "Study/学习数学系统科学物理学.md"
+    },
+    {
+      "type": "file",
+      "title": "学习人工智能计算机数据科学认知科学",
+      "path": "Study/学习人工智能计算机数据科学认知科学.md"
+    },
+    {
+      "type": "file",
+      "title": "学习商科社科",
+      "path": "Study/学习商科社科人文心理.md"
+    },
+    {
+      "type": "file",
+      "title": "学习多媒体艺术",
+      "path": "Study/学习多媒体艺术.md"
+    },
+    {
+      "type": "file",
+      "title": "因果科学相关研究",
+      "path": "Subjects/数学与系统科学/因果科学/因果科学相关研究.md"
+    },
+    {
+      "type": "file",
+      "title": "多智能体强化学习入门",
+      "path": "Study/学习多智能体强化学习.md"
+    },
+    {
+      "type": "file",
+      "title": "学习DSGE工具",
+      "path": "Study/学习DSGE工具.md"
+    },
+    {
+      "type": "file",
+      "title": "复杂网络与控制",
+      "path": "Study/复杂网络与控制.md"
+    },
+    {
+      "type": "file",
+      "title": "学习使用工具",
+      "path": "Study/学习使用工具.md"
+    },
+    {
+      "type": "file",
+      "title": "学习强化学习",
+      "path": "Study/学习强化学习.md"
+    },
+    {
+      "type": "file",
+      "title": "学习ABM建模",
+      "path": "Study/学习ABM建模.md"
+    },
+    {
+      "type": "file",
+      "title": "学习图模型",
+      "path": "Study/学习图模型.md"
+    },
+    {
+      "type": "file",
+      "title": "R语言基础",
+      "path": "Subjects/Codes/R语言/R语言基础.md"
+    },
+    {
+      "type": "file",
+      "title": "Study",
+      "path": "Study/Study.md"
+    },
+    {
+      "type": "file",
+      "title": "GDScript脚本基础",
+      "path": "Subjects/Codes/GDScript/GDScript脚本基础.md"
+    },
+    {
+      "type": "file",
+      "title": "Julia基础",
+      "path": "Subjects/Codes/Julia/Julia基础.md"
+    },
+    {
+      "type": "file",
+      "title": "Numpy基础",
+      "path": "Subjects/Codes/Python/Numpy基础.md"
+    },
+    {
+      "type": "file",
+      "title": "Python基础",
+      "path": "Subjects/Codes/Python/Python基础.md"
+    },
+    {
+      "type": "file",
+      "title": "多智能体强化学习",
+      "path": "Subjects/计算科学/多智能体强化学习/多智能体强化学习.md"
+    },
+    {
+      "type": "file",
+      "title": "_Index_of_处理数据",
+      "path": "Subjects/数据科学/处理数据/_Index_of_处理数据.md"
+    },
+    {
+      "type": "file",
+      "title": "构式语法",
+      "path": "Subjects/语言/构式语法.md"
+    },
+    {
+      "type": "file",
+      "title": "概率命题逻辑系统",
+      "path": "Notes/概率命题逻辑系统.md"
+    },
+    {
+      "type": "file",
+      "title": "动态认知逻辑概率",
+      "path": "Notes/动态认知逻辑概率.md"
+    },
+    {
+      "type": "file",
+      "title": "_Index_of_Unity3D",
+      "path": "Subjects/Game/Unity3D/_Index_of_Unity3D.md"
+    },
+    {
+      "type": "file",
+      "title": "Python基础",
+      "path": "Subjects/Codes/Languages/Python/Python基础.md"
+    },
+    {
+      "type": "file",
+      "title": "Numpy基础",
+      "path": "Subjects/Codes/Languages/Python/Numpy基础.md"
+    },
+    {
+      "type": "file",
+      "title": "2022年度诺贝尔经济学奖介绍",
+      "path": "Subjects/Economics/通用经济与金融/2022年度诺贝尔经济学奖介绍.md"
+    },
+    {
+      "type": "file",
+      "title": "Obsidian排除文件或文件夹",
+      "path": "Subjects/Softwares/Obsidian/Obsidian排除文件或文件夹.md"
+    },
+    {
+      "type": "file",
+      "title": "C sharp 修饰符讲解大全",
+      "path": "Subjects/Codes/Languages/C sharp/C sharp 修饰符讲解大全.md"
+    },
+    {
+      "type": "file",
+      "title": "abcFinance工具",
+      "path": "Subjects/Economics/经管类的相关工具/abcFinance工具.md"
+    },
+    {
+      "type": "file",
+      "title": "多智能体强化学习相关资料",
+      "path": "Subjects/计算科学/多智能体强化学习/多智能体强化学习相关资料.md"
+    },
+    {
+      "type": "file",
+      "title": "macOS 时光机器备份加速命令",
+      "path": "Subjects/Management/电脑系统/MacOS/macOS 时光机器备份加速命令.md"
+    },
+    {
+      "type": "file",
+      "title": "学习通用人工智能",
+      "path": "Study/学习通用人工智能.md"
+    },
+    {
+      "type": "file",
+      "title": "学习NARS系统",
+      "path": "Study/学习NARS系统.md"
+    },
+    {
+      "type": "file",
+      "title": "学习大语言模型",
+      "path": "Study/学习大语言模型.md"
+    }
+  ]
+}

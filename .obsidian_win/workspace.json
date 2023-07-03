@@ -176,8 +176,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "eca75cfe58f07c07",
@@ -332,24 +331,23 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "command-palette:Open command palette": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "markdown-importer:Open format converter": false,
-      "zk-prefixer:Create new unique note": false,
-      "random-note:Open random note": false,
-      "audio-recorder:Start/stop recording": false,
-      "workspaces:Manage workspace layouts": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "random-note:开始漫游笔记": false,
+      "audio-recorder:开始/结束录音": false,
+      "workspaces:管理工作区布局": false,
       "juggl:Juggl global graph": false,
       "open-vscode:VSCode": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian42-text-transporter:Obsidian42 - Text Transporter": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-wordnet-plugin:WordNet Dictionary": false,
-      "copilot:Copilot Chat": false
+      "obsidian-wordnet-plugin:WordNet Dictionary": false
     }
   },
   "floating": {
@@ -521,8 +519,7 @@
                   "pinned": true
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "8a5a32b02624cbbc",
@@ -579,10 +576,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 0,
-        "y": 67,
-        "width": 1506,
-        "height": 915,
+        "x": 341,
+        "y": 251,
+        "width": 1698,
+        "height": 1045,
         "maximize": false,
         "zoom": 0
       },
@@ -1098,9 +1095,9 @@
         ],
         "direction": "vertical",
         "x": 27,
-        "y": 38,
-        "width": 1461,
-        "height": 944,
+        "y": 48,
+        "width": 1462,
+        "height": 1086,
         "maximize": false,
         "zoom": -1
       },
@@ -1259,12 +1256,8 @@
                 "id": "6f84e8cf99059545",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes/学习图神经网络和组合优化.md",
-                    "mode": "source",
-                    "source": false
-                  }
+                  "type": "empty",
+                  "state": {}
                 }
               },
               {
@@ -1295,12 +1288,8 @@
                 "id": "fac70a037032bfcf",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes/学习图神经网络和组合优化.md",
-                    "mode": "source",
-                    "source": false
-                  }
+                  "type": "empty",
+                  "state": {}
                 }
               }
             ],
@@ -1356,7 +1345,7 @@
         ],
         "direction": "vertical",
         "x": 189,
-        "y": 106,
+        "y": 137,
         "width": 1238,
         "height": 876,
         "maximize": false,
@@ -1538,9 +1527,33 @@
                   },
                   "pinned": true
                 }
+              },
+              {
+                "id": "9eda6c1b54a41f0a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes/Unity3D工具包ML-Agents.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "7d640252638d5a1f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes/ML-Agents结合Computer Shader技术或者DOTS技术.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
             ],
-            "currentTab": 2
+            "currentTab": 3
           },
           {
             "id": "2677eddafa0c3c68",
@@ -1841,7 +1854,7 @@
         "y": 134,
         "width": 1512,
         "height": 944,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       },
       {
@@ -2046,10 +2059,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 219,
-        "y": 38,
-        "width": 1293,
-        "height": 944,
+        "x": 269,
+        "y": 94,
+        "width": 1294,
+        "height": 1060,
         "maximize": false,
         "zoom": 0
       },
@@ -2361,7 +2374,7 @@
       }
     ]
   },
-  "active": "ad78d49e796159fb",
+  "active": "ae4ce4ba7b386dca",
   "lastOpenFiles": [
     "Subjects/Economics/sync.ffs_lock",
     "Subjects/sync.ffs_lock",
@@ -2370,34 +2383,36 @@
     "Projects/SystemicRisk_project/sync.ffs_lock",
     "Projects/EntelechySystem_theory/sync.ffs_lock",
     "Projects/ComplexAgentsGame_design/sync.ffs_lock",
-    "Thoughts/sync.ffs_lock",
     "sync.ffs_lock",
+    "Projects/ComplexAgentsGame_design/Design/冲出重围/冲出重围.assets/image-20230610205157246.png",
+    "Projects/ComplexAgentsGame_design/Design/冲出重围/冲出重围.md",
+    "Projects/ComplexAgentsGame_design/Design/冲出重围/冲出重围.assets",
+    "Projects/ComplexAgentsGame_design/Design/冲出重围",
+    "Notes/Unity3D工具包ML-Agents.md",
     "Study/Study.md",
-    "DailyNotes/2023-07-03.md",
-    "Subjects/Tools/Git/git配置中的CRLF、LF、CR.md",
-    "Study/学习通用人工智能.md",
-    "Projects/ComplexAgentsGame_design/Develope/PuzzleGame开发笔记.md",
+    "Notes/ML-Agents结合Computer Shader技术或者DOTS技术.md",
     "Notes/Unity3D第三方插件Agent Navigation学习笔记.md",
-    "Projects/fanshemoxing_hujinning/fanshemoxing_hujinning基本思想_20220919.md",
-    "DailyNotes/2023-06-29.md",
-    "Subjects/Tools/Git/Git合并分支.md",
-    "Notes/配置Git.md",
-    "Notes/学习图神经网络和组合优化.md",
-    "Subjects/IT/算法与数据结构/二叉树三种遍历统一风格非递归写法.md",
-    "Study/学习经管社科类.md",
-    "Study/学习多智能体强化学习.md",
-    "DailyNotes/2023-06-24.md",
-    "DailyNotes/2023-06-23.md",
-    "DailyNotes/2023-06-22.md",
-    "Notes/经济方法ABM建模相关工具.md",
-    "Study/学习ABM建模.md",
-    "Notes/评论一篇文章的要求、步骤.md",
-    "Study/学习NARS系统.md",
-    "Subjects/Game/DOTS/DOTS学习笔记.md",
     "Study/学习多媒体艺术.md",
+    "Subjects/Game/DOTS/DOTS学习笔记.md",
+    "Study/学习多智能体强化学习.md",
+    "Study/学习ABM建模.md",
+    "Notes/经济方法ABM建模相关工具.md",
+    "DailyNotes/2023-07-02.md",
+    "DailyNotes/2023-06-30.md",
+    "DailyNotes/2023-06-22.md",
+    "Thoughts/sync.ffs_lock",
+    "Notes/评论一篇文章的要求、步骤.md",
+    "Notes/学习图神经网络和组合优化.md",
+    "Study/学习NARS系统.md",
+    "Subjects/IT/算法与数据结构/二叉树三种遍历统一风格非递归写法.md",
     "Study/学习图网络.md",
     "Notes/学习因果涌现.md",
-    "Projects/ComplexAgentsGame_design/Resource/概念画板源文件/ComplexAgentsGame/突破重围.concept",
+    "Study/学习数学系统科学物理学.md",
+    "Management/template/markdown_file_template_for_obsidian_项目.md",
+    "Management/template/markdown_file_template_for_obsidian_项目 20.45.07.md",
+    "Management/template/markdown_file_template_for_obsidian_项目 copy.md",
+    "Subjects/Codes/Languages/Compute Shader/_Index_of_Compute Shader.md",
+    "Subjects/Subjects.md",
     "Projects/ComplexAgentsGame_design/Design/突破重围/突破重围.assets/image-20230610205157246.png",
     "Subjects/Codes/Programming/可视化工具/如何画出漂亮的神经网络图？神经网络可视化工具集锦搜集.assets/640-20230610174500606.png",
     "Subjects/Codes/Programming/可视化工具/如何画出漂亮的神经网络图？神经网络可视化工具集锦搜集.assets/640-20230610174500550.png",
@@ -2407,7 +2422,6 @@
     "Subjects/Codes/Programming/可视化工具/如何画出漂亮的神经网络图？神经网络可视化工具集锦搜集.assets/640-20230610174500210.png",
     "Subjects/Codes/Programming/可视化工具/如何画出漂亮的神经网络图？神经网络可视化工具集锦搜集.assets/640-20230610174500187.png",
     "Subjects/Codes/Programming/可视化工具/如何画出漂亮的神经网络图？神经网络可视化工具集锦搜集.assets/640-20230610174459738.png",
-    "Subjects/Codes/Programming/可视化工具/如何画出漂亮的神经网络图？神经网络可视化工具集锦搜集.assets/640-20230610174459723.png",
     "Untitled.canvas"
   ]
 }

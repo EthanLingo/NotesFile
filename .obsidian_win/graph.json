@@ -1,11 +1,11 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:Projects/EntelechySystem_theory",
@@ -67,20 +67,20 @@
       "query": "path:Projects/SystemicRisk_project",
       "color": {
         "a": 1,
-        "rgb": 65283
+        "rgb": 65280
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 3.1613037109375,
+  "nodeSizeMultiplier": 2.86721598307292,
   "lineSizeMultiplier": 5,
   "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.15698759901498183,
+  "scale": 0.1296668179374398,
   "close": false
 }
