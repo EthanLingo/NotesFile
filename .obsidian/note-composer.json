@@ -1,0 +1,4 @@
+{
+  "askBeforeMerging": true,
+  "template": "management/markdown_file_template"
+}

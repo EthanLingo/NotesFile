@@ -1,0 +1,364 @@
+{
+  "main": {
+    "id": "7e467fc4fa9fb681",
+    "type": "split",
+    "children": [
+      {
+        "id": "0eda9a3677c1b21f",
+        "type": "split",
+        "children": [
+          {
+            "id": "706ca24c39a9a38c",
+            "type": "split",
+            "dimension": 40.15151515151515,
+            "children": [
+              {
+                "id": "8e9fa928aa3d2eb7",
+                "type": "leaf",
+                "dimension": 45.59023066485753,
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Study/Study.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "2fcd258dc18f3a91",
+                "type": "leaf",
+                "dimension": 54.409769335142464,
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Subjects/计算科学/多智能体强化学习/多智能体强化学习.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              }
+            ],
+            "direction": "horizontal"
+          },
+          {
+            "id": "fbdc3795b9b2af4d",
+            "type": "split",
+            "dimension": 59.84848484848485,
+            "children": [
+              {
+                "id": "cfa0212d2e4a0a42",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "DailyNotes/2022-10-02.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "1b1ddcec918805e3",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Subjects/百科/开源协议.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "00ad4d82c55c8352",
+    "type": "split",
+    "children": [
+      {
+        "id": "c28a7cbc3190435a",
+        "type": "tabs",
+        "dimension": 58.77192982456141,
+        "children": [
+          {
+            "id": "74b73d35e0ab03a6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "824387bb220d68ce",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "xcode",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "73b8a1ab0dce42b3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "702743aca2101d38",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ebca7f48fc6d398e",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "ad10d2d7286cd1fe",
+        "type": "tabs",
+        "dimension": 41.228070175438596,
+        "children": [
+          {
+            "id": "e163f4fc403969f9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Subjects/计算科学/多智能体强化学习/多智能体强化学习.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299
+  },
+  "right": {
+    "id": "aade5a834a514cf8",
+    "type": "split",
+    "children": [
+      {
+        "id": "d28e306a86a14568",
+        "type": "tabs",
+        "dimension": 31.747066492829205,
+        "children": [
+          {
+            "id": "a9caf942639bedbe",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "63a3ecd00e0952c3",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "53ad2c3f88efee93",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          },
+          {
+            "id": "7e8a934f7d40cb52",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "eca75cfe58f07c07",
+        "type": "tabs",
+        "dimension": 27.11864406779661,
+        "children": [
+          {
+            "id": "f975bdba76e1287d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Subjects/计算科学/多智能体强化学习/多智能体强化学习.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "249232b3ccb822b7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Subjects/计算科学/多智能体强化学习/多智能体强化学习.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "a7d269ab3cb09bcf",
+        "type": "tabs",
+        "dimension": 41.134289439374186,
+        "children": [
+          {
+            "id": "ba65f30fa943ad4e",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Subjects/计算科学/多智能体强化学习/多智能体强化学习.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [
+                    {
+                      "query": "path:Analyse",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16711680
+                      }
+                    },
+                    {
+                      "query": "path:Models",
+                      "color": {
+                        "a": 1,
+                        "rgb": 255
+                      }
+                    },
+                    {
+                      "query": "path:Subjects",
+                      "color": {
+                        "a": 1,
+                        "rgb": 32512
+                      }
+                    },
+                    {
+                      "query": "path:Reference",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16776960
+                      }
+                    },
+                    {
+                      "query": "path:Collection",
+                      "color": {
+                        "a": 1,
+                        "rgb": 0
+                      }
+                    },
+                    {
+                      "query": "",
+                      "color": {
+                        "a": 1,
+                        "rgb": 6073814
+                      }
+                    },
+                    {
+                      "query": "path:Notes",
+                      "color": {
+                        "a": 1,
+                        "rgb": 65280
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0.1,
+                  "nodeSizeMultiplier": 3.22014705882353,
+                  "lineSizeMultiplier": 3.88875455966649,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.9665115767736201,
+                  "close": false
+                }
+              }
+            }
+          },
+          {
+            "id": "279d9f45402a868d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 394
+  },
+  "active": "2fcd258dc18f3a91",
+  "lastOpenFiles": [
+    "Study/Study.md",
+    "DailyNotes/2022-10-13.md",
+    "DailyNotes/2022-10-02.md",
+    "DailyNotes/2022-10-12.md",
+    "Subjects/Economics/通用经济与金融/2022年度诺贝尔经济学奖介绍.md",
+    "Subjects/Codes/Languages/Julia/Julia基础/Julia切换镜像源.md",
+    "Subjects/Codes/Languages/Julia/Julia基础/Julia部署.md",
+    "Subjects/Codes/Languages/Julia/Julia基础.md",
+    "DailyNotes/2022-10-09.md",
+    "Subjects/Codes/Languages/Julia/Julia基础/Julia部署Pkg包.md"
+  ]
+}

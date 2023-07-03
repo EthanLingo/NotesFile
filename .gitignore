@@ -6,7 +6,6 @@ Projects
 Reference
 Thoughts
 
-.obsidian_win/
 
 ######
 
@@ -84,8 +83,10 @@ Temporary Items
 
 ### Obsidian ###
 # config dir
-.obsidian/
-!.obsidian/workspaces.json
+.obsidian_win/plugins
+.obsidian/plugins
+
+
 
 ### Windows ###
 # Windows thumbnail cache files

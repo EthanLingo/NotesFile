@@ -1,0 +1,56 @@
+
+.theme-light
+{
+  --background-primary: #ffffff;
+  --background-primary-alt: #fffaea;
+  --background-secondary: #ffffff;
+  --background-secondary-alt: #ffecae;
+  --text-normal: #000000;
+  --text-faint: #000000;
+  --text-title-h1: #000000;
+  --text-title-h2: hsl(0, 0%, 0%);
+  --text-title-h3: #000000;
+  --text-title-h4: #000000;
+  --text-title-h5: #000000;
+  --text-link: #B4B4B4;
+  --text-a: #db4d52;
+  --text-a-hover: #db4d52;
+  --text-mark: #D3FFA4;
+  --pre-code: #9bffbc;
+  --interactive-accent: #fcd249;
+  --interactive-before: #5e6565;
+  --background-modifier-border: #92a1a17a;
+  --blockquote-border: #fffaea;
+  --tag-background: #A7B0B3;
+  --interactive-accent-rgb: #db4d52;
+  --font-family-editor: "Vollkorn";
+  --font-family-preview: "Times";
+}
+
+.theme-dark
+{
+  --background-primary: #1E2022;
+  --background-primary-alt: #1E2022;
+  --background-secondary: #1E2022;
+  --background-secondary-alt: #2E3236;
+  --text-normal: #DDDDDD;
+  --text-faint: #B2B2B2;
+  --text-title-h1: #CBDBE5;
+  --text-title-h2: #CBDBE5;
+  --text-title-h3: #CBDBE5;
+  --text-title-h4: #CBDBE5;
+  --text-title-h5: #CBDBE5;
+  --text-link: #B4B4B4;
+  --text-a: #6BCAFB;
+  --text-a-hover: #6BCAFB;
+  --text-mark: #263D92;
+  --pre-code: #252525;
+  --interactive-accent: #92A1A1;
+  --interactive-before: #5e6565;
+  --background-modifier-border: #92a1a17a;
+  --blockquote-border: #4AA8FB;
+  --tag-background: #A7B0B3;
+  --interactive-accent-rgb: #6BCAFB;
+  --font-family-editor: "Vollkorn";
+  --font-family-preview: "Times";
+}
