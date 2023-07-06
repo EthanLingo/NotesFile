@@ -1,4 +1,4 @@
-# Unity Compute Shader相关知识点AI问答
+# Unity Computer Shader相关知识点AI问答
 
 
 
