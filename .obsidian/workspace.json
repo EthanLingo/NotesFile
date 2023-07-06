@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#内容/算法与数据结构",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -106,7 +106,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "ad10d2d7286cd1fe",
@@ -119,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "subjects/人工智能/数学证明/AI数学证明.md"
+                "file": "Study/学习数学系统科学物理学.md"
               }
             }
           }
@@ -192,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "subjects/人工智能/数学证明/AI数学证明.md",
+                "file": "Study/学习数学系统科学物理学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "subjects/人工智能/数学证明/AI数学证明.md",
+                "file": "Study/学习数学系统科学物理学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "subjects/人工智能/数学证明/AI数学证明.md",
+                "file": "Study/学习数学系统科学物理学.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -337,22 +338,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "command-palette:Open command palette": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "markdown-importer:Open format converter": false,
-      "zk-prefixer:Create new unique note": false,
-      "random-note:Open random note": false,
-      "audio-recorder:Start/stop recording": false,
-      "workspaces:Manage workspace layouts": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "random-note:开始漫游笔记": false,
+      "audio-recorder:开始/结束录音": false,
+      "workspaces:管理工作区布局": false,
       "juggl:Juggl global graph": false,
       "open-vscode:VSCode": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian42-text-transporter:Obsidian42 - Text Transporter": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-wordnet-plugin:WordNet Dictionary": false,
       "copilot:Copilot Chat": false
     }
@@ -398,7 +399,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "subjects/人工智能/数学证明/AI数学证明.md",
+                        "file": "Study/学习数学系统科学物理学.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -585,9 +586,9 @@
           }
         ],
         "direction": "vertical",
-        "x": 0,
-        "y": 67,
-        "width": 1506,
+        "x": 701,
+        "y": 525,
+        "width": 1158,
         "height": 915,
         "maximize": false,
         "zoom": 0
@@ -612,7 +613,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "subjects/人工智能/数学证明/AI数学证明.md"
+                        "file": "Study/学习数学系统科学物理学.md"
                       }
                     }
                   }
@@ -629,7 +630,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "subjects/人工智能/数学证明/AI数学证明.md",
+                        "file": "Study/学习数学系统科学物理学.md",
                         "options": {
                           "collapse-filter": false,
                           "search": "",
@@ -805,7 +806,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "subjects/人工智能/数学证明/AI数学证明.md",
+                        "file": "Study/学习数学系统科学物理学.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -828,7 +829,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "subjects/人工智能/数学证明/AI数学证明.md",
+                        "file": "Study/学习数学系统科学物理学.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -841,11 +842,11 @@
           }
         ],
         "direction": "vertical",
-        "x": 144,
-        "y": 134,
-        "width": 1512,
+        "x": 701,
+        "y": 258,
+        "width": 1158,
         "height": 944,
-        "maximize": true,
+        "maximize": false,
         "zoom": -1
       },
       {
@@ -868,7 +869,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "subjects/人工智能/数学证明/AI数学证明.md"
+                        "file": "Study/学习数学系统科学物理学.md"
                       }
                     }
                   }
@@ -885,7 +886,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "subjects/人工智能/数学证明/AI数学证明.md",
+                        "file": "Study/学习数学系统科学物理学.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1077,7 +1078,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "subjects/人工智能/数学证明/AI数学证明.md",
+                        "file": "Study/学习数学系统科学物理学.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1100,7 +1101,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "subjects/人工智能/数学证明/AI数学证明.md",
+                        "file": "Study/学习数学系统科学物理学.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1113,9 +1114,9 @@
           }
         ],
         "direction": "vertical",
-        "x": 27,
-        "y": 38,
-        "width": 1461,
+        "x": 701,
+        "y": 258,
+        "width": 1158,
         "height": 944,
         "maximize": false,
         "zoom": -1
@@ -1140,7 +1141,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "subjects/人工智能/数学证明/AI数学证明.md"
+                        "file": "Study/学习数学系统科学物理学.md"
                       }
                     }
                   }
@@ -1157,7 +1158,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "subjects/人工智能/数学证明/AI数学证明.md",
+                        "file": "Study/学习数学系统科学物理学.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1322,8 +1323,7 @@
                   }
                 }
               }
-            ],
-            "currentTab": 4
+            ]
           },
           {
             "id": "8edcbf4835ed975b",
@@ -1340,7 +1340,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "subjects/人工智能/数学证明/AI数学证明.md",
+                        "file": "Study/学习数学系统科学物理学.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1363,7 +1363,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "subjects/人工智能/数学证明/AI数学证明.md",
+                        "file": "Study/学习数学系统科学物理学.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1376,10 +1376,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 189,
-        "y": 106,
-        "width": 1238,
-        "height": 876,
+        "x": 480,
+        "y": 25,
+        "width": 1600,
+        "height": 1415,
         "maximize": false,
         "zoom": 0
       },
@@ -1402,7 +1402,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "subjects/人工智能/数学证明/AI数学证明.md"
+                        "file": "Study/学习数学系统科学物理学.md"
                       }
                     }
                   }
@@ -1418,7 +1418,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "subjects/人工智能/数学证明/AI数学证明.md",
+                        "file": "Study/学习数学系统科学物理学.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1543,7 +1543,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "Subjects/Game/DOTS/DOTS学习笔记.md",
-                    "mode": "source",
+                    "mode": "preview",
                     "source": false
                   },
                   "pinned": true
@@ -1562,9 +1562,21 @@
                   },
                   "pinned": true
                 }
+              },
+              {
+                "id": "011143105d3cf8e1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Subjects/Codes/Languages/Compute Shader/Unity Computer Shader相关知识点AI问答.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
               }
             ],
-            "currentTab": 2
+            "currentTab": 1
           },
           {
             "id": "2677eddafa0c3c68",
@@ -1581,7 +1593,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "subjects/人工智能/数学证明/AI数学证明.md",
+                        "file": "Study/学习数学系统科学物理学.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1604,7 +1616,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "subjects/人工智能/数学证明/AI数学证明.md",
+                        "file": "Study/学习数学系统科学物理学.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1617,11 +1629,11 @@
           }
         ],
         "direction": "vertical",
-        "x": 144,
-        "y": 134,
+        "x": 524,
+        "y": 258,
         "width": 1512,
         "height": 944,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       },
       {
@@ -1644,7 +1656,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "subjects/人工智能/数学证明/AI数学证明.md"
+                        "file": "Study/学习数学系统科学物理学.md"
                       }
                     }
                   }
@@ -1661,7 +1673,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "subjects/人工智能/数学证明/AI数学证明.md",
+                        "file": "Study/学习数学系统科学物理学.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1832,7 +1844,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "subjects/人工智能/数学证明/AI数学证明.md",
+                        "file": "Study/学习数学系统科学物理学.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1855,7 +1867,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "subjects/人工智能/数学证明/AI数学证明.md",
+                        "file": "Study/学习数学系统科学物理学.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1868,11 +1880,11 @@
           }
         ],
         "direction": "vertical",
-        "x": 144,
-        "y": 134,
-        "width": 1512,
+        "x": 701,
+        "y": 258,
+        "width": 1158,
         "height": 944,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       },
       {
@@ -1895,7 +1907,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "subjects/人工智能/数学证明/AI数学证明.md"
+                        "file": "Study/学习数学系统科学物理学.md"
                       }
                     }
                   }
@@ -1912,7 +1924,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "subjects/人工智能/数学证明/AI数学证明.md",
+                        "file": "Study/学习数学系统科学物理学.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -2046,7 +2058,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "subjects/人工智能/数学证明/AI数学证明.md",
+                        "file": "Study/学习数学系统科学物理学.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -2069,7 +2081,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "subjects/人工智能/数学证明/AI数学证明.md",
+                        "file": "Study/学习数学系统科学物理学.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -2082,9 +2094,9 @@
           }
         ],
         "direction": "vertical",
-        "x": 219,
-        "y": 38,
-        "width": 1293,
+        "x": 867,
+        "y": 258,
+        "width": 1158,
         "height": 944,
         "maximize": false,
         "zoom": 0
@@ -2109,7 +2121,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "subjects/人工智能/数学证明/AI数学证明.md"
+                        "file": "Study/学习数学系统科学物理学.md"
                       }
                     }
                   }
@@ -2126,7 +2138,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "subjects/人工智能/数学证明/AI数学证明.md",
+                        "file": "Study/学习数学系统科学物理学.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -2258,6 +2270,18 @@
                 }
               },
               {
+                "id": "7f610c744633ce1c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes/电子果蝇神经网络.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
                 "id": "5043b21c9564260c",
                 "type": "leaf",
                 "pinned": true,
@@ -2283,6 +2307,14 @@
                     "source": false
                   },
                   "pinned": true
+                }
+              },
+              {
+                "id": "b67e0803b6ccf6e2",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
                 }
               },
               {
@@ -2340,19 +2372,31 @@
                 }
               },
               {
-                "id": "b67e0803b6ccf6e2",
+                "id": "23ceb8fbc65efa70",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "subjects/人工智能/数学证明/AI数学证明.md",
+                    "file": "Subjects/人工智能/通用人工智能/_Index_of_通用人工智能.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "c7a2a70f2270c385",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Study/学习He4o.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
             ],
-            "currentTab": 8
+            "currentTab": 11
           },
           {
             "id": "159941faed59d868",
@@ -2369,7 +2413,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "subjects/人工智能/数学证明/AI数学证明.md",
+                        "file": "Study/学习数学系统科学物理学.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -2392,7 +2436,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "subjects/人工智能/数学证明/AI数学证明.md",
+                        "file": "Study/学习数学系统科学物理学.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -2405,30 +2449,46 @@
           }
         ],
         "direction": "vertical",
-        "x": 144,
-        "y": 134,
-        "width": 1512,
-        "height": 944,
-        "maximize": true,
+        "x": 263,
+        "y": 76,
+        "width": 1773,
+        "height": 1126,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "e6b5eb5a09a11503",
+  "active": "629e2ab3131a680a",
   "lastOpenFiles": [
-    "Subjects/人工智能/数学证明/AI数学证明.md",
-    "Subjects/人工智能/数学证明/_Index_of_数学证明.md",
-    "Subjects/人工智能/数学证明",
-    "Projects/EntelechySystem_theory/sync.ffs_lock",
-    "Projects/ComplexAgentsGame_design/sync.ffs_lock",
     "Subjects/Economics/sync.ffs_lock",
     "Subjects/sync.ffs_lock",
     "Reference_zotfile/sync.ffs_lock",
     "Reference/sync.ffs_lock",
     "Projects/SystemicRisk_project/sync.ffs_lock",
-    "Subjects/语言/NLP基础：常见语言学缩写.md",
-    "subjects/人工智能/数学证明/AI数学证明.md",
+    "Projects/EntelechySystem_theory/sync.ffs_lock",
+    "Projects/ComplexAgentsGame_design/sync.ffs_lock",
+    "Notes/学习图神经网络和组合优化.md",
+    "Notes/学习因果涌现.md",
+    "Study/学习图网络.md",
+    "Study/学习He4o.md",
     "Study/学习通用人工智能.md",
+    "Notes/电子果蝇神经网络.md",
+    "Subjects/人工智能/通用人工智能/_Index_of_通用人工智能.md",
+    "Study/学习大语言模型.md",
+    "Study/学习BrainSimII、fanshemoxing.md",
+    "Subjects/IT/算法与数据结构/二叉树三种遍历统一风格非递归写法.md",
+    "sync.ffs_lock",
+    "Thoughts/sync.ffs_lock",
+    "DailyNotes/2023-07-06.md",
+    "Subjects/Codes/Languages/Python/Python基础/Python操作字符串.md",
+    "Subjects/Game/DOTS/DOTS学习笔记.md",
+    "Subjects/语言/NLP基础：常见语言学缩写.md",
+    "Notes/Unity3D第三方插件Agent Navigation学习笔记.md",
+    "Subjects/Codes/Languages/Compute Shader/Unity Computer Shader相关知识点AI问答.md",
+    "subjects/人工智能/数学证明/AI数学证明.md",
+    "Subjects/人工智能/数学证明/AI数学证明.md",
+    "Subjects/人工智能/数学证明/_Index_of_数学证明.md",
+    "Subjects/人工智能/数学证明",
     "subjects/人工智能/通用人工智能/思考/六顶思考帽.assets/六顶思考帽.gif",
     "subjects/人工智能/通用人工智能/NARS/NARS的一些视频会议笔记.assets/IMG_3293.JPG",
     "subjects/人工智能/通用人工智能/NARS/NARS的一些视频会议笔记.assets/IMG_3293-9173390.JPG",
@@ -2441,26 +2501,10 @@
     "subjects/人工智能/认知人工智能/讲座_李嫣然_常识因果在AI认知的进展_2021-11-06.assets/IMG_3614.PNG",
     "subjects/人工智能/通用人工智能/北冥星辰AI/北冥星辰通用人工智能.md",
     "subjects/人工智能/通用人工智能/思考/六顶思考帽.md",
-    "subjects/人工智能/通用人工智能/思考/六顶思考帽.assets",
     "subjects/人工智能/通用人工智能/NARS/_Index_of_NARS.md",
     "subjects/人工智能/通用人工智能/NARS/NARS简介（翻译）.md",
     "subjects/人工智能/通用人工智能/NARS/NARS相关项目.md",
-    "subjects/人工智能/通用人工智能/NARS/NARS的一些视频会议笔记.assets",
     "subjects/人工智能/通用人工智能/NARS/NARS的一些视频会议笔记.md",
-    "subjects/人工智能/通用人工智能/NARS/NARS一些资料.md",
-    "subjects/人工智能/认知人工智能/讲座_李嫣然_常识因果在AI认知的进展_2021-11-06.md",
-    "subjects/人工智能/通用人工智能/虚构开放大世界建模（转载）.md",
-    "subjects/人工智能/认知人工智能/认知人工智能.md",
-    "subjects/人工智能/认知人工智能/MetaCat工具.md",
-    "subjects/人工智能/通用人工智能/朱松纯：浅谈人工智能：现状、任务、构架与统一.md",
-    "subjects/人工智能/通用人工智能/一种能阅读和对话的类脑智能意识系统的设想与架构.md",
-    "subjects/人工智能/通用人工智能/_Index_of_通用人工智能.md",
-    "subjects/人工智能/自生成结构/技术演化和电路进化计算机仿真模型.md",
-    "subjects/人工智能/自生成结构/_Index_of_自生成结构.md",
-    "subjects/人工智能/自生成结构/Tierra人工世界：竞争有机体.md",
-    "subjects/人工智能/自然语言/NLP 自然语言处理技术介绍.md",
-    "subjects/人工智能/自然语言/_Index_of_自然语言.md",
-    "subjects/人工智能/知识图谱/知识图谱论坛2022.md",
     "Untitled.canvas"
   ]
 }

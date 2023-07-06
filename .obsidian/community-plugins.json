@@ -54,5 +54,6 @@
   "copy-as-latex",
   "obsidian-excel-to-markdown-table",
   "obsidian-latex-suite",
-  "markdown-prettifier"
+  "markdown-prettifier",
+  "obsidian-tasks-plugin"
 ]
