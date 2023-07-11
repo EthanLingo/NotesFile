@@ -22,13 +22,11 @@
             }
           },
           {
-            "id": "ae4ce4ba7b386dca",
+            "id": "1aea2e5b43d01d98",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "graph",
-              "state": {},
-              "pinned": true
+              "state": {}
             }
           }
         ],
@@ -576,10 +574,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 341,
-        "y": 251,
-        "width": 1698,
-        "height": 1045,
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 680,
         "maximize": false,
         "zoom": 0
       },
@@ -1094,10 +1092,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 27,
-        "y": 48,
-        "width": 1462,
-        "height": 1086,
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 680,
         "maximize": false,
         "zoom": -1
       },
@@ -1283,17 +1281,9 @@
                     "source": false
                   }
                 }
-              },
-              {
-                "id": "fac70a037032bfcf",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                }
               }
             ],
-            "currentTab": 4
+            "currentTab": 3
           },
           {
             "id": "8edcbf4835ed975b",
@@ -1345,10 +1335,10 @@
         ],
         "direction": "vertical",
         "x": 189,
-        "y": 137,
+        "y": 0,
         "width": 1238,
-        "height": 876,
-        "maximize": false,
+        "height": 1400,
+        "maximize": true,
         "zoom": 0
       },
       {
@@ -1850,10 +1840,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 144,
-        "y": 134,
-        "width": 1512,
-        "height": 944,
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 680,
         "maximize": false,
         "zoom": 0
       },
@@ -2059,10 +2049,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 269,
-        "y": 94,
-        "width": 1294,
-        "height": 1060,
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 680,
         "maximize": false,
         "zoom": 0
       },
@@ -2369,13 +2359,26 @@
         "y": 170,
         "width": 1800,
         "height": 1125,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "ae4ce4ba7b386dca",
+  "active": "1aea2e5b43d01d98",
   "lastOpenFiles": [
+    "Study/学习图网络.md",
+    "Subjects/人工智能/数学证明/_Index_of_数学证明.md",
+    "Subjects/人工智能/数学证明/AI数学证明.md",
+    "Subjects/人工智能/数学证明",
+    "Notes/电子果蝇神经网络.md",
+    "Study/学习计算科学.md",
+    "DailyNotes/2023-07-04.md",
+    "Notes/Unity3D工具包ML-Agents.md",
+    "Study/学习NARS系统.md",
+    "Study/学习BrainSimII、fanshemoxing.md",
+    "Study/Study.md",
+    "DailyNotes/2023-07-03.md",
+    "Notes/学习因果涌现.md",
     "Subjects/Economics/sync.ffs_lock",
     "Subjects/sync.ffs_lock",
     "Reference_zotfile/sync.ffs_lock",
@@ -2387,9 +2390,6 @@
     "Projects/ComplexAgentsGame_design/Design/冲出重围/冲出重围.assets/image-20230610205157246.png",
     "Projects/ComplexAgentsGame_design/Design/冲出重围/冲出重围.md",
     "Projects/ComplexAgentsGame_design/Design/冲出重围/冲出重围.assets",
-    "Projects/ComplexAgentsGame_design/Design/冲出重围",
-    "Notes/Unity3D工具包ML-Agents.md",
-    "Study/Study.md",
     "Notes/ML-Agents结合Computer Shader技术或者DOTS技术.md",
     "Notes/Unity3D第三方插件Agent Navigation学习笔记.md",
     "Study/学习多媒体艺术.md",
@@ -2400,19 +2400,9 @@
     "DailyNotes/2023-07-02.md",
     "DailyNotes/2023-06-30.md",
     "DailyNotes/2023-06-22.md",
-    "Thoughts/sync.ffs_lock",
     "Notes/评论一篇文章的要求、步骤.md",
     "Notes/学习图神经网络和组合优化.md",
-    "Study/学习NARS系统.md",
     "Subjects/IT/算法与数据结构/二叉树三种遍历统一风格非递归写法.md",
-    "Study/学习图网络.md",
-    "Notes/学习因果涌现.md",
-    "Study/学习数学系统科学物理学.md",
-    "Management/template/markdown_file_template_for_obsidian_项目.md",
-    "Management/template/markdown_file_template_for_obsidian_项目 20.45.07.md",
-    "Management/template/markdown_file_template_for_obsidian_项目 copy.md",
-    "Subjects/Codes/Languages/Compute Shader/_Index_of_Compute Shader.md",
-    "Subjects/Subjects.md",
     "Projects/ComplexAgentsGame_design/Design/突破重围/突破重围.assets/image-20230610205157246.png",
     "Subjects/Codes/Programming/可视化工具/如何画出漂亮的神经网络图？神经网络可视化工具集锦搜集.assets/640-20230610174500606.png",
     "Subjects/Codes/Programming/可视化工具/如何画出漂亮的神经网络图？神经网络可视化工具集锦搜集.assets/640-20230610174500550.png",
