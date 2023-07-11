@@ -72,6 +72,50 @@ public class MyJobSystem : SystemBase
 
 总之，这些方法的区别在于它们所选择的实体的组件和属性。
 
+#### TransformUsageFlags
+
+> [!question] 
+> `TransformUsageFlags`有哪些枚举值？分别表示什么意思？
+
+`TransformUsageFlags`是一个枚举，它定义了在Unity ECS中用于指定实体转换应该如何被应用的标志。以下是该枚举的所有值以及它们的含义：
+
+- `None`: 不应用任何转换标志。
+- `Position`: 应用实体的位置转换。
+- `Rotation`: 应用实体的旋转转换。
+- `Scale`: 应用实体的缩放转换。
+- `ScaleXY`: 应用实体的X轴和Y轴缩放转换，但不应用Z轴缩放转换。
+- `ScaleXZ`: 应用实体的X轴和Z轴缩放转换，但不应用Y轴缩放转换。
+- `ScaleYZ`: 应用实体的Y轴和Z轴缩放转换，但不应用X轴缩放转换。
+- `ScaleXYZ`: 应用实体的X轴、Y轴和Z轴缩放转换。
+
+这些标志可以通过按位或（`|`）操作组合在一起，以表示需要应用的转换类型。例如，将`Position`和`Rotation`组合在一起，可以将实体的位置和旋转应用到它的转换中：
+
+```
+var flags = TransformUsageFlags.Position | TransformUsageFlags.Rotation;
+var entity = GetEntity(flags);
+```
+
+
+## Query
+
+
+#### 辨析`configQuery.GetSingleton`、`state.EntityManager.GetComponentObject`
+
+> [!question]
+> `configQuery.GetSingleton<Config>();`与` state.EntityManager.GetComponentObject<Managed>(state.SystemHandle);`有什么不同？
+
+`configQuery.GetSingleton<Config>()`和`state.EntityManager.GetComponentObject<Managed>(state.SystemHandle)`这两个函数在使用上有很大的不同。
+
+首先，`configQuery.GetSingleton<Config>()`是从一个EntityQuery中获取一个指定组件类型的单例组件，它返回的是一个组件类型的实例。而`state.EntityManager.GetComponentObject<Managed>(state.SystemHandle)`是从实体管理器中获取一个指定组件类型的组件，它返回的是组件所在的Unity对象。
+
+其次，这两个函数的使用场景也不同。`configQuery.GetSingleton<Config>()`通常用于获取一个单例组件，比如游戏中的规则配置。而`state.EntityManager.GetComponentObject<Managed>(state.SystemHandle)`通常用于获取一个实体的Unity对象，以便在Unity中进行操作。比如，如果需要在实体上添加一个脚本组件，就可以使用这个函数来获取实体所在的Unity对象，并在Unity对象上添加脚本组件。
+
+最后，这两个函数的调用方式也不同。`configQuery.GetSingleton<Config>()`是在EntityQuery的上下文中调用的，需要先创建一个EntityQuery对象，然后使用该对象的方法来获取组件。而`state.EntityManager.GetComponentObject<Managed>(state.SystemHandle)`是在实体管理器中直接调用的，可以直接从实体管理器中获取组件。
+
+总之，`configQuery.GetSingleton<Config>()`和`state.EntityManager.GetComponentObject<Managed>(state.SystemHandle)`这两个函数在使用上有很大的不同。前者是从EntityQuery中获取单例组件实例，后者是从实体管理器中获取组件所在的Unity对象。它们的使用场景和调用方式也不同。
+
+
+
 
 ## System系统
 
@@ -128,6 +172,25 @@ public class MyJobSystem : SystemBase
 需要注意的是，`RequireForUpdate` 标记只有在实体发生变化时才会触发更新。因此，如果需要在某些条件满足时立即更新系统，可以使用 `World.EntityManager.CompleteAllJobs()` 方法强制完成所有作业（Jobs），以确保 `RequireForUpdate` 标记在下一帧中得到更新。
 
 总之，`RequireForUpdate` 标记可以帮助开发者更加灵活地控制系统的更新时机，从而提高游戏的性能和效率。
+
+
+
+## Physics
+
+#### PhysicsStep
+
+`PhysicsStep`是Unity.Entities中的一个组件，用于指定物理世界的模拟参数。
+
+在Unity.Entities中，组件是数据的基本单位，用于存储实体的状态和属性。`PhysicsStep`是一种组件，它包含了物理世界模拟的各种参数，例如模拟步长、求解器迭代次数、重力等。通过在物理世界的实体中添加`PhysicsStep`组件，可以控制物理世界的模拟参数，从而实现更加精确的物理模拟。
+
+`PhysicsStep`组件包含以下属性：
+- `SolverIterationCount`：求解器迭代次数。
+- `SolverStabilizationHeuristicSettings`：求解器稳定性启发式设置。
+- `Gravity`：物理世界的重力。
+- `SimulationType`：物理模拟类型，默认为`UnityPhysics`。
+- `SimulationType`属性指定了物理模拟的类型，可以是`UnityPhysics`或`HavokPhysics`。`SolverIterationCount`属性指定了求解器的迭代次数，`SolverStabilizationHeuristicSettings`属性则指定了求解器的稳定性启发式设置。`Gravity`属性指定了物理世界的重力。
+
+总之，`PhysicsStep`是一种组件，用于指定物理世界的模拟参数。使用`PhysicsStep`组件可以控制物理世界的模拟参数，从而实现更加精确的物理模拟。
 
 
 ## 未归类的问答
