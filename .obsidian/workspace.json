@@ -31,8 +31,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -62,21 +61,13 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#内容/算法与数据结构",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "73b8a1ab0dce42b3",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
             }
           },
           {
@@ -107,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "ad10d2d7286cd1fe",
@@ -120,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/学习数学系统科学物理学.md"
+                "file": "Study/Study.md"
               }
             }
           }
@@ -193,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/学习数学系统科学物理学.md",
+                "file": "Study/Study.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/学习数学系统科学物理学.md",
+                "file": "Study/Study.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +220,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Study/学习数学系统科学物理学.md",
+                "file": "Study/Study.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -399,7 +390,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Study/学习数学系统科学物理学.md",
+                        "file": "Study/Study.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -586,8 +577,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 701,
-        "y": 525,
+        "x": 321,
+        "y": 67,
         "width": 1158,
         "height": 915,
         "maximize": false,
@@ -613,7 +604,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Study/学习数学系统科学物理学.md"
+                        "file": "Study/Study.md"
                       }
                     }
                   }
@@ -630,7 +621,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Study/学习数学系统科学物理学.md",
+                        "file": "Study/Study.md",
                         "options": {
                           "collapse-filter": false,
                           "search": "",
@@ -806,7 +797,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Study/学习数学系统科学物理学.md",
+                        "file": "Study/Study.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -829,7 +820,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Study/学习数学系统科学物理学.md",
+                        "file": "Study/Study.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -842,8 +833,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 701,
-        "y": 258,
+        "x": 321,
+        "y": 38,
         "width": 1158,
         "height": 944,
         "maximize": false,
@@ -869,7 +860,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Study/学习数学系统科学物理学.md"
+                        "file": "Study/Study.md"
                       }
                     }
                   }
@@ -886,7 +877,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Study/学习数学系统科学物理学.md",
+                        "file": "Study/Study.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1078,7 +1069,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Study/学习数学系统科学物理学.md",
+                        "file": "Study/Study.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1101,7 +1092,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Study/学习数学系统科学物理学.md",
+                        "file": "Study/Study.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1114,8 +1105,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 701,
-        "y": 258,
+        "x": 321,
+        "y": 38,
         "width": 1158,
         "height": 944,
         "maximize": false,
@@ -1141,7 +1132,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Study/学习数学系统科学物理学.md"
+                        "file": "Study/Study.md"
                       }
                     }
                   }
@@ -1158,7 +1149,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Study/学习数学系统科学物理学.md",
+                        "file": "Study/Study.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1340,7 +1331,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Study/学习数学系统科学物理学.md",
+                        "file": "Study/Study.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1363,7 +1354,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Study/学习数学系统科学物理学.md",
+                        "file": "Study/Study.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1376,10 +1367,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 480,
-        "y": 25,
-        "width": 1600,
-        "height": 1415,
+        "x": 343,
+        "y": 106,
+        "width": 1158,
+        "height": 876,
         "maximize": false,
         "zoom": 0
       },
@@ -1402,7 +1393,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Study/学习数学系统科学物理学.md"
+                        "file": "Study/Study.md"
                       }
                     }
                   }
@@ -1418,7 +1409,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Study/学习数学系统科学物理学.md",
+                        "file": "Study/Study.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1543,7 +1534,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "Subjects/Game/DOTS/DOTS学习笔记.md",
-                    "mode": "preview",
+                    "mode": "source",
                     "source": false
                   },
                   "pinned": true
@@ -1576,7 +1567,7 @@
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 3
           },
           {
             "id": "2677eddafa0c3c68",
@@ -1593,7 +1584,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Study/学习数学系统科学物理学.md",
+                        "file": "Study/Study.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1616,7 +1607,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Study/学习数学系统科学物理学.md",
+                        "file": "Study/Study.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1629,11 +1620,11 @@
           }
         ],
         "direction": "vertical",
-        "x": 524,
-        "y": 258,
+        "x": 144,
+        "y": 134,
         "width": 1512,
         "height": 944,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       },
       {
@@ -1656,7 +1647,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Study/学习数学系统科学物理学.md"
+                        "file": "Study/Study.md"
                       }
                     }
                   }
@@ -1673,7 +1664,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Study/学习数学系统科学物理学.md",
+                        "file": "Study/Study.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1791,18 +1782,6 @@
                 }
               },
               {
-                "id": "079d0eebe4130d3b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Subjects/IT/算法与数据结构/二叉树三种遍历统一风格非递归写法.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              },
-              {
                 "id": "906feb9fd99ef898",
                 "type": "leaf",
                 "state": {
@@ -1826,8 +1805,7 @@
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "e464f1de621eb73f",
@@ -1844,7 +1822,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Study/学习数学系统科学物理学.md",
+                        "file": "Study/Study.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1867,7 +1845,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Study/学习数学系统科学物理学.md",
+                        "file": "Study/Study.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1880,8 +1858,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 701,
-        "y": 258,
+        "x": 321,
+        "y": 38,
         "width": 1158,
         "height": 944,
         "maximize": false,
@@ -1907,7 +1885,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Study/学习数学系统科学物理学.md"
+                        "file": "Study/Study.md"
                       }
                     }
                   }
@@ -1924,7 +1902,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Study/学习数学系统科学物理学.md",
+                        "file": "Study/Study.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -2058,7 +2036,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Study/学习数学系统科学物理学.md",
+                        "file": "Study/Study.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -2081,7 +2059,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Study/学习数学系统科学物理学.md",
+                        "file": "Study/Study.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -2094,8 +2072,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 867,
-        "y": 258,
+        "x": 354,
+        "y": 38,
         "width": 1158,
         "height": 944,
         "maximize": false,
@@ -2121,7 +2099,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Study/学习数学系统科学物理学.md"
+                        "file": "Study/Study.md"
                       }
                     }
                   }
@@ -2138,7 +2116,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Study/学习数学系统科学物理学.md",
+                        "file": "Study/Study.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -2413,7 +2391,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Study/学习数学系统科学物理学.md",
+                        "file": "Study/Study.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -2436,7 +2414,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Study/学习数学系统科学物理学.md",
+                        "file": "Study/Study.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -2449,16 +2427,16 @@
           }
         ],
         "direction": "vertical",
-        "x": 263,
-        "y": 76,
-        "width": 1773,
-        "height": 1126,
-        "maximize": false,
+        "x": 144,
+        "y": 134,
+        "width": 1512,
+        "height": 944,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "629e2ab3131a680a",
+  "active": "5ffff676023bc38c",
   "lastOpenFiles": [
     "Subjects/Economics/sync.ffs_lock",
     "Subjects/sync.ffs_lock",
@@ -2467,24 +2445,28 @@
     "Projects/SystemicRisk_project/sync.ffs_lock",
     "Projects/EntelechySystem_theory/sync.ffs_lock",
     "Projects/ComplexAgentsGame_design/sync.ffs_lock",
+    "Thoughts/sync.ffs_lock",
+    "sync.ffs_lock",
+    "Subjects/Codes/Languages/Compute Shader/Unity Computer Shader相关知识点AI问答.md",
+    "DailyNotes/2023-07-10.md",
+    "Subjects/Game/DOTS/DOTS学习笔记.md",
+    "Study/Study.md",
+    "DailyNotes/2023-07-08.md",
+    "Subjects/IT/算法与数据结构/二叉树三种遍历统一风格非递归写法.md",
+    "Study/学习He4o.md",
+    "Study/学习数学系统科学物理学.md",
     "Notes/学习图神经网络和组合优化.md",
     "Notes/学习因果涌现.md",
     "Study/学习图网络.md",
-    "Study/学习He4o.md",
     "Study/学习通用人工智能.md",
     "Notes/电子果蝇神经网络.md",
     "Subjects/人工智能/通用人工智能/_Index_of_通用人工智能.md",
     "Study/学习大语言模型.md",
     "Study/学习BrainSimII、fanshemoxing.md",
-    "Subjects/IT/算法与数据结构/二叉树三种遍历统一风格非递归写法.md",
-    "sync.ffs_lock",
-    "Thoughts/sync.ffs_lock",
     "DailyNotes/2023-07-06.md",
     "Subjects/Codes/Languages/Python/Python基础/Python操作字符串.md",
-    "Subjects/Game/DOTS/DOTS学习笔记.md",
     "Subjects/语言/NLP基础：常见语言学缩写.md",
     "Notes/Unity3D第三方插件Agent Navigation学习笔记.md",
-    "Subjects/Codes/Languages/Compute Shader/Unity Computer Shader相关知识点AI问答.md",
     "subjects/人工智能/数学证明/AI数学证明.md",
     "Subjects/人工智能/数学证明/AI数学证明.md",
     "Subjects/人工智能/数学证明/_Index_of_数学证明.md",
@@ -2501,10 +2483,6 @@
     "subjects/人工智能/认知人工智能/讲座_李嫣然_常识因果在AI认知的进展_2021-11-06.assets/IMG_3614.PNG",
     "subjects/人工智能/通用人工智能/北冥星辰AI/北冥星辰通用人工智能.md",
     "subjects/人工智能/通用人工智能/思考/六顶思考帽.md",
-    "subjects/人工智能/通用人工智能/NARS/_Index_of_NARS.md",
-    "subjects/人工智能/通用人工智能/NARS/NARS简介（翻译）.md",
-    "subjects/人工智能/通用人工智能/NARS/NARS相关项目.md",
-    "subjects/人工智能/通用人工智能/NARS/NARS的一些视频会议笔记.md",
     "Untitled.canvas"
   ]
 }
