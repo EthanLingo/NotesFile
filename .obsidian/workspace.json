@@ -30,8 +30,21 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "045bbe45dee8542e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Subjects/Game/DOTS/DOTS学习笔记.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,8 +110,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "ad10d2d7286cd1fe",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/Study.md"
+                "file": "Subjects/Game/DOTS/DOTS学习笔记.md"
               }
             }
           }
@@ -126,57 +138,9 @@
     "type": "split",
     "children": [
       {
-        "id": "d28e306a86a14568",
-        "type": "tabs",
-        "dimension": 31.747066492829205,
-        "children": [
-          {
-            "id": "a9caf942639bedbe",
-            "type": "leaf",
-            "state": {
-              "type": "online.larslockefeer.obsidian-plugin-todo",
-              "state": {}
-            }
-          },
-          {
-            "id": "63a3ecd00e0952c3",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_nodes",
-              "state": {}
-            }
-          },
-          {
-            "id": "53ad2c3f88efee93",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_style",
-              "state": {}
-            }
-          },
-          {
-            "id": "7e8a934f7d40cb52",
-            "type": "leaf",
-            "state": {
-              "type": "reminder-list",
-              "state": {}
-            }
-          },
-          {
-            "id": "0cf48eae27f37d01",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
         "id": "eca75cfe58f07c07",
         "type": "tabs",
-        "dimension": 27.11864406779661,
+        "dimension": 39.732569245463225,
         "children": [
           {
             "id": "f975bdba76e1287d",
@@ -184,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/Study.md",
+                "file": "Subjects/Game/DOTS/DOTS学习笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/Study.md",
+                "file": "Subjects/Game/DOTS/DOTS学习笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +176,7 @@
       {
         "id": "a7d269ab3cb09bcf",
         "type": "tabs",
-        "dimension": 41.134289439374186,
+        "dimension": 60.267430754536775,
         "children": [
           {
             "id": "ba65f30fa943ad4e",
@@ -220,7 +184,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Study/Study.md",
+                "file": "Subjects/Game/DOTS/DOTS学习笔记.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -312,14 +276,6 @@
                 }
               }
             }
-          },
-          {
-            "id": "279d9f45402a868d",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
         ]
       }
@@ -329,7 +285,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -340,13 +295,7 @@
       "zk-prefixer:创建时间戳笔记": false,
       "random-note:开始漫游笔记": false,
       "audio-recorder:开始/结束录音": false,
-      "workspaces:管理工作区布局": false,
-      "juggl:Juggl global graph": false,
-      "open-vscode:VSCode": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian42-text-transporter:Obsidian42 - Text Transporter": false,
-      "obsidian-wordnet-plugin:WordNet Dictionary": false,
-      "copilot:Copilot Chat": false
+      "workspaces:管理工作区布局": false
     }
   },
   "floating": {
@@ -390,7 +339,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Study/Study.md",
+                        "file": "Subjects/Game/DOTS/DOTS学习笔记.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -577,8 +526,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 321,
-        "y": 67,
+        "x": 30,
+        "y": 38,
         "width": 1158,
         "height": 915,
         "maximize": false,
@@ -604,7 +553,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Study/Study.md"
+                        "file": "Subjects/Game/DOTS/DOTS学习笔记.md"
                       }
                     }
                   }
@@ -621,7 +570,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Study/Study.md",
+                        "file": "Subjects/Game/DOTS/DOTS学习笔记.md",
                         "options": {
                           "collapse-filter": false,
                           "search": "",
@@ -797,7 +746,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Study/Study.md",
+                        "file": "Subjects/Game/DOTS/DOTS学习笔记.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -820,7 +769,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Study/Study.md",
+                        "file": "Subjects/Game/DOTS/DOTS学习笔记.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -833,7 +782,7 @@
           }
         ],
         "direction": "vertical",
-        "x": 321,
+        "x": 30,
         "y": 38,
         "width": 1158,
         "height": 944,
@@ -860,7 +809,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Study/Study.md"
+                        "file": "Subjects/Game/DOTS/DOTS学习笔记.md"
                       }
                     }
                   }
@@ -877,7 +826,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Study/Study.md",
+                        "file": "Subjects/Game/DOTS/DOTS学习笔记.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1069,7 +1018,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Study/Study.md",
+                        "file": "Subjects/Game/DOTS/DOTS学习笔记.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1092,7 +1041,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Study/Study.md",
+                        "file": "Subjects/Game/DOTS/DOTS学习笔记.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1105,11 +1054,11 @@
           }
         ],
         "direction": "vertical",
-        "x": 321,
-        "y": 38,
-        "width": 1158,
+        "x": 144,
+        "y": 134,
+        "width": 1512,
         "height": 944,
-        "maximize": false,
+        "maximize": true,
         "zoom": -1
       },
       {
@@ -1132,7 +1081,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Study/Study.md"
+                        "file": "Subjects/Game/DOTS/DOTS学习笔记.md"
                       }
                     }
                   }
@@ -1149,7 +1098,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Study/Study.md",
+                        "file": "Subjects/Game/DOTS/DOTS学习笔记.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1331,7 +1280,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Study/Study.md",
+                        "file": "Subjects/Game/DOTS/DOTS学习笔记.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1354,7 +1303,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Study/Study.md",
+                        "file": "Subjects/Game/DOTS/DOTS学习笔记.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1367,8 +1316,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 343,
-        "y": 106,
+        "x": 31,
+        "y": 38,
         "width": 1158,
         "height": 876,
         "maximize": false,
@@ -1393,7 +1342,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Study/Study.md"
+                        "file": "Subjects/Game/DOTS/DOTS学习笔记.md"
                       }
                     }
                   }
@@ -1409,7 +1358,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Study/Study.md",
+                        "file": "Subjects/Game/DOTS/DOTS学习笔记.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1548,26 +1497,14 @@
                   "type": "markdown",
                   "state": {
                     "file": "Notes/Unity3D第三方插件Agent Navigation学习笔记.md",
-                    "mode": "source",
+                    "mode": "preview",
                     "source": false
                   },
                   "pinned": true
                 }
-              },
-              {
-                "id": "011143105d3cf8e1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Subjects/Codes/Languages/Compute Shader/Unity Computer Shader相关知识点AI问答.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
               }
             ],
-            "currentTab": 3
+            "currentTab": 2
           },
           {
             "id": "2677eddafa0c3c68",
@@ -1584,7 +1521,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Study/Study.md",
+                        "file": "Subjects/Game/DOTS/DOTS学习笔记.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1607,7 +1544,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Study/Study.md",
+                        "file": "Subjects/Game/DOTS/DOTS学习笔记.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1620,8 +1557,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 144,
-        "y": 134,
+        "x": 524,
+        "y": 261,
         "width": 1512,
         "height": 944,
         "maximize": true,
@@ -1634,7 +1571,7 @@
           {
             "id": "4333f80132bddb1d",
             "type": "split",
-            "dimension": 17.0703125,
+            "dimension": 21.5,
             "children": [
               {
                 "id": "9bd38e6fd7582286",
@@ -1647,7 +1584,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Study/Study.md"
+                        "file": "Subjects/Game/DOTS/DOTS学习笔记.md"
                       }
                     }
                   }
@@ -1664,7 +1601,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Study/Study.md",
+                        "file": "Subjects/Game/DOTS/DOTS学习笔记.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1765,7 +1702,7 @@
           {
             "id": "8a5c807e8064ba33",
             "type": "tabs",
-            "dimension": 63.16406249999999,
+            "dimension": 53.94444444444444,
             "children": [
               {
                 "id": "da67d4f37c2f79d2",
@@ -1804,13 +1741,26 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "311c6ecc843353b0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Subjects/Codes/Programming/可视化工具/Matplotlib辨析plt、fig、axes.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 3
           },
           {
             "id": "e464f1de621eb73f",
             "type": "split",
-            "dimension": 19.765625,
+            "dimension": 24.555555555555557,
             "children": [
               {
                 "id": "58900c725314a1c6",
@@ -1822,7 +1772,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Study/Study.md",
+                        "file": "Subjects/Game/DOTS/DOTS学习笔记.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1845,7 +1795,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Study/Study.md",
+                        "file": "Subjects/Game/DOTS/DOTS学习笔记.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1858,11 +1808,11 @@
           }
         ],
         "direction": "vertical",
-        "x": 321,
-        "y": 38,
+        "x": 54,
+        "y": 44,
         "width": 1158,
         "height": 944,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       },
       {
@@ -1885,7 +1835,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Study/Study.md"
+                        "file": "Subjects/Game/DOTS/DOTS学习笔记.md"
                       }
                     }
                   }
@@ -1902,7 +1852,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Study/Study.md",
+                        "file": "Subjects/Game/DOTS/DOTS学习笔记.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -2036,7 +1986,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Study/Study.md",
+                        "file": "Subjects/Game/DOTS/DOTS学习笔记.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -2059,7 +2009,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Study/Study.md",
+                        "file": "Subjects/Game/DOTS/DOTS学习笔记.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -2072,7 +2022,7 @@
           }
         ],
         "direction": "vertical",
-        "x": 354,
+        "x": 33,
         "y": 38,
         "width": 1158,
         "height": 944,
@@ -2099,7 +2049,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Study/Study.md"
+                        "file": "Subjects/Game/DOTS/DOTS学习笔记.md"
                       }
                     }
                   }
@@ -2116,7 +2066,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Study/Study.md",
+                        "file": "Subjects/Game/DOTS/DOTS学习笔记.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -2288,14 +2238,6 @@
                 }
               },
               {
-                "id": "b67e0803b6ccf6e2",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                }
-              },
-              {
                 "id": "c2edcdff89819092",
                 "type": "leaf",
                 "pinned": true,
@@ -2324,20 +2266,6 @@
                 }
               },
               {
-                "id": "5ee2e82d13ee8ef3",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Projects/fanshemoxing_hujinning/fanshemoxing_hujinning基本思想_20220919.md",
-                    "mode": "preview",
-                    "source": false
-                  },
-                  "pinned": true
-                }
-              },
-              {
                 "id": "92c93a7f828c5a6b",
                 "type": "leaf",
                 "state": {
@@ -2348,33 +2276,9 @@
                     "source": false
                   }
                 }
-              },
-              {
-                "id": "23ceb8fbc65efa70",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Subjects/人工智能/通用人工智能/_Index_of_通用人工智能.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "c7a2a70f2270c385",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Study/学习He4o.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
               }
             ],
-            "currentTab": 11
+            "currentTab": 5
           },
           {
             "id": "159941faed59d868",
@@ -2391,7 +2295,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Study/Study.md",
+                        "file": "Subjects/Game/DOTS/DOTS学习笔记.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -2414,7 +2318,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Study/Study.md",
+                        "file": "Subjects/Game/DOTS/DOTS学习笔记.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -2427,8 +2331,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 144,
-        "y": 134,
+        "x": 524,
+        "y": 261,
         "width": 1512,
         "height": 944,
         "maximize": true,
@@ -2436,7 +2340,7 @@
       }
     ]
   },
-  "active": "5ffff676023bc38c",
+  "active": "045bbe45dee8542e",
   "lastOpenFiles": [
     "Subjects/Economics/sync.ffs_lock",
     "Subjects/sync.ffs_lock",
@@ -2445,31 +2349,33 @@
     "Projects/SystemicRisk_project/sync.ffs_lock",
     "Projects/EntelechySystem_theory/sync.ffs_lock",
     "Projects/ComplexAgentsGame_design/sync.ffs_lock",
+    "Subjects/Codes/Programming/可视化工具/Matplotlib辨析plt、fig、axes.md",
     "Thoughts/sync.ffs_lock",
     "sync.ffs_lock",
-    "Subjects/Codes/Languages/Compute Shader/Unity Computer Shader相关知识点AI问答.md",
-    "DailyNotes/2023-07-10.md",
-    "Subjects/Game/DOTS/DOTS学习笔记.md",
     "Study/Study.md",
-    "DailyNotes/2023-07-08.md",
-    "Subjects/IT/算法与数据结构/二叉树三种遍历统一风格非递归写法.md",
-    "Study/学习He4o.md",
-    "Study/学习数学系统科学物理学.md",
-    "Notes/学习图神经网络和组合优化.md",
-    "Notes/学习因果涌现.md",
-    "Study/学习图网络.md",
-    "Study/学习通用人工智能.md",
-    "Notes/电子果蝇神经网络.md",
-    "Subjects/人工智能/通用人工智能/_Index_of_通用人工智能.md",
+    "Subjects/Softwares/Obsidian/Obsidian 相关的链接.md",
+    "Notes/Obsidian 相关的链接~.md",
     "Study/学习大语言模型.md",
+    "DailyNotes/2023-07-26.md",
+    "Projects/ComplexAgentsGame_design/Collection/Python生成地形贴图.md",
+    "Projects/ComplexAgentsGame_design/Collection/未命名.md",
+    "Projects/ComplexAgentsGame_design/Notes/Unity生成地形.md",
+    "Projects/ComplexAgentsGame_design/Collection/Unity生成地形.md",
+    "Projects/ComplexAgentsGame_design/Collection/生成地形.md",
+    "DailyNotes/2023-07-25.md",
+    "Study/学习NARS系统.md",
+    "Notes/经济方法ABM建模相关工具.md",
+    "Study/学习多智能体强化学习.md",
+    "Study/学习计算科学.md",
+    "Study/学习数学系统科学物理学.md",
+    "Study/学习通用人工智能.md",
     "Study/学习BrainSimII、fanshemoxing.md",
-    "DailyNotes/2023-07-06.md",
-    "Subjects/Codes/Languages/Python/Python基础/Python操作字符串.md",
-    "Subjects/语言/NLP基础：常见语言学缩写.md",
-    "Notes/Unity3D第三方插件Agent Navigation学习笔记.md",
-    "subjects/人工智能/数学证明/AI数学证明.md",
-    "Subjects/人工智能/数学证明/AI数学证明.md",
-    "Subjects/人工智能/数学证明/_Index_of_数学证明.md",
+    "DailyNotes/2023-07-23.md",
+    "DailyNotes/2023-07-20.md",
+    "DailyNotes/2023-07-18.md",
+    "Study/学习经管社科类.md",
+    "DailyNotes/2023-07-16.md",
+    "Notes/Matplotlib速查.md",
     "Subjects/人工智能/数学证明",
     "subjects/人工智能/通用人工智能/思考/六顶思考帽.assets/六顶思考帽.gif",
     "subjects/人工智能/通用人工智能/NARS/NARS的一些视频会议笔记.assets/IMG_3293.JPG",
@@ -2481,8 +2387,6 @@
     "subjects/人工智能/认知人工智能/讲座_李嫣然_常识因果在AI认知的进展_2021-11-06.assets/IMG_3616.jpeg",
     "subjects/人工智能/认知人工智能/讲座_李嫣然_常识因果在AI认知的进展_2021-11-06.assets/IMG_3615.jpeg",
     "subjects/人工智能/认知人工智能/讲座_李嫣然_常识因果在AI认知的进展_2021-11-06.assets/IMG_3614.PNG",
-    "subjects/人工智能/通用人工智能/北冥星辰AI/北冥星辰通用人工智能.md",
-    "subjects/人工智能/通用人工智能/思考/六顶思考帽.md",
     "Untitled.canvas"
   ]
 }

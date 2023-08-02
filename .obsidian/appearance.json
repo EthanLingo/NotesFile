@@ -7,5 +7,6 @@
   ],
   "interfaceFontFamily": "Times New Roman,Songti SC,华文中宋",
   "textFontFamily": "Times New Roman,Songti SC,华文中宋",
-  "accentColor": ""
+  "accentColor": "#8a5700",
+  "translucency": false
 }
