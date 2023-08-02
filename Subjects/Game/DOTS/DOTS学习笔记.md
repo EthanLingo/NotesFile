@@ -7,7 +7,7 @@ tags: #日期/2023-04-22 #类型/AI问答笔记 #内容/DOTS
 
 
 > [!attention]
-> 以下由AI回答，不保证正确性！
+> 以下由AI回答，有些地方掺入了个人笔记与理解。仅供参考，不保证正确性！
 
 
 # 手写笔记系列
@@ -114,7 +114,15 @@ var entity = GetEntity(flags);
 
 总之，`configQuery.GetSingleton<Config>()`和`state.EntityManager.GetComponentObject<Managed>(state.SystemHandle)`这两个函数在使用上有很大的不同。前者是从EntityQuery中获取单例组件实例，后者是从实体管理器中获取组件所在的Unity对象。它们的使用场景和调用方式也不同。
 
+### 查询条件检索方法 `WithAll` 等方法
 
+`WithAll`方法：查询同时拥有指定组件的实体。相当于求交集；
+
+`WithAny`方法：查询具有任何一个指定组件的实体。相当于求并集；
+
+`Without`方法：查询不拥有指定组件的实体。相当于求并集然后取反；
+
+`WithNone`方法：查询不拥有指定任何一个组件的实体。相当于求交集然后取反；
 
 
 ## System系统
