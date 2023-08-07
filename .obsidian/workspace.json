@@ -30,21 +30,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "045bbe45dee8542e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Subjects/Game/DOTS/DOTS学习笔记.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/Game/DOTS/DOTS学习笔记.md"
+                "file": "Subjects/Game/DOTS/DOTS 学习笔记.md"
               }
             }
           }
@@ -148,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/Game/DOTS/DOTS学习笔记.md",
+                "file": "Subjects/Game/DOTS/DOTS 学习笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/Game/DOTS/DOTS学习笔记.md",
+                "file": "Subjects/Game/DOTS/DOTS 学习笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Subjects/Game/DOTS/DOTS学习笔记.md",
+                "file": "Subjects/Game/DOTS/DOTS 学习笔记.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -197,13 +184,6 @@
                   "hideUnresolved": true,
                   "collapse-color-groups": true,
                   "colorGroups": [
-                    {
-                      "query": "path:Projects/EntelechySystem_theory",
-                      "color": {
-                        "a": 1,
-                        "rgb": 255
-                      }
-                    },
                     {
                       "query": "path:Thoughts",
                       "color": {
@@ -247,7 +227,7 @@
                       }
                     },
                     {
-                      "query": "path:Projects/ComplexAgentsGame_design",
+                      "query": "path:Projects/YeeGames_design",
                       "color": {
                         "a": 1,
                         "rgb": 16711680
@@ -257,7 +237,14 @@
                       "query": "path:Projects/SystemicRisk_project",
                       "color": {
                         "a": 1,
-                        "rgb": 65280
+                        "rgb": 65283
+                      }
+                    },
+                    {
+                      "query": "path:Projects/EntelechySystem_theory",
+                      "color": {
+                        "a": 1,
+                        "rgb": 255
                       }
                     }
                   ],
@@ -285,17 +272,17 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "markdown-importer:打开 Markdown 格式转换器": false,
-      "zk-prefixer:创建时间戳笔记": false,
-      "random-note:开始漫游笔记": false,
-      "audio-recorder:开始/结束录音": false,
-      "workspaces:管理工作区布局": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false,
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
   "floating": {
@@ -339,7 +326,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Subjects/Game/DOTS/DOTS学习笔记.md",
+                        "file": "Subjects/Game/DOTS/DOTS 学习笔记.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -352,13 +339,6 @@
                           "hideUnresolved": true,
                           "collapse-color-groups": true,
                           "colorGroups": [
-                            {
-                              "query": "path:Projects/EntelechySystem_theory",
-                              "color": {
-                                "a": 1,
-                                "rgb": 255
-                              }
-                            },
                             {
                               "query": "path:Thoughts",
                               "color": {
@@ -402,7 +382,7 @@
                               }
                             },
                             {
-                              "query": "path:Projects/ComplexAgentsGame_design",
+                              "query": "path:Projects/YeeGames_design",
                               "color": {
                                 "a": 1,
                                 "rgb": 16711680
@@ -412,7 +392,14 @@
                               "query": "path:Projects/SystemicRisk_project",
                               "color": {
                                 "a": 1,
-                                "rgb": 65280
+                                "rgb": 65283
+                              }
+                            },
+                            {
+                              "query": "path:Projects/EntelechySystem_theory",
+                              "color": {
+                                "a": 1,
+                                "rgb": 255
                               }
                             }
                           ],
@@ -526,7 +513,7 @@
           }
         ],
         "direction": "vertical",
-        "x": 30,
+        "x": 17,
         "y": 38,
         "width": 1158,
         "height": 915,
@@ -553,7 +540,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Subjects/Game/DOTS/DOTS学习笔记.md"
+                        "file": "Subjects/Game/DOTS/DOTS 学习笔记.md"
                       }
                     }
                   }
@@ -570,7 +557,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Subjects/Game/DOTS/DOTS学习笔记.md",
+                        "file": "Subjects/Game/DOTS/DOTS 学习笔记.md",
                         "options": {
                           "collapse-filter": false,
                           "search": "",
@@ -583,13 +570,6 @@
                           "hideUnresolved": true,
                           "collapse-color-groups": true,
                           "colorGroups": [
-                            {
-                              "query": "path:Projects/EntelechySystem_theory",
-                              "color": {
-                                "a": 1,
-                                "rgb": 255
-                              }
-                            },
                             {
                               "query": "path:Thoughts",
                               "color": {
@@ -633,7 +613,7 @@
                               }
                             },
                             {
-                              "query": "path:Projects/ComplexAgentsGame_design",
+                              "query": "path:Projects/YeeGames_design",
                               "color": {
                                 "a": 1,
                                 "rgb": 16711680
@@ -643,7 +623,14 @@
                               "query": "path:Projects/SystemicRisk_project",
                               "color": {
                                 "a": 1,
-                                "rgb": 65280
+                                "rgb": 65283
+                              }
+                            },
+                            {
+                              "query": "path:Projects/EntelechySystem_theory",
+                              "color": {
+                                "a": 1,
+                                "rgb": 255
                               }
                             }
                           ],
@@ -746,7 +733,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Subjects/Game/DOTS/DOTS学习笔记.md",
+                        "file": "Subjects/Game/DOTS/DOTS 学习笔记.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -769,7 +756,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Subjects/Game/DOTS/DOTS学习笔记.md",
+                        "file": "Subjects/Game/DOTS/DOTS 学习笔记.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -782,7 +769,7 @@
           }
         ],
         "direction": "vertical",
-        "x": 30,
+        "x": 17,
         "y": 38,
         "width": 1158,
         "height": 944,
@@ -809,7 +796,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Subjects/Game/DOTS/DOTS学习笔记.md"
+                        "file": "Subjects/Game/DOTS/DOTS 学习笔记.md"
                       }
                     }
                   }
@@ -826,7 +813,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Subjects/Game/DOTS/DOTS学习笔记.md",
+                        "file": "Subjects/Game/DOTS/DOTS 学习笔记.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -839,13 +826,6 @@
                           "hideUnresolved": true,
                           "collapse-color-groups": true,
                           "colorGroups": [
-                            {
-                              "query": "path:Projects/EntelechySystem_theory",
-                              "color": {
-                                "a": 1,
-                                "rgb": 255
-                              }
-                            },
                             {
                               "query": "path:Thoughts",
                               "color": {
@@ -889,7 +869,7 @@
                               }
                             },
                             {
-                              "query": "path:Projects/ComplexAgentsGame_design",
+                              "query": "path:Projects/YeeGames_design",
                               "color": {
                                 "a": 1,
                                 "rgb": 16711680
@@ -899,7 +879,14 @@
                               "query": "path:Projects/SystemicRisk_project",
                               "color": {
                                 "a": 1,
-                                "rgb": 65280
+                                "rgb": 65283
+                              }
+                            },
+                            {
+                              "query": "path:Projects/EntelechySystem_theory",
+                              "color": {
+                                "a": 1,
+                                "rgb": 255
                               }
                             }
                           ],
@@ -1018,7 +1005,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Subjects/Game/DOTS/DOTS学习笔记.md",
+                        "file": "Subjects/Game/DOTS/DOTS 学习笔记.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1041,7 +1028,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Subjects/Game/DOTS/DOTS学习笔记.md",
+                        "file": "Subjects/Game/DOTS/DOTS 学习笔记.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1054,11 +1041,11 @@
           }
         ],
         "direction": "vertical",
-        "x": 144,
-        "y": 134,
-        "width": 1512,
-        "height": 944,
-        "maximize": true,
+        "x": 259,
+        "y": 54,
+        "width": 928,
+        "height": 808,
+        "maximize": false,
         "zoom": -1
       },
       {
@@ -1081,7 +1068,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Subjects/Game/DOTS/DOTS学习笔记.md"
+                        "file": "Subjects/Game/DOTS/DOTS 学习笔记.md"
                       }
                     }
                   }
@@ -1098,7 +1085,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Subjects/Game/DOTS/DOTS学习笔记.md",
+                        "file": "Subjects/Game/DOTS/DOTS 学习笔记.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1111,13 +1098,6 @@
                           "hideUnresolved": true,
                           "collapse-color-groups": true,
                           "colorGroups": [
-                            {
-                              "query": "path:Projects/EntelechySystem_theory",
-                              "color": {
-                                "a": 1,
-                                "rgb": 255
-                              }
-                            },
                             {
                               "query": "path:Thoughts",
                               "color": {
@@ -1161,7 +1141,7 @@
                               }
                             },
                             {
-                              "query": "path:Projects/ComplexAgentsGame_design",
+                              "query": "path:Projects/YeeGames_design",
                               "color": {
                                 "a": 1,
                                 "rgb": 16711680
@@ -1171,7 +1151,14 @@
                               "query": "path:Projects/SystemicRisk_project",
                               "color": {
                                 "a": 1,
-                                "rgb": 65280
+                                "rgb": 65283
+                              }
+                            },
+                            {
+                              "query": "path:Projects/EntelechySystem_theory",
+                              "color": {
+                                "a": 1,
+                                "rgb": 255
                               }
                             }
                           ],
@@ -1280,7 +1267,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Subjects/Game/DOTS/DOTS学习笔记.md",
+                        "file": "Subjects/Game/DOTS/DOTS 学习笔记.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1303,7 +1290,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Subjects/Game/DOTS/DOTS学习笔记.md",
+                        "file": "Subjects/Game/DOTS/DOTS 学习笔记.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1316,7 +1303,7 @@
           }
         ],
         "direction": "vertical",
-        "x": 31,
+        "x": 17,
         "y": 38,
         "width": 1158,
         "height": 876,
@@ -1335,6 +1322,7 @@
               {
                 "id": "c592ebe784bfbd1a",
                 "type": "tabs",
+                "dimension": 70.33898305084746,
                 "children": [
                   {
                     "id": "ad78d49e796159fb",
@@ -1342,7 +1330,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Subjects/Game/DOTS/DOTS学习笔记.md"
+                        "file": "Subjects/Game/DOTS/DOTS 学习笔记.md"
                       }
                     }
                   }
@@ -1351,6 +1339,7 @@
               {
                 "id": "f22c58e30320adb5",
                 "type": "tabs",
+                "dimension": 29.66101694915254,
                 "children": [
                   {
                     "id": "b61e55202793f486",
@@ -1358,7 +1347,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Subjects/Game/DOTS/DOTS学习笔记.md",
+                        "file": "Subjects/Game/DOTS/DOTS 学习笔记.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1371,13 +1360,6 @@
                           "hideUnresolved": true,
                           "collapse-color-groups": true,
                           "colorGroups": [
-                            {
-                              "query": "path:Projects/EntelechySystem_theory",
-                              "color": {
-                                "a": 1,
-                                "rgb": 255
-                              }
-                            },
                             {
                               "query": "path:Thoughts",
                               "color": {
@@ -1421,7 +1403,7 @@
                               }
                             },
                             {
-                              "query": "path:Projects/ComplexAgentsGame_design",
+                              "query": "path:Projects/YeeGames_design",
                               "color": {
                                 "a": 1,
                                 "rgb": 16711680
@@ -1431,7 +1413,14 @@
                               "query": "path:Projects/SystemicRisk_project",
                               "color": {
                                 "a": 1,
-                                "rgb": 65280
+                                "rgb": 65283
+                              }
+                            },
+                            {
+                              "query": "path:Projects/EntelechySystem_theory",
+                              "color": {
+                                "a": 1,
+                                "rgb": 255
                               }
                             }
                           ],
@@ -1445,7 +1434,7 @@
                           "repelStrength": 10,
                           "linkStrength": 1,
                           "linkDistance": 250,
-                          "scale": 1,
+                          "scale": 0.38304578423745783,
                           "close": true
                         }
                       }
@@ -1482,7 +1471,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Subjects/Game/DOTS/DOTS学习笔记.md",
+                    "file": "Subjects/Game/DOTS/DOTS 学习笔记.md",
                     "mode": "source",
                     "source": false
                   },
@@ -1502,9 +1491,21 @@
                   },
                   "pinned": true
                 }
+              },
+              {
+                "id": "c7d46938d408e0de",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Subjects/Game/DOTS/DOTS 官方示例学习笔记.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
             ],
-            "currentTab": 2
+            "currentTab": 1
           },
           {
             "id": "2677eddafa0c3c68",
@@ -1521,7 +1522,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Subjects/Game/DOTS/DOTS学习笔记.md",
+                        "file": "Subjects/Game/DOTS/DOTS 学习笔记.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1544,7 +1545,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Subjects/Game/DOTS/DOTS学习笔记.md",
+                        "file": "Subjects/Game/DOTS/DOTS 学习笔记.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1557,8 +1558,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 524,
-        "y": 261,
+        "x": 144,
+        "y": 134,
         "width": 1512,
         "height": 944,
         "maximize": true,
@@ -1584,7 +1585,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Subjects/Game/DOTS/DOTS学习笔记.md"
+                        "file": "Subjects/Game/DOTS/DOTS 学习笔记.md"
                       }
                     }
                   }
@@ -1601,7 +1602,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Subjects/Game/DOTS/DOTS学习笔记.md",
+                        "file": "Subjects/Game/DOTS/DOTS 学习笔记.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1614,13 +1615,6 @@
                           "hideUnresolved": true,
                           "collapse-color-groups": true,
                           "colorGroups": [
-                            {
-                              "query": "path:Projects/EntelechySystem_theory",
-                              "color": {
-                                "a": 1,
-                                "rgb": 255
-                              }
-                            },
                             {
                               "query": "path:Thoughts",
                               "color": {
@@ -1664,7 +1658,7 @@
                               }
                             },
                             {
-                              "query": "path:Projects/ComplexAgentsGame_design",
+                              "query": "path:Projects/YeeGames_design",
                               "color": {
                                 "a": 1,
                                 "rgb": 16711680
@@ -1674,7 +1668,14 @@
                               "query": "path:Projects/SystemicRisk_project",
                               "color": {
                                 "a": 1,
-                                "rgb": 65280
+                                "rgb": 65283
+                              }
+                            },
+                            {
+                              "query": "path:Projects/EntelechySystem_theory",
+                              "color": {
+                                "a": 1,
+                                "rgb": 255
                               }
                             }
                           ],
@@ -1772,7 +1773,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Subjects/Game/DOTS/DOTS学习笔记.md",
+                        "file": "Subjects/Game/DOTS/DOTS 学习笔记.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1795,7 +1796,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Subjects/Game/DOTS/DOTS学习笔记.md",
+                        "file": "Subjects/Game/DOTS/DOTS 学习笔记.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1808,9 +1809,9 @@
           }
         ],
         "direction": "vertical",
-        "x": 54,
-        "y": 44,
-        "width": 1158,
+        "x": 144,
+        "y": 134,
+        "width": 1512,
         "height": 944,
         "maximize": true,
         "zoom": 0
@@ -1835,7 +1836,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Subjects/Game/DOTS/DOTS学习笔记.md"
+                        "file": "Subjects/Game/DOTS/DOTS 学习笔记.md"
                       }
                     }
                   }
@@ -1852,7 +1853,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Subjects/Game/DOTS/DOTS学习笔记.md",
+                        "file": "Subjects/Game/DOTS/DOTS 学习笔记.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1865,13 +1866,6 @@
                           "hideUnresolved": true,
                           "collapse-color-groups": true,
                           "colorGroups": [
-                            {
-                              "query": "path:Projects/EntelechySystem_theory",
-                              "color": {
-                                "a": 1,
-                                "rgb": 255
-                              }
-                            },
                             {
                               "query": "path:Thoughts",
                               "color": {
@@ -1915,7 +1909,7 @@
                               }
                             },
                             {
-                              "query": "path:Projects/ComplexAgentsGame_design",
+                              "query": "path:Projects/YeeGames_design",
                               "color": {
                                 "a": 1,
                                 "rgb": 16711680
@@ -1925,7 +1919,14 @@
                               "query": "path:Projects/SystemicRisk_project",
                               "color": {
                                 "a": 1,
-                                "rgb": 65280
+                                "rgb": 65283
+                              }
+                            },
+                            {
+                              "query": "path:Projects/EntelechySystem_theory",
+                              "color": {
+                                "a": 1,
+                                "rgb": 255
                               }
                             }
                           ],
@@ -1986,7 +1987,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Subjects/Game/DOTS/DOTS学习笔记.md",
+                        "file": "Subjects/Game/DOTS/DOTS 学习笔记.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -2009,7 +2010,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Subjects/Game/DOTS/DOTS学习笔记.md",
+                        "file": "Subjects/Game/DOTS/DOTS 学习笔记.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -2022,7 +2023,7 @@
           }
         ],
         "direction": "vertical",
-        "x": 33,
+        "x": 18,
         "y": 38,
         "width": 1158,
         "height": 944,
@@ -2049,7 +2050,17 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Subjects/Game/DOTS/DOTS学习笔记.md"
+                        "file": "Subjects/Game/DOTS/DOTS 学习笔记.md"
+                      }
+                    }
+                  },
+                  {
+                    "id": "d4f115bf9ad72528",
+                    "type": "leaf",
+                    "state": {
+                      "type": "release-notes",
+                      "state": {
+                        "currentVersion": "1.3.7"
                       }
                     }
                   }
@@ -2066,7 +2077,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Subjects/Game/DOTS/DOTS学习笔记.md",
+                        "file": "Subjects/Game/DOTS/DOTS 学习笔记.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -2079,13 +2090,6 @@
                           "hideUnresolved": true,
                           "collapse-color-groups": true,
                           "colorGroups": [
-                            {
-                              "query": "path:Projects/EntelechySystem_theory",
-                              "color": {
-                                "a": 1,
-                                "rgb": 255
-                              }
-                            },
                             {
                               "query": "path:Thoughts",
                               "color": {
@@ -2129,7 +2133,7 @@
                               }
                             },
                             {
-                              "query": "path:Projects/ComplexAgentsGame_design",
+                              "query": "path:Projects/YeeGames_design",
                               "color": {
                                 "a": 1,
                                 "rgb": 16711680
@@ -2139,7 +2143,14 @@
                               "query": "path:Projects/SystemicRisk_project",
                               "color": {
                                 "a": 1,
-                                "rgb": 65280
+                                "rgb": 65283
+                              }
+                            },
+                            {
+                              "query": "path:Projects/EntelechySystem_theory",
+                              "color": {
+                                "a": 1,
+                                "rgb": 255
                               }
                             }
                           ],
@@ -2295,7 +2306,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Subjects/Game/DOTS/DOTS学习笔记.md",
+                        "file": "Subjects/Game/DOTS/DOTS 学习笔记.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -2318,7 +2329,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Subjects/Game/DOTS/DOTS学习笔记.md",
+                        "file": "Subjects/Game/DOTS/DOTS 学习笔记.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -2331,8 +2342,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 524,
-        "y": 261,
+        "x": 144,
+        "y": 134,
         "width": 1512,
         "height": 944,
         "maximize": true,
@@ -2340,53 +2351,56 @@
       }
     ]
   },
-  "active": "045bbe45dee8542e",
+  "active": "fda36afa5256e3c6",
   "lastOpenFiles": [
+    "Subjects/Game/DOTS/DOTS 官方示例学习笔记.md",
+    "Notes/Unity3D第三方插件Agent Navigation学习笔记.md",
+    "Study/Study.md",
+    "Subjects/Tools/Git/Git 新建分支其无提交历史记录.md",
     "Subjects/Economics/sync.ffs_lock",
     "Subjects/sync.ffs_lock",
     "Reference_zotfile/sync.ffs_lock",
     "Reference/sync.ffs_lock",
+    "Projects/YeeGames_design/sync.ffs_lock",
     "Projects/SystemicRisk_project/sync.ffs_lock",
     "Projects/EntelechySystem_theory/sync.ffs_lock",
-    "Projects/ComplexAgentsGame_design/sync.ffs_lock",
-    "Subjects/Codes/Programming/可视化工具/Matplotlib辨析plt、fig、axes.md",
-    "Thoughts/sync.ffs_lock",
     "sync.ffs_lock",
-    "Study/Study.md",
-    "Subjects/Softwares/Obsidian/Obsidian 相关的链接.md",
-    "Notes/Obsidian 相关的链接~.md",
-    "Study/学习大语言模型.md",
-    "DailyNotes/2023-07-26.md",
-    "Projects/ComplexAgentsGame_design/Collection/Python生成地形贴图.md",
-    "Projects/ComplexAgentsGame_design/Collection/未命名.md",
-    "Projects/ComplexAgentsGame_design/Notes/Unity生成地形.md",
-    "Projects/ComplexAgentsGame_design/Collection/Unity生成地形.md",
-    "Projects/ComplexAgentsGame_design/Collection/生成地形.md",
-    "DailyNotes/2023-07-25.md",
-    "Study/学习NARS系统.md",
-    "Notes/经济方法ABM建模相关工具.md",
-    "Study/学习多智能体强化学习.md",
-    "Study/学习计算科学.md",
-    "Study/学习数学系统科学物理学.md",
-    "Study/学习通用人工智能.md",
-    "Study/学习BrainSimII、fanshemoxing.md",
-    "DailyNotes/2023-07-23.md",
-    "DailyNotes/2023-07-20.md",
-    "DailyNotes/2023-07-18.md",
-    "Study/学习经管社科类.md",
-    "DailyNotes/2023-07-16.md",
-    "Notes/Matplotlib速查.md",
-    "Subjects/人工智能/数学证明",
-    "subjects/人工智能/通用人工智能/思考/六顶思考帽.assets/六顶思考帽.gif",
-    "subjects/人工智能/通用人工智能/NARS/NARS的一些视频会议笔记.assets/IMG_3293.JPG",
-    "subjects/人工智能/通用人工智能/NARS/NARS的一些视频会议笔记.assets/IMG_3293-9173390.JPG",
-    "subjects/人工智能/通用人工智能/NARS/NARS的一些视频会议笔记.assets/IMG_3293-9173388.JPG",
-    "subjects/人工智能/通用人工智能/NARS/NARS的一些视频会议笔记.assets/IMG_3293-9173386.JPG",
-    "subjects/人工智能/通用人工智能/NARS/NARS的一些视频会议笔记.assets/IMG_3214.PNG",
-    "subjects/人工智能/通用人工智能/NARS/NARS的一些视频会议笔记.assets/IMG_3217.jpeg",
-    "subjects/人工智能/认知人工智能/讲座_李嫣然_常识因果在AI认知的进展_2021-11-06.assets/IMG_3616.jpeg",
-    "subjects/人工智能/认知人工智能/讲座_李嫣然_常识因果在AI认知的进展_2021-11-06.assets/IMG_3615.jpeg",
-    "subjects/人工智能/认知人工智能/讲座_李嫣然_常识因果在AI认知的进展_2021-11-06.assets/IMG_3614.PNG",
+    "Thoughts/sync.ffs_lock",
+    "Projects/YeeGames_design/Games/Complex Elements Game/Complex Elements Game - step-by-step 说明.md",
+    "Projects/YeeGames_design/Projects/项目：YeeGames 通用功能库.md",
+    "Projects/YeeGames_design/Develope/开发：YeeGames 通用功能库 设计与开发/开发：YeeGames 通用功能库 设计与开发.md",
+    "Projects/YeeGames_design/Develope/开发：YeeGames 通用功能库 设计与开发",
+    "Projects/YeeGames_design/Develope/ComplexAgentsGame/开发：Complex Agents Games.md",
+    "Projects/YeeGames_design/Develope/YeeGamesFunctionsLibrary/开发：Complex Agents Games.md",
+    "Projects/YeeGames_design/Develope/YeeGamesFunctionsLibrary/YeeGames with DOTS and GPU 1.md",
+    "Projects/YeeGames_design/Design/Complex Elements Game/Complex Elements Game 设计与开发.md",
+    "Projects/YeeGames_design/Design/Complex Agents Game/Complex Agents Game 设计与开发.md",
+    "Projects/YeeGames_design/Develope/YeeGames 通用功能库 设计与开发/YeeGames 通用功能库 设计与开发.md",
+    "Projects/YeeGames_design/Develope/YeeGames 通用功能库 设计与开发/YeeGames 通用功能库 设计与开发 1.md",
+    "Projects/YeeGames_design/Design/Complex Agents Game/分析 Complex Agents Game.md",
+    "Projects/YeeGames_design/Analysis/设计各种 Yee Games.md",
+    "Projects/YeeGames_design/Analysis/设计各种 Yee Games.assets/image-20210930153748478.png",
+    "Projects/YeeGames_design/Analysis/设计各种 Yee Games.assets/image-20210930153714121.png",
+    "Projects/YeeGames_design/Analysis/设计各种 Yee Games.assets/image-20210930153657601.png",
+    "Projects/YeeGames_design/Analysis/设计各种 Yee Games.assets/image-20210930153533287.png",
+    "Projects/YeeGames_design/Analysis/设计各种 Yee Games.assets/image-20210930153435421.png",
+    "Projects/YeeGames_design/Analysis/设计各种 Yee Games.assets/image-20210930153415764.png",
+    "Projects/YeeGames_design/Analysis/设计各种 Yee Games.assets/image-20210930153351825.png",
+    "Projects/YeeGames_design/Analysis/设计各种 Yee Games.assets/image-20210930153124060.png",
+    "Projects/YeeGames_design/Analysis/设计各种 Yee Games.assets/image-20210930130503689.png",
+    "Projects/YeeGames_design/Analysis/设计各种 Yee Games.assets/image-20210930131201891.png",
+    "Projects/YeeGames_design/Untitled 1.canvas",
+    "Projects/YeeGames_design/Projects/项目：ComplexElementsGame.md",
+    "Projects/YeeGames_design/Collection/项目：ComplexAgentsGame.md",
+    "Projects/YeeGames_design/Projects/Project：ComplexElementsGame.md",
+    "Projects/YeeGames_design/Collection/Project：ComplexElementsGame.md",
+    "Projects/YeeGames_design/Projects/项目：YeeGames 功能库.md",
+    "Projects/YeeGames_design/Collection/ComplexAgentsGame 设计与开发.md",
+    "Projects/YeeGames_design/Games/Complex Elements Game/CEG_06-工厂模式选择类型.md",
+    "Projects/YeeGames_design/Games/Complex Elements Game/CEG_05-设置三种粒子.md",
+    "Projects/YeeGames_design/Games/Complex Elements Game/CEG_04-设置两种粒子.md",
+    "Projects/YeeGames_design/Games/Complex Elements Game/CEG_03-添加点力场.md",
+    "Projects/YeeGames_design/Untitled.canvas",
     "Untitled.canvas"
   ]
 }

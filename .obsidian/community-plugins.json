@@ -30,5 +30,6 @@
   "copy-as-latex",
   "obsidian-excel-to-markdown-table",
   "obsidian-latex-suite",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "sync-graph-settings"
 ]

@@ -5,15 +5,8 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
-    {
-      "query": "path:Projects/EntelechySystem_theory",
-      "color": {
-        "a": 1,
-        "rgb": 255
-      }
-    },
     {
       "query": "path:Thoughts",
       "color": {
@@ -57,7 +50,7 @@
       }
     },
     {
-      "query": "path:Projects/ComplexAgentsGame_design",
+      "query": "path:Projects/YeeGames_design",
       "color": {
         "a": 1,
         "rgb": 16711680
@@ -68,6 +61,13 @@
       "color": {
         "a": 1,
         "rgb": 65283
+      }
+    },
+    {
+      "query": "path:Projects/EntelechySystem_theory",
+      "color": {
+        "a": 1,
+        "rgb": 255
       }
     }
   ],
@@ -82,5 +82,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.15698759901498183,
-  "close": true
+  "close": false
 }

@@ -20,6 +20,8 @@ tags: #日期/2023-04-22 #类型/AI问答笔记 #内容/DOTS
 
 # AI问答系列
 
+# 基础知识问答
+
 ## Entities实体
 
 
@@ -248,3 +250,138 @@ var entity = GetEntity(flags);
 总之，`Allocator` 是 Unity 中一个非常重要的内存管理系统，可以帮助开发者更加高效地使用内存，从而提高游戏的性能和效率。
 
 
+## DOTS 与 OOP 适应问答
+
+### 关于复用、扩展
+
+
+
+#### 如何传递参数以便于复用
+
+> [!question]
+> 传统的OOP中，为其他项目提供的通用功能，可以通过函数或者类传递属性或者参数值实现。那么在DOTS中，有没有类似的做法呢？例如我实现了一个系统【随机生成实体】。该系统有一些参数：【生成数量】、【生成位置】、【生成范围】、【散布的分布】等。如果在OOP的编程模式中，我可以设计一个函数，然后把这些参数用函数形参提供接口，给其他项目代入具体参数使用。那么在DOTS中，有没有类似的办法呢？
+
+
+在DOTS中，您可以通过创建一个包含参数的组件来实现类似的功能。以下是一个示例，说明如何在DOTS中为随机生成实体的系统提供参数：
+
+1. 首先，创建一个包含参数的组件：
+
+```csharp
+public struct RandomSpawnConfig : IComponentData
+{
+    public int SpawnCount;
+    public float3 SpawnPosition;
+    public float SpawnRange;
+    // 其他参数，例如散布的分布
+}
+```
+
+2. 在随机生成实体的系统中，从`RandomSpawnConfig`组件中获取参数：
+
+```csharp
+public class RandomSpawnSystem : SystemBase
+{
+    protected override void OnUpdate()
+    {
+        // 获取RandomSpawnConfig组件
+        var config = GetSingleton<RandomSpawnConfig>();
+
+        // 使用参数生成实体
+        // ...
+    }
+}
+```
+
+3. 在其他项目中，您可以创建一个实体并添加`RandomSpawnConfig`组件，然后设置参数：
+
+```csharp
+var entityManager = World.DefaultGameObjectInjectionWorld.EntityManager;
+var configEntity = entityManager.CreateEntity();
+entityManager.AddComponentData(configEntity, new RandomSpawnConfig
+{
+    SpawnCount = 10,
+    SpawnPosition = new float3(0, 0, 0),
+    SpawnRange = 50
+    // 设置其他参数
+});
+```
+
+通过这种方法，您可以在DOTS中为系统提供参数，并在其他项目中根据需要设置这些参数。这与传统的OOP编程模式中的函数参数类似。
+
+
+#### 复用、封装程序
+
+> [!question]
+> 对于开发好的DOTS的比较常用的功能代码。我需要怎么进行封装以便于其他项目引用这些功能？换句话说，在DOTS中，怎么类似传统的OOP开发模式那样继承并且扩展功能、代码？
+
+
+在DOTS中，由于其数据驱动的设计，继承和OOP模式并不直接适用。但是，您可以通过以下方法封装和重用您的DOTS功能代码：
+
+1. 将常用的功能代码放入独立的C#类库项目中。这样，您可以将其编译为一个DLL，并在其他项目中引用该DLL。
+
+2. 把相关的组件、系统和数据结构放在同一个命名空间下。这样可以更好地组织代码，便于在其他项目中引用。
+
+3. 对于可复用的系统，您可以使用接口或抽象类来定义其行为。然后在具体的实现中，针对不同项目的需求，实现这些接口或继承抽象类。这样可以在一定程度上模拟OOP的继承特性。
+
+4. 使用组合而非继承。在DOTS中，您可以通过组合不同的组件来实现功能的扩展。例如，如果您有一个通用的移动系统，您可以将其与其他组件（如攻击、防御等）组合在一起，以实现更复杂的行为。
+
+5. 使用事件或消息传递系统来解耦系统之间的依赖关系。这样，您可以轻松地在不同项目中重用和扩展功能。
+
+通过以上方法，您可以在DOTS中封装和重用功能代码，同时保持高性能和灵活性。虽然这与传统的OOP开发模式有所不同，但在ECS架构中仍然可以实现代码的重用和扩展。
+
+
+#### 事件、消息传递
+
+
+> [!question]
+> DOTS中，如何使用事件或者消息传递实现在不同的项目中重用与扩展功能呢？
+
+
+在DOTS中，您可以使用Unity的事件系统或自定义消息传递系统来实现功能的重用和扩展。以下是使用事件系统的一种方法：
+
+1. 首先，创建一个事件结构，用于存储事件数据。例如：
+
+```csharp
+public struct MyEvent : IComponentData
+{
+    public int SomeData;
+}
+```
+
+2. 在需要触发事件的系统中，创建一个实体并添加MyEvent组件。例如：
+
+```csharp
+public class TriggerEventSystem : SystemBase
+{
+    protected override void OnUpdate()
+    {
+        // 在某个条件下触发事件
+        if (SomeCondition)
+        {
+            var eventEntity = EntityManager.CreateEntity();
+            EntityManager.AddComponentData(eventEntity, new MyEvent { SomeData = 123 });
+        }
+    }
+}
+```
+
+3. 在需要响应事件的系统中，监听MyEvent组件。例如：
+
+```csharp
+public class HandleEventSystem : SystemBase
+{
+    protected override void OnUpdate()
+    {
+        Entities.ForEach((Entity entity, ref MyEvent myEvent) =>
+        {
+            // 处理事件数据
+            Debug.Log("Event triggered with data: " + myEvent.SomeData);
+
+            // 移除事件组件，避免重复触发
+            EntityManager.RemoveComponent<MyEvent>(entity);
+        }).Schedule();
+    }
+}
+```
+
+通过这种方法，您可以在不同的项目中重用和扩展功能，同时保持ECS架构的性能优势。请注意，在实际项目中，您可能需要根据具体需求调整事件系统的实现。
