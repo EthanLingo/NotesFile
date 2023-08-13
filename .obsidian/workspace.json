@@ -4,8 +4,140 @@
     "type": "split",
     "children": [
       {
+        "id": "f20a3ff2a5c938e4",
+        "type": "split",
+        "dimension": 30.95823095823096,
+        "children": [
+          {
+            "id": "efcb95eb1bf8d653",
+            "type": "tabs",
+            "dimension": 65.53911205073996,
+            "children": [
+              {
+                "id": "e163f4fc403969f9",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Subjects/Game/DOTS/DOTS 学习笔记.md"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "0fcfcf269be99661",
+            "type": "tabs",
+            "dimension": 34.46088794926004,
+            "children": [
+              {
+                "id": "ba65f30fa943ad4e",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Subjects/Game/DOTS/DOTS 学习笔记.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": true,
+                      "showTags": true,
+                      "showAttachments": true,
+                      "hideUnresolved": true,
+                      "collapse-color-groups": true,
+                      "colorGroups": [
+                        {
+                          "query": "path:Thoughts",
+                          "color": {
+                            "a": 1,
+                            "rgb": 8323327
+                          }
+                        },
+                        {
+                          "query": "path:Notes",
+                          "color": {
+                            "a": 1,
+                            "rgb": 0
+                          }
+                        },
+                        {
+                          "query": "path:Reference",
+                          "color": {
+                            "a": 1,
+                            "rgb": 9389312
+                          }
+                        },
+                        {
+                          "query": "path:Collection",
+                          "color": {
+                            "a": 1,
+                            "rgb": 13619151
+                          }
+                        },
+                        {
+                          "query": "path:Subjects",
+                          "color": {
+                            "a": 1,
+                            "rgb": 16772864
+                          }
+                        },
+                        {
+                          "query": "path:Study",
+                          "color": {
+                            "a": 1,
+                            "rgb": 65535
+                          }
+                        },
+                        {
+                          "query": "path:Projects/YeeGames_design",
+                          "color": {
+                            "a": 1,
+                            "rgb": 16711680
+                          }
+                        },
+                        {
+                          "query": "path:Projects/SystemicRisk_project",
+                          "color": {
+                            "a": 1,
+                            "rgb": 65283
+                          }
+                        },
+                        {
+                          "query": "path:Projects/EntelechySystem_theory",
+                          "color": {
+                            "a": 1,
+                            "rgb": 255
+                          }
+                        }
+                      ],
+                      "collapse-display": true,
+                      "showArrow": true,
+                      "textFadeMultiplier": -1.1,
+                      "nodeSizeMultiplier": 3.25301920572917,
+                      "lineSizeMultiplier": 5,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.8664794128871286,
+                      "close": true
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
         "id": "7eecbea521c00d9a",
         "type": "tabs",
+        "dimension": 69.04176904176904,
         "children": [
           {
             "id": "8e9fa928aa3d2eb7",
@@ -30,6 +162,18 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "7a018509b7437fcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DailyNotes/2023-08-10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -43,7 +187,6 @@
       {
         "id": "c28a7cbc3190435a",
         "type": "tabs",
-        "dimension": 58.77192982456141,
         "children": [
           {
             "id": "74b73d35e0ab03a6",
@@ -98,36 +241,18 @@
             }
           }
         ]
-      },
-      {
-        "id": "ad10d2d7286cd1fe",
-        "type": "tabs",
-        "dimension": 41.228070175438596,
-        "children": [
-          {
-            "id": "e163f4fc403969f9",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Subjects/Game/DOTS/DOTS 学习笔记.md"
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 221.5
   },
   "right": {
     "id": "aade5a834a514cf8",
     "type": "split",
     "children": [
       {
-        "id": "eca75cfe58f07c07",
+        "id": "0cc2419122696f72",
         "type": "tabs",
-        "dimension": 39.732569245463225,
         "children": [
           {
             "id": "f975bdba76e1287d",
@@ -145,7 +270,13 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "3266e88a82c0a33d",
+        "type": "tabs",
+        "children": [
           {
             "id": "249232b3ccb822b7",
             "type": "leaf",
@@ -159,123 +290,16 @@
             }
           }
         ]
-      },
-      {
-        "id": "a7d269ab3cb09bcf",
-        "type": "tabs",
-        "dimension": 60.267430754536775,
-        "children": [
-          {
-            "id": "ba65f30fa943ad4e",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Subjects/Game/DOTS/DOTS 学习笔记.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": true,
-                  "showAttachments": true,
-                  "hideUnresolved": true,
-                  "collapse-color-groups": true,
-                  "colorGroups": [
-                    {
-                      "query": "path:Thoughts",
-                      "color": {
-                        "a": 1,
-                        "rgb": 8323327
-                      }
-                    },
-                    {
-                      "query": "path:Notes",
-                      "color": {
-                        "a": 1,
-                        "rgb": 0
-                      }
-                    },
-                    {
-                      "query": "path:Reference",
-                      "color": {
-                        "a": 1,
-                        "rgb": 9389312
-                      }
-                    },
-                    {
-                      "query": "path:Collection",
-                      "color": {
-                        "a": 1,
-                        "rgb": 13619151
-                      }
-                    },
-                    {
-                      "query": "path:Subjects",
-                      "color": {
-                        "a": 1,
-                        "rgb": 16772864
-                      }
-                    },
-                    {
-                      "query": "path:Study",
-                      "color": {
-                        "a": 1,
-                        "rgb": 65535
-                      }
-                    },
-                    {
-                      "query": "path:Projects/YeeGames_design",
-                      "color": {
-                        "a": 1,
-                        "rgb": 16711680
-                      }
-                    },
-                    {
-                      "query": "path:Projects/SystemicRisk_project",
-                      "color": {
-                        "a": 1,
-                        "rgb": 65283
-                      }
-                    },
-                    {
-                      "query": "path:Projects/EntelechySystem_theory",
-                      "color": {
-                        "a": 1,
-                        "rgb": 255
-                      }
-                    }
-                  ],
-                  "collapse-display": true,
-                  "showArrow": true,
-                  "textFadeMultiplier": -1.1,
-                  "nodeSizeMultiplier": 3.25301920572917,
-                  "lineSizeMultiplier": 5,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.8664794128871286,
-                  "close": true
-                }
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 379.5
+    "width": 323.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
@@ -1465,20 +1489,6 @@
                 }
               },
               {
-                "id": "fda36afa5256e3c6",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Subjects/Game/DOTS/DOTS 学习笔记.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "pinned": true
-                }
-              },
-              {
                 "id": "4bca7a91a5d6028e",
                 "type": "leaf",
                 "pinned": true,
@@ -1493,19 +1503,59 @@
                 }
               },
               {
+                "id": "fda36afa5256e3c6",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Subjects/Game/DOTS/DOTS 学习笔记.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "pinned": true
+                }
+              },
+              {
                 "id": "c7d46938d408e0de",
                 "type": "leaf",
+                "pinned": true,
                 "state": {
                   "type": "markdown",
                   "state": {
                     "file": "Subjects/Game/DOTS/DOTS 官方示例学习笔记.md",
                     "mode": "source",
                     "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "4861203115b87821",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Subjects/Game/DOTS/DOTS 学习笔记.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "7a5b3371ecde19b0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Collection/结合 Unity Input System 与 DOTS.md",
+                    "mode": "source",
+                    "source": false
                   }
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 4
           },
           {
             "id": "2677eddafa0c3c68",
@@ -2351,12 +2401,8 @@
       }
     ]
   },
-  "active": "fda36afa5256e3c6",
+  "active": "4861203115b87821",
   "lastOpenFiles": [
-    "Subjects/Game/DOTS/DOTS 官方示例学习笔记.md",
-    "Notes/Unity3D第三方插件Agent Navigation学习笔记.md",
-    "Study/Study.md",
-    "Subjects/Tools/Git/Git 新建分支其无提交历史记录.md",
     "Subjects/Economics/sync.ffs_lock",
     "Subjects/sync.ffs_lock",
     "Reference_zotfile/sync.ffs_lock",
@@ -2364,42 +2410,46 @@
     "Projects/YeeGames_design/sync.ffs_lock",
     "Projects/SystemicRisk_project/sync.ffs_lock",
     "Projects/EntelechySystem_theory/sync.ffs_lock",
-    "sync.ffs_lock",
-    "Thoughts/sync.ffs_lock",
-    "Projects/YeeGames_design/Games/Complex Elements Game/Complex Elements Game - step-by-step 说明.md",
-    "Projects/YeeGames_design/Projects/项目：YeeGames 通用功能库.md",
-    "Projects/YeeGames_design/Develope/开发：YeeGames 通用功能库 设计与开发/开发：YeeGames 通用功能库 设计与开发.md",
-    "Projects/YeeGames_design/Develope/开发：YeeGames 通用功能库 设计与开发",
-    "Projects/YeeGames_design/Develope/ComplexAgentsGame/开发：Complex Agents Games.md",
-    "Projects/YeeGames_design/Develope/YeeGamesFunctionsLibrary/开发：Complex Agents Games.md",
-    "Projects/YeeGames_design/Develope/YeeGamesFunctionsLibrary/YeeGames with DOTS and GPU 1.md",
-    "Projects/YeeGames_design/Design/Complex Elements Game/Complex Elements Game 设计与开发.md",
-    "Projects/YeeGames_design/Design/Complex Agents Game/Complex Agents Game 设计与开发.md",
-    "Projects/YeeGames_design/Develope/YeeGames 通用功能库 设计与开发/YeeGames 通用功能库 设计与开发.md",
-    "Projects/YeeGames_design/Develope/YeeGames 通用功能库 设计与开发/YeeGames 通用功能库 设计与开发 1.md",
-    "Projects/YeeGames_design/Design/Complex Agents Game/分析 Complex Agents Game.md",
-    "Projects/YeeGames_design/Analysis/设计各种 Yee Games.md",
-    "Projects/YeeGames_design/Analysis/设计各种 Yee Games.assets/image-20210930153748478.png",
-    "Projects/YeeGames_design/Analysis/设计各种 Yee Games.assets/image-20210930153714121.png",
-    "Projects/YeeGames_design/Analysis/设计各种 Yee Games.assets/image-20210930153657601.png",
-    "Projects/YeeGames_design/Analysis/设计各种 Yee Games.assets/image-20210930153533287.png",
-    "Projects/YeeGames_design/Analysis/设计各种 Yee Games.assets/image-20210930153435421.png",
-    "Projects/YeeGames_design/Analysis/设计各种 Yee Games.assets/image-20210930153415764.png",
-    "Projects/YeeGames_design/Analysis/设计各种 Yee Games.assets/image-20210930153351825.png",
-    "Projects/YeeGames_design/Analysis/设计各种 Yee Games.assets/image-20210930153124060.png",
-    "Projects/YeeGames_design/Analysis/设计各种 Yee Games.assets/image-20210930130503689.png",
-    "Projects/YeeGames_design/Analysis/设计各种 Yee Games.assets/image-20210930131201891.png",
+    "Projects/YeeGames_design/Develope/Yee Games Function Library/analyse circle cover problem.ggb",
+    "Projects/YeeGames_design/Develope/Yee Games Function Library/开发：YeeGames 通用功能库 设计与开发.md",
+    "Projects/YeeGames_design/Develope/Yee Games Function Library/项目：YeeGames 通用功能库.md",
+    "Projects/YeeGames_design/Develope/Yee Games Function Library/YeeGames with DOTS and GPU.md",
+    "Projects/YeeGames_design/Develope/Yee Games Function Library/Yee Games Functional Library 调度功能.drawio",
+    "Projects/YeeGames_design/Develope/Yee Games Function Library",
+    "Projects/YeeGames_design/Develope/Yee Games 通用功能库/分析影响范围覆盖",
+    "Subjects/Game/DOTS/DOTS 官方示例学习笔记.md",
+    "Subjects/Game/DOTS/DOTS 学习笔记.md",
+    "Study/Study.md",
+    "Collection/结合 Unity Input System 与 DOTS.md",
+    "Study/学习NARS系统.md",
+    "Notes/Unity3D第三方插件Agent Navigation学习笔记.md",
+    "DailyNotes/2023-08-10.md",
+    "DailyNotes/2023-08-09.md",
+    "Subjects/Codes/Languages/C sharp/辨析C sharp 之接口、抽象类、抽象方法、虚方法.md",
+    "Study/学习编程语言.md",
+    "Study/学习网络爬虫.md",
+    "Projects/YeeGames_design/Games/Complex Elements Game 一步一步实现/CEG_04-设置两种粒子.assets/Screen Shot 2022-05-27 at 00.52.55.png",
+    "Projects/YeeGames_design/Games/Complex Elements Game 一步一步实现/CEG_04-设置两种粒子.assets/image-20220525021659882.png",
+    "Projects/YeeGames_design/Games/Complex Elements Game 一步一步实现/CEG_04-设置两种粒子.assets/Screen Shot 2022-05-27 at 00.36.58.png",
+    "Projects/YeeGames_design/Games/Complex Elements Game 一步一步实现/CEG_03-添加点力场.assets/image-20230322181320426.png",
+    "Projects/YeeGames_design/Games/Complex Elements Game 一步一步实现/CEG_03-添加点力场.assets/image-20230322175645247.png",
+    "Projects/YeeGames_design/Games/Complex Elements Game 一步一步实现/CEG_03-添加点力场.assets/image-20230322175202408.png",
+    "Projects/YeeGames_design/Games/Complex Elements Game 一步一步实现/CEG_03-添加点力场.assets/image-20230322175326399.png",
+    "Projects/YeeGames_design/Games/Complex Elements Game 一步一步实现/CEG_03-添加点力场.assets/image-20230322175110816.png",
+    "Projects/YeeGames_design/Games/Complex Elements Game 一步一步实现/CEG_03-添加点力场.assets/image-20230322175022540.png",
+    "Projects/YeeGames_design/Games/Complex Elements Game 一步一步实现/CEG_03-添加点力场.assets/image-20220518104331122.png",
+    "Projects/YeeGames_design/Games/Complex Elements Game 一步一步实现/Complex Elements Game 一步一步实现.md",
+    "Projects/YeeGames_design/Games/Complex Elements Game 一步一步实现/Complex Elements Game - step-by-step 说明.md",
+    "Projects/YeeGames_design/Games/Complex Elements Game 一步一步实现/CEG_06-工厂模式选择类型.md",
+    "Projects/YeeGames_design/Games/Complex Elements Game 一步一步实现/CEG_05-设置三种粒子.md",
+    "Projects/YeeGames_design/Games/Complex Elements Game 一步一步实现/CEG_04-设置两种粒子.md",
+    "Projects/YeeGames_design/Games/Complex Elements Game 一步一步实现/CEG_03-添加点力场.md",
+    "Projects/YeeGames_design/Games/Complex Elements Game 一步一步实现/CEG_02-刚体碰撞.md",
+    "Projects/YeeGames_design/Games/Complex Elements Game 一步一步实现/CEG_01-生成粒子.md",
+    "Projects/YeeGames_design/Games/Complex Elements Game 一步一步实现/CEG_00-搭建场景.md",
+    "Projects/YeeGames_design/Games/Complex Elements Game/Complex Elements Game 一步一步实现.md",
+    "Subjects/Codes/Programming/可视化工具/Matplotlib辨析plt、fig、axes.md",
     "Projects/YeeGames_design/Untitled 1.canvas",
-    "Projects/YeeGames_design/Projects/项目：ComplexElementsGame.md",
-    "Projects/YeeGames_design/Collection/项目：ComplexAgentsGame.md",
-    "Projects/YeeGames_design/Projects/Project：ComplexElementsGame.md",
-    "Projects/YeeGames_design/Collection/Project：ComplexElementsGame.md",
-    "Projects/YeeGames_design/Projects/项目：YeeGames 功能库.md",
-    "Projects/YeeGames_design/Collection/ComplexAgentsGame 设计与开发.md",
-    "Projects/YeeGames_design/Games/Complex Elements Game/CEG_06-工厂模式选择类型.md",
-    "Projects/YeeGames_design/Games/Complex Elements Game/CEG_05-设置三种粒子.md",
-    "Projects/YeeGames_design/Games/Complex Elements Game/CEG_04-设置两种粒子.md",
-    "Projects/YeeGames_design/Games/Complex Elements Game/CEG_03-添加点力场.md",
     "Projects/YeeGames_design/Untitled.canvas",
     "Untitled.canvas"
   ]

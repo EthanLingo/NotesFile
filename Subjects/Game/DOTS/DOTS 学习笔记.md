@@ -1,4 +1,4 @@
-# DOTS学习笔记
+# DOTS 学习笔记
 
 
 
@@ -31,6 +31,7 @@ tags: #日期/2023-04-22 #类型/AI问答笔记 #内容/DOTS
 > [!question] 
 > `Entities.With` 系列的主要方法及其区别？
 
+> [!AI'answer]
 
 1.  `WithAll`: 这个方法用于选择具有所有指定组件的实体。它接受一个或多个组件类型作为参数，并返回一个过滤器，您可以使用该过滤器来选择具有所有指定组件的实体。例如，`Entities.WithAll(typeof(Position), typeof(Velocity))` 选择所有具有 `Position` 和 `Velocity` 组件的实体。
 2.  `WithAny`: 这个方法用于选择具有任何指定组件的实体。它接受一个或多个组件类型作为参数，并返回一个过滤器，您可以使用该过滤器来选择具有任何指定组件的实体。例如，`Entities.WithAny(typeof(Damage), typeof(Health))` 选择所有具有 `Damage` 或 `Health` 组件的实体。
@@ -79,6 +80,8 @@ public class MyJobSystem : SystemBase
 > [!question] 
 > `TransformUsageFlags`有哪些枚举值？分别表示什么意思？
 
+> [!AI'answer]
+
 `TransformUsageFlags`是一个枚举，它定义了在Unity ECS中用于指定实体转换应该如何被应用的标志。以下是该枚举的所有值以及它们的含义：
 
 - `None`: 不应用任何转换标志。
@@ -98,13 +101,117 @@ var entity = GetEntity(flags);
 ```
 
 
-## Query
+## Component 组件
+
+#### 嵌套组件
+
+> [!question]
+> 如何在一个大组件内嵌套许多的小组件？例如大组件名称为【设置项】，其中包含小组件【生成设置项】、【地图设置项】、【个体属性设置项】、【游戏场景设置项】等等。如果用嵌套组件的方法，会不会影响性能？
+
+> [!AI'answer]
+
+在 DOTS 1.0 中，您可以使用组件嵌套来实现这一目标。您可以创建一个大组件（例如 SettingsComponent），然后在其内部包含其他小组件。以下是一个示例：
+
+```csharp
+using Unity.Entities;
+
+public struct SettingsComponent : IComponentData
+{
+    public GenerationSettingsComponent GenerationSettings;
+    public MapSettingsComponent MapSettings;
+    public EntityAttributeSettingsComponent EntityAttributeSettings;
+    public GameSceneSettingsComponent GameSceneSettings;
+}
+
+public struct GenerationSettingsComponent : IComponentData
+{
+    // 在这里添加生成设置项的属性
+}
+
+public struct MapSettingsComponent : IComponentData
+{
+    // 在这里添加地图设置项的属性
+}
+
+public struct EntityAttributeSettingsComponent : IComponentData
+{
+    // 在这里添加个体属性设置项的属性
+}
+
+public struct GameSceneSettingsComponent : IComponentData
+{
+    // 在这里添加游戏场景设置项的属性
+}
+```
+
+在这个示例中，我们创建了一个名为 `SettingsComponent` 的大组件，它包含了其他四个小组件。每个小组件都可以包含其特定设置项的属性。这样，您可以在一个大组件中组织和管理多个小组件，以提高代码的可读性和可维护性。
+
+嵌套组件在某种程度上可能会影响性能，但这主要取决于您如何使用和访问这些组件。在 DOTS 架构中，性能主要受以下因素影响：
+
+1. 数据布局：DOTS 通过将相关数据紧密排列在一起来实现高效的内存访问。如果嵌套组件导致数据布局不再紧密排列，这可能会影响性能。
+
+2. 访问模式：在 DOTS 中，以线性方式访问内存通常会带来更好的性能。如果嵌套组件导致您需要频繁地跳过某些数据或以非线性方式访问内存，这可能会影响性能。
+
+3. 数据大小：较大的组件可能导致较慢的内存访问和缓存不命中。如果嵌套组件导致您的组件变得过大，这可能会影响性能。
+
+然而，在许多情况下，组件嵌套的性能影响可能是可以接受的，尤其是在提高代码可读性和可维护性方面。在使用嵌套组件时，请确保您仍然遵循 DOTS 的最佳实践，以实现高性能的数据访问和处理。
+
+
+#### 管理多个组件
+
+> [!question]
+> 有没有保证性能的前提下更好管理多个组件的方案？
+
+> [!AI'answer]
+
+在保证性能的前提下，您可以考虑使用以下策略来更好地管理多个组件：
+
+1. 组件分组：将相关组件放在一起，并为它们创建专门的命名空间。这样可以让您更容易地在项目中查找和管理这些组件。
+
+```csharp
+namespace MyGame.Settings
+{
+    public struct GenerationSettingsComponent : IComponentData { /* ... */ }
+    public struct MapSettingsComponent : IComponentData { /* ... */ }
+    // ...
+}
+```
+
+2. 使用系统来管理组件间的关系：在 DOTS 中，系统（System）负责处理和操作实体及其组件。您可以创建一个或多个系统来处理和维护组件之间的关系，从而避免将组件嵌套在一起。
+
+```csharp
+public class SettingsSystem : SystemBase
+{
+    protected override void OnUpdate()
+    {
+        // 在这里处理和维护组件之间的关系
+    }
+}
+```
+
+3. 使用共享组件：共享组件允许您将数据存储在一个组件中，并在多个实体之间共享。这可以减少数据冗余，并简化组件管理。但请注意，共享组件可能会影响内存访问的局部性，因此在性能敏感的场景中要谨慎使用。
+
+```csharp
+public struct SharedSettingsComponent : ISharedComponentData
+{
+    public GenerationSettingsComponent GenerationSettings;
+    public MapSettingsComponent MapSettings;
+    // ...
+}
+```
+
+总之，在保证性能的前提下，您可以使用上述策略来更好地管理多个组件。请根据您的项目需求选择最适合您的方法。
+
+
+## Query 查询
 
 
 #### 辨析`configQuery.GetSingleton`、`state.EntityManager.GetComponentObject`
 
 > [!question]
 > `configQuery.GetSingleton<Config>();`与` state.EntityManager.GetComponentObject<Managed>(state.SystemHandle);`有什么不同？
+
+> [!AI'answer]
 
 `configQuery.GetSingleton<Config>()`和`state.EntityManager.GetComponentObject<Managed>(state.SystemHandle)`这两个函数在使用上有很大的不同。
 
@@ -117,6 +224,7 @@ var entity = GetEntity(flags);
 总之，`configQuery.GetSingleton<Config>()`和`state.EntityManager.GetComponentObject<Managed>(state.SystemHandle)`这两个函数在使用上有很大的不同。前者是从EntityQuery中获取单例组件实例，后者是从实体管理器中获取组件所在的Unity对象。它们的使用场景和调用方式也不同。
 
 ### 查询条件检索方法 `WithAll` 等方法
+
 
 `WithAll`方法：查询同时拥有指定组件的实体。相当于求交集；
 
@@ -137,6 +245,7 @@ var entity = GetEntity(flags);
 > [!question] 
 > `state.Dependency`是什么？
 
+> [!AI'answer]
 
 `state.Dependency`是一个`JobHandle`类型的变量，用于表示该系统的依赖关系。在Unity ECS框架中，每个系统都可以拥有一个或多个依赖关系，用于确保系统在执行时满足一定的执行顺序。当一个系统完成执行后，它会返回一个`JobHandle`类型的值，表示它的执行状态。其他系统可以使用这个值作为它们的依赖关系，以确保它们在当前系统执行完成之前不会开始执行。因此，在上述代码中，当`CreateGenerateAgentEntityJob`方法创建并调度执行作业后，将作业返回的`JobHandle`值赋值给`state.Dependency`变量，表示该系统在执行时依赖于这个作业的完成状态。
 
@@ -149,6 +258,7 @@ var entity = GetEntity(flags);
 > [!question]
 > `RequireMatchingQueriesForUpdate` 是什么？
 
+> [!AI'answer]
 
 `RequireMatchingQueriesForUpdate`是一个用于确定系统是否应该运行的标志。当一个系统有这个标志时，它只会在与其查询完全匹配的实体上运行，否则它将被跳过，不会执行任何操作。
 
@@ -164,6 +274,7 @@ var entity = GetEntity(flags);
 > [!question] 
 > `RequireForUpdate` 是什么？
 
+> [!AI'answer]
 
 `RequireForUpdate` 是 Unity DOTS 中的一个标记（Flag），用于控制系统（System）在何时执行更新。
 
@@ -184,10 +295,43 @@ var entity = GetEntity(flags);
 总之，`RequireForUpdate` 标记可以帮助开发者更加灵活地控制系统的更新时机，从而提高游戏的性能和效率。
 
 
+> [!question]
+> 为什么state.RequireForUpdate常常写在OnCreate方法内呢？
+
+> [!AI'answer]
+
+`state.RequireForUpdate`通常写在`OnCreate`方法内，因为`OnCreate`在系统创建时仅执行一次。这是一个很好的时机来设置系统所需的组件，因为它可以确保在系统开始执行之前，已经定义了所需的组件条件。
+
+将`state.RequireForUpdate`放在`OnCreate`中可以提高性能，因为您只需在系统创建时设置一次组件条件，而不是在每次系统执行时进行检查。这样可以减少不必要的运行时开销，并确保系统在整个生命周期中始终遵循相同的组件条件。
+
+
+##### `state.Enabled`与`state.RequireForUpdate&lt;&gt;()`的区别？
+
+> [!question]
+> `state.Enabled`与`state.RequireForUpdate<>()`的区别？
+
+> [!AI'answer]
+
+关于`state.Enabled`和`state.RequireForUpdate<>()`的区别，这两者通常在Unity DOTS的Entity Component System (ECS)中使用。
+
+`state.Enabled`用于控制系统的启用或禁用状态。当您需要暂停或恢复系统的执行时，您可以使用`state.Enabled`。例如，您可以将`state.Enabled`设置为`false`以停止系统的执行，或将其设置为`true`以恢复执行。这对于在游戏中实现暂停功能或根据游戏逻辑启用/禁用某些系统非常有用。
+
+`state.RequireForUpdate<>()`用于定义系统执行所需的组件。这是一种声明式方法，用于指定系统在执行时需要哪些组件。当实体具有满足`RequireForUpdate`条件的组件时，系统将对该实体执行。这样可以确保系统仅在需要的组件可用时运行，从而提高性能。
+
+总之，`state.Enabled`用于控制系统的启用/禁用状态，而`state.RequireForUpdate<>()`用于定义系统执行所需的组件。这两者在ECS中起着不同的作用，并有助于实现高性能的游戏逻辑。
+
+`state.RequireForUpdate`可以间接地达到禁用系统的效果。当您使用`state.RequireForUpdate`定义系统所需的组件时，如果某个实体没有满足条件的组件，那么系统将不会对该实体执行。因此，如果没有实体具有满足`RequireForUpdate`条件的组件，系统实际上将不执行任何操作。
+
+这种方法可以让您通过控制组件的存在来控制系统的执行，而不是直接启用或禁用系统。这可以作为一种有效地控制系统行为的方法，但请注意，这种方法可能不如直接使用`state.Enabled`那么直观。
+
+
+
 
 ## Physics
 
 #### PhysicsStep
+
+> [!AI'answer]
 
 `PhysicsStep`是Unity.Entities中的一个组件，用于指定物理世界的模拟参数。
 
@@ -211,6 +355,7 @@ var entity = GetEntity(flags);
 > [!question] 
 > `EntityCommandBuffer` 是什么？
 
+> [!AI'answer]
 
 `EntityCommandBuffer` 是 Unity DOTS 中的一个用于管理实体（Entity）和组件（Component）的缓冲区，可以在 Jobs 中用于高效地修改实体和组件。
 
@@ -229,6 +374,8 @@ var entity = GetEntity(flags);
 
 > [!question] 
 > 什么是 `Allocator`？
+
+> [!AI'answer]
 
 `Allocator` 是 Unity 中用于分配和管理内存的一个系统，它可以帮助开发者在游戏中高效地使用内存。
 
@@ -256,11 +403,12 @@ var entity = GetEntity(flags);
 
 
 
-#### 如何传递参数以便于复用
+###### 如何传递参数以便于复用
 
-> [!question]
+> [!question] 
 > 传统的OOP中，为其他项目提供的通用功能，可以通过函数或者类传递属性或者参数值实现。那么在DOTS中，有没有类似的做法呢？例如我实现了一个系统【随机生成实体】。该系统有一些参数：【生成数量】、【生成位置】、【生成范围】、【散布的分布】等。如果在OOP的编程模式中，我可以设计一个函数，然后把这些参数用函数形参提供接口，给其他项目代入具体参数使用。那么在DOTS中，有没有类似的办法呢？
 
+> [!AI'answer]
 
 在DOTS中，您可以通过创建一个包含参数的组件来实现类似的功能。以下是一个示例，说明如何在DOTS中为随机生成实体的系统提供参数：
 
@@ -309,11 +457,12 @@ entityManager.AddComponentData(configEntity, new RandomSpawnConfig
 通过这种方法，您可以在DOTS中为系统提供参数，并在其他项目中根据需要设置这些参数。这与传统的OOP编程模式中的函数参数类似。
 
 
-#### 复用、封装程序
+###### 复用、封装程序
 
 > [!question]
 > 对于开发好的DOTS的比较常用的功能代码。我需要怎么进行封装以便于其他项目引用这些功能？换句话说，在DOTS中，怎么类似传统的OOP开发模式那样继承并且扩展功能、代码？
 
+> [!AI'answer]
 
 在DOTS中，由于其数据驱动的设计，继承和OOP模式并不直接适用。但是，您可以通过以下方法封装和重用您的DOTS功能代码：
 
@@ -330,12 +479,13 @@ entityManager.AddComponentData(configEntity, new RandomSpawnConfig
 通过以上方法，您可以在DOTS中封装和重用功能代码，同时保持高性能和灵活性。虽然这与传统的OOP开发模式有所不同，但在ECS架构中仍然可以实现代码的重用和扩展。
 
 
-#### 事件、消息传递
+###### 事件、消息传递
 
 
 > [!question]
 > DOTS中，如何使用事件或者消息传递实现在不同的项目中重用与扩展功能呢？
 
+> [!AI'answer]
 
 在DOTS中，您可以使用Unity的事件系统或自定义消息传递系统来实现功能的重用和扩展。以下是使用事件系统的一种方法：
 
@@ -385,3 +535,177 @@ public class HandleEventSystem : SystemBase
 ```
 
 通过这种方法，您可以在不同的项目中重用和扩展功能，同时保持ECS架构的性能优势。请注意，在实际项目中，您可能需要根据具体需求调整事件系统的实现。
+
+###### 混合两种开发模式
+
+> [!question]
+> DOTS如何与传统的OOP开发模式混用？可以举个例子吗？例如需要高性能的地方用DOTS，传统的一些例如游戏交互、游戏暂停、UI用传统方法。但是怎么混用呢？
+
+> [!AI'answer]
+
+在Unity项目中，您可以将DOTS（数据驱动技术栈）与传统的OOP（面向对象编程）模式混合使用。以下是一些建议，帮助您在项目中实现这种混合：
+
+1. 逐步迁移：您可以逐步将OOP代码迁移到DOTS架构。在迁移过程中，您可以保留OOP组件和ECS系统共存的部分，直到整个项目完成迁移。
+
+2. 使用GameObjectEntity：使用`GameObjectEntity`组件，您可以将现有的GameObject转换为具有ECS组件的实体。这样，您可以在ECS系统中处理这些实体，同时仍然使用传统的OOP方法。
+
+3. 使用EntityCommandBuffer：使用`EntityCommandBuffer`，您可以将ECS系统中的更改应用于主线程上的实体。这样，您可以确保在主线程上处理的OOP组件与ECS系统中的数据保持同步。
+
+4. 划分关注点：在项目中明确划分使用OOP和DOTS的部分。对于性能关键的部分，如游戏逻辑和物理模拟，使用DOTS。对于其他部分，如UI和游戏管理，您可以继续使用OOP。
+
+5. 使用Hybrid Renderer：使用Hybrid Renderer，您可以在ECS系统中处理渲染，同时允许传统的OOP组件与ECS组件共享渲染数据。
+
+通过遵循这些建议，您可以在项目中实现DOTS与传统OOP开发模式的混合使用。在迁移过程中，您可能需要根据项目的具体需求进行一些调整。
+
+以下是一个简单的示例，展示了如何在项目中混合使用DOTS和传统OOP方法：
+
+1. 高性能需求（使用DOTS）：假设您的游戏中有大量的移动物体，这些物体需要根据一定的规则进行移动。在这种情况下，您可以使用DOTS来实现高性能的移动逻辑。
+
+首先，创建一个ECS组件，用于存储物体的移动速度：
+
+```csharp
+using Unity.Entities;
+
+public struct MoveSpeed : IComponentData
+{
+    public float Value;
+}
+```
+
+接着，创建一个ECS系统来处理物体的移动逻辑：
+
+```csharp
+using Unity.Entities;
+using Unity.Transforms;
+using Unity.Mathematics;
+
+public class MoveSystem : SystemBase
+{
+    protected override void OnUpdate()
+    {
+        float deltaTime = Time.DeltaTime;
+        Entities.ForEach((ref Translation translation, in MoveSpeed moveSpeed) =>
+        {
+            translation.Value += new float3(moveSpeed.Value * deltaTime, 0, 0);
+        }).ScheduleParallel();
+    }
+}
+```
+
+2. 传统游戏交互、游戏暂停和GUI（使用OOP方法）：对于游戏交互、游戏暂停和GUI等功能，您可以继续使用传统的OOP方法。
+
+例如，创建一个游戏管理器，用于处理游戏暂停和恢复：
+
+```csharp
+using UnityEngine;
+
+public class GameManager : MonoBehaviour
+{
+    public bool IsGamePaused { get; private set; }
+
+    private void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.P))
+        {
+            if (IsGamePaused)
+            {
+                ResumeGame();
+            }
+            else
+            {
+                PauseGame();
+            }
+        }
+    }
+
+    private void PauseGame()
+    {
+        Time.timeScale = 0;
+        IsGamePaused = true;
+    }
+
+    private void ResumeGame()
+    {
+        Time.timeScale = 1;
+        IsGamePaused = false;
+    }
+}
+```
+
+在这个示例中，我们使用了DOTS来处理性能关键的移动逻辑，而使用传统的OOP方法来处理游戏交互、游戏暂停和GUI。这样，您可以充分利用DOTS的性能优势，同时保留OOP方法的易用性。希望这个示例能帮助您理解如何在项目中混合使用DOTS和传统OOP方法。
+
+
+### DOTS 与 Unity Input System 结合使用
+
+
+[[结合 Unity Input System 与 DOTS]]
+
+
+### CSV 数据 导入 DOTS
+
+> [!question]
+> 如何把csv数据表转换成DOTS里的数据？
+
+> [!AI'answer]
+
+要将CSV数据表转换为DOTS中的数据，您需要执行以下步骤：
+
+1. 读取CSV文件：首先，您需要使用适当的方法从CSV文件中读取数据。您可以使用C#中的`StreamReader`或者第三方库（如CsvHelper）来读取CSV文件，并将其解析为适当的数据结构。
+
+1. 创建组件和实体：根据CSV数据的结构，您需要创建适当的组件类型来表示每行数据的属性。然后，您可以使用ECS的API来创建实体，并将解析的数据存储到相应的组件中。
+
+1. 存储实体和组件：您可以使用ECS的`EntityManager`来创建实体，并将组件添加到这些实体中。根据您的需求，您可以选择将数据存储在共享组件中，以便多个系统可以访问和修改数据。
+
+以下是一个简单的示例，演示如何将CSV数据表转换为DOTS中的数据：
+
+```csharp
+using System.IO;
+using Unity.Entities;
+using Unity.Mathematics;
+using UnityEngine;
+
+public struct CSVDataComponent : IComponentData
+{
+    public int id;
+    public float value;
+}
+
+public class CSVDataConversionSystem : SystemBase
+{
+    protected override void OnUpdate()
+    {
+        // 读取CSV文件
+        string path = "path/to/csv/file.csv";
+        string[] lines = File.ReadAllLines(path);
+
+        // 创建实体和组件
+        EntityManager entityManager = World.DefaultGameObjectInjectionWorld.EntityManager;
+
+        for (int i = 1; i < lines.Length; i++) // 从第二行开始，跳过标题行
+        {
+            string[] data = lines[i].Split(',');
+
+            int id = int.Parse(data[0]);
+            float value = float.Parse(data[1]);
+
+            // 创建实体
+            Entity entity = entityManager.CreateEntity(typeof(CSVDataComponent));
+
+            // 添加组件并设置数据
+            entityManager.AddComponentData(entity, new CSVDataComponent
+            {
+                id = id,
+                value = value
+            });
+        }
+    }
+}
+```
+
+在这个示例中，我们假设CSV文件的第一列是ID，第二列是值。`CSVDataComponent`是一个用于存储ID和值的组件。
+
+`CSVDataConversionSystem`是一个ECS系统，它读取CSV文件并将数据转换为DOTS中的实体和组件。在`OnUpdate`方法中，我们使用`StreamReader`读取CSV文件的每一行，并将解析的数据存储在适当的组件中。然后，我们使用`EntityManager`创建实体，并将组件添加到这些实体中。
+
+请注意，这只是一个简单的示例，您可能需要根据您的CSV数据的结构和需求进行适当的修改和扩展。
+
+希望这个示例能够帮助您将CSV数据表转换为DOTS中的数据！如果您有其他问题，请随时提问。

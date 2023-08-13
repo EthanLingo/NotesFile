@@ -24,12 +24,13 @@
   "marginnote-companion",
   "obsidian-copy-block-link",
   "obsidian-drag-n-drop-plugin",
-  "obsidian-filename-heading-sync",
   "recent-files-obsidian",
   "execute-code",
   "copy-as-latex",
   "obsidian-excel-to-markdown-table",
   "obsidian-latex-suite",
   "obsidian-tasks-plugin",
-  "sync-graph-settings"
+  "sync-graph-settings",
+  "obsidian-filename-heading-sync",
+  "obsidian-admonition"
 ]
