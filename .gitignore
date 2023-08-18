@@ -83,8 +83,10 @@ Temporary Items
 
 ### Obsidian ###
 # config dir
-.obsidian_win/plugins
 .obsidian/plugins
+.obsidian_win/plugins
+.obsidian_ipados/plugins
+
 
 
 
