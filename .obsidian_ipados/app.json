@@ -1,0 +1,19 @@
+{
+  "promptDelete": false,
+  "defaultViewMode": "preview",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "attachmentFolderPath": "./",
+  "showLineNumber": false,
+  "newLinkFormat": "shortest",
+  "showUnsupportedFiles": true,
+  "newFileFolderPath": "Collection",
+  "fileSortOrder": "byModifiedTime",
+  "foldIndent": true,
+  "foldHeading": true,
+  "trashOption": "local",
+  "legacyEditor": false,
+  "livePreview": true,
+  "showFrontmatter": true,
+  "readableLineLength": false
+}

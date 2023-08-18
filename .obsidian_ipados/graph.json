@@ -1,0 +1,86 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Thoughts",
+      "color": {
+        "a": 1,
+        "rgb": 8323327
+      }
+    },
+    {
+      "query": "path:Notes",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "path:Reference",
+      "color": {
+        "a": 1,
+        "rgb": 9389312
+      }
+    },
+    {
+      "query": "path:Collection",
+      "color": {
+        "a": 1,
+        "rgb": 13619151
+      }
+    },
+    {
+      "query": "path:Subjects",
+      "color": {
+        "a": 1,
+        "rgb": 16772864
+      }
+    },
+    {
+      "query": "path:Study",
+      "color": {
+        "a": 1,
+        "rgb": 65535
+      }
+    },
+    {
+      "query": "path:Projects/YeeGames_design",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:Projects/SystemicRisk_project",
+      "color": {
+        "a": 1,
+        "rgb": 65283
+      }
+    },
+    {
+      "query": "path:Projects/EntelechySystem_theory",
+      "color": {
+        "a": 1,
+        "rgb": 255
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 3.1613037109375,
+  "lineSizeMultiplier": 5,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.15698759901498183,
+  "close": true
+}
