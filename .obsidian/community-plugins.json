@@ -8,7 +8,6 @@
   "obsidian-plugin-todo",
   "obsidian-autocomplete-plugin",
   "note-refactor-obsidian",
-  "obsidian-wordnet-plugin",
   "obsidian-pandoc",
   "obsidian-reminder-plugin",
   "obsidian-timelines",
@@ -32,5 +31,9 @@
   "obsidian-tasks-plugin",
   "sync-graph-settings",
   "obsidian-filename-heading-sync",
-  "obsidian-admonition"
+  "obsidian-admonition",
+  "code-block-copy",
+  "find-unlinked-files",
+  "page-heading-from-links",
+  "obsidian-related-notes-finder"
 ]

@@ -175,7 +175,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -1511,7 +1512,7 @@
                   "state": {
                     "file": "Subjects/Game/DOTS/DOTS 学习笔记.md",
                     "mode": "source",
-                    "source": true
+                    "source": false
                   },
                   "pinned": true
                 }
@@ -1536,18 +1537,6 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Subjects/Game/DOTS/DOTS 学习笔记.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "7a5b3371ecde19b0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
                     "file": "Collection/结合 Unity Input System 与 DOTS.md",
                     "mode": "source",
                     "source": false
@@ -1555,7 +1544,7 @@
                 }
               }
             ],
-            "currentTab": 4
+            "currentTab": 2
           },
           {
             "id": "2677eddafa0c3c68",
@@ -2401,56 +2390,41 @@
       }
     ]
   },
-  "active": "4861203115b87821",
+  "active": "fda36afa5256e3c6",
   "lastOpenFiles": [
+    "Thoughts/sync.ffs_lock",
+    "sync.ffs_lock",
+    "Projects/SystemicRisk_project/sync.ffs_lock",
+    "Projects/EntelechySystem_theory/sync.ffs_lock",
     "Subjects/Economics/sync.ffs_lock",
     "Subjects/sync.ffs_lock",
     "Reference_zotfile/sync.ffs_lock",
     "Reference/sync.ffs_lock",
     "Projects/YeeGames_design/sync.ffs_lock",
-    "Projects/SystemicRisk_project/sync.ffs_lock",
-    "Projects/EntelechySystem_theory/sync.ffs_lock",
-    "Projects/YeeGames_design/Develope/Yee Games Function Library/analyse circle cover problem.ggb",
-    "Projects/YeeGames_design/Develope/Yee Games Function Library/开发：YeeGames 通用功能库 设计与开发.md",
-    "Projects/YeeGames_design/Develope/Yee Games Function Library/项目：YeeGames 通用功能库.md",
-    "Projects/YeeGames_design/Develope/Yee Games Function Library/YeeGames with DOTS and GPU.md",
-    "Projects/YeeGames_design/Develope/Yee Games Function Library/Yee Games Functional Library 调度功能.drawio",
-    "Projects/YeeGames_design/Develope/Yee Games Function Library",
-    "Projects/YeeGames_design/Develope/Yee Games 通用功能库/分析影响范围覆盖",
     "Subjects/Game/DOTS/DOTS 官方示例学习笔记.md",
-    "Subjects/Game/DOTS/DOTS 学习笔记.md",
-    "Study/Study.md",
     "Collection/结合 Unity Input System 与 DOTS.md",
-    "Study/学习NARS系统.md",
-    "Notes/Unity3D第三方插件Agent Navigation学习笔记.md",
-    "DailyNotes/2023-08-10.md",
-    "DailyNotes/2023-08-09.md",
-    "Subjects/Codes/Languages/C sharp/辨析C sharp 之接口、抽象类、抽象方法、虚方法.md",
-    "Study/学习编程语言.md",
-    "Study/学习网络爬虫.md",
-    "Projects/YeeGames_design/Games/Complex Elements Game 一步一步实现/CEG_04-设置两种粒子.assets/Screen Shot 2022-05-27 at 00.52.55.png",
-    "Projects/YeeGames_design/Games/Complex Elements Game 一步一步实现/CEG_04-设置两种粒子.assets/image-20220525021659882.png",
-    "Projects/YeeGames_design/Games/Complex Elements Game 一步一步实现/CEG_04-设置两种粒子.assets/Screen Shot 2022-05-27 at 00.36.58.png",
-    "Projects/YeeGames_design/Games/Complex Elements Game 一步一步实现/CEG_03-添加点力场.assets/image-20230322181320426.png",
-    "Projects/YeeGames_design/Games/Complex Elements Game 一步一步实现/CEG_03-添加点力场.assets/image-20230322175645247.png",
-    "Projects/YeeGames_design/Games/Complex Elements Game 一步一步实现/CEG_03-添加点力场.assets/image-20230322175202408.png",
-    "Projects/YeeGames_design/Games/Complex Elements Game 一步一步实现/CEG_03-添加点力场.assets/image-20230322175326399.png",
-    "Projects/YeeGames_design/Games/Complex Elements Game 一步一步实现/CEG_03-添加点力场.assets/image-20230322175110816.png",
-    "Projects/YeeGames_design/Games/Complex Elements Game 一步一步实现/CEG_03-添加点力场.assets/image-20230322175022540.png",
-    "Projects/YeeGames_design/Games/Complex Elements Game 一步一步实现/CEG_03-添加点力场.assets/image-20220518104331122.png",
-    "Projects/YeeGames_design/Games/Complex Elements Game 一步一步实现/Complex Elements Game 一步一步实现.md",
-    "Projects/YeeGames_design/Games/Complex Elements Game 一步一步实现/Complex Elements Game - step-by-step 说明.md",
-    "Projects/YeeGames_design/Games/Complex Elements Game 一步一步实现/CEG_06-工厂模式选择类型.md",
-    "Projects/YeeGames_design/Games/Complex Elements Game 一步一步实现/CEG_05-设置三种粒子.md",
-    "Projects/YeeGames_design/Games/Complex Elements Game 一步一步实现/CEG_04-设置两种粒子.md",
-    "Projects/YeeGames_design/Games/Complex Elements Game 一步一步实现/CEG_03-添加点力场.md",
-    "Projects/YeeGames_design/Games/Complex Elements Game 一步一步实现/CEG_02-刚体碰撞.md",
-    "Projects/YeeGames_design/Games/Complex Elements Game 一步一步实现/CEG_01-生成粒子.md",
-    "Projects/YeeGames_design/Games/Complex Elements Game 一步一步实现/CEG_00-搭建场景.md",
-    "Projects/YeeGames_design/Games/Complex Elements Game/Complex Elements Game 一步一步实现.md",
-    "Subjects/Codes/Programming/可视化工具/Matplotlib辨析plt、fig、axes.md",
-    "Projects/YeeGames_design/Untitled 1.canvas",
-    "Projects/YeeGames_design/Untitled.canvas",
-    "Untitled.canvas"
+    "Study/Study.md",
+    "Subjects/Game/DOTS/DOTS 学习笔记.md",
+    "Study/学习计算机科学与技术与编程语言.md",
+    "Projects/YeeGames_design/Projects/超大象棋/超大象棋兵种能力表.xlsx",
+    "Projects/YeeGames_design/Collection/Untitled.md",
+    "Projects/YeeGames_design/Analysis/各种基础能力微观分析.md",
+    "Projects/YeeGames_design/Collection/各种基础能力微观分析.md",
+    "Projects/YeeGames_design/Collection/像素级微观战役演化游戏.md",
+    "Projects/YeeGames_design/Collection/攻击力防御力微观分析.md",
+    "Projects/YeeGames_design/Projects/ComplexAgentsGame_design/Design/卡片作战游戏/Pokemon卡片作战/Pokemon卡片作战桌面游戏说明/_Index_of_Pokemon卡片作战桌面游戏说明.md",
+    "Projects/YeeGames_design/Projects/ComplexAgentsGame_design/Design/卡片作战游戏/Pokemon卡片作战/宠物小精灵卡片作战_军队存档部分说明.jpg.md",
+    "Projects/YeeGames_design/Projects/ComplexAgentsGame_design/Design/卡片作战游戏/Pokemon卡片作战/宠物小精灵卡 官方规则.doc.md",
+    "Projects/YeeGames_design/Analysis/Agent兵具有的属性.md",
+    "Subjects/计算科学/多智能体强化学习/多智能体强化学习.md",
+    "DailyNotes/2022-10-02.md",
+    "DailyNotes/2022-10-13.md",
+    "DailyNotes/2022-10-12.md",
+    "Subjects/Economics/通用经济与金融/2022年度诺贝尔经济学奖介绍.md",
+    "Subjects/Codes/Languages/Julia/Julia基础/Julia切换镜像源.md",
+    "Subjects/Codes/Languages/Julia/Julia基础/Julia部署.md",
+    "Subjects/Codes/Languages/Julia/Julia基础.md",
+    "DailyNotes/2022-10-09.md",
+    "Subjects/Codes/Languages/Julia/Julia基础/Julia部署Pkg包.md"
   ]
 }
