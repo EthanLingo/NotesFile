@@ -138,6 +138,20 @@ b =  numpy.loadtxt("filename.txt")
 
 
 
+### 扩充数组
+
+```python
+# 创建一维数组
+array_01 = np.array([1, 2, 3, 4, 5, 6])
+
+# 添加一个维度
+np.expand_dims(array_01, axis=1)
+```
+
+`expand_dims`函数的第一个参数是要添加维度的数组，第二个参数`axis`指定要添加的维度的位置。在这里，我们将`array_01`数组添加了一个维度，使其从一维变为二维，并且按列排列。
+
+此外，也可以用`reshape`。
+
 ### 展平数组
 
 ravel()

@@ -18,6 +18,19 @@ tags: #日期/2023-04-22 #类型/AI问答笔记 #内容/DOTS
 
 对于方法`ComponentLookup.TryGetComponent()`。首先新建一个针对查询某个组件之实例`AAAComponentLookup`，然后调用该实例，使用该方法`TryGetComponent`。该方法之形参1是某个要查询的具体的实体；形参2用`out`标记，将查询到的结果传给该形参。
 
+
+# 一些知识点
+
+#### 为什么不单独用JobSystem，而是要结合DOTS使用？
+
+![[2139D90E-A2BB-406C-B54B-C6F48537D5B4.jpeg]]
+
+
+
+#### 从运行模式（runtime）创建 Entities 对象代码
+
+![[0D0941A8-418D-4D81-8261-2E844E4D192D_1_201_a.jpeg]]
+
 # AI问答系列
 
 # 基础知识问答

@@ -6,7 +6,7 @@
       {
         "id": "f20a3ff2a5c938e4",
         "type": "split",
-        "dimension": 30.95823095823096,
+        "dimension": 28.06236080178174,
         "children": [
           {
             "id": "efcb95eb1bf8d653",
@@ -19,7 +19,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Subjects/Game/DOTS/DOTS 学习笔记.md"
+                    "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md"
                   }
                 }
               }
@@ -36,7 +36,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Subjects/Game/DOTS/DOTS 学习笔记.md",
+                    "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -137,7 +137,7 @@
       {
         "id": "7eecbea521c00d9a",
         "type": "tabs",
-        "dimension": 69.04176904176904,
+        "dimension": 71.93763919821826,
         "children": [
           {
             "id": "8e9fa928aa3d2eb7",
@@ -245,7 +245,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 246.5
   },
   "right": {
     "id": "aade5a834a514cf8",
@@ -261,7 +261,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/Game/DOTS/DOTS 学习笔记.md",
+                "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -284,7 +284,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/Game/DOTS/DOTS 学习笔记.md",
+                "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -351,7 +351,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Subjects/Game/DOTS/DOTS 学习笔记.md",
+                        "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -538,7 +538,7 @@
           }
         ],
         "direction": "vertical",
-        "x": 17,
+        "x": 9,
         "y": 38,
         "width": 1158,
         "height": 915,
@@ -565,7 +565,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Subjects/Game/DOTS/DOTS 学习笔记.md"
+                        "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md"
                       }
                     }
                   }
@@ -582,7 +582,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Subjects/Game/DOTS/DOTS 学习笔记.md",
+                        "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md",
                         "options": {
                           "collapse-filter": false,
                           "search": "",
@@ -758,7 +758,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Subjects/Game/DOTS/DOTS 学习笔记.md",
+                        "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -781,7 +781,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Subjects/Game/DOTS/DOTS 学习笔记.md",
+                        "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -794,7 +794,7 @@
           }
         ],
         "direction": "vertical",
-        "x": 17,
+        "x": 9,
         "y": 38,
         "width": 1158,
         "height": 944,
@@ -808,7 +808,7 @@
           {
             "id": "89564c5b3c2253aa",
             "type": "split",
-            "dimension": 23.12543798177996,
+            "dimension": 20.330578512396695,
             "children": [
               {
                 "id": "59cf293be2ceb27c",
@@ -821,7 +821,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Subjects/Game/DOTS/DOTS 学习笔记.md"
+                        "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md"
                       }
                     }
                   }
@@ -838,7 +838,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Subjects/Game/DOTS/DOTS 学习笔记.md",
+                        "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -939,7 +939,7 @@
           {
             "id": "4924667cb72aa333",
             "type": "tabs",
-            "dimension": 43.51786965662228,
+            "dimension": 55.867768595041326,
             "children": [
               {
                 "id": "13f3d0b0f13a28f2",
@@ -956,11 +956,27 @@
                 }
               },
               {
-                "id": "89604db60d501cad",
+                "id": "6efbedee4106a7c0",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {}
+                  "type": "markdown",
+                  "state": {
+                    "file": "Study/学习货币银行学.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "a039890afbee226c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md",
+                    "mode": "source",
+                    "source": false
+                  }
                 }
               },
               {
@@ -1013,12 +1029,13 @@
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 2
           },
           {
             "id": "4dd6e0d3f20f3b65",
             "type": "split",
-            "dimension": 33.35669236159776,
+            "dimension": 23.801652892561982,
             "children": [
               {
                 "id": "ab8cb4d48d9bcc84",
@@ -1030,7 +1047,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Subjects/Game/DOTS/DOTS 学习笔记.md",
+                        "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1053,7 +1070,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Subjects/Game/DOTS/DOTS 学习笔记.md",
+                        "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1070,7 +1087,7 @@
         "y": 54,
         "width": 928,
         "height": 808,
-        "maximize": false,
+        "maximize": true,
         "zoom": -1
       },
       {
@@ -1093,7 +1110,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Subjects/Game/DOTS/DOTS 学习笔记.md"
+                        "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md"
                       }
                     }
                   }
@@ -1110,7 +1127,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Subjects/Game/DOTS/DOTS 学习笔记.md",
+                        "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1292,7 +1309,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Subjects/Game/DOTS/DOTS 学习笔记.md",
+                        "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1315,7 +1332,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Subjects/Game/DOTS/DOTS 学习笔记.md",
+                        "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1328,8 +1345,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 17,
-        "y": 38,
+        "x": 134,
+        "y": 76,
         "width": 1158,
         "height": 876,
         "maximize": false,
@@ -1355,7 +1372,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Subjects/Game/DOTS/DOTS 学习笔记.md"
+                        "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md"
                       }
                     }
                   }
@@ -1372,7 +1389,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Subjects/Game/DOTS/DOTS 学习笔记.md",
+                        "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1542,6 +1559,18 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "a9706313c1d07dc6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes/随机生成和谐美观的色彩分布.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
             ],
             "currentTab": 2
@@ -1561,7 +1590,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Subjects/Game/DOTS/DOTS 学习笔记.md",
+                        "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1584,7 +1613,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Subjects/Game/DOTS/DOTS 学习笔记.md",
+                        "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1597,8 +1626,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 144,
-        "y": 134,
+        "x": 1512,
+        "y": -244,
         "width": 1512,
         "height": 944,
         "maximize": true,
@@ -1624,7 +1653,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Subjects/Game/DOTS/DOTS 学习笔记.md"
+                        "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md"
                       }
                     }
                   }
@@ -1641,7 +1670,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Subjects/Game/DOTS/DOTS 学习笔记.md",
+                        "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1793,9 +1822,21 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "0640c5e9a58fc1e1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
             ],
-            "currentTab": 3
+            "currentTab": 4
           },
           {
             "id": "e464f1de621eb73f",
@@ -1812,7 +1853,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Subjects/Game/DOTS/DOTS 学习笔记.md",
+                        "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1835,7 +1876,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Subjects/Game/DOTS/DOTS 学习笔记.md",
+                        "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1875,7 +1916,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Subjects/Game/DOTS/DOTS 学习笔记.md"
+                        "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md"
                       }
                     }
                   }
@@ -1892,7 +1933,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Subjects/Game/DOTS/DOTS 学习笔记.md",
+                        "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -2026,7 +2067,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Subjects/Game/DOTS/DOTS 学习笔记.md",
+                        "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -2049,7 +2090,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Subjects/Game/DOTS/DOTS 学习笔记.md",
+                        "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -2062,7 +2103,7 @@
           }
         ],
         "direction": "vertical",
-        "x": 18,
+        "x": 10,
         "y": 38,
         "width": 1158,
         "height": 944,
@@ -2089,7 +2130,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Subjects/Game/DOTS/DOTS 学习笔记.md"
+                        "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md"
                       }
                     }
                   },
@@ -2116,7 +2157,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Subjects/Game/DOTS/DOTS 学习笔记.md",
+                        "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -2345,7 +2386,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Subjects/Game/DOTS/DOTS 学习笔记.md",
+                        "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -2368,7 +2409,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Subjects/Game/DOTS/DOTS 学习笔记.md",
+                        "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -2390,10 +2431,8 @@
       }
     ]
   },
-  "active": "fda36afa5256e3c6",
+  "active": "a039890afbee226c",
   "lastOpenFiles": [
-    "Thoughts/sync.ffs_lock",
-    "sync.ffs_lock",
     "Projects/SystemicRisk_project/sync.ffs_lock",
     "Projects/EntelechySystem_theory/sync.ffs_lock",
     "Subjects/Economics/sync.ffs_lock",
@@ -2401,12 +2440,29 @@
     "Reference_zotfile/sync.ffs_lock",
     "Reference/sync.ffs_lock",
     "Projects/YeeGames_design/sync.ffs_lock",
-    "Subjects/Game/DOTS/DOTS 官方示例学习笔记.md",
-    "Collection/结合 Unity Input System 与 DOTS.md",
-    "Study/Study.md",
+    "Thoughts/sync.ffs_lock",
+    "sync.ffs_lock",
+    "Study/学习计算科学.md",
+    "Subjects/Economics/通用经济与金融/商业银行资产负债表.md",
     "Subjects/Game/DOTS/DOTS 学习笔记.md",
+    "Subjects/Codes/Languages/Python/Numpy基础.md",
+    "Collection/Untitled.md",
+    "Study/学习货币银行学.md",
+    "Study/学习经管社科类.md",
+    "Subjects/Economics/经管类的相关工具/abcFinance工具.md",
+    "Subjects/Codes/Programming/可视化工具/Matplotlib辨析plt、fig、axes.md",
+    "Study/学习数学系统科学物理学.md",
+    "Projects/YeeGames_design/Projects/ComplexElementsGame/设计：Complex Elements Game/游戏玩法数据表/元素与交互规则设计表/Complex Elements Game 游戏数值表_2023-08-29.xlsx",
+    "Subjects/Game/DOTS/0D0941A8-418D-4D81-8261-2E844E4D192D_1_201_a.jpeg",
+    "Subjects/Game/DOTS/0D0941A8-418D-4D81-8261-2E844E4D192D.jpeg",
+    "Subjects/Game/DOTS/2139D90E-A2BB-406C-B54B-C6F48537D5B4.jpeg",
+    "Subjects/Game/DOTS/DOTS 官方示例学习笔记.md",
+    "Notes/Unity3D第三方插件Agent Navigation学习笔记.md",
+    "Notes/学习图神经网络和组合优化.md",
+    "Study/Study.md",
+    "Notes/随机生成和谐美观的色彩分布.md",
+    "Collection/结合 Unity Input System 与 DOTS.md",
     "Study/学习计算机科学与技术与编程语言.md",
-    "Projects/YeeGames_design/Projects/超大象棋/超大象棋兵种能力表.xlsx",
     "Projects/YeeGames_design/Collection/Untitled.md",
     "Projects/YeeGames_design/Analysis/各种基础能力微观分析.md",
     "Projects/YeeGames_design/Collection/各种基础能力微观分析.md",
@@ -2414,17 +2470,6 @@
     "Projects/YeeGames_design/Collection/攻击力防御力微观分析.md",
     "Projects/YeeGames_design/Projects/ComplexAgentsGame_design/Design/卡片作战游戏/Pokemon卡片作战/Pokemon卡片作战桌面游戏说明/_Index_of_Pokemon卡片作战桌面游戏说明.md",
     "Projects/YeeGames_design/Projects/ComplexAgentsGame_design/Design/卡片作战游戏/Pokemon卡片作战/宠物小精灵卡片作战_军队存档部分说明.jpg.md",
-    "Projects/YeeGames_design/Projects/ComplexAgentsGame_design/Design/卡片作战游戏/Pokemon卡片作战/宠物小精灵卡 官方规则.doc.md",
-    "Projects/YeeGames_design/Analysis/Agent兵具有的属性.md",
-    "Subjects/计算科学/多智能体强化学习/多智能体强化学习.md",
-    "DailyNotes/2022-10-02.md",
-    "DailyNotes/2022-10-13.md",
-    "DailyNotes/2022-10-12.md",
-    "Subjects/Economics/通用经济与金融/2022年度诺贝尔经济学奖介绍.md",
-    "Subjects/Codes/Languages/Julia/Julia基础/Julia切换镜像源.md",
-    "Subjects/Codes/Languages/Julia/Julia基础/Julia部署.md",
-    "Subjects/Codes/Languages/Julia/Julia基础.md",
-    "DailyNotes/2022-10-09.md",
-    "Subjects/Codes/Languages/Julia/Julia基础/Julia部署Pkg包.md"
+    "Projects/YeeGames_design/Projects/ComplexAgentsGame_design/Design/卡片作战游戏/Pokemon卡片作战/宠物小精灵卡 官方规则.doc.md"
   ]
 }
