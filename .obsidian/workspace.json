@@ -6,12 +6,12 @@
       {
         "id": "f20a3ff2a5c938e4",
         "type": "split",
-        "dimension": 28.06236080178174,
+        "dimension": 30.947647448641487,
         "children": [
           {
             "id": "efcb95eb1bf8d653",
             "type": "tabs",
-            "dimension": 65.53911205073996,
+            "dimension": 57.24867724867725,
             "children": [
               {
                 "id": "e163f4fc403969f9",
@@ -19,7 +19,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md"
+                    "file": "Subjects/Codes/Languages/Python/Numpy基础.md"
                   }
                 }
               }
@@ -28,7 +28,7 @@
           {
             "id": "0fcfcf269be99661",
             "type": "tabs",
-            "dimension": 34.46088794926004,
+            "dimension": 42.75132275132275,
             "children": [
               {
                 "id": "ba65f30fa943ad4e",
@@ -36,7 +36,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md",
+                    "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -123,7 +123,7 @@
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 0.8664794128871286,
+                      "scale": 0.8264455933534072,
                       "close": true
                     }
                   }
@@ -137,7 +137,7 @@
       {
         "id": "7eecbea521c00d9a",
         "type": "tabs",
-        "dimension": 71.93763919821826,
+        "dimension": 69.05235255135852,
         "children": [
           {
             "id": "8e9fa928aa3d2eb7",
@@ -164,19 +164,31 @@
             }
           },
           {
-            "id": "7a018509b7437fcb",
+            "id": "f2246694b39783d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/2023-08-10.md",
-                "mode": "source",
+                "file": "Subjects/Softwares/Obsidian/Obsidian 相关的链接.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "03526284663a0c12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Subjects/Codes/Languages/Python/Python基础/Python虚拟环境venv.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -261,7 +273,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md",
+                "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -284,7 +296,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md",
+                "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,7 +306,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 541.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -351,7 +364,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md",
+                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -538,7 +551,7 @@
           }
         ],
         "direction": "vertical",
-        "x": 9,
+        "x": 20,
         "y": 38,
         "width": 1158,
         "height": 915,
@@ -552,7 +565,7 @@
           {
             "id": "e6c28cd3f4ba38c6",
             "type": "split",
-            "dimension": 25.061025223759152,
+            "dimension": 21.437632135306554,
             "children": [
               {
                 "id": "d0fb5d4b15174ddb",
@@ -565,7 +578,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md"
+                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md"
                       }
                     }
                   }
@@ -582,7 +595,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md",
+                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
                         "options": {
                           "collapse-filter": false,
                           "search": "",
@@ -683,7 +696,7 @@
           {
             "id": "bf0ab7d117c860f0",
             "type": "tabs",
-            "dimension": 45.64686737184703,
+            "dimension": 59.87315010570825,
             "children": [
               {
                 "id": "f6100a57c10a9b76",
@@ -714,6 +727,32 @@
                 }
               },
               {
+                "id": "7d625c1c9b4ab108",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Subjects/计算科学/强化学习/强化学习.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "c8a88423744d5a5f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Subjects/计算科学/强化学习/笔记：解读强化学习代码.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              },
+              {
                 "id": "2fcd258dc18f3a91",
                 "type": "leaf",
                 "pinned": true,
@@ -741,12 +780,13 @@
                   "pinned": true
                 }
               }
-            ]
+            ],
+            "currentTab": 3
           },
           {
             "id": "80c6b4ae5bc4aca6",
             "type": "split",
-            "dimension": 29.292107404393814,
+            "dimension": 18.6892177589852,
             "children": [
               {
                 "id": "519b6884420d4afe",
@@ -758,7 +798,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md",
+                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -781,7 +821,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md",
+                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -794,12 +834,12 @@
           }
         ],
         "direction": "vertical",
-        "x": 9,
-        "y": 38,
-        "width": 1158,
-        "height": 944,
+        "x": 1992,
+        "y": -715,
+        "width": 1600,
+        "height": 1415,
         "maximize": false,
-        "zoom": -1
+        "zoom": 0
       },
       {
         "id": "1fbfed85a5aa733e",
@@ -821,7 +861,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md"
+                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md"
                       }
                     }
                   }
@@ -838,7 +878,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md",
+                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1047,7 +1087,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md",
+                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1070,7 +1110,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md",
+                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1083,12 +1123,12 @@
           }
         ],
         "direction": "vertical",
-        "x": 259,
-        "y": 54,
-        "width": 928,
-        "height": 808,
+        "x": 288,
+        "y": 225,
+        "width": 1512,
+        "height": 944,
         "maximize": true,
-        "zoom": -1
+        "zoom": 0
       },
       {
         "id": "fdd0d73a34b491e7",
@@ -1110,7 +1150,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md"
+                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md"
                       }
                     }
                   }
@@ -1127,7 +1167,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md",
+                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1309,7 +1349,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md",
+                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1332,7 +1372,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md",
+                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1345,8 +1385,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 134,
-        "y": 76,
+        "x": 293,
+        "y": 106,
         "width": 1158,
         "height": 876,
         "maximize": false,
@@ -1372,7 +1412,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md"
+                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md"
                       }
                     }
                   }
@@ -1389,7 +1429,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md",
+                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1571,9 +1611,21 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "a0c9c3f3befc708b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Subjects/Game/Unity3D/各种数据类型之赋值方式：引用、复制？.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
               }
             ],
-            "currentTab": 2
+            "currentTab": 6
           },
           {
             "id": "2677eddafa0c3c68",
@@ -1590,7 +1642,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md",
+                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1613,7 +1665,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md",
+                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1626,8 +1678,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 1512,
-        "y": -244,
+        "x": 288,
+        "y": 221,
         "width": 1512,
         "height": 944,
         "maximize": true,
@@ -1653,7 +1705,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md"
+                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md"
                       }
                     }
                   }
@@ -1670,7 +1722,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md",
+                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1853,7 +1905,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md",
+                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1876,7 +1928,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md",
+                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1889,8 +1941,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 144,
-        "y": 134,
+        "x": 288,
+        "y": 225,
         "width": 1512,
         "height": 944,
         "maximize": true,
@@ -1916,7 +1968,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md"
+                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md"
                       }
                     }
                   }
@@ -1933,7 +1985,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md",
+                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -2049,8 +2101,23 @@
                   },
                   "pinned": true
                 }
+              },
+              {
+                "id": "f1fc64412edb4637",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Study/学习图网络.md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "pinned": true
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "72f78ff59952cabc",
@@ -2067,7 +2134,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md",
+                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -2090,7 +2157,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md",
+                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -2103,10 +2170,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 10,
-        "y": 38,
-        "width": 1158,
-        "height": 944,
+        "x": 1842,
+        "y": -453,
+        "width": 1603,
+        "height": 1090,
         "maximize": false,
         "zoom": 0
       },
@@ -2130,7 +2197,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md"
+                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md"
                       }
                     }
                   },
@@ -2157,7 +2224,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md",
+                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -2386,7 +2453,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md",
+                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -2409,7 +2476,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md",
+                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -2422,16 +2489,16 @@
           }
         ],
         "direction": "vertical",
-        "x": 144,
-        "y": 134,
-        "width": 1512,
-        "height": 944,
-        "maximize": true,
+        "x": 166,
+        "y": 122,
+        "width": 1153,
+        "height": 727,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "a039890afbee226c",
+  "active": "0640c5e9a58fc1e1",
   "lastOpenFiles": [
     "Projects/SystemicRisk_project/sync.ffs_lock",
     "Projects/EntelechySystem_theory/sync.ffs_lock",
@@ -2440,36 +2507,38 @@
     "Reference_zotfile/sync.ffs_lock",
     "Reference/sync.ffs_lock",
     "Projects/YeeGames_design/sync.ffs_lock",
+    "Subjects/Game/Unity3D/各种数据类型之赋值方式：引用、复制？.md",
     "Thoughts/sync.ffs_lock",
     "sync.ffs_lock",
+    "Subjects/计算科学/强化学习/笔记：解读强化学习代码.md",
+    "Study/学习图网络.md",
+    "Subjects/Codes/Languages/Python/Python基础/Python虚拟环境venv.md",
+    "Subjects/Codes/Languages/Python/Numpy基础.md",
+    "Study/学习NARS系统.md",
     "Study/学习计算科学.md",
     "Subjects/Economics/通用经济与金融/商业银行资产负债表.md",
-    "Subjects/Game/DOTS/DOTS 学习笔记.md",
-    "Subjects/Codes/Languages/Python/Numpy基础.md",
+    "Subjects/Codes/Languages/Python/Python基础/Python虚拟环境.md",
+    "Subjects/Codes/Languages/Python/Python基础/几种Python虚拟环境管理.md",
+    "Subjects/Codes/Languages/Python/Python基础/Python部署.md",
+    "Subjects/Codes/Languages/Python/Python基础/配置pip在Mac之终端之内.md",
+    "Subjects/Codes/Languages/Python/Python基础.md",
+    "Subjects/Codes/Languages/Python/Python基础/pip install.md",
+    "Subjects/Softwares/Obsidian/Obsidian 相关的链接.md",
     "Collection/Untitled.md",
-    "Study/学习货币银行学.md",
-    "Study/学习经管社科类.md",
-    "Subjects/Economics/经管类的相关工具/abcFinance工具.md",
-    "Subjects/Codes/Programming/可视化工具/Matplotlib辨析plt、fig、axes.md",
-    "Study/学习数学系统科学物理学.md",
-    "Projects/YeeGames_design/Projects/ComplexElementsGame/设计：Complex Elements Game/游戏玩法数据表/元素与交互规则设计表/Complex Elements Game 游戏数值表_2023-08-29.xlsx",
+    "Subjects/计算科学/强化学习/强化学习.md",
+    "Collection/笔记：解读强化学习代码~.md",
+    "Subjects/计算科学/多智能体强化学习/多智能体强化学习.md",
+    "Subjects/计算科学/多智能体强化学习/多智能体强化学习相关资料.md",
+    "Study/学习强化学习.md",
+    "Subjects/数学与系统科学/博弈论/求解标准形式博弈.md",
+    "Study/学习多智能体强化学习.md",
+    "Thoughts/创造者/项目创意.assets/IMG_8505.jpeg",
+    "Thoughts/创造者/项目创意.assets/IMG_8504.jpeg",
+    "Notes/随机生成和谐美观的色彩分布.md",
+    "Subjects/Game/Unity3D/Unity辨析GetComponent.md",
+    "Projects/YeeGames_design/Excalidraw",
     "Subjects/Game/DOTS/0D0941A8-418D-4D81-8261-2E844E4D192D_1_201_a.jpeg",
     "Subjects/Game/DOTS/0D0941A8-418D-4D81-8261-2E844E4D192D.jpeg",
-    "Subjects/Game/DOTS/2139D90E-A2BB-406C-B54B-C6F48537D5B4.jpeg",
-    "Subjects/Game/DOTS/DOTS 官方示例学习笔记.md",
-    "Notes/Unity3D第三方插件Agent Navigation学习笔记.md",
-    "Notes/学习图神经网络和组合优化.md",
-    "Study/Study.md",
-    "Notes/随机生成和谐美观的色彩分布.md",
-    "Collection/结合 Unity Input System 与 DOTS.md",
-    "Study/学习计算机科学与技术与编程语言.md",
-    "Projects/YeeGames_design/Collection/Untitled.md",
-    "Projects/YeeGames_design/Analysis/各种基础能力微观分析.md",
-    "Projects/YeeGames_design/Collection/各种基础能力微观分析.md",
-    "Projects/YeeGames_design/Collection/像素级微观战役演化游戏.md",
-    "Projects/YeeGames_design/Collection/攻击力防御力微观分析.md",
-    "Projects/YeeGames_design/Projects/ComplexAgentsGame_design/Design/卡片作战游戏/Pokemon卡片作战/Pokemon卡片作战桌面游戏说明/_Index_of_Pokemon卡片作战桌面游戏说明.md",
-    "Projects/YeeGames_design/Projects/ComplexAgentsGame_design/Design/卡片作战游戏/Pokemon卡片作战/宠物小精灵卡片作战_军队存档部分说明.jpg.md",
-    "Projects/YeeGames_design/Projects/ComplexAgentsGame_design/Design/卡片作战游戏/Pokemon卡片作战/宠物小精灵卡 官方规则.doc.md"
+    "Subjects/Game/DOTS/2139D90E-A2BB-406C-B54B-C6F48537D5B4.jpeg"
   ]
 }

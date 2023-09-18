@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:Thoughts",
@@ -25,7 +25,7 @@
       "query": "path:Reference",
       "color": {
         "a": 1,
-        "rgb": 9389312
+        "rgb": 9323777
       }
     },
     {
@@ -39,14 +39,14 @@
       "query": "path:Subjects",
       "color": {
         "a": 1,
-        "rgb": 16772864
+        "rgb": 16772866
       }
     },
     {
       "query": "path:Study",
       "color": {
         "a": 1,
-        "rgb": 65535
+        "rgb": 262143
       }
     },
     {
@@ -60,7 +60,7 @@
       "query": "path:Projects/SystemicRisk_project",
       "color": {
         "a": 1,
-        "rgb": 65283
+        "rgb": 261888
       }
     },
     {
@@ -73,14 +73,14 @@
   ],
   "collapse-display": true,
   "showArrow": true,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 3.1613037109375,
+  "textFadeMultiplier": -1.2,
+  "nodeSizeMultiplier": 3.56505126953125,
   "lineSizeMultiplier": 5,
   "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.15698759901498183,
-  "close": true
+  "scale": 0.12927866237632016,
+  "close": false
 }
