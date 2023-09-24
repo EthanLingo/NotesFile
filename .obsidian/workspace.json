@@ -6,7 +6,7 @@
       {
         "id": "f20a3ff2a5c938e4",
         "type": "split",
-        "dimension": 30.947647448641487,
+        "dimension": 30.947647448641483,
         "children": [
           {
             "id": "efcb95eb1bf8d653",
@@ -19,7 +19,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Subjects/Codes/Languages/Python/Numpy基础.md"
+                    "file": "Notes/计量经济领域选择什么语言.md"
                   }
                 }
               }
@@ -36,7 +36,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
+                    "file": "Notes/计量经济领域选择什么语言.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -137,7 +137,7 @@
       {
         "id": "7eecbea521c00d9a",
         "type": "tabs",
-        "dimension": 69.05235255135852,
+        "dimension": 69.05235255135851,
         "children": [
           {
             "id": "8e9fa928aa3d2eb7",
@@ -164,31 +164,19 @@
             }
           },
           {
-            "id": "f2246694b39783d5",
+            "id": "624f289c30435ee1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/Softwares/Obsidian/Obsidian 相关的链接.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "03526284663a0c12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Subjects/Codes/Languages/Python/Python基础/Python虚拟环境venv.md",
-                "mode": "preview",
+                "file": "Study/学习计量经济学.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -217,7 +205,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"tags\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -268,12 +256,39 @@
         "type": "tabs",
         "children": [
           {
+            "id": "c656b1db00e5df40",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "2506df44a9c3dde9",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Notes/计量经济领域选择什么语言.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "8ba37c95ab549354",
+        "type": "tabs",
+        "children": [
+          {
             "id": "f975bdba76e1287d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
+                "file": "Notes/计量经济领域选择什么语言.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,7 +311,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
+                "file": "Notes/计量经济领域选择什么语言.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,8 +321,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 541.5,
-    "collapsed": true
+    "width": 482.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -364,7 +378,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
+                        "file": "Notes/计量经济领域选择什么语言.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -578,7 +592,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md"
+                        "file": "Notes/计量经济领域选择什么语言.md"
                       }
                     }
                   }
@@ -595,7 +609,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
+                        "file": "Notes/计量经济领域选择什么语言.md",
                         "options": {
                           "collapse-filter": false,
                           "search": "",
@@ -798,7 +812,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
+                        "file": "Notes/计量经济领域选择什么语言.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -821,7 +835,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
+                        "file": "Notes/计量经济领域选择什么语言.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -834,10 +848,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 1992,
-        "y": -715,
-        "width": 1600,
-        "height": 1415,
+        "x": 177,
+        "y": 38,
+        "width": 1158,
+        "height": 944,
         "maximize": false,
         "zoom": 0
       },
@@ -861,7 +875,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md"
+                        "file": "Notes/计量经济领域选择什么语言.md"
                       }
                     }
                   }
@@ -878,7 +892,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
+                        "file": "Notes/计量经济领域选择什么语言.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1068,9 +1082,21 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "55d192190770ab7e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes/计量经济领域选择什么语言.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
               }
             ],
-            "currentTab": 2
+            "currentTab": 7
           },
           {
             "id": "4dd6e0d3f20f3b65",
@@ -1087,7 +1113,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
+                        "file": "Notes/计量经济领域选择什么语言.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1110,7 +1136,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
+                        "file": "Notes/计量经济领域选择什么语言.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1123,8 +1149,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 288,
-        "y": 225,
+        "x": 1512,
+        "y": -244,
         "width": 1512,
         "height": 944,
         "maximize": true,
@@ -1150,7 +1176,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md"
+                        "file": "Notes/计量经济领域选择什么语言.md"
                       }
                     }
                   }
@@ -1167,7 +1193,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
+                        "file": "Notes/计量经济领域选择什么语言.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1331,8 +1357,49 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "c4bd19d4571ad306",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              },
+              {
+                "id": "0640c5e9a58fc1e1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Study/学习概率与统计.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "11054493ddb70c52",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              },
+              {
+                "id": "23a0eaea413b9de3",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Collection/概率统计的收敛.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 8
           },
           {
             "id": "8edcbf4835ed975b",
@@ -1349,7 +1416,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
+                        "file": "Notes/计量经济领域选择什么语言.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1372,7 +1439,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
+                        "file": "Notes/计量经济领域选择什么语言.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1385,10 +1452,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 293,
-        "y": 106,
-        "width": 1158,
-        "height": 876,
+        "x": 1955,
+        "y": -613,
+        "width": 1546,
+        "height": 1063,
         "maximize": false,
         "zoom": 0
       },
@@ -1412,7 +1479,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md"
+                        "file": "Notes/计量经济领域选择什么语言.md"
                       }
                     }
                   }
@@ -1429,7 +1496,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
+                        "file": "Notes/计量经济领域选择什么语言.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1642,7 +1709,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
+                        "file": "Notes/计量经济领域选择什么语言.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1665,7 +1732,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
+                        "file": "Notes/计量经济领域选择什么语言.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1678,11 +1745,11 @@
           }
         ],
         "direction": "vertical",
-        "x": 288,
-        "y": 221,
-        "width": 1512,
-        "height": 944,
-        "maximize": true,
+        "x": 196,
+        "y": 168,
+        "width": 1147,
+        "height": 771,
+        "maximize": false,
         "zoom": 0
       },
       {
@@ -1705,7 +1772,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md"
+                        "file": "Notes/计量经济领域选择什么语言.md"
                       }
                     }
                   }
@@ -1722,7 +1789,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
+                        "file": "Notes/计量经济领域选择什么语言.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1874,21 +1941,9 @@
                     "source": false
                   }
                 }
-              },
-              {
-                "id": "0640c5e9a58fc1e1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
               }
             ],
-            "currentTab": 4
+            "currentTab": 3
           },
           {
             "id": "e464f1de621eb73f",
@@ -1905,7 +1960,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
+                        "file": "Notes/计量经济领域选择什么语言.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1928,7 +1983,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
+                        "file": "Notes/计量经济领域选择什么语言.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1941,8 +1996,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 288,
-        "y": 225,
+        "x": 1512,
+        "y": -244,
         "width": 1512,
         "height": 944,
         "maximize": true,
@@ -1968,7 +2023,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md"
+                        "file": "Notes/计量经济领域选择什么语言.md"
                       }
                     }
                   }
@@ -1985,7 +2040,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
+                        "file": "Notes/计量经济领域选择什么语言.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -2134,7 +2189,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
+                        "file": "Notes/计量经济领域选择什么语言.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -2157,7 +2212,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
+                        "file": "Notes/计量经济领域选择什么语言.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -2170,10 +2225,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 1842,
-        "y": -453,
-        "width": 1603,
-        "height": 1090,
+        "x": 190,
+        "y": 38,
+        "width": 1158,
+        "height": 944,
         "maximize": false,
         "zoom": 0
       },
@@ -2197,7 +2252,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md"
+                        "file": "Notes/计量经济领域选择什么语言.md"
                       }
                     }
                   },
@@ -2224,7 +2279,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
+                        "file": "Notes/计量经济领域选择什么语言.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -2453,7 +2508,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
+                        "file": "Notes/计量经济领域选择什么语言.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -2476,7 +2531,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
+                        "file": "Notes/计量经济领域选择什么语言.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -2489,54 +2544,55 @@
           }
         ],
         "direction": "vertical",
-        "x": 166,
-        "y": 122,
-        "width": 1153,
-        "height": 727,
+        "x": 52,
+        "y": 66,
+        "width": 1438,
+        "height": 889,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "0640c5e9a58fc1e1",
+  "active": "55d192190770ab7e",
   "lastOpenFiles": [
+    "Study/学习计量经济学.md",
+    "Study/学习经管社科类.md",
+    "Subjects/Economics/通用经济与金融/商业银行资产负债表.md",
     "Projects/SystemicRisk_project/sync.ffs_lock",
     "Projects/EntelechySystem_theory/sync.ffs_lock",
+    "Thoughts/sync.ffs_lock",
+    "sync.ffs_lock",
     "Subjects/Economics/sync.ffs_lock",
     "Subjects/sync.ffs_lock",
     "Reference_zotfile/sync.ffs_lock",
     "Reference/sync.ffs_lock",
     "Projects/YeeGames_design/sync.ffs_lock",
-    "Subjects/Game/Unity3D/各种数据类型之赋值方式：引用、复制？.md",
-    "Thoughts/sync.ffs_lock",
-    "sync.ffs_lock",
-    "Subjects/计算科学/强化学习/笔记：解读强化学习代码.md",
+    "Collection/概率统计的收敛.md",
+    "Study/学习概率与统计.md",
+    "Notes/学习图神经网络和组合优化.md",
     "Study/学习图网络.md",
-    "Subjects/Codes/Languages/Python/Python基础/Python虚拟环境venv.md",
-    "Subjects/Codes/Languages/Python/Numpy基础.md",
+    "Notes/学习因果涌现.md",
     "Study/学习NARS系统.md",
+    "Notes/计量经济领域选择什么语言.md",
+    "Subjects/Economics/通用经济与金融/计量实证方法.md",
+    "Collection/Stata、R、Python 我该选哪个语言_陈强.pdf",
+    "Study/Study.md",
+    "Notes/Drawing 2023-03-28 16.52.27.excalidraw.md",
+    "Subjects/Softwares/Obsidian/Obsidian 相关的链接.md",
+    "Subjects/Codes/Languages/Python/Python基础/Python虚拟环境venv.md",
+    "Subjects/Game/Unity3D/各种数据类型之赋值方式：引用、复制？.md",
+    "Subjects/Codes/Languages/Python/Numpy基础.md",
+    "Subjects/计算科学/强化学习/笔记：解读强化学习代码.md",
     "Study/学习计算科学.md",
-    "Subjects/Economics/通用经济与金融/商业银行资产负债表.md",
     "Subjects/Codes/Languages/Python/Python基础/Python虚拟环境.md",
     "Subjects/Codes/Languages/Python/Python基础/几种Python虚拟环境管理.md",
     "Subjects/Codes/Languages/Python/Python基础/Python部署.md",
     "Subjects/Codes/Languages/Python/Python基础/配置pip在Mac之终端之内.md",
     "Subjects/Codes/Languages/Python/Python基础.md",
     "Subjects/Codes/Languages/Python/Python基础/pip install.md",
-    "Subjects/Softwares/Obsidian/Obsidian 相关的链接.md",
     "Collection/Untitled.md",
-    "Subjects/计算科学/强化学习/强化学习.md",
-    "Collection/笔记：解读强化学习代码~.md",
-    "Subjects/计算科学/多智能体强化学习/多智能体强化学习.md",
-    "Subjects/计算科学/多智能体强化学习/多智能体强化学习相关资料.md",
-    "Study/学习强化学习.md",
-    "Subjects/数学与系统科学/博弈论/求解标准形式博弈.md",
-    "Study/学习多智能体强化学习.md",
     "Thoughts/创造者/项目创意.assets/IMG_8505.jpeg",
     "Thoughts/创造者/项目创意.assets/IMG_8504.jpeg",
-    "Notes/随机生成和谐美观的色彩分布.md",
-    "Subjects/Game/Unity3D/Unity辨析GetComponent.md",
-    "Projects/YeeGames_design/Excalidraw",
     "Subjects/Game/DOTS/0D0941A8-418D-4D81-8261-2E844E4D192D_1_201_a.jpeg",
     "Subjects/Game/DOTS/0D0941A8-418D-4D81-8261-2E844E4D192D.jpeg",
     "Subjects/Game/DOTS/2139D90E-A2BB-406C-B54B-C6F48537D5B4.jpeg"
