@@ -31,6 +31,34 @@ tags: #日期/2023-04-22 #类型/AI问答笔记 #内容/DOTS
 
 ![[0D0941A8-418D-4D81-8261-2E844E4D192D_1_201_a.jpeg]]
 
+
+## Aspect
+
+#### Aspect 中可包含数据类型
+
+![[IMG_6364.png]]
+
+
+## System
+
+#### System 之类别
+![[IMG_6357.png]]
+
+#### System 使用注意点
+
+![[IMG_6358.jpeg]]
+
+
+### System.API.Query
+
+#### System.API.Query 之七种重载类型
+![[IMG_6365.png]]
+
+## Blob Asset
+
+#### SharedComponent 与 Blob Asset 应用差异
+![[IMG_6366.png]]
+
 # AI问答系列
 
 # 基础知识问答
@@ -215,6 +243,10 @@ public struct SharedSettingsComponent : ISharedComponentData
 
 总之，在保证性能的前提下，您可以使用上述策略来更好地管理多个组件。请根据您的项目需求选择最适合您的方法。
 
+## Aspect
+
+
+
 
 ## Query 查询
 
@@ -248,7 +280,9 @@ public struct SharedSettingsComponent : ISharedComponentData
 `WithNone`方法：查询不拥有指定任何一个组件的实体。相当于求交集然后取反；
 
 
+
 ## System系统
+
 
 
 
