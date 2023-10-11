@@ -151,6 +151,12 @@
         "Ctrl"
       ],
       "key": "["
+    },
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowLeft"
     }
   ],
   "app:go-forward": [
@@ -164,6 +170,12 @@
       "modifiers": [
         "Alt",
         "Mod"
+      ],
+      "key": "ArrowRight"
+    },
+    {
+      "modifiers": [
+        "Alt"
       ],
       "key": "ArrowRight"
     }
@@ -454,5 +466,23 @@
       "key": "["
     }
   ],
-  "obsidian-related-notes-finder:show-possible-links": []
+  "obsidian-related-notes-finder:show-possible-links": [],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [],
+      "key": "F7"
+    }
+  ],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [],
+      "key": "F9"
+    }
+  ],
+  "window:toggle-always-on-top": [
+    {
+      "modifiers": [],
+      "key": "F8"
+    }
+  ]
 }
