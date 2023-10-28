@@ -151,12 +151,6 @@
         "Ctrl"
       ],
       "key": "["
-    },
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "ArrowLeft"
     }
   ],
   "app:go-forward": [
@@ -170,12 +164,6 @@
       "modifiers": [
         "Alt",
         "Mod"
-      ],
-      "key": "ArrowRight"
-    },
-    {
-      "modifiers": [
-        "Alt"
       ],
       "key": "ArrowRight"
     }
@@ -318,14 +306,6 @@
         "Mod"
       ],
       "key": "6"
-    }
-  ],
-  "editor:set-heading": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "0"
     }
   ],
   "obsidian-copy-block-link:copy-link-to-block": [

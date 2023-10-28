@@ -21,11 +21,13 @@ tags: #日期/2023-04-22 #类型/AI问答笔记 #内容/DOTS
 
 # 一些知识点
 
-#### 为什么不单独用JobSystem，而是要结合DOTS使用？
 
-![[2139D90E-A2BB-406C-B54B-C6F48537D5B4.jpeg]]
+## Blob Asset
+
+[[DOTS 之 Blob Asset]]
 
 
+## 创建 Entity
 
 #### 从运行模式（runtime）创建 Entities 对象代码
 
@@ -423,6 +425,14 @@ public struct SharedSettingsComponent : ISharedComponentData
 `RequireForUpdate`调用指示系统在更新期间追踪和更新相关的组件。当使用`GetSingleton`获取单例组件的只读引用时，系统需要知道与该单例组件相关的组件类型，以便进行正确的更新。
 
 所以，为了解决「To use the result of a '`GetSingleton<A>`' call in the function, '`OnCreate`' must include a '`RequireForUpdate`' call」的警告提示，你需要在`OnCreate`方法中添加`RequireForUpdate`调用，以指定与你使用的单例组件相关的组件类型。
+
+
+## Jobs System
+
+
+#### 为什么不单独用JobSystem，而是要结合DOTS使用？
+
+![[2139D90E-A2BB-406C-B54B-C6F48537D5B4.jpeg]]
 
 
 

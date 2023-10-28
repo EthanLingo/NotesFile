@@ -108,7 +108,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Collection/DOTS 之 Blob Asset.md"
+              }
             }
           }
         ]
@@ -123,6 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Collection/DOTS 之 Blob Asset.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -219,8 +222,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 397.5,
-    "collapsed": true
+    "width": 397.5
   },
   "right": {
     "id": "aade5a834a514cf8",
@@ -245,7 +247,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Collection/DOTS 之 Blob Asset.md"
+              }
             }
           }
         ],
@@ -261,6 +265,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Collection/DOTS 之 Blob Asset.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,6 +288,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Collection/DOTS 之 Blob Asset.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -350,6 +356,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
+                        "file": "Collection/DOTS 之 Blob Asset.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -478,8 +485,7 @@
                   "pinned": true
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "8a5a32b02624cbbc",
@@ -536,9 +542,9 @@
           }
         ],
         "direction": "vertical",
-        "x": 79,
-        "y": 25,
-        "width": 1490,
+        "x": 0,
+        "y": 65,
+        "width": 1200,
         "height": 1098,
         "maximize": false,
         "zoom": 0
@@ -550,7 +556,7 @@
           {
             "id": "e6c28cd3f4ba38c6",
             "type": "split",
-            "dimension": 21.437632135306554,
+            "dimension": 21.66666666666667,
             "children": [
               {
                 "id": "d0fb5d4b15174ddb",
@@ -562,7 +568,9 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {}
+                      "state": {
+                        "file": "Collection/DOTS 之 Blob Asset.md"
+                      }
                     }
                   }
                 ]
@@ -578,6 +586,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
+                        "file": "Collection/DOTS 之 Blob Asset.md",
                         "options": {
                           "collapse-filter": false,
                           "search": "",
@@ -676,118 +685,125 @@
             "direction": "horizontal"
           },
           {
-            "id": "bf0ab7d117c860f0",
-            "type": "tabs",
-            "dimension": 29.936575052854124,
+            "id": "785f664d947e54a3",
+            "type": "split",
+            "dimension": 53,
             "children": [
               {
-                "id": "f6100a57c10a9b76",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Study/学习多智能体强化学习.md",
-                    "mode": "source",
-                    "source": false
+                "id": "bf0ab7d117c860f0",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "f6100a57c10a9b76",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Study/学习多智能体强化学习.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "pinned": true
+                    }
                   },
-                  "pinned": true
-                }
-              },
-              {
-                "id": "15565fc655e9d7ad",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Study/学习强化学习.md",
-                    "mode": "source",
-                    "source": false
+                  {
+                    "id": "15565fc655e9d7ad",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Study/学习强化学习.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "pinned": true
+                    }
                   },
-                  "pinned": true
-                }
-              },
-              {
-                "id": "7d625c1c9b4ab108",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Subjects/计算科学/强化学习/强化学习.md",
-                    "mode": "source",
-                    "source": false
+                  {
+                    "id": "7d625c1c9b4ab108",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Subjects/计算科学/强化学习/强化学习.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "pinned": true
+                    }
                   },
-                  "pinned": true
-                }
-              },
-              {
-                "id": "c8a88423744d5a5f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Subjects/计算科学/强化学习/笔记：解读强化学习代码.md",
-                    "mode": "preview",
-                    "source": false
+                  {
+                    "id": "c8a88423744d5a5f",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Subjects/计算科学/强化学习/笔记：解读强化学习代码.md",
+                        "mode": "preview",
+                        "source": false
+                      }
+                    }
                   }
-                }
+                ],
+                "currentTab": 3
               },
               {
-                "id": "2fcd258dc18f3a91",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Subjects/计算科学/多智能体强化学习/多智能体强化学习.md",
-                    "mode": "source",
-                    "source": false
+                "id": "3bdc6d31ebe5d019",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "2fcd258dc18f3a91",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Subjects/计算科学/多智能体强化学习/多智能体强化学习.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "pinned": true
+                    }
                   },
-                  "pinned": true
-                }
-              },
-              {
-                "id": "56b8ecec2bde9d09",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Study/学习多智能体强化学习.md",
-                    "mode": "source",
-                    "source": false
+                  {
+                    "id": "4fc3ae96cdd25e35",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Subjects/计算科学/多智能体强化学习/多智能体强化学习相关资料.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "pinned": true
+                    }
+                  },
+                  {
+                    "id": "56b8ecec2bde9d09",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Study/学习多智能体强化学习.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
                   }
-                }
+                ],
+                "currentTab": 1
               }
             ],
-            "currentTab": 5
-          },
-          {
-            "id": "d779ec76b040fcc2",
-            "type": "tabs",
-            "dimension": 29.936575052854124,
-            "children": [
-              {
-                "id": "4fc3ae96cdd25e35",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Subjects/计算科学/多智能体强化学习/多智能体强化学习相关资料.md",
-                    "mode": "preview",
-                    "source": false
-                  },
-                  "pinned": true
-                }
-              }
-            ]
+            "direction": "horizontal"
           },
           {
             "id": "80c6b4ae5bc4aca6",
             "type": "split",
-            "dimension": 18.6892177589852,
+            "dimension": 25.333333333333336,
             "children": [
               {
                 "id": "519b6884420d4afe",
@@ -799,6 +815,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
+                        "file": "Collection/DOTS 之 Blob Asset.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -821,6 +838,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
+                        "file": "Collection/DOTS 之 Blob Asset.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -834,9 +852,9 @@
         ],
         "direction": "vertical",
         "x": 0,
-        "y": 47,
-        "width": 2154,
-        "height": 1349,
+        "y": 84,
+        "width": 2346,
+        "height": 1356,
         "maximize": false,
         "zoom": 0
       },
@@ -859,7 +877,9 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {}
+                      "state": {
+                        "file": "Collection/DOTS 之 Blob Asset.md"
+                      }
                     }
                   }
                 ]
@@ -875,6 +895,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
+                        "file": "Collection/DOTS 之 Blob Asset.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1095,6 +1116,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
+                        "file": "Collection/DOTS 之 Blob Asset.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1117,6 +1139,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
+                        "file": "Collection/DOTS 之 Blob Asset.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1129,8 +1152,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 524,
-        "y": 258,
+        "x": 1048,
+        "y": 224,
         "width": 1512,
         "height": 944,
         "maximize": false,
@@ -1155,7 +1178,9 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {}
+                      "state": {
+                        "file": "Collection/DOTS 之 Blob Asset.md"
+                      }
                     }
                   }
                 ]
@@ -1171,6 +1196,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
+                        "file": "Collection/DOTS 之 Blob Asset.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1393,6 +1419,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
+                        "file": "Collection/DOTS 之 Blob Asset.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1415,6 +1442,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
+                        "file": "Collection/DOTS 之 Blob Asset.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1427,8 +1455,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 1159,
-        "y": 564,
+        "x": 642,
+        "y": 293,
         "width": 1158,
         "height": 876,
         "maximize": false,
@@ -1453,7 +1481,9 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {}
+                      "state": {
+                        "file": "Collection/DOTS 之 Blob Asset.md"
+                      }
                     }
                   }
                 ]
@@ -1469,6 +1499,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
+                        "file": "Collection/DOTS 之 Blob Asset.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1658,13 +1689,25 @@
                   "type": "markdown",
                   "state": {
                     "file": "Subjects/Game/Unity3D/各种数据类型之赋值方式：引用、复制？.md",
-                    "mode": "preview",
-                    "source": false
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "d6028255eafe5a2a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Collection/DOTS 之 Blob Asset.md",
+                    "mode": "source",
+                    "source": true
                   }
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 7
           },
           {
             "id": "2677eddafa0c3c68",
@@ -1681,6 +1724,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
+                        "file": "Collection/DOTS 之 Blob Asset.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1703,6 +1747,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
+                        "file": "Collection/DOTS 之 Blob Asset.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1715,11 +1760,11 @@
           }
         ],
         "direction": "vertical",
-        "x": 2560,
-        "y": 84,
-        "width": 1200,
-        "height": 1895,
-        "maximize": true,
+        "x": 192,
+        "y": 213,
+        "width": 1471,
+        "height": 1166,
+        "maximize": false,
         "zoom": 0
       },
       {
@@ -1741,7 +1786,9 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {}
+                      "state": {
+                        "file": "Collection/DOTS 之 Blob Asset.md"
+                      }
                     }
                   }
                 ]
@@ -1757,6 +1804,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
+                        "file": "Collection/DOTS 之 Blob Asset.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1927,6 +1975,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
+                        "file": "Collection/DOTS 之 Blob Asset.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1949,6 +1998,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
+                        "file": "Collection/DOTS 之 Blob Asset.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1961,8 +2011,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 678,
-        "y": 302,
+        "x": 1048,
+        "y": 224,
         "width": 1512,
         "height": 944,
         "maximize": false,
@@ -1987,7 +2037,9 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {}
+                      "state": {
+                        "file": "Collection/DOTS 之 Blob Asset.md"
+                      }
                     }
                   }
                 ]
@@ -2003,6 +2055,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
+                        "file": "Collection/DOTS 之 Blob Asset.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -2151,6 +2204,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
+                        "file": "Collection/DOTS 之 Blob Asset.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -2173,6 +2227,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
+                        "file": "Collection/DOTS 之 Blob Asset.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -2185,8 +2240,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 1394,
-        "y": 112,
+        "x": 19,
+        "y": 108,
         "width": 1158,
         "height": 944,
         "maximize": false,
@@ -2211,16 +2266,8 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {}
-                    }
-                  },
-                  {
-                    "id": "d4f115bf9ad72528",
-                    "type": "leaf",
-                    "state": {
-                      "type": "release-notes",
                       "state": {
-                        "currentVersion": "1.3.7"
+                        "file": "Collection/DOTS 之 Blob Asset.md"
                       }
                     }
                   }
@@ -2237,6 +2284,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
+                        "file": "Collection/DOTS 之 Blob Asset.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -2447,8 +2495,7 @@
                   }
                 }
               }
-            ],
-            "currentTab": 5
+            ]
           },
           {
             "id": "159941faed59d868",
@@ -2465,6 +2512,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
+                        "file": "Collection/DOTS 之 Blob Asset.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -2487,6 +2535,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
+                        "file": "Collection/DOTS 之 Blob Asset.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -2499,8 +2548,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 787,
-        "y": 301,
+        "x": 362,
+        "y": 280,
         "width": 1438,
         "height": 889,
         "maximize": false,
@@ -2508,49 +2557,49 @@
       }
     ]
   },
-  "active": "ae4ce4ba7b386dca",
+  "active": "d6028255eafe5a2a",
   "lastOpenFiles": [
+    "Projects/EntelechySystem_theory/sync.ffs_lock",
     "Subjects/Economics/sync.ffs_lock",
     "Subjects/sync.ffs_lock",
     "Reference_zotfile/sync.ffs_lock",
     "Reference/sync.ffs_lock",
     "Projects/YeeGames_design/sync.ffs_lock",
     "Projects/SystemicRisk_project/sync.ffs_lock",
-    "Projects/EntelechySystem_theory/sync.ffs_lock",
-    "Study/Study.md",
-    "Study/学习多智能体强化学习.md",
-    "Management/template/markdown_file_template_for_obsidian_weekly_notes.md",
-    "Management/template/markdown_file_template_for_obsidian_档案.md",
-    "Management/template/markdown_file_template_for_obsidian_继承.md",
-    "Management/template/Meta Data.md",
-    "Thoughts/sync.ffs_lock",
-    "sync.ffs_lock",
-    "Subjects/计算科学/多智能体强化学习/多智能体强化学习.md",
+    "Subjects/Game/Unity3D/各种数据类型之赋值方式：引用、复制？.md",
+    "Collection/DOTS 之 Blob Asset.md",
+    "Subjects/计算科学/强化学习/笔记：解读强化学习代码.md",
+    "Notes/Python 科学计算常用命令.md",
     "Subjects/计算科学/强化学习/强化学习.md",
     "Subjects/计算科学/多智能体强化学习/多智能体强化学习相关资料.md",
-    "Study/学习强化学习.md",
-    "Subjects/Codes/Languages/Python/Python基础/Python和Anaconda切换镜像源.md",
-    "Subjects/计算科学/强化学习/A-C算法架构简要示意图.png",
+    "Subjects/计算科学/多智能体强化学习/多智能体强化学习.md",
+    "Study/学习多智能体强化学习.md",
+    "Study/学习ABM建模.md",
+    "Notes/经济方法ABM建模相关工具.md",
+    "Study/Study.md",
+    "Study/学习货币银行学.md",
+    "Projects/YeeGames_design/Projects/ComplexElementsGame/设计：Complex Elements Game/游戏玩法数据表/元素与交互规则设计表/~$Complex Elements Game 游戏数值表_2023-08-29.xlsx",
+    "sync.ffs_lock",
+    "Thoughts/sync.ffs_lock",
     "Study/学习图网络.md",
     "Study/学习计算科学.md",
-    "Subjects/Codes/Languages/Python/Python基础/pip install.md",
-    "Subjects/Codes/Languages/Python/Python基础/Python Pip 参考手册.md",
-    "Subjects/Codes/Languages/Python/Python基础/Python部署.md",
-    "Subjects/Codes/Languages/Python/Python基础/配置Python.md",
-    "Study/学习计量经济学.md",
-    "Subjects/Game/DOTS/DOTS 学习笔记.md",
+    "Notes/学习人工智能认知科学数据科学.md",
+    "Subjects/Codes/Languages/Python/Python基础/几种Python虚拟环境管理.md",
+    "Subjects/Codes/Programming/可视化工具/Matplotlib辨析plt、fig、axes.md",
+    "Subjects/Codes/Languages/Python/Python基础/Python虚拟环境.md",
+    "Study/学习强化学习.md",
+    "Subjects/IT/算法与数据结构/二叉树前序、中序、后序遍历非递归写法的透彻解析.md",
+    "Study/学习计算机科学与技术与编程语言.md",
+    "Notes/随机生成和谐美观的色彩分布.md",
+    "Notes/电子果蝇神经网络.md",
+    "Study/学习通用人工智能.md",
+    "Management/template/markdown_file_template_for_obsidian_weekly_notes.md",
+    "Subjects/计算科学/强化学习/A-C算法架构简要示意图.png",
     "Subjects/Game/DOTS/IMG_6358.jpeg",
     "Subjects/Game/DOTS/IMG_6366.png",
     "Subjects/Game/DOTS/IMG_6365.png",
     "Subjects/Game/DOTS/IMG_6364.png",
     "Subjects/Game/DOTS/IMG_6357.png",
-    "Subjects/Game/DOTS/DOTS 官方示例学习笔记.md",
-    "Subjects/Game/Unity3D/各种数据类型之赋值方式：引用、复制？.md",
-    "Study/学习货币银行学.md",
-    "Notes/计量经济领域选择什么语言.md",
-    "Collection/概率统计的收敛.md",
-    "Study/学习NARS系统.md",
-    "Collection/Stata、R、Python 我该选哪个语言_陈强.pdf",
     "Thoughts/创造者/项目创意.assets/IMG_8505.jpeg",
     "Thoughts/创造者/项目创意.assets/IMG_8504.jpeg",
     "Subjects/Game/DOTS/0D0941A8-418D-4D81-8261-2E844E4D192D_1_201_a.jpeg",
