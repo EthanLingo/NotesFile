@@ -1,10 +1,16 @@
 # Matplotlib速查
 
 
+---
+title: Matplotlib速查
+authors: Ethan Lin
+year:
+tags:
+  - 日期/2023-03-31 
+  - 类型/笔记 
+---
 
 
-
-tags: #日期/2023-03-31 #类型/笔记 
 
 
 ## Artist对象之属性

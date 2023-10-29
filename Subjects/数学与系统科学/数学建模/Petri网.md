@@ -1,7 +1,16 @@
 # Petri网
 
 
-tags: #类型/笔记 #日期/2022-07-07 
+---
+title: Petri网
+authors: Ethan Lin
+year:
+tags:
+  - 类型/笔记 
+  - 日期/2022-07-07 
+---
+
+
 
 
 Petri网相关资料：

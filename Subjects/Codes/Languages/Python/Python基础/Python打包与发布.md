@@ -1,6 +1,15 @@
 # Python打包与发布
 
-tags: #内容/编程语言/Python 
+
+---
+title: Python打包与发布
+authors: Ethan Lin
+year:
+tags:
+  - 内容/编程语言/Python 
+---
+
+
 
 
 ## 1. 为什么需要对项目分发打包？

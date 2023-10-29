@@ -1,6 +1,15 @@
 # Python语言获取list指定下标
 
-tags: #内容/编程语言/Python 
+
+---
+title: Python语言获取list指定下标
+authors: Ethan Lin
+year:
+tags:
+  - 内容/编程语言/Python 
+---
+
+
 
 
 方法一：index字段

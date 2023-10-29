@@ -1,8 +1,17 @@
 # AI-Economist工具
 
 
-
-tags: #类型/笔记 #内容/多智能体强化学习 #内容/程序 #项目/SystemicRisk #用途/借鉴思路 
+---
+title: AI-Economist工具
+authors: Ethan Lin
+year:
+tags:
+  - 类型/笔记 
+  - 内容/多智能体强化学习 
+  - 内容/程序 
+  - 项目/SystemicRisk 
+  - 用途/借鉴思路 
+---
 
 
 # 一些概念：

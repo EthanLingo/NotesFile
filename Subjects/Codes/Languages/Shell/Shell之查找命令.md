@@ -1,6 +1,18 @@
 # Shell之查找命令
 
-tags: #查阅笔记 #来源/转载 #知识 #发布/个人网站
+
+---
+title: Shell之查找命令
+authors: Ethan Lin
+year:
+tags:
+  - 查阅笔记 
+  - 来源/转载 
+  - 知识 
+  - 发布/个人网站
+---
+
+
 
   
   

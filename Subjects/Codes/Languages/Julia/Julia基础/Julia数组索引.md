@@ -1,7 +1,17 @@
 # Julia数组索引
 
 
-tags: #内容/编程/Julia语言 #知识 #类型/举例 
+---
+title: Julia数组索引
+authors: Ethan Lin
+year:
+tags:
+  - 内容/编程/Julia语言 
+  - 知识 
+  - 类型/举例 
+---
+
+
 
 
 # Julia数组索引

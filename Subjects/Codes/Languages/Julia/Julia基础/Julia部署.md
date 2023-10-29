@@ -1,5 +1,15 @@
 # Julia部署
-tags: #内容/编程/Julia语言 
+
+
+---
+title: Julia部署
+authors: Ethan Lin
+year:
+tags:
+  - 内容/编程/Julia语言 
+---
+
+
 #汇总笔记
 
 [[Julia切换镜像源]]

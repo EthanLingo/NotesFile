@@ -1,6 +1,19 @@
 # Zotero Better Bibtex插件
 
-tags: #内容/办公 #内容/软件/Zotero #内容/科研管理 #类型/笔记 #发布/个人网站 
+
+---
+title: Zotero Better Bibtex插件
+authors: Ethan Lin
+year:
+tags:
+  - 内容/办公 
+  - 内容/软件/Zotero 
+  - 内容/科研管理 
+  - 类型/笔记 
+  - 发布/个人网站 
+---
+
+
 
 
 在使用Zotero插件Better Bibtex时，我使用自动导出bibtex文件与LaTex编辑器联动。关于cite key设置方面，目前觉得适合的几个可选设置如下：

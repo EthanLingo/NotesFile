@@ -1,7 +1,16 @@
 # DataFrames
 
 
-tags: #内容/编程/Julia语言 #内容/科学计算 
+---
+title: DataFrames
+authors: Ethan Lin
+year:
+tags:
+  - 内容/编程/Julia语言 
+  - 内容/科学计算 
+---
+
+
 
 # 一些注意点
 

@@ -1,6 +1,15 @@
 # Julia操作文件与文件夹
 
-tags: #内容/编程/Julia语言 
+
+---
+title: Julia操作文件与文件夹
+authors: Ethan Lin
+year:
+tags:
+  - 内容/编程/Julia语言 
+---
+
+
 
 通过几个例子实例其操作文件夹、路径等方式。
 

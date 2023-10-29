@@ -1,7 +1,19 @@
 # 辨析C sharp 之接口、抽象类、抽象方法、虚方法
 
 
-tags: #内容/编程/Csharp #类型/辨析 #来源/转载 #类型/笔记 #发布/个人网站 
+---
+title: 辨析C sharp 之接口、抽象类、抽象方法、虚方法
+authors: Ethan Lin
+year:
+tags:
+  - 内容/编程/Csharp 
+  - 类型/辨析 
+  - 来源/转载 
+  - 类型/笔记 
+  - 发布/个人网站 
+---
+
+
 
 
 辨析C sharp 之interface接口、abstract抽象类、抽象方法、virtual虚方法。

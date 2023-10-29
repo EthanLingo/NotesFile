@@ -3,10 +3,15 @@
 # JavaScript处理字符串
 
 
+---
+title: JavaScript处理字符串
+authors: Ethan Lin
+year:
+tags:
+  - 来源/转载 
+---
 
 
-
-tags: #来源/转载 
 #知识 
 #收集笔记 
 

@@ -1,6 +1,15 @@
 # R语言批量读写文件
 
-tags: #内容/编程/R语言 
+
+---
+title: R语言批量读写文件
+authors: Ethan Lin
+year:
+tags:
+  - 内容/编程/R语言 
+---
+
+
 tags: #内容/读写文件 
 
 

@@ -1,6 +1,16 @@
 # Julia字典操作
 
-tags: #内容/编程/Julia语言 #内容/科学计算 
+
+---
+title: Julia字典操作
+authors: Ethan Lin
+year:
+tags:
+  - 内容/编程/Julia语言 
+  - 内容/科学计算 
+---
+
+
 
 # 多个字典合并拼接成一个字典
 

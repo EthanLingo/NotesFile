@@ -1,6 +1,16 @@
 # Julia数组视图
 
-tags: #内容/编程/Julia语言 #内容/处理数据 
+
+---
+title: Julia数组视图
+authors: Ethan Lin
+year:
+tags:
+  - 内容/编程/Julia语言 
+  - 内容/处理数据 
+---
+
+
 
 
 视图索引：

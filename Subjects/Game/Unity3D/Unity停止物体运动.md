@@ -1,6 +1,16 @@
 # Unity停止物体运动
 
-tags: #内容/Unity #来源/转载 
+
+---
+title: Unity停止物体运动
+authors: Ethan Lin
+year:
+tags:
+  - 内容/Unity 
+  - 来源/转载 
+---
+
+
 
 代码如下：
 ```c#

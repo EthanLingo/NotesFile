@@ -1,5 +1,15 @@
 # Julia数组重复
-tags: #内容/编程/Julia语言 
+
+
+---
+title: Julia数组重复
+authors: Ethan Lin
+year:
+tags:
+  - 内容/编程/Julia语言 
+---
+
+
 
 `repeat()`举例
 

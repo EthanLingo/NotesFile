@@ -1,6 +1,18 @@
 # Python继承初始化
 
-tags: #日期/2022-09-03 #类型/笔记 #来源/转载 #内容/python 
+
+---
+title: Python继承初始化
+authors: Ethan Lin
+year:
+tags:
+  - 日期/2022-09-03 
+  - 类型/笔记 
+  - 来源/转载 
+  - 内容/python 
+---
+
+
 
 
 

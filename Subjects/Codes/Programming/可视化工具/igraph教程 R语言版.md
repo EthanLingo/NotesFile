@@ -1,10 +1,18 @@
 # igraph教程 R语言版
 
 
-
-
-
-tags: #日期/2023-03-27 #类型/笔记 #来源/转载 #内容/可视化 #内容/igraph #内容/R语言 
+---
+title: igraph教程 R语言版
+authors: Ethan Lin
+year:
+tags:
+  - 日期/2023-03-27 
+  - 类型/笔记 
+  - 来源/转载 
+  - 内容/可视化 
+  - 内容/igraph 
+  - 内容/R语言 
+---
 
 
 

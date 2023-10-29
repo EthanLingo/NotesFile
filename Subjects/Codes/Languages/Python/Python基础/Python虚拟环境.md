@@ -1,8 +1,16 @@
 # Python虚拟环境
 
 
+---
+title: Python虚拟环境
+authors: Ethan Lin
+year:
+tags:
+  - 笔记 
+  - 内容/编程语言/Python 
+---
 
-tags: #笔记 #内容/编程语言/Python 
+
 
 [[几种Python虚拟环境管理]]
 

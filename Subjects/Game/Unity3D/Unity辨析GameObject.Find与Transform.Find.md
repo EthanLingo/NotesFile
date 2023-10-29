@@ -1,6 +1,15 @@
 # Unity辨析GameObject.Find与Transform.Find
 
-tags: #内容/Unity 
+
+---
+title: Unity辨析GameObject.Find与Transform.Find
+authors: Ethan Lin
+year:
+tags:
+  - 内容/Unity 
+---
+
+
 
 在普通情况下，GameObject.Find以及Transform.Find和Transform.FindChild是可以做到相同的功能，但是他们有本质上的区别，望新手谨记：
 

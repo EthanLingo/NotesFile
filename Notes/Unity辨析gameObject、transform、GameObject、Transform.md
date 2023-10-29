@@ -1,7 +1,19 @@
 # Unity辨析gameObject、transform、GameObject、Transform
 
 
-tags: #日期/2022-08-06 #类型/笔记 #来源/转载 #内容/Unity #类型/辨析 
+---
+title: Unity辨析gameObject、transform、GameObject、Transform
+authors: Ethan Lin
+year:
+tags:
+  - 日期/2022-08-06 
+  - 类型/笔记 
+  - 来源/转载 
+  - 内容/Unity 
+  - 类型/辨析 
+---
+
+
 
 ## GameObject 与 gameObject：
 Gameobject是一个类型，所有的游戏物件都是这个类型的对象。   

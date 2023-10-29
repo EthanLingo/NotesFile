@@ -1,8 +1,18 @@
 # abcFinance工具
 
 
+---
+title: abcFinance工具
+authors: Ethan Lin
+year:
+tags:
+  - 日期/2022-12-29 
+  - 类型/笔记 
+  - 内容/多主体建模 
+  - 内容/经济金融 
+---
 
-tags: #日期/2022-12-29 #类型/笔记 #内容/多主体建模 #内容/经济金融 
+
 
 
 # 一些概念

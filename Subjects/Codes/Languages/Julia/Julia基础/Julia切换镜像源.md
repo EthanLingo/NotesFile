@@ -1,7 +1,17 @@
 # Julia切换镜像源
 
 
-tags: #日期/2022-10-10 #类型/笔记 #内容/编程语言/Julia 
+---
+title: Julia切换镜像源
+authors: Ethan Lin
+year:
+tags:
+  - 日期/2022-10-10 
+  - 类型/笔记 
+  - 内容/编程语言/Julia 
+---
+
+
 
 [Julia切换镜像源相关教程](https://mirror.tuna.tsinghua.edu.cn/help/julia/)
 

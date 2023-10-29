@@ -1,8 +1,18 @@
 # 辨析C sharp之类型Array、ArrayList、List
 
 
-
-tags: #日期/2022-12-20 #类型/笔记 #类型/辨析 #内容/csharp #内容/数据结构 #来源/转载 
+---
+title: 辨析C sharp之类型Array、ArrayList、List
+authors: Ethan Lin
+year:
+tags:
+  - 日期/2022-12-20 
+  - 类型/笔记 
+  - 类型/辨析 
+  - 内容/csharp 
+  - 内容/数据结构 
+  - 来源/转载 
+---
 
 
 

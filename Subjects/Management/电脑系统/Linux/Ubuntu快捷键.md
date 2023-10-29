@@ -1,6 +1,16 @@
 # Ubuntu快捷键
 
-tags: #来源/转载 #内容/Linux/操作  
+
+---
+title: Ubuntu快捷键
+authors: Ethan Lin
+year:
+tags:
+  - 来源/转载 
+  - 内容/Linux/操作  
+---
+
+
 
 ## 安全重启
 

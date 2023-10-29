@@ -1,6 +1,15 @@
 # 部署Jupyter
 
-tags: #内容/软件/Jupyter 
+
+---
+title: 部署Jupyter
+authors: Ethan Lin
+year:
+tags:
+  - 内容/软件/Jupyter 
+---
+
+
 tags: #类型/教程 
 
 

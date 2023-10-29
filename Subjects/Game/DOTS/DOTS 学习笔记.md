@@ -1,8 +1,17 @@
 # DOTS 学习笔记
 
 
+---
+title: DOTS 学习笔记
+authors: Ethan Lin
+year:
+tags:
+  - 日期/2023-04-22 
+  - 类型/AI问答笔记 
+  - 内容/DOTS 
+---
 
-tags: #日期/2023-04-22 #类型/AI问答笔记 #内容/DOTS 
+
 
 
 

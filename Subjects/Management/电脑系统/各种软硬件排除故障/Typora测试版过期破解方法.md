@@ -1,8 +1,18 @@
 # Typora测试版过期破解方法
 
 
+---
+title: Typora测试版过期破解方法
+authors: Ethan Lin
+year:
+tags:
+  - 日期/2023-02-18 
+  - 类型/解决 
+  - 来源/转载 
+  - 内容/Typora 
+---
 
-tags: #日期/2023-02-18 #类型/解决 #来源/转载 #内容/Typora 
+
 
 
 

@@ -30,9 +30,21 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "4ad314a5e2e2dd3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "requirement",
+                "query": "tag:#内容/银行系统性风险",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -97,7 +109,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "2e57906a279edeb0",
@@ -109,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Collection/DOTS 之 Blob Asset.md"
+                "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md"
               }
             }
           }
@@ -125,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Collection/DOTS 之 Blob Asset.md",
+                "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -248,7 +261,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Collection/DOTS 之 Blob Asset.md"
+                "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md"
               }
             }
           }
@@ -265,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Collection/DOTS 之 Blob Asset.md",
+                "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -288,7 +301,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Collection/DOTS 之 Blob Asset.md",
+                "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -356,7 +369,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Collection/DOTS 之 Blob Asset.md",
+                        "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -569,7 +582,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Collection/DOTS 之 Blob Asset.md"
+                        "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md"
                       }
                     }
                   }
@@ -586,7 +599,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Collection/DOTS 之 Blob Asset.md",
+                        "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md",
                         "options": {
                           "collapse-filter": false,
                           "search": "",
@@ -815,7 +828,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Collection/DOTS 之 Blob Asset.md",
+                        "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -838,7 +851,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Collection/DOTS 之 Blob Asset.md",
+                        "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -878,7 +891,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Collection/DOTS 之 Blob Asset.md"
+                        "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md"
                       }
                     }
                   }
@@ -895,7 +908,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Collection/DOTS 之 Blob Asset.md",
+                        "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1116,7 +1129,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Collection/DOTS 之 Blob Asset.md",
+                        "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1139,7 +1152,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Collection/DOTS 之 Blob Asset.md",
+                        "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1179,7 +1192,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Collection/DOTS 之 Blob Asset.md"
+                        "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md"
                       }
                     }
                   }
@@ -1196,7 +1209,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Collection/DOTS 之 Blob Asset.md",
+                        "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1419,7 +1432,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Collection/DOTS 之 Blob Asset.md",
+                        "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1442,7 +1455,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Collection/DOTS 之 Blob Asset.md",
+                        "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1482,7 +1495,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Collection/DOTS 之 Blob Asset.md"
+                        "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md"
                       }
                     }
                   }
@@ -1499,7 +1512,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Collection/DOTS 之 Blob Asset.md",
+                        "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1724,7 +1737,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Collection/DOTS 之 Blob Asset.md",
+                        "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1747,7 +1760,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Collection/DOTS 之 Blob Asset.md",
+                        "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1787,7 +1800,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Collection/DOTS 之 Blob Asset.md"
+                        "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md"
                       }
                     }
                   }
@@ -1804,7 +1817,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Collection/DOTS 之 Blob Asset.md",
+                        "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1975,7 +1988,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Collection/DOTS 之 Blob Asset.md",
+                        "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1998,7 +2011,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Collection/DOTS 之 Blob Asset.md",
+                        "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -2011,9 +2024,9 @@
           }
         ],
         "direction": "vertical",
-        "x": 1048,
-        "y": 224,
-        "width": 1512,
+        "x": 2560,
+        "y": 499,
+        "width": 1200,
         "height": 944,
         "maximize": false,
         "zoom": 0
@@ -2038,7 +2051,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Collection/DOTS 之 Blob Asset.md"
+                        "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md"
                       }
                     }
                   }
@@ -2055,7 +2068,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Collection/DOTS 之 Blob Asset.md",
+                        "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -2204,7 +2217,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Collection/DOTS 之 Blob Asset.md",
+                        "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -2227,7 +2240,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Collection/DOTS 之 Blob Asset.md",
+                        "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -2267,7 +2280,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Collection/DOTS 之 Blob Asset.md"
+                        "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md"
                       }
                     }
                   }
@@ -2284,7 +2297,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Collection/DOTS 之 Blob Asset.md",
+                        "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -2512,7 +2525,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Collection/DOTS 之 Blob Asset.md",
+                        "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -2535,7 +2548,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Collection/DOTS 之 Blob Asset.md",
+                        "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -2557,30 +2570,30 @@
       }
     ]
   },
-  "active": "d6028255eafe5a2a",
+  "active": "4ad314a5e2e2dd3b",
   "lastOpenFiles": [
     "Projects/EntelechySystem_theory/sync.ffs_lock",
+    "Projects/SystemicRisk_project/sync.ffs_lock",
+    "Thoughts/sync.ffs_lock",
+    "sync.ffs_lock",
+    "Collection/DOTS 之 Blob Asset.md",
+    "Study/Study.md",
+    "Subjects/计算科学/强化学习/笔记：解读强化学习代码.md",
     "Subjects/Economics/sync.ffs_lock",
     "Subjects/sync.ffs_lock",
     "Reference_zotfile/sync.ffs_lock",
     "Reference/sync.ffs_lock",
     "Projects/YeeGames_design/sync.ffs_lock",
-    "Projects/SystemicRisk_project/sync.ffs_lock",
+    "Study/学习ABM建模.md",
     "Subjects/Game/Unity3D/各种数据类型之赋值方式：引用、复制？.md",
-    "Collection/DOTS 之 Blob Asset.md",
-    "Subjects/计算科学/强化学习/笔记：解读强化学习代码.md",
     "Notes/Python 科学计算常用命令.md",
     "Subjects/计算科学/强化学习/强化学习.md",
     "Subjects/计算科学/多智能体强化学习/多智能体强化学习相关资料.md",
     "Subjects/计算科学/多智能体强化学习/多智能体强化学习.md",
     "Study/学习多智能体强化学习.md",
-    "Study/学习ABM建模.md",
     "Notes/经济方法ABM建模相关工具.md",
-    "Study/Study.md",
     "Study/学习货币银行学.md",
     "Projects/YeeGames_design/Projects/ComplexElementsGame/设计：Complex Elements Game/游戏玩法数据表/元素与交互规则设计表/~$Complex Elements Game 游戏数值表_2023-08-29.xlsx",
-    "sync.ffs_lock",
-    "Thoughts/sync.ffs_lock",
     "Study/学习图网络.md",
     "Study/学习计算科学.md",
     "Notes/学习人工智能认知科学数据科学.md",

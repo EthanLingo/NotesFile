@@ -1,6 +1,15 @@
 # Python操作字符串
 
-tags: #内容/编程语言/Python 
+
+---
+title: Python操作字符串
+authors: Ethan Lin
+year:
+tags:
+  - 内容/编程语言/Python 
+---
+
+
 
 
 ## 去空格及特殊符号

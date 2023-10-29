@@ -1,7 +1,15 @@
 # R语言转换数据类型
 
 
-tags: #内容/编程/R语言 
+---
+title: R语言转换数据类型
+authors: Ethan Lin
+year:
+tags:
+  - 内容/编程/R语言 
+---
+
+
 #来源/转载 
    
 

@@ -1,7 +1,16 @@
 # Git合并分支
 
 
-tags: #内容/Git #来源/转载 
+---
+title: Git合并分支
+authors: Ethan Lin
+year:
+tags:
+  - 内容/Git 
+  - 来源/转载 
+---
+
+
 
 
 # git merge的三种操作merge, squash merge, 和rebase merge

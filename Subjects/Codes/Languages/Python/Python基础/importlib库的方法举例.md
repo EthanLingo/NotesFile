@@ -1,6 +1,18 @@
 # importlib库的方法举例
 
-tags: #日期/2022-11-27 #类型/笔记 #来源/转载 #内容/python 
+
+---
+title: importlib库的方法举例
+authors: Ethan Lin
+year:
+tags:
+  - 日期/2022-11-27 
+  - 类型/笔记 
+  - 来源/转载 
+  - 内容/python 
+---
+
+
 
 
 

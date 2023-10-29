@@ -1,8 +1,19 @@
 # Unity Computer Shader相关知识点AI问答
 
 
+---
+title: Unity Computer Shader相关知识点AI问答
+authors: Ethan Lin
+year:
+tags:
+  - 日期/2023-04-09 
+  - 类型/笔记 
+  - 类型/解答 
+  - 内容/Unity 
+  - 内容/ComputeShader 
+---
 
-tags: #日期/2023-04-09 #类型/笔记 #类型/解答 #内容/Unity #内容/ComputeShader 
+
 
 
 

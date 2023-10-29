@@ -1,6 +1,15 @@
 # Python循环控制
 
-tags: #内容/编程语言/Python 
+
+---
+title: Python循环控制
+authors: Ethan Lin
+year:
+tags:
+  - 内容/编程语言/Python 
+---
+
+
 #来源/转载 
 
 ## 转载笔记

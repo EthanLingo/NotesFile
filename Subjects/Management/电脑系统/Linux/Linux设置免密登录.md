@@ -1,6 +1,16 @@
 # Linux设置免密登录
 
-tags: #内容/办公 #内容/Linux/操作 
+
+---
+title: Linux设置免密登录
+authors: Ethan Lin
+year:
+tags:
+  - 内容/办公 
+  - 内容/Linux/操作 
+---
+
+
 
 Linux系统远程端与其它终端设备之间，通过生成密钥对方式实现免密登录。
 操作如下：

@@ -1,7 +1,15 @@
 # Python复制文件及其路径
 
 
-tags: #内容/编程语言/Python 
+---
+title: Python复制文件及其路径
+authors: Ethan Lin
+year:
+tags:
+  - 内容/编程语言/Python 
+---
+
+
 
 本文实例讲述了python实现复制整个目录的方法。分享给大家供大家参考。具体分析如下：
 

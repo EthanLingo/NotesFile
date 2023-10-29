@@ -2,8 +2,19 @@
 # 应用范畴论之应用：Compositional Game Theory
 
 
+---
+title: 应用范畴论之应用：Compositional Game Theory
+authors: Ethan Lin
+year:
+tags:
+  - 日期/202-11-27 
+  - 类型/笔记 
+  - 内容/范畴论 
+  - 来源/转载 
+  - 类型/资源 
+---
 
-tags: #日期/202-11-27 #类型/笔记 #内容/范畴论 #来源/转载 #类型/资源 
+
 
 
 

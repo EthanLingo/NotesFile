@@ -1,6 +1,15 @@
 # openpyxl之互换表示：字母表示与数字表示列号
 
-tags: #内容/编程语言/Python 
+
+---
+title: openpyxl之互换表示：字母表示与数字表示列号
+authors: Ethan Lin
+year:
+tags:
+  - 内容/编程语言/Python 
+---
+
+
 
 ```python
 from openpyxl.utils import get_column_letter, column_index_from_string

@@ -1,5 +1,15 @@
 # Julia基础
-tags: #内容/编程/Julia语言 
+
+
+---
+title: Julia基础
+authors: Ethan Lin
+year:
+tags:
+  - 内容/编程/Julia语言 
+---
+
+
 #教程 
 #汇总笔记
 

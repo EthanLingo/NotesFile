@@ -1,8 +1,17 @@
 # pip备份离线包
 
 
+---
+title: pip备份离线包
+authors: Ethan Lin
+year:
+tags:
+  - 日期/2022-10-27 
+  - 类型/笔记 
+  - 内容/python 
+---
 
-tags: #日期/2022-10-27 #类型/笔记 #内容/python 
+
 
 1. 导出
 

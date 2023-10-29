@@ -1,9 +1,16 @@
 # Unity3D工具包ML-Agents
 
 
+---
+title: Unity3D工具包ML-Agents
+authors: Ethan Lin
+year:
+tags:
+  - 日期/2023-07-02 
+  - 类型/AI问答笔记 
+---
 
 
-tags: #日期/2023-07-02 #类型/AI问答笔记 
 
 
 

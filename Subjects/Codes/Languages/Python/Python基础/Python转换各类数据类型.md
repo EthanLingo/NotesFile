@@ -1,6 +1,16 @@
 # Python转换各类数据类型
 
-tags: #内容/编程语言/Python #来源/转载 
+
+---
+title: Python转换各类数据类型
+authors: Ethan Lin
+year:
+tags:
+  - 内容/编程语言/Python 
+  - 来源/转载 
+---
+
+
 
 1、字典（dict）
 

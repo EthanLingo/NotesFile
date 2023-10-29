@@ -1,5 +1,15 @@
 # USB图标
 
-tags: #日期/2022-09-16 #类型/笔记 
+
+---
+title: USB图标
+authors: Ethan Lin
+year:
+tags:
+  - 日期/2022-09-16 
+  - 类型/笔记 
+---
+
+
 
 ![[37C9FCB1-71E9-459B-A6EA-5283F471DFA0.jpeg]]

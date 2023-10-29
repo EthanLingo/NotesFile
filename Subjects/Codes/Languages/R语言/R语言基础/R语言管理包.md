@@ -1,6 +1,15 @@
 # R语言管理包
 
-tags: #内容/编程/R语言 
+
+---
+title: R语言管理包
+authors: Ethan Lin
+year:
+tags:
+  - 内容/编程/R语言 
+---
+
+
 
 library和require都可以载入包，但二者存在区别。
 

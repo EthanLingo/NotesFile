@@ -2,8 +2,18 @@
 # C sharp 修饰符讲解大全
 
 
+---
+title: C sharp 修饰符讲解大全
+authors: Ethan Lin
+year:
+tags:
+  - 日期/2022-12-22 
+  - 类型/笔记 
+  - 来源/转载 
+  - 内容/编程/Csharp 
+---
 
-tags: #日期/2022-12-22 #类型/笔记 #来源/转载 #内容/编程/Csharp 
+
 
 
 

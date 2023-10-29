@@ -1,6 +1,16 @@
 # Unity辨析GetComponent
 
-tags: #内容/Unity #来源/转载 
+
+---
+title: Unity辨析GetComponent
+authors: Ethan Lin
+year:
+tags:
+  - 内容/Unity 
+  - 来源/转载 
+---
+
+
 
 ```c#
 MyComponment myCom=gameObject.GetComponent<MyComponment>();

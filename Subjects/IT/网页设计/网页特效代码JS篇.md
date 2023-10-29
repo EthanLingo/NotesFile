@@ -1,6 +1,18 @@
 # 网页特效代码JS篇
 
-tags: #日期/2022-07-19 #来源/转载 #类型/资源 #内容/JavaScript 
+
+---
+title: 网页特效代码JS篇
+authors: Ethan Lin
+year:
+tags:
+  - 日期/2022-07-19 
+  - 来源/转载 
+  - 类型/资源 
+  - 内容/JavaScript 
+---
+
+
 
 
 

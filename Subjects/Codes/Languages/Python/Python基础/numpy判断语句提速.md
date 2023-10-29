@@ -1,8 +1,16 @@
 # numpy判断语句提速
 
 
+---
+title: numpy判断语句提速
+authors: Ethan Lin
+year:
+tags:
+  - 日期/2023-04-12 
+  - 类型/笔记 
+---
 
-tags: #日期/2023-04-12 #类型/笔记 
+
 
 
 > 使用AI问答

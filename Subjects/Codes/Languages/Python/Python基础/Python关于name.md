@@ -1,6 +1,16 @@
 # Python关于name之用法
 
-tags: #内容/编程语言/Python #来源/转载 
+
+---
+title: Python关于name之用法
+authors: Ethan Lin
+year:
+tags:
+  - 内容/编程语言/Python 
+  - 来源/转载 
+---
+
+
 
 
 > 来源：

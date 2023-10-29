@@ -1,5 +1,18 @@
 # 辨析C sharp之关键字 const、readonly、static
-tags: #来源/转载 #内容/编程/Csharp #类型/辨析 #发布/个人网站 
+
+
+---
+title: 辨析C sharp之关键字 const、readonly、static
+authors: Ethan Lin
+year:
+tags:
+  - 来源/转载 
+  - 内容/编程/Csharp 
+  - 类型/辨析 
+  - 发布/个人网站 
+---
+
+
 
 const: compile time初始化，效率高，属于类（所以不用加static）的常量，只能用常数来给它赋值。 
 
