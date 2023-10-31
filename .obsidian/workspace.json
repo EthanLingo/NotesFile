@@ -31,8 +31,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -62,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#内容/DOTS  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -110,7 +109,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Collection/DOTS 之 Blob Asset.md"
+              }
             }
           }
         ]
@@ -126,6 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Collection/DOTS 之 Blob Asset.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -222,7 +224,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 397.5
+    "width": 364.5,
+    "collapsed": true
   },
   "right": {
     "id": "aade5a834a514cf8",
@@ -247,11 +250,12 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Collection/DOTS 之 Blob Asset.md"
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "8ba37c95ab549354",
@@ -263,6 +267,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Collection/DOTS 之 Blob Asset.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -285,6 +290,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Collection/DOTS 之 Blob Asset.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -352,6 +358,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
+                        "file": "Collection/DOTS 之 Blob Asset.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -563,7 +570,9 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {}
+                      "state": {
+                        "file": "Collection/DOTS 之 Blob Asset.md"
+                      }
                     }
                   }
                 ]
@@ -579,6 +588,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
+                        "file": "Collection/DOTS 之 Blob Asset.md",
                         "options": {
                           "collapse-filter": false,
                           "search": "",
@@ -807,6 +817,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
+                        "file": "Collection/DOTS 之 Blob Asset.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -829,6 +840,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
+                        "file": "Collection/DOTS 之 Blob Asset.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -841,11 +853,11 @@
           }
         ],
         "direction": "vertical",
-        "x": 0,
-        "y": 84,
-        "width": 2346,
-        "height": 1356,
-        "maximize": false,
+        "x": 144,
+        "y": 134,
+        "width": 1512,
+        "height": 944,
+        "maximize": true,
         "zoom": 0
       },
       {
@@ -867,7 +879,9 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {}
+                      "state": {
+                        "file": "Collection/DOTS 之 Blob Asset.md"
+                      }
                     }
                   }
                 ]
@@ -883,6 +897,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
+                        "file": "Collection/DOTS 之 Blob Asset.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1103,6 +1118,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
+                        "file": "Collection/DOTS 之 Blob Asset.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1125,6 +1141,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
+                        "file": "Collection/DOTS 之 Blob Asset.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1163,7 +1180,9 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {}
+                      "state": {
+                        "file": "Collection/DOTS 之 Blob Asset.md"
+                      }
                     }
                   }
                 ]
@@ -1179,6 +1198,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
+                        "file": "Collection/DOTS 之 Blob Asset.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1401,6 +1421,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
+                        "file": "Collection/DOTS 之 Blob Asset.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1423,6 +1444,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
+                        "file": "Collection/DOTS 之 Blob Asset.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1461,7 +1483,9 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {}
+                      "state": {
+                        "file": "Collection/DOTS 之 Blob Asset.md"
+                      }
                     }
                   }
                 ]
@@ -1477,6 +1501,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
+                        "file": "Collection/DOTS 之 Blob Asset.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1672,14 +1697,14 @@
                 }
               },
               {
-                "id": "d6028255eafe5a2a",
+                "id": "2c278a9b2305da7b",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
                     "file": "Collection/DOTS 之 Blob Asset.md",
                     "mode": "preview",
-                    "source": true
+                    "source": false
                   }
                 }
               }
@@ -1701,6 +1726,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
+                        "file": "Collection/DOTS 之 Blob Asset.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1723,6 +1749,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
+                        "file": "Collection/DOTS 之 Blob Asset.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1735,10 +1762,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 2560,
-        "y": 84,
-        "width": 1200,
-        "height": 1895,
+        "x": 532,
+        "y": 242,
+        "width": 1471,
+        "height": 1166,
         "maximize": false,
         "zoom": 0
       },
@@ -1761,7 +1788,9 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {}
+                      "state": {
+                        "file": "Collection/DOTS 之 Blob Asset.md"
+                      }
                     }
                   }
                 ]
@@ -1777,6 +1806,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
+                        "file": "Collection/DOTS 之 Blob Asset.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1947,6 +1977,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
+                        "file": "Collection/DOTS 之 Blob Asset.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1969,6 +2000,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
+                        "file": "Collection/DOTS 之 Blob Asset.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1981,11 +2013,11 @@
           }
         ],
         "direction": "vertical",
-        "x": 0,
-        "y": 223,
+        "x": 144,
+        "y": 134,
         "width": 1512,
         "height": 944,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       },
       {
@@ -2007,7 +2039,9 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {}
+                      "state": {
+                        "file": "Collection/DOTS 之 Blob Asset.md"
+                      }
                     }
                   }
                 ]
@@ -2023,6 +2057,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
+                        "file": "Collection/DOTS 之 Blob Asset.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -2171,6 +2206,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
+                        "file": "Collection/DOTS 之 Blob Asset.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -2193,6 +2229,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
+                        "file": "Collection/DOTS 之 Blob Asset.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -2231,7 +2268,9 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {}
+                      "state": {
+                        "file": "Collection/DOTS 之 Blob Asset.md"
+                      }
                     }
                   }
                 ]
@@ -2247,6 +2286,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
+                        "file": "Collection/DOTS 之 Blob Asset.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -2474,6 +2514,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
+                        "file": "Collection/DOTS 之 Blob Asset.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -2496,6 +2537,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
+                        "file": "Collection/DOTS 之 Blob Asset.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -2517,32 +2559,34 @@
       }
     ]
   },
-  "active": "74b73d35e0ab03a6",
+  "active": "2c278a9b2305da7b",
   "lastOpenFiles": [
+    "Subjects/sync.ffs_lock",
     "Reference_zotfile/sync.ffs_lock",
     "Reference/sync.ffs_lock",
     "Projects/YeeGames_design/sync.ffs_lock",
     "Projects/SystemicRisk_project/sync.ffs_lock",
     "Projects/EntelechySystem_theory/sync.ffs_lock",
+    "Subjects/经济和金融/【笔记】/_Index_of_【笔记】-d2d7.ffs_tmp",
+    "Study/Study.md",
     "Thoughts/sync.ffs_lock",
     "sync.ffs_lock",
-    "Subjects/sync.ffs_lock",
-    "Subjects/Economics/sync.ffs_lock",
     "Collection/DOTS 之 Blob Asset.md",
+    "Subjects/经济和金融/【讲座】/_Index_of_【讲座】-ec52.ffs_tmp",
     "Collection/概率统计的收敛.md",
-    "Projects/YeeGames_design/Projects/ComplexElementsGame/设计：Complex Elements Game/游戏玩法数据表/元素与交互规则设计表/Complex Elements Game 游戏数值表_2023-08-29-c810.ffs_tmp",
+    "Study/学习货币银行学.md",
+    "Collection/结合 Unity Input System 与 DOTS.md",
+    "Subjects/游戏学/Unity3D/各种数据类型之赋值方式：引用、复制？.md",
+    "Subjects/Economics/sync.ffs_lock",
     "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md",
-    "Study/Study.md",
     "Subjects/计算科学/强化学习/笔记：解读强化学习代码.md",
     "Study/学习ABM建模.md",
-    "Subjects/游戏学/Unity3D/各种数据类型之赋值方式：引用、复制？.md",
     "Notes/Python 科学计算常用命令.md",
     "Subjects/计算科学/强化学习/强化学习.md",
     "Subjects/计算科学/多智能体强化学习/多智能体强化学习相关资料.md",
     "Subjects/计算科学/多智能体强化学习/多智能体强化学习.md",
     "Study/学习多智能体强化学习.md",
     "Notes/经济方法ABM建模相关工具.md",
-    "Study/学习货币银行学.md",
     "Study/学习图网络.md",
     "Study/学习计算科学.md",
     "Notes/学习人工智能认知科学数据科学.md",
@@ -2553,7 +2597,6 @@
     "Subjects/计算机科学与技术/算法与数据结构/二叉树前序、中序、后序遍历非递归写法的透彻解析.md",
     "Study/学习计算机科学与技术与编程语言.md",
     "Notes/随机生成和谐美观的色彩分布.md",
-    "Notes/电子果蝇神经网络.md",
     "Subjects/计算科学/强化学习/A-C算法架构简要示意图.png",
     "Subjects/游戏学/DOTS/IMG_6358.jpeg",
     "Subjects/游戏学/DOTS/IMG_6366.png",
