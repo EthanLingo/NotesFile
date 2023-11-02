@@ -1,6 +1,3 @@
-# Study
-
-
 ---
 title: Study
 authors: Ethan Lin
@@ -12,7 +9,7 @@ tags:
   - 类型/学习 
 ---
 
-
+# Study
 
 
 
