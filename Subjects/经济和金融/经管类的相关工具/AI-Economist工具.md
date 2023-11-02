@@ -1,6 +1,3 @@
-# AI-Economist工具
-
-
 ---
 title: AI-Economist工具
 authors: Ethan Lin
@@ -12,6 +9,11 @@ tags:
   - 项目/SystemicRisk 
   - 用途/借鉴思路 
 ---
+
+
+# AI-Economist工具
+
+
 
 
 # 一些概念：

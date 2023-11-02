@@ -1,6 +1,3 @@
-# apache2搭建静态网页
-
-
 ---
 title: apache2搭建静态网页
 authors: Ethan Lin
@@ -9,6 +6,11 @@ tags:
   - 来源/转载 
   - 内容/网站 
 ---
+
+
+# apache2搭建静态网页
+
+
 
 
 

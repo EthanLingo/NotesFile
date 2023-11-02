@@ -1,6 +1,3 @@
-# Unity停止物体运动
-
-
 ---
 title: Unity停止物体运动
 authors: Ethan Lin
@@ -9,6 +6,11 @@ tags:
   - 内容/Unity 
   - 来源/转载 
 ---
+
+
+# Unity停止物体运动
+
+
 
 
 

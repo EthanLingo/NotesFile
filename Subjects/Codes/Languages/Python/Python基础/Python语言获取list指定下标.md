@@ -1,6 +1,3 @@
-# Python语言获取list指定下标
-
-
 ---
 title: Python语言获取list指定下标
 authors: Ethan Lin
@@ -8,6 +5,10 @@ year:
 tags:
   - 内容/编程语言/Python 
 ---
+
+# Python语言获取list指定下标
+
+
 
 
 

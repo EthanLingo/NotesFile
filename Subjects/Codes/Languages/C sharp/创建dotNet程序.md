@@ -1,6 +1,3 @@
-# 创建dotNet程序
-
-
 ---
 title: 创建dotNet程序
 authors: Ethan Lin
@@ -10,6 +7,11 @@ tags:
   - 资料 
   - 类型/教程
 ---
+
+
+# 创建dotNet程序
+
+
 
 
 

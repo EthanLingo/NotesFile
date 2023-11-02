@@ -1,10 +1,7 @@
-# Unity3D：为C sharp项目添加dll引用或安装NuGet包
-
-
 ---
 title: Unity3D：为C sharp项目添加dll引用或安装NuGet包
 authors: Ethan Lin
-year:
+year: 2023-01-02 
 tags:
   - 日期/2023-01-02 
   - 类型/笔记 
@@ -13,6 +10,11 @@ tags:
   - 内容/NuGet 
   - 内容/包管理
 ---
+
+
+# Unity3D：为C sharp项目添加dll引用或安装NuGet包
+
+
 
 
 

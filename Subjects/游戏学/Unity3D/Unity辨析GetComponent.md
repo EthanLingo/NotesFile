@@ -1,6 +1,3 @@
-# Unity辨析GetComponent
-
-
 ---
 title: Unity辨析GetComponent
 authors: Ethan Lin
@@ -9,6 +6,11 @@ tags:
   - 内容/Unity 
   - 来源/转载 
 ---
+
+
+# Unity辨析GetComponent
+
+
 
 
 

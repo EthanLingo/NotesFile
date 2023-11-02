@@ -1,6 +1,3 @@
-# Octave for macOS
-
-
 ---
 title: Octave for macOS
 authors: Ethan Lin
@@ -8,6 +5,10 @@ year:
 tags:
   - 来源/转载 
 ---
+
+# Octave for macOS
+
+
 
 
 #笔记 

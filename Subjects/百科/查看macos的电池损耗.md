@@ -1,16 +1,18 @@
-# 查看macos的电池损耗
-
-
 ---
 title: 查看macos的电池损耗
 authors: Ethan Lin
-year:
+year: 2022-10-04 
 tags:
   - 日期/2022-10-04 
   - 类型/笔记 
   - 类型/解决 
   - 来源/转载 
 ---
+
+
+# 查看macos的电池损耗
+
+
 
 
 

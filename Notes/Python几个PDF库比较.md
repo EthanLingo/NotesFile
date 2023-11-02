@@ -1,15 +1,17 @@
-# Python几个PDF库比较
-
-
 ---
 title: Python几个PDF库比较
 authors: Ethan Lin
-year:
+year: 2023-04-07 
 tags:
   - 日期/2023-04-07 
   - 类型/笔记 
   - 来源/转载 
 ---
+
+
+# Python几个PDF库比较
+
+
 
 
 

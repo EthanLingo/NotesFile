@@ -1,6 +1,3 @@
-# Zotero Better Bibtex插件
-
-
 ---
 title: Zotero Better Bibtex插件
 authors: Ethan Lin
@@ -12,6 +9,11 @@ tags:
   - 类型/笔记 
   - 发布/个人网站 
 ---
+
+
+# Zotero Better Bibtex插件
+
+
 
 
 

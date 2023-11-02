@@ -1,10 +1,7 @@
-# ML-Agents结合Computer Shader技术或者DOTS技术
-
-
 ---
 title: ML-Agents结合Computer Shader技术或者DOTS技术
 authors: Ethan Lin
-year:
+year: 2023-06-04 
 tags:
   - 日期/2023-06-04 
   - 类型/AI问答笔记 
@@ -12,6 +9,11 @@ tags:
   - 内容/ComputeShader 
   - 内容/DOTS 
 ---
+
+
+# ML-Agents结合Computer Shader技术或者DOTS技术
+
+
 
 
 

@@ -1,6 +1,3 @@
-# Ubuntu快捷键
-
-
 ---
 title: Ubuntu快捷键
 authors: Ethan Lin
@@ -9,6 +6,11 @@ tags:
   - 来源/转载 
   - 内容/Linux/操作  
 ---
+
+
+# Ubuntu快捷键
+
+
 
 
 

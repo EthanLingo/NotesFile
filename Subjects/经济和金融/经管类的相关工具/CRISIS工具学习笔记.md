@@ -1,6 +1,3 @@
-# CRISIS工具学习笔记
-
-
 ---
 title: CRISIS工具学习笔记
 authors: Ethan Lin
@@ -12,6 +9,11 @@ tags:
   - 项目/SystemicRisk 
   - 用途/借鉴思路 
 ---
+
+
+# CRISIS工具学习笔记
+
+
 
 
 

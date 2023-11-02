@@ -1,14 +1,16 @@
-# 辨析igraph与graph-tool
-
-
 ---
 title: 辨析igraph与graph-tool
 authors: Ethan Lin
-year:
+year: 2023-03-28 
 tags:
   - 日期/2023-03-28 
   - 类型/笔记 
 ---
+
+
+# 辨析igraph与graph-tool
+
+
 
 
 

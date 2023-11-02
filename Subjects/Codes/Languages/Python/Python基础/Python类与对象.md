@@ -1,10 +1,7 @@
-# Python类与对象
-
-
 ---
 title: Python类与对象
 authors: Ethan Lin
-year:
+year: 2022-07-06 
 tags:
   - 类型/笔记 
   - 日期/2022-07-06 
@@ -12,6 +9,11 @@ tags:
   - 内容/编程 
   - 类型/汇总笔记 
 ---
+
+
+# Python类与对象
+
+
 
 
 

@@ -1,14 +1,16 @@
-# Resilience系统性风险压力测试工具学习笔记
-
-
 ---
 title: Resilience系统性风险压力测试工具学习笔记
 authors: Ethan Lin
-year:
+year: 2023-04-18 
 tags:
   - 日期/2023-04-18 
   - 类型/笔记 
 ---
+
+
+# Resilience系统性风险压力测试工具学习笔记
+
+
 
 
 

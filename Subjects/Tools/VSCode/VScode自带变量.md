@@ -1,7 +1,3 @@
-
-# VScode自带变量
-
-
 ---
 title: VScode自带变量
 authors: Ethan Lin
@@ -10,6 +6,11 @@ tags:
   - 内容/自动办公 
   - 内容/vscode 
 ---
+
+
+# VScode自带变量
+
+
 
 
 

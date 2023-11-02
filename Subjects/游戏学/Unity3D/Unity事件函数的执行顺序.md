@@ -1,6 +1,3 @@
-# Unity事件函数的执行顺序
-
-
 ---
 title: Unity事件函数的执行顺序
 authors: Ethan Lin
@@ -8,6 +5,10 @@ year:
 tags:
   - 内容/Unity 
 ---
+
+# Unity事件函数的执行顺序
+
+
 
 
 

@@ -1,16 +1,18 @@
-# git配置中的CRLF、LF、CR
-
-
 ---
 title: git配置中的CRLF、LF、CR
 authors: Ethan Lin
-year:
+year: 2023-06-29 
 tags:
   - 日期/2023-06-29 
   - 类型/笔记 
   - 来源/转载 
   - 内容/Git 
 ---
+
+
+# git配置中的CRLF、LF、CR
+
+
 
 
 

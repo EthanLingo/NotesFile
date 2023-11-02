@@ -1,6 +1,3 @@
-# Unity辨析GameObject.Find与Transform.Find
-
-
 ---
 title: Unity辨析GameObject.Find与Transform.Find
 authors: Ethan Lin
@@ -8,6 +5,10 @@ year:
 tags:
   - 内容/Unity 
 ---
+
+# Unity辨析GameObject.Find与Transform.Find
+
+
 
 
 

@@ -1,6 +1,3 @@
-# Python转换各类数据类型
-
-
 ---
 title: Python转换各类数据类型
 authors: Ethan Lin
@@ -9,6 +6,11 @@ tags:
   - 内容/编程语言/Python 
   - 来源/转载 
 ---
+
+
+# Python转换各类数据类型
+
+
 
 
 

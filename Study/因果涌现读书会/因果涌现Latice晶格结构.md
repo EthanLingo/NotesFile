@@ -1,16 +1,18 @@
-# 因果涌现Latice晶格结构
-
-
 ---
 title: 因果涌现Latice晶格结构
 authors: Ethan Lin
-year:
+year: 2022-07-03 
 tags:
   - 类型/笔记 
   - 日期/2022-07-03 
   - 类型/想法 
   - 内容/因果涌现 
 ---
+
+
+# 因果涌现Latice晶格结构
+
+
 
 
 

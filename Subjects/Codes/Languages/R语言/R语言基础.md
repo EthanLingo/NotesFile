@@ -1,6 +1,3 @@
-# R语言基础
-
-
 ---
 title: R语言基础
 authors: Ethan Lin
@@ -8,6 +5,10 @@ year:
 tags:
   - 内容/编程/R语言 
 ---
+
+# R语言基础
+
+
 
 
 #汇总笔记 

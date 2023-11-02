@@ -1,10 +1,7 @@
-# pandas添加新列
-
-
 ---
 title: pandas添加新列
 authors: Ethan Lin
-year:
+year: 2023-01-01 
 tags:
   - 日期/2023-01-01 
   - 类型/笔记 
@@ -13,6 +10,11 @@ tags:
   - 内容/pandas 
   - 内容/python 
 ---
+
+
+# pandas添加新列
+
+
 
 
 pandas为DataFrame格式数据添加新列的方法非常简单，只需要新建一个列索引，再为其赋值即可。

@@ -54,8 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0fd9d0d4f40ba7d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Subjects/游戏学/DOTS/《DOTS之路系列教程》之代码笔记.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,9 +98,9 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"aliases\"]",
+                "query": "[\"title\"]",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -134,9 +147,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Study/Study.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -152,7 +163,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Study/Study.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -274,9 +284,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Study/Study.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -291,7 +299,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/Study.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -314,7 +321,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/Study.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -381,7 +387,6 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Study/Study.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -593,9 +598,7 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {
-                        "file": "Study/Study.md"
-                      }
+                      "state": {}
                     }
                   }
                 ]
@@ -611,7 +614,6 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Study/Study.md",
                         "options": {
                           "collapse-filter": false,
                           "search": "",
@@ -840,7 +842,6 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Study/Study.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -863,7 +864,6 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Study/Study.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -902,9 +902,7 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {
-                        "file": "Study/Study.md"
-                      }
+                      "state": {}
                     }
                   }
                 ]
@@ -920,7 +918,6 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Study/Study.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1141,7 +1138,6 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Study/Study.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1164,7 +1160,6 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Study/Study.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1203,9 +1198,7 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {
-                        "file": "Study/Study.md"
-                      }
+                      "state": {}
                     }
                   }
                 ]
@@ -1221,7 +1214,6 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Study/Study.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1444,7 +1436,6 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Study/Study.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1467,7 +1458,6 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Study/Study.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1506,9 +1496,7 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {
-                        "file": "Study/Study.md"
-                      }
+                      "state": {}
                     }
                   }
                 ]
@@ -1524,7 +1512,6 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Study/Study.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1749,7 +1736,6 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Study/Study.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1772,7 +1758,6 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Study/Study.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1811,9 +1796,7 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {
-                        "file": "Study/Study.md"
-                      }
+                      "state": {}
                     }
                   }
                 ]
@@ -1829,7 +1812,6 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Study/Study.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -2012,7 +1994,6 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Study/Study.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -2035,7 +2016,6 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Study/Study.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -2074,9 +2054,7 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {
-                        "file": "Study/Study.md"
-                      }
+                      "state": {}
                     }
                   }
                 ]
@@ -2092,7 +2070,6 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Study/Study.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -2241,7 +2218,6 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Study/Study.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -2264,7 +2240,6 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Study/Study.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -2303,9 +2278,7 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {
-                        "file": "Study/Study.md"
-                      }
+                      "state": {}
                     }
                   }
                 ]
@@ -2321,7 +2294,6 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Study/Study.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -2549,7 +2521,6 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Study/Study.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -2572,7 +2543,6 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Study/Study.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -2594,17 +2564,19 @@
       }
     ]
   },
-  "active": "8e9fa928aa3d2eb7",
+  "active": "ae4ce4ba7b386dca",
   "lastOpenFiles": [
-    "Projects/SystemicRisk_project/sync.ffs_lock",
+    "Subjects/数据科学/Pandas 工具包/Pandas 常用函数.md",
+    "Subjects/游戏学/DOTS/《DOTS之路系列教程》之代码笔记.md",
+    "Collection/R与Python第三方工具包对比.md",
     "Projects/EntelechySystem_theory/sync.ffs_lock",
+    "Projects/SystemicRisk_project/sync.ffs_lock",
+    "Projects/YeeGames_design/sync.ffs_lock",
+    "Study/Study.md",
     "Subjects/数据科学/Pandas 工具包/Pandas DataFrames.md",
     "Subjects/sync.ffs_lock",
     "Reference_zotfile/sync.ffs_lock",
     "Reference/sync.ffs_lock",
-    "Projects/YeeGames_design/sync.ffs_lock",
-    "Study/Study.md",
-    "Subjects/数据科学/Pandas 工具包/Pandas 常用函数.md",
     "Thoughts/Management/template/markdown_file_template_for_obsidian_转载.md",
     "Management/template/template_for_AI.md",
     "Thoughts/Management/template/markdown_file_template_for_obsidian_AI问答.md",
@@ -2627,7 +2599,6 @@
     "Management/template/markdown_file_template_for_obsidian_AI问答.md",
     "Management/template/markdown_file_template_for_obsidian_项目.md",
     "Management/template/markdown_file_template_for_obsidian_转载.md",
-    "Management/template/markdown_file_template_for_obsidian_继承.md",
     "Subjects/数据科学/Pandas 工具包/Pandas DataFrames.assets/df-dp.png",
     "Subjects/数据科学/Pandas 工具包/Pandas DataFrames.assets/rows-cloumns.png",
     "Subjects/数据科学/Pandas 工具包/Pandas DataFrames.assets/pandas-DataStructure.png",

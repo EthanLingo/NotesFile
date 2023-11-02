@@ -1,6 +1,3 @@
-# Linux设置免密登录
-
-
 ---
 title: Linux设置免密登录
 authors: Ethan Lin
@@ -9,6 +6,11 @@ tags:
   - 内容/办公 
   - 内容/Linux/操作 
 ---
+
+
+# Linux设置免密登录
+
+
 
 
 

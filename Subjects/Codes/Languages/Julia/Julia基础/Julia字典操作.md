@@ -1,6 +1,3 @@
-# Julia字典操作
-
-
 ---
 title: Julia字典操作
 authors: Ethan Lin
@@ -9,6 +6,11 @@ tags:
   - 内容/编程/Julia语言 
   - 内容/科学计算 
 ---
+
+
+# Julia字典操作
+
+
 
 
 

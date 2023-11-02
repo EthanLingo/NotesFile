@@ -1,8 +1,3 @@
-
-
-# JavaScript处理字符串
-
-
 ---
 title: JavaScript处理字符串
 authors: Ethan Lin
@@ -10,6 +5,10 @@ year:
 tags:
   - 来源/转载 
 ---
+
+# JavaScript处理字符串
+
+
 
 
 #知识 

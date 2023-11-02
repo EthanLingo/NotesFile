@@ -1,6 +1,3 @@
-# Shell之查找命令
-
-
 ---
 title: Shell之查找命令
 authors: Ethan Lin
@@ -11,6 +8,11 @@ tags:
   - 知识 
   - 发布/个人网站
 ---
+
+
+# Shell之查找命令
+
+
 
 
 

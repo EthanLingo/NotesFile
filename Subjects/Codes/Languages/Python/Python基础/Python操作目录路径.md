@@ -1,6 +1,3 @@
-# Python获取目录路径
-
-
 ---
 title: Python获取目录路径
 authors: Ethan Lin
@@ -8,6 +5,10 @@ year:
 tags:
   - 内容/编程语言/Python 
 ---
+
+# Python获取目录路径
+
+
 
 
 

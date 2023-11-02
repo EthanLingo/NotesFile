@@ -1,10 +1,7 @@
-# Python用dict生成相关的类与对象
-
-
 ---
 title: Python用dict生成相关的类与对象
 authors: Ethan Lin
-year:
+year: 2023-01-04 
 tags:
   - 日期/2023-01-04 
   - 类型/笔记 
@@ -14,6 +11,11 @@ tags:
   - 内容/类与对象 
   - 内容/字典 
 ---
+
+
+# Python用dict生成相关的类与对象
+
+
 
 
 

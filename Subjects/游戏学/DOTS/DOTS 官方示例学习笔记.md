@@ -1,16 +1,18 @@
-# DOTS 官方示例学习笔记
-
-
 ---
 title: DOTS 官方示例学习笔记
 authors: Ethan Lin
-year:
+year: 2023-08-06 
 tags:
   - 日期/2023-08-06 
   - 类型/笔记 
   - 类型/学习 
   - 内容/DOTS 
 ---
+
+
+# DOTS 官方示例学习笔记
+
+
 
 
 

@@ -1,16 +1,18 @@
-# abcEcnomics工具
-
-
 ---
 title: abcEcnomics工具
 authors: Ethan Lin
-year:
+year: 2022-11-21 
 tags:
   - 日期/2022-11-21 
   - 类型/笔记 
   - 内容/经济金融 
   - 内容/多主体建模 
 ---
+
+
+# abcEcnomics工具
+
+
 
 
 

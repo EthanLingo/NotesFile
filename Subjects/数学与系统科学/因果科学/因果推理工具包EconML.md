@@ -1,6 +1,3 @@
-# 因果推理工具包EconML
-
-
 ---
 title: 因果推理工具包EconML
 authors: Ethan Lin
@@ -8,6 +5,10 @@ year:
 tags:
   - 内容/因果推理 
 ---
+
+# 因果推理工具包EconML
+
+
 
 
 tags: #内容/工具 

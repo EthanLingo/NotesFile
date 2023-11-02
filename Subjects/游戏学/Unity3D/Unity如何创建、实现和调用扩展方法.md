@@ -1,16 +1,18 @@
-# Unity如何创建、实现和调用扩展方法
-
-
 ---
 title: Unity如何创建、实现和调用扩展方法
 authors: Ethan Lin
-year:
+year: 2022-11-25 
 tags:
   - 日期/2022-11-25 
   - 类型/笔记 
   - 内容/Unity 
   - 类型/解决 
 ---
+
+
+# Unity如何创建、实现和调用扩展方法
+
+
 
 
 

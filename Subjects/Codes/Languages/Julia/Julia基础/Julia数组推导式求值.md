@@ -1,6 +1,3 @@
-# Julia数组推导式求值
-
-
 ---
 title: Julia数组推导式求值
 authors: Ethan Lin
@@ -8,6 +5,10 @@ year:
 tags:
   - 内容/编程/Julia语言 
 ---
+
+# Julia数组推导式求值
+
+
 
 
 

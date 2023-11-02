@@ -1,6 +1,3 @@
-# Unity碰撞器Collider与触发器Trigger，碰撞的条件和触发器的条件
-
-
 ---
 title: Unity碰撞器Collider与触发器Trigger，碰撞的条件和触发器的条件
 authors: Ethan Lin
@@ -10,6 +7,11 @@ tags:
   - 来源/转载 
   - 传播/禁止 
 ---
+
+
+# Unity碰撞器Collider与触发器Trigger，碰撞的条件和触发器的条件
+
+
 
 
 

@@ -1,10 +1,7 @@
-# 使用pathlib替代os.path
-
-
 ---
 title: 使用pathlib替代os.path
 authors: Ethan Lin
-year:
+year: 2022-12-02 
 tags:
   - 日期/2022-12-02 
   - 类型/笔记 
@@ -12,6 +9,11 @@ tags:
   - 内容/编程语言/Python 
   - 内容/处理路径 
 ---
+
+
+# 使用pathlib替代os.path
+
+
 
 
 

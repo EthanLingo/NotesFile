@@ -1,10 +1,7 @@
-# PettingZoo工具学习笔记
-
-
 ---
 title: PettingZoo工具学习笔记
 authors: Ethan Lin
-year:
+year: 2022-11-01 
 tags:
   - 日期/2022-11-01 
   - 类型/笔记 
@@ -13,6 +10,11 @@ tags:
   - 项目/EntelechySystem 
   - 用途/借鉴思路 
 ---
+
+
+# PettingZoo工具学习笔记
+
+
 
 
 
