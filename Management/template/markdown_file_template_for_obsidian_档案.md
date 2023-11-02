@@ -1,6 +1,13 @@
 
+---
+title: {{title}}
+authors: Ethan Lin
+year: {{date:YYYY}}
+tags:
+  - 类型/档案  
+  - 日期/{{date:YYYY-MM-DD}} 
+---
 
- #类型/档案
 
 > [!info]
 >

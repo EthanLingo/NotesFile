@@ -3,8 +3,14 @@
 # Daily Notes
 
 
-tags: #日期/{{date:YYYY-MM-DD}} #类型/日志 
-
+---
+title: {{title}}
+authors: Ethan Lin
+year: {{date:YYYY}}
+tags:
+  - 类型/日志 
+  - 日期/{{date:YYYY-MM-DD}} 
+---
 
 # 计划、记录
 
