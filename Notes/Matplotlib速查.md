@@ -1,14 +1,16 @@
-# Matplotlib速查
-
-
 ---
 title: Matplotlib速查
 authors: Ethan Lin
-year:
+year: 2023-03-31 
 tags:
   - 日期/2023-03-31 
   - 类型/笔记 
 ---
+
+
+# Matplotlib速查
+
+
 
 
 

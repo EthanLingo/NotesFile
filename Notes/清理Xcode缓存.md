@@ -1,16 +1,18 @@
-# 清理Xcode缓存
-
-
 ---
 title: 清理Xcode缓存
 authors: Ethan Lin
-year:
+year: 2022-09-26 
 tags:
   - 日期/2022-09-26 
   - 类型/笔记 
   - 来源/转载 
   - 内容/整理 
 ---
+
+
+# 清理Xcode缓存
+
+
 
 
 

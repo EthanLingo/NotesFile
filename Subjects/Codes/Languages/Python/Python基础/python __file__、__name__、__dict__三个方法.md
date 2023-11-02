@@ -1,16 +1,18 @@
-# python `__file__`、`__name__`、`__dict__`三个方法
-
-
 ---
 title: python `__file__`、`__name__`、`__dict__`三个方法
 authors: Ethan Lin
-year:
+year: 2022-11-28 
 tags:
   - 日期/2022-11-28 
   - 类型/笔记 
   - 来源/转载 
   - 内容/python 
 ---
+
+
+# python `__file__`、`__name__`、`__dict__`三个方法
+
+
 
 
 

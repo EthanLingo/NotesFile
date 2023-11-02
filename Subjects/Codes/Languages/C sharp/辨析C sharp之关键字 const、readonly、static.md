@@ -1,6 +1,3 @@
-# 辨析C sharp之关键字 const、readonly、static
-
-
 ---
 title: 辨析C sharp之关键字 const、readonly、static
 authors: Ethan Lin
@@ -11,6 +8,11 @@ tags:
   - 类型/辨析 
   - 发布/个人网站 
 ---
+
+
+# 辨析C sharp之关键字 const、readonly、static
+
+
 
 
 

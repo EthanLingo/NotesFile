@@ -32,19 +32,43 @@
             }
           },
           {
-            "id": "4ad314a5e2e2dd3b",
+            "id": "fa46febcb289d929",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md",
-                "mode": "preview",
+                "file": "Subjects/数据科学/Pandas 工具包/Pandas DataFrames.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d72102729ed4be84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Subjects/数据科学/Pandas 工具包/Pandas 常用函数.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0fd9d0d4f40ba7d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Subjects/游戏学/DOTS/《DOTS之路系列教程》之代码笔记.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -56,6 +80,7 @@
       {
         "id": "c28a7cbc3190435a",
         "type": "tabs",
+        "dimension": 59.739583333333336,
         "children": [
           {
             "id": "74b73d35e0ab03a6",
@@ -63,7 +88,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -73,9 +98,9 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#内容/银行系统性风险",
+                "query": "",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -115,15 +140,14 @@
       {
         "id": "2e57906a279edeb0",
         "type": "tabs",
+        "dimension": 20.78125,
         "children": [
           {
             "id": "e163f4fc403969f9",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -131,6 +155,7 @@
       {
         "id": "c068406933180a4a",
         "type": "tabs",
+        "dimension": 19.479166666666668,
         "children": [
           {
             "id": "ba65f30fa943ad4e",
@@ -138,7 +163,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -235,7 +259,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 397.5
+    "width": 546.5
   },
   "right": {
     "id": "aade5a834a514cf8",
@@ -260,13 +284,10 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md"
-              }
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "8ba37c95ab549354",
@@ -278,7 +299,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,7 +321,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -311,8 +330,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384.5,
-    "collapsed": true
+    "width": 384.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -369,7 +387,6 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -581,9 +598,7 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {
-                        "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md"
-                      }
+                      "state": {}
                     }
                   }
                 ]
@@ -599,7 +614,6 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md",
                         "options": {
                           "collapse-filter": false,
                           "search": "",
@@ -828,7 +842,6 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -851,7 +864,6 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -864,8 +876,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 0,
-        "y": 84,
+        "x": 142,
+        "y": 30,
         "width": 2346,
         "height": 1356,
         "maximize": false,
@@ -890,9 +902,7 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {
-                        "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md"
-                      }
+                      "state": {}
                     }
                   }
                 ]
@@ -908,7 +918,6 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1043,7 +1052,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Subjects/Economics/通用经济与金融/商业银行资产负债表.md",
+                    "file": "Subjects/经济和金融/通用经济与金融/商业银行资产负债表.md",
                     "mode": "source",
                     "source": false
                   }
@@ -1056,7 +1065,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Subjects/Economics/经管类的相关工具/abcFinance工具.md",
+                    "file": "Subjects/经济和金融/经管类的相关工具/abcFinance工具.md",
                     "mode": "source",
                     "source": false
                   },
@@ -1081,7 +1090,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Subjects/Economics/经管类的相关工具/Resilience系统性风险压力测试工具学习笔记.md",
+                    "file": "Subjects/经济和金融/经管类的相关工具/Resilience系统性风险压力测试工具学习笔记.md",
                     "mode": "source",
                     "source": false
                   }
@@ -1093,7 +1102,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Subjects/Economics/经管类的相关工具/CRISIS工具学习笔记.md",
+                    "file": "Subjects/经济和金融/经管类的相关工具/CRISIS工具学习笔记.md",
                     "mode": "preview",
                     "source": false
                   }
@@ -1129,7 +1138,6 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1152,7 +1160,6 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1191,9 +1198,7 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {
-                        "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md"
-                      }
+                      "state": {}
                     }
                   }
                 ]
@@ -1209,7 +1214,6 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1432,7 +1436,6 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1455,7 +1458,6 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1482,7 +1484,7 @@
           {
             "id": "5b79b91cf1931265",
             "type": "split",
-            "dimension": 19.31216931216931,
+            "dimension": 16.666666666666664,
             "children": [
               {
                 "id": "c592ebe784bfbd1a",
@@ -1494,9 +1496,7 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {
-                        "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md"
-                      }
+                      "state": {}
                     }
                   }
                 ]
@@ -1512,7 +1512,6 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1613,7 +1612,7 @@
           {
             "id": "123ead119630dd56",
             "type": "tabs",
-            "dimension": 52.51322751322751,
+            "dimension": 66.66666666666666,
             "children": [
               {
                 "id": "576f3b5114437956",
@@ -1650,7 +1649,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Subjects/Game/DOTS/DOTS 学习笔记.md",
+                    "file": "Subjects/游戏学/DOTS/DOTS 学习笔记.md",
                     "mode": "preview",
                     "source": false
                   },
@@ -1664,7 +1663,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Subjects/Game/DOTS/DOTS 官方示例学习笔记.md",
+                    "file": "Subjects/游戏学/DOTS/DOTS 官方示例学习笔记.md",
                     "mode": "source",
                     "source": false
                   },
@@ -1696,24 +1695,24 @@
                 }
               },
               {
-                "id": "a0c9c3f3befc708b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Subjects/Game/Unity3D/各种数据类型之赋值方式：引用、复制？.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              },
-              {
-                "id": "d6028255eafe5a2a",
+                "id": "2c278a9b2305da7b",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
                     "file": "Collection/DOTS 之 Blob Asset.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "a0c9c3f3befc708b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Subjects/游戏学/Unity3D/各种数据类型之赋值方式：引用、复制？.md",
                     "mode": "source",
                     "source": true
                   }
@@ -1725,7 +1724,7 @@
           {
             "id": "2677eddafa0c3c68",
             "type": "split",
-            "dimension": 28.174603174603178,
+            "dimension": 16.666666666666664,
             "children": [
               {
                 "id": "a9b1b63bc7d5268d",
@@ -1737,7 +1736,6 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1760,7 +1758,6 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1773,8 +1770,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 192,
-        "y": 213,
+        "x": 0,
+        "y": 274,
         "width": 1471,
         "height": 1166,
         "maximize": false,
@@ -1799,9 +1796,7 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {
-                        "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md"
-                      }
+                      "state": {}
                     }
                   }
                 ]
@@ -1817,7 +1812,6 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1940,7 +1934,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Subjects/IT/算法与数据结构/二叉树前序、中序、后序遍历非递归写法的透彻解析.md",
+                    "file": "Subjects/计算机科学与技术/算法与数据结构/二叉树前序、中序、后序遍历非递归写法的透彻解析.md",
                     "mode": "preview",
                     "source": false
                   }
@@ -1952,7 +1946,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Subjects/IT/算法与数据结构/多叉树遍历算法.md",
+                    "file": "Subjects/计算机科学与技术/算法与数据结构/多叉树遍历算法.md",
                     "mode": "preview",
                     "source": false
                   }
@@ -1969,9 +1963,21 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "cd33e813d4922032",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Subjects/数据科学/Pandas 工具包/Pandas DataFrames.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
             ],
-            "currentTab": 3
+            "currentTab": 4
           },
           {
             "id": "e464f1de621eb73f",
@@ -1988,7 +1994,6 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -2011,7 +2016,6 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -2024,11 +2028,11 @@
           }
         ],
         "direction": "vertical",
-        "x": 2560,
-        "y": 499,
+        "x": 2716,
+        "y": 495,
         "width": 1200,
         "height": 944,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       },
       {
@@ -2050,9 +2054,7 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {
-                        "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md"
-                      }
+                      "state": {}
                     }
                   }
                 ]
@@ -2068,7 +2070,6 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -2217,7 +2218,6 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -2240,7 +2240,6 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -2253,8 +2252,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 19,
-        "y": 108,
+        "x": 494,
+        "y": 253,
         "width": 1158,
         "height": 944,
         "maximize": false,
@@ -2279,9 +2278,7 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {
-                        "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md"
-                      }
+                      "state": {}
                     }
                   }
                 ]
@@ -2297,7 +2294,6 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -2525,7 +2521,6 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -2548,7 +2543,6 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Reference/YRVTQ7K4/Boss_Elsinger_2013_An empirical analysis of the network structure of the Austrian interbank market.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -2570,52 +2564,53 @@
       }
     ]
   },
-  "active": "4ad314a5e2e2dd3b",
+  "active": "ae4ce4ba7b386dca",
   "lastOpenFiles": [
-    "Projects/EntelechySystem_theory/sync.ffs_lock",
-    "Projects/SystemicRisk_project/sync.ffs_lock",
     "Thoughts/sync.ffs_lock",
     "sync.ffs_lock",
-    "Collection/DOTS 之 Blob Asset.md",
-    "Study/Study.md",
-    "Subjects/计算科学/强化学习/笔记：解读强化学习代码.md",
-    "Subjects/Economics/sync.ffs_lock",
     "Subjects/sync.ffs_lock",
     "Reference_zotfile/sync.ffs_lock",
     "Reference/sync.ffs_lock",
     "Projects/YeeGames_design/sync.ffs_lock",
-    "Study/学习ABM建模.md",
-    "Subjects/Game/Unity3D/各种数据类型之赋值方式：引用、复制？.md",
-    "Notes/Python 科学计算常用命令.md",
-    "Subjects/计算科学/强化学习/强化学习.md",
-    "Subjects/计算科学/多智能体强化学习/多智能体强化学习相关资料.md",
-    "Subjects/计算科学/多智能体强化学习/多智能体强化学习.md",
-    "Study/学习多智能体强化学习.md",
-    "Notes/经济方法ABM建模相关工具.md",
-    "Study/学习货币银行学.md",
-    "Projects/YeeGames_design/Projects/ComplexElementsGame/设计：Complex Elements Game/游戏玩法数据表/元素与交互规则设计表/~$Complex Elements Game 游戏数值表_2023-08-29.xlsx",
-    "Study/学习图网络.md",
-    "Study/学习计算科学.md",
-    "Notes/学习人工智能认知科学数据科学.md",
-    "Subjects/Codes/Languages/Python/Python基础/几种Python虚拟环境管理.md",
-    "Subjects/Codes/Programming/可视化工具/Matplotlib辨析plt、fig、axes.md",
-    "Subjects/Codes/Languages/Python/Python基础/Python虚拟环境.md",
-    "Study/学习强化学习.md",
-    "Subjects/IT/算法与数据结构/二叉树前序、中序、后序遍历非递归写法的透彻解析.md",
-    "Study/学习计算机科学与技术与编程语言.md",
-    "Notes/随机生成和谐美观的色彩分布.md",
-    "Notes/电子果蝇神经网络.md",
-    "Study/学习通用人工智能.md",
+    "Projects/SystemicRisk_project/sync.ffs_lock",
+    "Projects/EntelechySystem_theory/sync.ffs_lock",
+    "Subjects/数据科学/Pandas 工具包/Pandas 常用函数.md",
+    "Subjects/游戏学/DOTS/《DOTS之路系列教程》之代码笔记.md",
+    "Collection/R与Python第三方工具包对比.md",
+    "Study/Study.md",
+    "Subjects/数据科学/Pandas 工具包/Pandas DataFrames.md",
+    "Thoughts/Management/template/markdown_file_template_for_obsidian_转载.md",
+    "Management/template/template_for_AI.md",
+    "Thoughts/Management/template/markdown_file_template_for_obsidian_AI问答.md",
+    "Thoughts/Management/template/markdown_file_template_for_obsidian_想法.md",
+    "Thoughts/Management/template/markdown_file_template_for_obsidian_档案.md",
+    "Thoughts/Management/template/markdown_file_template_for_obsidian_笔记.md",
+    "Thoughts/Management/template/markdown_file_template_for_obsidian_weekly_notes.md",
+    "Thoughts/Management/template/template_for_AI.md",
+    "Thoughts/Management/template/Meta Data.md",
+    "Thoughts/Management/template/markdown_file_template_for_obsidian_项目.md",
+    "Thoughts/Management/template/markdown_file_template_for_obsidian_继承.md",
+    "Thoughts/Management/template/markdown_file_template_for_obsidian.md",
+    "Thoughts/Management/template/Daily Notes Template.md",
+    "Thoughts/Management/template",
+    "Management/_Index_of_Management.md",
+    "Management/template/Meta Data.md",
+    "Management/template/Daily Notes Template.md",
+    "Management/template/markdown_file_template_for_obsidian.md",
     "Management/template/markdown_file_template_for_obsidian_weekly_notes.md",
+    "Management/template/markdown_file_template_for_obsidian_AI问答.md",
+    "Management/template/markdown_file_template_for_obsidian_项目.md",
+    "Subjects/数据科学/Pandas 工具包/Pandas DataFrames.assets/df-dp.png",
+    "Subjects/数据科学/Pandas 工具包/Pandas DataFrames.assets/rows-cloumns.png",
+    "Subjects/数据科学/Pandas 工具包/Pandas DataFrames.assets/pandas-DataStructure.png",
+    "Subjects/数据科学/Pandas 工具包/Pandas DataFrames.assets/BE773E8F-DEC2-4434-8630-91E660A1DFC0.jpg",
+    "Subjects/数据科学/Pandas 工具包/Pandas DataFrames.assets",
+    "Subjects/数据科学/Pandas 工具包",
+    "Collection/Pandas DataFrames.assets/pandas-DataStructure.png",
+    "Collection/Pandas DataFrames.assets/rows-cloumns.png",
+    "Collection/Pandas DataFrames.assets/df-dp.png",
+    "Collection/Pandas DataFrames.assets/BE773E8F-DEC2-4434-8630-91E660A1DFC0.jpg",
     "Subjects/计算科学/强化学习/A-C算法架构简要示意图.png",
-    "Subjects/Game/DOTS/IMG_6358.jpeg",
-    "Subjects/Game/DOTS/IMG_6366.png",
-    "Subjects/Game/DOTS/IMG_6365.png",
-    "Subjects/Game/DOTS/IMG_6364.png",
-    "Subjects/Game/DOTS/IMG_6357.png",
-    "Thoughts/创造者/项目创意.assets/IMG_8505.jpeg",
-    "Thoughts/创造者/项目创意.assets/IMG_8504.jpeg",
-    "Subjects/Game/DOTS/0D0941A8-418D-4D81-8261-2E844E4D192D_1_201_a.jpeg",
-    "Subjects/Game/DOTS/0D0941A8-418D-4D81-8261-2E844E4D192D.jpeg"
+    "Subjects/游戏学/DOTS/IMG_6358.jpeg"
   ]
 }

@@ -1,15 +1,17 @@
-# pip删除所有包
-
-
 ---
 title: pip删除所有包
 authors: Ethan Lin
-year:
+year: 2022-10-27 
 tags:
   - 日期/2022-10-27 
   - 类型/笔记 
   - 内容/python 
 ---
+
+
+# pip删除所有包
+
+
 
 
 

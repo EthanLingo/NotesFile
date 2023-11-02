@@ -1,6 +1,3 @@
-# Python虚拟环境
-
-
 ---
 title: Python虚拟环境
 authors: Ethan Lin
@@ -9,6 +6,11 @@ tags:
   - 笔记 
   - 内容/编程语言/Python 
 ---
+
+
+# Python虚拟环境
+
+
 
 
 

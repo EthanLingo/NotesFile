@@ -1,6 +1,3 @@
-# Git合并分支
-
-
 ---
 title: Git合并分支
 authors: Ethan Lin
@@ -9,6 +6,11 @@ tags:
   - 内容/Git 
   - 来源/转载 
 ---
+
+
+# Git合并分支
+
+
 
 
 

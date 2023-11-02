@@ -1,15 +1,17 @@
-# Matplotlib辨析plt、fig、axes
-
-
 ---
 title: Matplotlib辨析plt、fig、axes
 authors: Ethan Lin
-year:
+year: 2023-04-05 
 tags:
   - 日期/2023-04-05 
   - 类型/笔记 
   - 来源/转载 
 ---
+
+
+# Matplotlib辨析plt、fig、axes
+
+
 
 
 

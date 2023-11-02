@@ -1,10 +1,7 @@
-# Study
-
-
 ---
 title: Study
 authors: Ethan Lin
-year:
+year: 2022-07-02 
 tags:
   - 类型/笔记 
   - 日期/2022-07-02 
@@ -12,7 +9,7 @@ tags:
   - 类型/学习 
 ---
 
-
+# Study
 
 
 

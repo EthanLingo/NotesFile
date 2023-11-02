@@ -1,15 +1,17 @@
-# Unity3D实现简单的足球AI
-
-
 ---
 title: Unity3D实现简单的足球AI
 authors: Ethan Lin
-year:
+year: 2023-05-14 
 tags:
   - 日期/2023-05-14 
   - 类型/笔记 
   - 来源/转载 
 ---
+
+
+# Unity3D实现简单的足球AI
+
+
 
 
 

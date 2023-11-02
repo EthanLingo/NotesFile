@@ -1,14 +1,16 @@
-# 国内AGI学位方面
-
-
 ---
 title: 国内AGI学位方面
 authors: Ethan Lin
-year:
+year: 2022-07-13 
 tags:
   - 日期/2022-07-13 
   - 类型/笔记 
 ---
+
+
+# 国内AGI学位方面
+
+
 
 
 

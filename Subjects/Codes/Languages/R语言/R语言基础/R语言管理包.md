@@ -1,6 +1,3 @@
-# R语言管理包
-
-
 ---
 title: R语言管理包
 authors: Ethan Lin
@@ -8,6 +5,10 @@ year:
 tags:
   - 内容/编程/R语言 
 ---
+
+# R语言管理包
+
+
 
 
 

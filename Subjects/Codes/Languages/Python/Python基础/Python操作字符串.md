@@ -1,6 +1,3 @@
-# Python操作字符串
-
-
 ---
 title: Python操作字符串
 authors: Ethan Lin
@@ -8,6 +5,10 @@ year:
 tags:
   - 内容/编程语言/Python 
 ---
+
+# Python操作字符串
+
+
 
 
 

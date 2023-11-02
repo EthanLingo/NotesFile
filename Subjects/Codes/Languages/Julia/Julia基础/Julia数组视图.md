@@ -1,6 +1,3 @@
-# Julia数组视图
-
-
 ---
 title: Julia数组视图
 authors: Ethan Lin
@@ -9,6 +6,11 @@ tags:
   - 内容/编程/Julia语言 
   - 内容/处理数据 
 ---
+
+
+# Julia数组视图
+
+
 
 
 

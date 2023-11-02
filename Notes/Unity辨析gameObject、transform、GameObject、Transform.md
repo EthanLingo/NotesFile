@@ -1,10 +1,7 @@
-# Unity辨析gameObject、transform、GameObject、Transform
-
-
 ---
 title: Unity辨析gameObject、transform、GameObject、Transform
 authors: Ethan Lin
-year:
+year: 2022-08-06 
 tags:
   - 日期/2022-08-06 
   - 类型/笔记 
@@ -12,6 +9,11 @@ tags:
   - 内容/Unity 
   - 类型/辨析 
 ---
+
+
+# Unity辨析gameObject、transform、GameObject、Transform
+
+
 
 
 

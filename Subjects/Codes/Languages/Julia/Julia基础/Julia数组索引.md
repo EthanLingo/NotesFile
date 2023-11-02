@@ -1,6 +1,3 @@
-# Julia数组索引
-
-
 ---
 title: Julia数组索引
 authors: Ethan Lin
@@ -10,6 +7,11 @@ tags:
   - 知识 
   - 类型/举例 
 ---
+
+
+# Julia数组索引
+
+
 
 
 

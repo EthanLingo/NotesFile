@@ -1,6 +1,3 @@
-# Julia部署
-
-
 ---
 title: Julia部署
 authors: Ethan Lin
@@ -8,6 +5,10 @@ year:
 tags:
   - 内容/编程/Julia语言 
 ---
+
+# Julia部署
+
+
 
 
 #汇总笔记

@@ -1,6 +1,3 @@
-# Julia基础
-
-
 ---
 title: Julia基础
 authors: Ethan Lin
@@ -8,6 +5,10 @@ year:
 tags:
   - 内容/编程/Julia语言 
 ---
+
+# Julia基础
+
+
 
 
 #教程 

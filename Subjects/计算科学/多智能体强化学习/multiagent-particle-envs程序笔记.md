@@ -1,6 +1,3 @@
-# multiagent-particle-envs程序笔记
-
-
 ---
 title: multiagent-particle-envs程序笔记
 authors: Ethan Lin
@@ -10,6 +7,11 @@ tags:
   - 内容/多主体建模 
   - 内容/程序 
 ---
+
+
+# multiagent-particle-envs程序笔记
+
+
 
 
 

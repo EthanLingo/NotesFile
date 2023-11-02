@@ -1,16 +1,17 @@
-
-# 卸载 Visual Studio for Mac
-
-
 ---
 title: 卸载 Visual Studio for Mac
 authors: Ethan Lin
-year:
+year: 2022-09-26 
 tags:
   - 日期/2022-09-26 
   - 类型/笔记 
   - 来源/转载
 ---
+
+
+# 卸载 Visual Studio for Mac
+
+
 
 
 

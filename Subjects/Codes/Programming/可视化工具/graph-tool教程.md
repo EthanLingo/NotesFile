@@ -1,10 +1,7 @@
-# graph-tool教程
-
-
 ---
 title: graph-tool教程
 authors: Ethan Lin
-year:
+year: 2023-03-28 
 tags:
   - 日期/2023-03-28 
   - 类型/笔记 
@@ -12,6 +9,11 @@ tags:
   - 内容/网络分析 
   - 内容/复杂网络 
 ---
+
+
+# graph-tool教程
+
+
 
 
 
