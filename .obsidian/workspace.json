@@ -293,7 +293,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384.5
+    "width": 384.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -1995,7 +1996,7 @@
         "y": 84,
         "width": 1200,
         "height": 1895,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       },
       {
@@ -2527,14 +2528,18 @@
       }
     ]
   },
-  "active": "5ffff676023bc38c",
+  "active": "ae4ce4ba7b386dca",
   "lastOpenFiles": [
-    "Subjects/sync.ffs_lock",
-    "Reference_zotfile/sync.ffs_lock",
-    "Reference/sync.ffs_lock",
     "Projects/YeeGames_design/sync.ffs_lock",
     "Projects/SystemicRisk_project/sync.ffs_lock",
     "Projects/EntelechySystem_theory/sync.ffs_lock",
+    "Subjects/sync.ffs_lock",
+    "Reference_zotfile/sync.ffs_lock",
+    "Reference/sync.ffs_lock",
+    "Thoughts/sync.ffs_lock",
+    "sync.ffs_lock",
+    "Subjects/Untitled.canvas",
+    "Study/Study.md",
     "Thoughts/management/template/markdown_file_template_for_obsidian_AI问答.md",
     "Thoughts/management/template/markdown_file_template_for_obsidian_想法.md",
     "Thoughts/management/template/markdown_file_template_for_obsidian_转载.md",
@@ -2549,9 +2554,7 @@
     "Thoughts/management/template/Daily Notes Template.md",
     "Thoughts/management/template",
     "Thoughts/management/style/my_markdown_style_for_vscode.css",
-    "Thoughts/management/style",
     "Thoughts/management/_Index_of_Management.md",
-    "Thoughts/management",
     "Collection/是.md",
     "management/template/template_for_AI.md",
     "management/template/markdown_file_template_for_obsidian_项目.md",
@@ -2563,7 +2566,6 @@
     "management/template/markdown_file_template_for_obsidian_weekly_notes.md",
     "management/template/markdown_file_template_for_obsidian_AI问答.md",
     "management/template/markdown_file_template_for_obsidian.md",
-    "management/template/Meta Data.md",
     "Subjects/数据科学/Pandas 工具包/Pandas DataFrames.assets/df-dp.png",
     "Subjects/数据科学/Pandas 工具包/Pandas DataFrames.assets/rows-cloumns.png",
     "Subjects/数据科学/Pandas 工具包/Pandas DataFrames.assets/pandas-DataStructure.png",
