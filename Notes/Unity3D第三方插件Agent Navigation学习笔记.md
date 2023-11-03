@@ -1,8 +1,16 @@
+---
+title: Unity3D第三方插件Agent Navigation学习笔记
+authors: Ethan Lin
+year:
+tags:
+  - #类型/笔记 
+  - #类型/AI问答笔记 
+---
+
+
 # Unity3D第三方插件Agent Navigation学习笔记
 
 
-
-tags:  #类型/笔记 #类型/AI问答笔记 
 
 
 # 相关资源

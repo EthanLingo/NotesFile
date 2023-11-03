@@ -1,9 +1,16 @@
+---
+title: 学习NARS系统
+authors: Ethan Lin
+year:
+tags:
+  - #类型/学习 
+  - #类型/汇总笔记 
+---
+
+
 # 学习NARS系统
 
 
-
-
-tags:   #类型/学习 #类型/汇总笔记 
 
 
 #### NARS系统  

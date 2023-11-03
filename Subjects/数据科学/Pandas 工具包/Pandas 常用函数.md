@@ -1,7 +1,7 @@
 ---
 title: Pandas 常用函数
 authors: Ethan Lin
-year: 2023
+year: 2023-11-02
 tags:
   - 类型/笔记 
   - 日期/2023-11-02 
