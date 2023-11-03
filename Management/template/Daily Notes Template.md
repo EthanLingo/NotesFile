@@ -1,16 +1,15 @@
-
-
-# Daily Notes
-
-
 ---
 title: {{title}}
 authors: Ethan Lin
-year: {{date:YYYY}}
+year: {{date:YYYY-MM-DD}}
 tags:
   - 类型/日志 
   - 日期/{{date:YYYY-MM-DD}} 
 ---
+
+
+# Daily Notes
+
 
 # 计划、记录
 

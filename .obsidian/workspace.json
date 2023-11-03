@@ -30,45 +30,9 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "fa46febcb289d929",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Subjects/数据科学/Pandas 工具包/Pandas DataFrames.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d72102729ed4be84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Subjects/数据科学/Pandas 工具包/Pandas 常用函数.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0fd9d0d4f40ba7d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Subjects/游戏学/DOTS/《DOTS之路系列教程》之代码笔记.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Subjects/计算科学/强化学习/笔记：解读强化学习代码.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -164,7 +126,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Subjects/计算科学/强化学习/笔记：解读强化学习代码.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -261,8 +222,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 400.5,
-    "collapsed": true
+    "width": 400.5
   },
   "right": {
     "id": "aade5a834a514cf8",
@@ -287,9 +247,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Subjects/计算科学/强化学习/笔记：解读强化学习代码.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -304,7 +262,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/计算科学/强化学习/笔记：解读强化学习代码.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -327,7 +284,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/计算科学/强化学习/笔记：解读强化学习代码.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -394,7 +350,6 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Subjects/计算科学/强化学习/笔记：解读强化学习代码.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -606,9 +561,7 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {
-                        "file": "Subjects/计算科学/强化学习/笔记：解读强化学习代码.md"
-                      }
+                      "state": {}
                     }
                   }
                 ]
@@ -624,7 +577,6 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Subjects/计算科学/强化学习/笔记：解读强化学习代码.md",
                         "options": {
                           "collapse-filter": false,
                           "search": "",
@@ -853,7 +805,6 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Subjects/计算科学/强化学习/笔记：解读强化学习代码.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -876,7 +827,6 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Subjects/计算科学/强化学习/笔记：解读强化学习代码.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -915,9 +865,7 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {
-                        "file": "Subjects/计算科学/强化学习/笔记：解读强化学习代码.md"
-                      }
+                      "state": {}
                     }
                   }
                 ]
@@ -933,7 +881,6 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Subjects/计算科学/强化学习/笔记：解读强化学习代码.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1154,7 +1101,6 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Subjects/计算科学/强化学习/笔记：解读强化学习代码.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1177,7 +1123,6 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Subjects/计算科学/强化学习/笔记：解读强化学习代码.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1216,9 +1161,7 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {
-                        "file": "Subjects/计算科学/强化学习/笔记：解读强化学习代码.md"
-                      }
+                      "state": {}
                     }
                   }
                 ]
@@ -1234,7 +1177,6 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Subjects/计算科学/强化学习/笔记：解读强化学习代码.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1457,7 +1399,6 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Subjects/计算科学/强化学习/笔记：解读强化学习代码.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1480,7 +1421,6 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Subjects/计算科学/强化学习/笔记：解读强化学习代码.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1519,9 +1459,7 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {
-                        "file": "Subjects/计算科学/强化学习/笔记：解读强化学习代码.md"
-                      }
+                      "state": {}
                     }
                   }
                 ]
@@ -1537,7 +1475,6 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Subjects/计算科学/强化学习/笔记：解读强化学习代码.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1762,7 +1699,6 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Subjects/计算科学/强化学习/笔记：解读强化学习代码.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1785,7 +1721,6 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Subjects/计算科学/强化学习/笔记：解读强化学习代码.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1824,9 +1759,7 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {
-                        "file": "Subjects/计算科学/强化学习/笔记：解读强化学习代码.md"
-                      }
+                      "state": {}
                     }
                   }
                 ]
@@ -1842,7 +1775,6 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Subjects/计算科学/强化学习/笔记：解读强化学习代码.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -2025,7 +1957,6 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Subjects/计算科学/强化学习/笔记：解读强化学习代码.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -2048,7 +1979,6 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Subjects/计算科学/强化学习/笔记：解读强化学习代码.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -2087,9 +2017,7 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {
-                        "file": "Subjects/计算科学/强化学习/笔记：解读强化学习代码.md"
-                      }
+                      "state": {}
                     }
                   }
                 ]
@@ -2105,7 +2033,6 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Subjects/计算科学/强化学习/笔记：解读强化学习代码.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -2254,7 +2181,6 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Subjects/计算科学/强化学习/笔记：解读强化学习代码.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -2277,7 +2203,6 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Subjects/计算科学/强化学习/笔记：解读强化学习代码.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -2316,9 +2241,7 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {
-                        "file": "Subjects/计算科学/强化学习/笔记：解读强化学习代码.md"
-                      }
+                      "state": {}
                     }
                   }
                 ]
@@ -2334,7 +2257,6 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Subjects/计算科学/强化学习/笔记：解读强化学习代码.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -2562,7 +2484,6 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Subjects/计算科学/强化学习/笔记：解读强化学习代码.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -2585,7 +2506,6 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Subjects/计算科学/强化学习/笔记：解读强化学习代码.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -2607,43 +2527,43 @@
       }
     ]
   },
-  "active": "c8a88423744d5a5f",
+  "active": "5ffff676023bc38c",
   "lastOpenFiles": [
-    "Projects/EntelechySystem_theory/sync.ffs_lock",
     "Subjects/sync.ffs_lock",
     "Reference_zotfile/sync.ffs_lock",
     "Reference/sync.ffs_lock",
     "Projects/YeeGames_design/sync.ffs_lock",
     "Projects/SystemicRisk_project/sync.ffs_lock",
-    "Subjects/软件和工具/Anaconda/Anaconda Windows 环境切换到非C盘.md",
-    "Subjects/游戏学/DOTS/《DOTS之路系列教程》之代码笔记.md",
-    "Subjects/数据科学/Pandas 工具包/Pandas 常用函数.md",
-    "Subjects/数据科学/Pandas 工具包/Pandas DataFrames.md",
-    "Subjects/计算科学/强化学习/笔记：解读强化学习代码.md",
-    "Subjects/计算科学/多智能体强化学习/多智能体强化学习相关资料.md",
-    "Study/学习多智能体强化学习.md",
-    "Study/学习强化学习.md",
-    "Subjects/ABM/ABM相关工具/MAgents 工具学习笔记.md",
-    "Subjects/ABM/ABM相关工具/MAgents 几种环境.md",
-    "Collection/Untitled 1.md",
-    "Subjects/计算科学/强化学习/强化学习.md",
-    "Subjects/软件和工具/Anaconda",
-    "Subjects/软件和工具/未命名文件夹",
-    "Thoughts/sync.ffs_lock",
-    "sync.ffs_lock",
-    "Study/Study.md",
-    "Collection/R与Python第三方工具包对比.md",
-    "Thoughts/Management/template/markdown_file_template_for_obsidian_转载.md",
-    "Management/template/template_for_AI.md",
-    "Thoughts/Management/template/markdown_file_template_for_obsidian_AI问答.md",
-    "Thoughts/Management/template/markdown_file_template_for_obsidian_想法.md",
-    "Thoughts/Management/template/markdown_file_template_for_obsidian_档案.md",
-    "Thoughts/Management/template/markdown_file_template_for_obsidian_笔记.md",
-    "Thoughts/Management/template/markdown_file_template_for_obsidian_weekly_notes.md",
-    "Thoughts/Management/template/template_for_AI.md",
-    "Thoughts/Management/template/Meta Data.md",
-    "Thoughts/Management/template/markdown_file_template_for_obsidian_项目.md",
-    "Thoughts/Management/template/markdown_file_template_for_obsidian_继承.md",
+    "Projects/EntelechySystem_theory/sync.ffs_lock",
+    "Thoughts/management/template/markdown_file_template_for_obsidian_AI问答.md",
+    "Thoughts/management/template/markdown_file_template_for_obsidian_想法.md",
+    "Thoughts/management/template/markdown_file_template_for_obsidian_转载.md",
+    "Thoughts/management/template/markdown_file_template_for_obsidian_档案.md",
+    "Thoughts/management/template/markdown_file_template_for_obsidian_笔记.md",
+    "Thoughts/management/template/markdown_file_template_for_obsidian_weekly_notes.md",
+    "Thoughts/management/template/template_for_AI.md",
+    "Thoughts/management/template/Meta Data.md",
+    "Thoughts/management/template/markdown_file_template_for_obsidian_项目.md",
+    "Thoughts/management/template/markdown_file_template_for_obsidian_继承.md",
+    "Thoughts/management/template/markdown_file_template_for_obsidian.md",
+    "Thoughts/management/template/Daily Notes Template.md",
+    "Thoughts/management/template",
+    "Thoughts/management/style/my_markdown_style_for_vscode.css",
+    "Thoughts/management/style",
+    "Thoughts/management/_Index_of_Management.md",
+    "Thoughts/management",
+    "Collection/是.md",
+    "management/template/template_for_AI.md",
+    "management/template/markdown_file_template_for_obsidian_项目.md",
+    "management/template/markdown_file_template_for_obsidian_转载.md",
+    "management/template/markdown_file_template_for_obsidian_继承.md",
+    "management/template/markdown_file_template_for_obsidian_笔记.md",
+    "management/template/markdown_file_template_for_obsidian_档案.md",
+    "management/template/markdown_file_template_for_obsidian_想法.md",
+    "management/template/markdown_file_template_for_obsidian_weekly_notes.md",
+    "management/template/markdown_file_template_for_obsidian_AI问答.md",
+    "management/template/markdown_file_template_for_obsidian.md",
+    "management/template/Meta Data.md",
     "Subjects/数据科学/Pandas 工具包/Pandas DataFrames.assets/df-dp.png",
     "Subjects/数据科学/Pandas 工具包/Pandas DataFrames.assets/rows-cloumns.png",
     "Subjects/数据科学/Pandas 工具包/Pandas DataFrames.assets/pandas-DataStructure.png",
