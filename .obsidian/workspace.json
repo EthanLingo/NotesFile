@@ -30,9 +30,21 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "6ecaddc8ddcb8d27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -62,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"aliases\"]",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -98,7 +110,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "2e57906a279edeb0",
@@ -110,7 +123,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md"
+              }
             }
           }
         ]
@@ -126,6 +141,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -247,7 +263,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md"
+              }
             }
           }
         ]
@@ -262,6 +280,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -284,6 +303,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -293,8 +313,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384.5,
-    "collapsed": true
+    "width": 384.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -351,6 +370,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
+                        "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -562,7 +582,9 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {}
+                      "state": {
+                        "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md"
+                      }
                     }
                   }
                 ]
@@ -578,6 +600,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
+                        "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md",
                         "options": {
                           "collapse-filter": false,
                           "search": "",
@@ -806,6 +829,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
+                        "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -828,6 +852,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
+                        "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -866,7 +891,9 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {}
+                      "state": {
+                        "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md"
+                      }
                     }
                   }
                 ]
@@ -882,6 +909,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
+                        "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1073,19 +1101,19 @@
                 }
               },
               {
-                "id": "55d192190770ab7e",
+                "id": "641a0e365ff7ed00",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Notes/计量经济领域选择什么语言.md",
-                    "mode": "preview",
+                    "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md",
+                    "mode": "source",
                     "source": false
                   }
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 7
           },
           {
             "id": "4dd6e0d3f20f3b65",
@@ -1102,6 +1130,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
+                        "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1124,6 +1153,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
+                        "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1136,8 +1166,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 1048,
-        "y": 224,
+        "x": 522,
+        "y": 281,
         "width": 1512,
         "height": 944,
         "maximize": false,
@@ -1162,7 +1192,9 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {}
+                      "state": {
+                        "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md"
+                      }
                     }
                   }
                 ]
@@ -1178,6 +1210,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
+                        "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1400,6 +1433,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
+                        "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1422,6 +1456,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
+                        "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1448,7 +1483,7 @@
           {
             "id": "5b79b91cf1931265",
             "type": "split",
-            "dimension": 16.666666666666668,
+            "dimension": 16.66666666666667,
             "children": [
               {
                 "id": "c592ebe784bfbd1a",
@@ -1460,7 +1495,9 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {}
+                      "state": {
+                        "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md"
+                      }
                     }
                   }
                 ]
@@ -1476,6 +1513,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
+                        "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1576,7 +1614,7 @@
           {
             "id": "123ead119630dd56",
             "type": "tabs",
-            "dimension": 66.66666666666667,
+            "dimension": 66.66666666666669,
             "children": [
               {
                 "id": "576f3b5114437956",
@@ -1688,7 +1726,7 @@
           {
             "id": "2677eddafa0c3c68",
             "type": "split",
-            "dimension": 16.666666666666668,
+            "dimension": 16.66666666666667,
             "children": [
               {
                 "id": "a9b1b63bc7d5268d",
@@ -1700,6 +1738,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
+                        "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1722,6 +1761,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
+                        "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1734,8 +1774,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 0,
-        "y": 274,
+        "x": 403,
+        "y": 136,
         "width": 1471,
         "height": 1166,
         "maximize": false,
@@ -1760,7 +1800,9 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {}
+                      "state": {
+                        "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md"
+                      }
                     }
                   }
                 ]
@@ -1776,6 +1818,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
+                        "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1958,6 +2001,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
+                        "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1980,6 +2024,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
+                        "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1992,10 +2037,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 2560,
-        "y": 84,
+        "x": 680,
+        "y": 25,
         "width": 1200,
-        "height": 1895,
+        "height": 1415,
         "maximize": false,
         "zoom": 0
       },
@@ -2018,7 +2063,9 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {}
+                      "state": {
+                        "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md"
+                      }
                     }
                   }
                 ]
@@ -2034,6 +2081,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
+                        "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -2182,6 +2230,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
+                        "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -2204,6 +2253,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
+                        "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -2216,8 +2266,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 494,
-        "y": 253,
+        "x": 479,
+        "y": 145,
         "width": 1158,
         "height": 944,
         "maximize": false,
@@ -2242,7 +2292,9 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {}
+                      "state": {
+                        "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md"
+                      }
                     }
                   }
                 ]
@@ -2258,6 +2310,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
+                        "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -2485,6 +2538,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
+                        "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -2507,6 +2561,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
+                        "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -2528,53 +2583,54 @@
       }
     ]
   },
-  "active": "ae4ce4ba7b386dca",
+  "active": "6ecaddc8ddcb8d27",
   "lastOpenFiles": [
-    "Projects/YeeGames_design/sync.ffs_lock",
-    "Projects/SystemicRisk_project/sync.ffs_lock",
-    "Projects/EntelechySystem_theory/sync.ffs_lock",
-    "Subjects/sync.ffs_lock",
-    "Reference_zotfile/sync.ffs_lock",
-    "Reference/sync.ffs_lock",
     "Thoughts/sync.ffs_lock",
     "sync.ffs_lock",
+    "Reference/ZPP3QGF7/Sylvain_Jean-Edouard_et-al_2017_Where the Risks Lie - A Survey on Systemic Risk.assets/640.png",
+    "Reference/ZPP3QGF7/Sylvain_Jean-Edouard_et-al_2017_Where the Risks Lie - A Survey on Systemic Risk.assets/image-20201028205208467.png",
+    "Reference/ZPP3QGF7/Sylvain_Jean-Edouard_et-al_2017_Where the Risks Lie - A Survey on Systemic Risk.assets/640-20230114092812896.png",
+    "Reference/ZPP3QGF7/Sylvain_Jean-Edouard_et-al_2017_Where the Risks Lie - A Survey on Systemic Risk.assets/640-20230114092812899.png",
+    "Reference/ZPP3QGF7/Sylvain_Jean-Edouard_et-al_2017_Where the Risks Lie - A Survey on Systemic Risk.assets",
+    "Reference/ZM7SVZZG/Tang et al_2021_Discovering diverse multi-agent strategic behavior via reward randomization.pdf",
+    "Reference/Z8GNJY9Y/Koster_Jan_et-al_2022_Human-centred mechanism design with Democratic AI.assets/640-20220727180014749.png",
+    "Reference/Z8GNJY9Y/Koster_Jan_et-al_2022_Human-centred mechanism design with Democratic AI.assets/640.png",
+    "Reference/Z8GNJY9Y/Koster_Jan_et-al_2022_Human-centred mechanism design with Democratic AI.assets/640-20220727180009896.png",
+    "Reference/Z8GNJY9Y/Koster_Jan_et-al_2022_Human-centred mechanism design with Democratic AI.assets/640-20220727175959355.png",
+    "Reference/Z8GNJY9Y/Koster_Jan_et-al_2022_Human-centred mechanism design with Democratic AI.assets",
+    "Reference/Z3N7EK3X/HAHM_SHIN_et-al_2013_Noncore bank liabilities and financial vulnerability.assets/image-20211016205742708.png",
+    "Reference/Z3N7EK3X/HAHM_SHIN_et-al_2013_Noncore bank liabilities and financial vulnerability.assets/image-20211016211400656.png",
+    "Reference/Z3N7EK3X/HAHM_SHIN_et-al_2013_Noncore bank liabilities and financial vulnerability.assets",
+    "Reference/Z2GZ9VER/方意_2017_中国银行业系统性风险研究——宏观审慎视角下的三个压力测试.assets",
+    "Reference/YJNGUQ5M/Hidalgo_2021_Economic complexity theory and applications.pdf",
+    "Reference/YFH6H2HR/Hidalgo_2021_Economic complexity theory and applications.assets/640-20211210162939049",
+    "Reference/YFH6H2HR/Hidalgo_2021_Economic complexity theory and applications.assets/640-20211210162939042",
+    "Reference/YFH6H2HR/Hidalgo_2021_Economic complexity theory and applications.assets/640-20211210162938884",
+    "Reference/DUSUM353/Dasgupta et al_2019_Causal Reasoning from Meta-reinforcement Learning.md",
+    "Reference/YR2IIGJS/Glasserman_Young_2016_Contagion in financial networks.md",
+    "Reference/T2FADAPY/方意_荆中博_2022_外部冲击下系统性金融风险的生成机制.md",
+    "Reference/MB8YT7BU/Dawid et al_2014_Agent-Based Macroeconomic Modeling and Policy Analysis - The Eurace@Unibi Model.md",
+    "Reference/LKPKCJBR/Arthur_Polak_2006_The evolution of technology within a simple computer model.md",
+    "Reference/L24LP969/Axtell_Farmer_Agent-Based Modeling in Economics and Finance - Past, Present, and Future.md",
+    "Reference/76HC4RUU/Park et al_2023_Generative Agents - Interactive Simulacra of Human Behavior.md",
+    "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md",
+    "Subjects/经济和金融/经管类的相关工具/CRISIS工具学习笔记.md",
+    "Notes/投资性资产.md",
+    "Notes/计量经济领域选择什么语言.md",
+    "Subjects/计算科学/强化学习/笔记：解读强化学习代码.md",
+    "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】~.md",
+    "Subjects/经济和金融/通用经济与金融/商业银行资产负债表.md",
+    "Collection/Untitled 1.md",
+    "Study/学习货币银行学.md",
+    "Study/学习经管社科类.md",
+    "Notes/经济金融建模仿真平台.md",
+    "Subjects/软件和工具/Anaconda/Anaconda Windows 环境切换到非C盘.md",
+    "Collection/DOTS 之 Blob Asset.md",
+    "Subjects/计算科学/多智能体强化学习/多智能体强化学习相关资料.md",
     "Subjects/Untitled.canvas",
     "Study/Study.md",
     "Thoughts/management/template/markdown_file_template_for_obsidian_AI问答.md",
     "Thoughts/management/template/markdown_file_template_for_obsidian_想法.md",
-    "Thoughts/management/template/markdown_file_template_for_obsidian_转载.md",
-    "Thoughts/management/template/markdown_file_template_for_obsidian_档案.md",
-    "Thoughts/management/template/markdown_file_template_for_obsidian_笔记.md",
-    "Thoughts/management/template/markdown_file_template_for_obsidian_weekly_notes.md",
-    "Thoughts/management/template/template_for_AI.md",
-    "Thoughts/management/template/Meta Data.md",
-    "Thoughts/management/template/markdown_file_template_for_obsidian_项目.md",
-    "Thoughts/management/template/markdown_file_template_for_obsidian_继承.md",
-    "Thoughts/management/template/markdown_file_template_for_obsidian.md",
-    "Thoughts/management/template/Daily Notes Template.md",
-    "Thoughts/management/template",
-    "Thoughts/management/style/my_markdown_style_for_vscode.css",
-    "Thoughts/management/_Index_of_Management.md",
-    "Collection/是.md",
-    "management/template/template_for_AI.md",
-    "management/template/markdown_file_template_for_obsidian_项目.md",
-    "management/template/markdown_file_template_for_obsidian_转载.md",
-    "management/template/markdown_file_template_for_obsidian_继承.md",
-    "management/template/markdown_file_template_for_obsidian_笔记.md",
-    "management/template/markdown_file_template_for_obsidian_档案.md",
-    "management/template/markdown_file_template_for_obsidian_想法.md",
-    "management/template/markdown_file_template_for_obsidian_weekly_notes.md",
-    "management/template/markdown_file_template_for_obsidian_AI问答.md",
-    "management/template/markdown_file_template_for_obsidian.md",
-    "Subjects/数据科学/Pandas 工具包/Pandas DataFrames.assets/df-dp.png",
-    "Subjects/数据科学/Pandas 工具包/Pandas DataFrames.assets/rows-cloumns.png",
-    "Subjects/数据科学/Pandas 工具包/Pandas DataFrames.assets/pandas-DataStructure.png",
-    "Subjects/数据科学/Pandas 工具包/Pandas DataFrames.assets/BE773E8F-DEC2-4434-8630-91E660A1DFC0.jpg",
-    "Collection/Pandas DataFrames.assets/pandas-DataStructure.png",
-    "Collection/Pandas DataFrames.assets/rows-cloumns.png",
-    "Collection/Pandas DataFrames.assets/df-dp.png",
-    "Collection/Pandas DataFrames.assets/BE773E8F-DEC2-4434-8630-91E660A1DFC0.jpg",
-    "Subjects/计算科学/强化学习/A-C算法架构简要示意图.png",
-    "Subjects/游戏学/DOTS/IMG_6358.jpeg"
+    "Thoughts/management/template/markdown_file_template_for_obsidian_转载.md"
   ]
 }
