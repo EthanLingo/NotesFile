@@ -30,21 +30,9 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "6ecaddc8ddcb8d27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"aliases\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -111,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "2e57906a279edeb0",
@@ -124,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md"
+                "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md"
               }
             }
           }
@@ -141,7 +129,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md",
+                "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -238,7 +226,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 400.5
+    "width": 298.5
   },
   "right": {
     "id": "aade5a834a514cf8",
@@ -264,7 +252,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md"
+                "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md"
               }
             }
           }
@@ -280,7 +268,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md",
+                "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -303,7 +291,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md",
+                "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -313,7 +301,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384.5
+    "width": 323.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -370,7 +358,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md",
+                        "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -556,8 +544,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 0,
-        "y": 65,
+        "x": 306,
+        "y": 241,
         "width": 1200,
         "height": 1098,
         "maximize": false,
@@ -583,7 +571,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md"
+                        "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md"
                       }
                     }
                   }
@@ -600,7 +588,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md",
+                        "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md",
                         "options": {
                           "collapse-filter": false,
                           "search": "",
@@ -761,8 +749,7 @@
                       }
                     }
                   }
-                ],
-                "currentTab": 3
+                ]
               },
               {
                 "id": "3bdc6d31ebe5d019",
@@ -829,7 +816,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md",
+                        "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -852,7 +839,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md",
+                        "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -892,7 +879,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md"
+                        "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md"
                       }
                     }
                   }
@@ -909,7 +896,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md",
+                        "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1130,7 +1117,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md",
+                        "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1153,7 +1140,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md",
+                        "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1193,7 +1180,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md"
+                        "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md"
                       }
                     }
                   }
@@ -1210,7 +1197,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md",
+                        "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1433,7 +1420,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md",
+                        "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1456,7 +1443,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md",
+                        "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1469,8 +1456,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 642,
-        "y": 293,
+        "x": 327,
+        "y": 497,
         "width": 1158,
         "height": 876,
         "maximize": false,
@@ -1496,7 +1483,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md"
+                        "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md"
                       }
                     }
                   }
@@ -1513,7 +1500,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md",
+                        "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1738,7 +1725,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md",
+                        "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1761,7 +1748,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md",
+                        "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1801,7 +1788,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md"
+                        "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md"
                       }
                     }
                   }
@@ -1818,7 +1805,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md",
+                        "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -2001,7 +1988,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md",
+                        "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -2024,7 +2011,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md",
+                        "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -2037,10 +2024,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 680,
-        "y": 25,
+        "x": -1356,
+        "y": 727,
         "width": 1200,
-        "height": 1415,
+        "height": 944,
         "maximize": false,
         "zoom": 0
       },
@@ -2064,7 +2051,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md"
+                        "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md"
                       }
                     }
                   }
@@ -2081,7 +2068,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md",
+                        "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -2230,7 +2217,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md",
+                        "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -2253,7 +2240,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md",
+                        "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -2266,8 +2253,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 479,
-        "y": 145,
+        "x": 832,
+        "y": 240,
         "width": 1158,
         "height": 944,
         "maximize": false,
@@ -2293,7 +2280,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md"
+                        "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md"
                       }
                     }
                   }
@@ -2310,7 +2297,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md",
+                        "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -2521,7 +2508,8 @@
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 7
           },
           {
             "id": "159941faed59d868",
@@ -2538,7 +2526,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md",
+                        "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -2561,7 +2549,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md",
+                        "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -2583,10 +2571,38 @@
       }
     ]
   },
-  "active": "6ecaddc8ddcb8d27",
+  "active": "fa713e4828220d0a",
   "lastOpenFiles": [
+    "Subjects/游戏学/Unity3D/_Index_of_Unity3D.md",
+    "Subjects/软件和工具/Obsidian/Obsidian排除文件或文件夹.md",
+    "Subjects/经济和金融/经管类的相关工具/abcFinance工具.md",
+    "Subjects/经济和金融/通用经济与金融/2022年度诺贝尔经济学奖介绍.md",
+    "Subjects/Codes/Languages/C sharp/C sharp 修饰符讲解大全.md",
+    "Subjects/Codes/Languages/Python/Python基础.md",
+    "Subjects/数学与系统科学/因果科学/因果科学相关研究.md",
+    "Study/复杂网络与控制.md",
+    "Subjects/认知科学/整合信息论/整合信息论.md",
+    "Subjects/计算科学/多智能体强化学习/多智能体强化学习.md",
+    "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md",
+    "Notes/动态认知逻辑概率.md",
+    "Subjects/数据科学/处理数据/_Index_of_处理数据.md",
+    "Study/学习使用工具.md",
+    "Subjects/软件和工具/好用的一些小工具.md",
+    "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md",
+    "Study/学习多智能体强化学习.md",
     "Thoughts/sync.ffs_lock",
     "sync.ffs_lock",
+    "Subjects/语言/NLP基础：常见语言学缩写.md",
+    "Study/学习He4o.md",
+    "Study/学习NARS系统.md",
+    "Study/学习通用人工智能.md",
+    "Notes/学习人工智能认知科学数据科学.md",
+    "Projects/SystemicRisk_project/sync.ffs_lock",
+    "Projects/EntelechySystem_theory/sync.ffs_lock",
+    "Reference/SYDDBTGN/Raﬃn et al_Stable-Baselines3 - Reliable Reinforcement Learning Implementations.pdf",
+    "Reference/SYDDBTGN",
+    "Subjects/计算科学/强化学习/关于几个常用的强化学习算法库与环境库的问答.md",
+    "Subjects/计算科学/强化学习/笔记：解读强化学习代码.md",
     "Reference/ZPP3QGF7/Sylvain_Jean-Edouard_et-al_2017_Where the Risks Lie - A Survey on Systemic Risk.assets/640.png",
     "Reference/ZPP3QGF7/Sylvain_Jean-Edouard_et-al_2017_Where the Risks Lie - A Survey on Systemic Risk.assets/image-20201028205208467.png",
     "Reference/ZPP3QGF7/Sylvain_Jean-Edouard_et-al_2017_Where the Risks Lie - A Survey on Systemic Risk.assets/640-20230114092812896.png",
@@ -2601,36 +2617,8 @@
     "Reference/Z3N7EK3X/HAHM_SHIN_et-al_2013_Noncore bank liabilities and financial vulnerability.assets/image-20211016205742708.png",
     "Reference/Z3N7EK3X/HAHM_SHIN_et-al_2013_Noncore bank liabilities and financial vulnerability.assets/image-20211016211400656.png",
     "Reference/Z3N7EK3X/HAHM_SHIN_et-al_2013_Noncore bank liabilities and financial vulnerability.assets",
-    "Reference/Z2GZ9VER/方意_2017_中国银行业系统性风险研究——宏观审慎视角下的三个压力测试.assets",
-    "Reference/YJNGUQ5M/Hidalgo_2021_Economic complexity theory and applications.pdf",
-    "Reference/YFH6H2HR/Hidalgo_2021_Economic complexity theory and applications.assets/640-20211210162939049",
-    "Reference/YFH6H2HR/Hidalgo_2021_Economic complexity theory and applications.assets/640-20211210162939042",
-    "Reference/YFH6H2HR/Hidalgo_2021_Economic complexity theory and applications.assets/640-20211210162938884",
     "Reference/DUSUM353/Dasgupta et al_2019_Causal Reasoning from Meta-reinforcement Learning.md",
     "Reference/YR2IIGJS/Glasserman_Young_2016_Contagion in financial networks.md",
-    "Reference/T2FADAPY/方意_荆中博_2022_外部冲击下系统性金融风险的生成机制.md",
-    "Reference/MB8YT7BU/Dawid et al_2014_Agent-Based Macroeconomic Modeling and Policy Analysis - The Eurace@Unibi Model.md",
-    "Reference/LKPKCJBR/Arthur_Polak_2006_The evolution of technology within a simple computer model.md",
-    "Reference/L24LP969/Axtell_Farmer_Agent-Based Modeling in Economics and Finance - Past, Present, and Future.md",
-    "Reference/76HC4RUU/Park et al_2023_Generative Agents - Interactive Simulacra of Human Behavior.md",
-    "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md",
-    "Subjects/经济和金融/经管类的相关工具/CRISIS工具学习笔记.md",
-    "Notes/投资性资产.md",
-    "Notes/计量经济领域选择什么语言.md",
-    "Subjects/计算科学/强化学习/笔记：解读强化学习代码.md",
-    "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】~.md",
-    "Subjects/经济和金融/通用经济与金融/商业银行资产负债表.md",
-    "Collection/Untitled 1.md",
-    "Study/学习货币银行学.md",
-    "Study/学习经管社科类.md",
-    "Notes/经济金融建模仿真平台.md",
-    "Subjects/软件和工具/Anaconda/Anaconda Windows 环境切换到非C盘.md",
-    "Collection/DOTS 之 Blob Asset.md",
-    "Subjects/计算科学/多智能体强化学习/多智能体强化学习相关资料.md",
-    "Subjects/Untitled.canvas",
-    "Study/Study.md",
-    "Thoughts/management/template/markdown_file_template_for_obsidian_AI问答.md",
-    "Thoughts/management/template/markdown_file_template_for_obsidian_想法.md",
-    "Thoughts/management/template/markdown_file_template_for_obsidian_转载.md"
+    "Subjects/Untitled.canvas"
   ]
 }
