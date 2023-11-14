@@ -111,9 +111,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -129,7 +127,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -251,9 +248,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -268,7 +263,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +285,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -328,7 +321,7 @@
           {
             "id": "b8a4a378e855c198",
             "type": "split",
-            "dimension": 30.124777183600717,
+            "dimension": 23.45191040843215,
             "children": [
               {
                 "id": "7f29d5c8077d24b5",
@@ -358,7 +351,6 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -457,34 +449,66 @@
             "direction": "horizontal"
           },
           {
-            "id": "6d08cffabfb1c744",
-            "type": "tabs",
-            "dimension": 34.22459893048128,
+            "id": "c39c18cdf4e5b551",
+            "type": "split",
+            "dimension": 23.78129117259552,
             "children": [
               {
-                "id": "8d46d1f48f2eddd7",
+                "id": "6d08cffabfb1c744",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "8d46d1f48f2eddd7",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Study/学习ABM建模.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "0e90b6c77e234fa6",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "6a92927d274c2a02",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Notes/经济方法ABM建模相关工具.md",
+                        "mode": "preview",
+                        "source": false
+                      },
+                      "pinned": true
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          },
+          {
+            "id": "90fbd1e91ef322fd",
+            "type": "tabs",
+            "dimension": 38.27404479578392,
+            "children": [
+              {
+                "id": "af45b1f505278699",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Study/学习ABM建模.md",
+                    "file": "Collection/工具包 PettingZoo 相关的一些代码文件文档.md",
                     "mode": "source",
                     "source": false
                   }
-                }
-              },
-              {
-                "id": "6a92927d274c2a02",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes/经济方法ABM建模相关工具.md",
-                    "mode": "preview",
-                    "source": false
-                  },
-                  "pinned": true
                 }
               }
             ]
@@ -492,7 +516,7 @@
           {
             "id": "8a5a32b02624cbbc",
             "type": "split",
-            "dimension": 35.65062388591801,
+            "dimension": 14.492753623188404,
             "children": [
               {
                 "id": "cf36588c884de019",
@@ -544,10 +568,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 306,
-        "y": 241,
-        "width": 1200,
-        "height": 1098,
+        "x": 173,
+        "y": 219,
+        "width": 1517,
+        "height": 1099,
         "maximize": false,
         "zoom": 0
       },
@@ -570,9 +594,7 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {
-                        "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md"
-                      }
+                      "state": {}
                     }
                   }
                 ]
@@ -588,7 +610,6 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md",
                         "options": {
                           "collapse-filter": false,
                           "search": "",
@@ -749,7 +770,8 @@
                       }
                     }
                   }
-                ]
+                ],
+                "currentTab": 3
               },
               {
                 "id": "3bdc6d31ebe5d019",
@@ -816,7 +838,6 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -839,7 +860,6 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -878,9 +898,7 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {
-                        "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md"
-                      }
+                      "state": {}
                     }
                   }
                 ]
@@ -896,7 +914,6 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1117,7 +1134,6 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1140,7 +1156,6 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1179,9 +1194,7 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {
-                        "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md"
-                      }
+                      "state": {}
                     }
                   }
                 ]
@@ -1197,7 +1210,6 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1315,18 +1327,6 @@
                 }
               },
               {
-                "id": "6f84e8cf99059545",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes/学习图神经网络和组合优化.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
                 "id": "c20960d45de7fafb",
                 "type": "leaf",
                 "state": {
@@ -1336,38 +1336,6 @@
                     "mode": "source",
                     "source": false
                   }
-                }
-              },
-              {
-                "id": "61f9203dad39cbe2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Study/学习图网络.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "fac70a037032bfcf",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes/学习图神经网络和组合优化.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "c4bd19d4571ad306",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
                 }
               },
               {
@@ -1383,14 +1351,6 @@
                 }
               },
               {
-                "id": "11054493ddb70c52",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                }
-              },
-              {
                 "id": "23a0eaea413b9de3",
                 "type": "leaf",
                 "state": {
@@ -1402,8 +1362,7 @@
                   }
                 }
               }
-            ],
-            "currentTab": 8
+            ]
           },
           {
             "id": "8edcbf4835ed975b",
@@ -1420,7 +1379,6 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1443,7 +1401,6 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1456,10 +1413,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 327,
+        "x": 0,
         "y": 497,
-        "width": 1158,
-        "height": 876,
+        "width": 1600,
+        "height": 943,
         "maximize": false,
         "zoom": 0
       },
@@ -1470,7 +1427,7 @@
           {
             "id": "5b79b91cf1931265",
             "type": "split",
-            "dimension": 16.66666666666667,
+            "dimension": 16.666666666666668,
             "children": [
               {
                 "id": "c592ebe784bfbd1a",
@@ -1482,9 +1439,7 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {
-                        "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md"
-                      }
+                      "state": {}
                     }
                   }
                 ]
@@ -1500,7 +1455,6 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1601,7 +1555,7 @@
           {
             "id": "123ead119630dd56",
             "type": "tabs",
-            "dimension": 66.66666666666669,
+            "dimension": 66.66666666666667,
             "children": [
               {
                 "id": "576f3b5114437956",
@@ -1713,7 +1667,7 @@
           {
             "id": "2677eddafa0c3c68",
             "type": "split",
-            "dimension": 16.66666666666667,
+            "dimension": 16.666666666666668,
             "children": [
               {
                 "id": "a9b1b63bc7d5268d",
@@ -1725,7 +1679,6 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1748,7 +1701,6 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1787,9 +1739,7 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {
-                        "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md"
-                      }
+                      "state": {}
                     }
                   }
                 ]
@@ -1805,7 +1755,6 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1988,7 +1937,6 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -2011,7 +1959,6 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -2024,10 +1971,10 @@
           }
         ],
         "direction": "vertical",
-        "x": -1356,
-        "y": 727,
+        "x": 2560,
+        "y": 633,
         "width": 1200,
-        "height": 944,
+        "height": 1346,
         "maximize": false,
         "zoom": 0
       },
@@ -2050,9 +1997,7 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {
-                        "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md"
-                      }
+                      "state": {}
                     }
                   }
                 ]
@@ -2068,7 +2013,6 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -2198,6 +2142,18 @@
                   },
                   "pinned": true
                 }
+              },
+              {
+                "id": "fac70a037032bfcf",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes/学习图神经网络和组合优化.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
             ],
             "currentTab": 1
@@ -2217,7 +2173,6 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -2240,7 +2195,6 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -2253,8 +2207,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 832,
-        "y": 240,
+        "x": 621,
+        "y": 365,
         "width": 1158,
         "height": 944,
         "maximize": false,
@@ -2279,9 +2233,7 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {
-                        "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md"
-                      }
+                      "state": {}
                     }
                   }
                 ]
@@ -2297,7 +2249,6 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -2509,7 +2460,7 @@
                 }
               }
             ],
-            "currentTab": 7
+            "currentTab": 4
           },
           {
             "id": "159941faed59d868",
@@ -2526,7 +2477,6 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -2549,7 +2499,6 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -2571,8 +2520,35 @@
       }
     ]
   },
-  "active": "fa713e4828220d0a",
+  "active": "ae4ce4ba7b386dca",
   "lastOpenFiles": [
+    "sync.ffs_lock",
+    "Thoughts/sync.ffs_lock",
+    "Reference/GDZR5U7T/the-ai-economist.html",
+    "Reference/GDZR5U7T",
+    "Subjects/sync.ffs_lock",
+    "Reference_zotfile/sync.ffs_lock",
+    "Reference/sync.ffs_lock",
+    "Projects/YeeGames_design/sync.ffs_lock",
+    "Projects/SystemicRisk_project/sync.ffs_lock",
+    "Projects/EntelechySystem_theory/sync.ffs_lock",
+    "Subjects/数据科学/Pandas 工具包/Pandas DataFrames.md",
+    "Subjects/Codes/Languages/Python/Python基础/Python 之 itertools 工具包.md",
+    "Study/学习图网络.md",
+    "Notes/学习图神经网络和组合优化.md",
+    "Study/学习数学系统科学物理学.md",
+    "Study/学习概率与统计.md",
+    "Subjects/计算科学/强化学习/笔记：解读强化学习代码.md",
+    "Study/学习BrainSimII、fanshemoxing.md",
+    "Notes/电子果蝇神经网络.md",
+    "Study/学习大语言模型.md",
+    "Study/学习NARS系统.md",
+    "Study/学习He4o.md",
+    "Subjects/语言/NLP基础：常见语言学缩写.md",
+    "Collection/工具包 PettingZoo 相关的一些代码文件文档.md",
+    "Study/学习ABM建模.md",
+    "Notes/经济方法ABM建模相关工具.md",
+    "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md",
     "Subjects/游戏学/Unity3D/_Index_of_Unity3D.md",
     "Subjects/软件和工具/Obsidian/Obsidian排除文件或文件夹.md",
     "Subjects/经济和金融/经管类的相关工具/abcFinance工具.md",
@@ -2581,44 +2557,17 @@
     "Subjects/Codes/Languages/Python/Python基础.md",
     "Subjects/数学与系统科学/因果科学/因果科学相关研究.md",
     "Study/复杂网络与控制.md",
-    "Subjects/认知科学/整合信息论/整合信息论.md",
-    "Subjects/计算科学/多智能体强化学习/多智能体强化学习.md",
-    "Subjects/人工智能/知识图谱/Mosaic Knowledge Graphs 数据库.md",
-    "Notes/动态认知逻辑概率.md",
-    "Subjects/数据科学/处理数据/_Index_of_处理数据.md",
-    "Study/学习使用工具.md",
-    "Subjects/软件和工具/好用的一些小工具.md",
-    "Subjects/经济和金融/通用经济与金融/全面解读资产负债表科目之【投资性资产】.md",
-    "Study/学习多智能体强化学习.md",
-    "Thoughts/sync.ffs_lock",
-    "sync.ffs_lock",
-    "Subjects/语言/NLP基础：常见语言学缩写.md",
-    "Study/学习He4o.md",
-    "Study/学习NARS系统.md",
-    "Study/学习通用人工智能.md",
-    "Notes/学习人工智能认知科学数据科学.md",
-    "Projects/SystemicRisk_project/sync.ffs_lock",
-    "Projects/EntelechySystem_theory/sync.ffs_lock",
     "Reference/SYDDBTGN/Raﬃn et al_Stable-Baselines3 - Reliable Reinforcement Learning Implementations.pdf",
-    "Reference/SYDDBTGN",
-    "Subjects/计算科学/强化学习/关于几个常用的强化学习算法库与环境库的问答.md",
-    "Subjects/计算科学/强化学习/笔记：解读强化学习代码.md",
     "Reference/ZPP3QGF7/Sylvain_Jean-Edouard_et-al_2017_Where the Risks Lie - A Survey on Systemic Risk.assets/640.png",
     "Reference/ZPP3QGF7/Sylvain_Jean-Edouard_et-al_2017_Where the Risks Lie - A Survey on Systemic Risk.assets/image-20201028205208467.png",
     "Reference/ZPP3QGF7/Sylvain_Jean-Edouard_et-al_2017_Where the Risks Lie - A Survey on Systemic Risk.assets/640-20230114092812896.png",
     "Reference/ZPP3QGF7/Sylvain_Jean-Edouard_et-al_2017_Where the Risks Lie - A Survey on Systemic Risk.assets/640-20230114092812899.png",
-    "Reference/ZPP3QGF7/Sylvain_Jean-Edouard_et-al_2017_Where the Risks Lie - A Survey on Systemic Risk.assets",
-    "Reference/ZM7SVZZG/Tang et al_2021_Discovering diverse multi-agent strategic behavior via reward randomization.pdf",
     "Reference/Z8GNJY9Y/Koster_Jan_et-al_2022_Human-centred mechanism design with Democratic AI.assets/640-20220727180014749.png",
     "Reference/Z8GNJY9Y/Koster_Jan_et-al_2022_Human-centred mechanism design with Democratic AI.assets/640.png",
     "Reference/Z8GNJY9Y/Koster_Jan_et-al_2022_Human-centred mechanism design with Democratic AI.assets/640-20220727180009896.png",
     "Reference/Z8GNJY9Y/Koster_Jan_et-al_2022_Human-centred mechanism design with Democratic AI.assets/640-20220727175959355.png",
-    "Reference/Z8GNJY9Y/Koster_Jan_et-al_2022_Human-centred mechanism design with Democratic AI.assets",
     "Reference/Z3N7EK3X/HAHM_SHIN_et-al_2013_Noncore bank liabilities and financial vulnerability.assets/image-20211016205742708.png",
     "Reference/Z3N7EK3X/HAHM_SHIN_et-al_2013_Noncore bank liabilities and financial vulnerability.assets/image-20211016211400656.png",
-    "Reference/Z3N7EK3X/HAHM_SHIN_et-al_2013_Noncore bank liabilities and financial vulnerability.assets",
-    "Reference/DUSUM353/Dasgupta et al_2019_Causal Reasoning from Meta-reinforcement Learning.md",
-    "Reference/YR2IIGJS/Glasserman_Young_2016_Contagion in financial networks.md",
     "Subjects/Untitled.canvas"
   ]
 }
