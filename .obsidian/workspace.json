@@ -30,9 +30,21 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "a1fd7cb85ab71d83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -62,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ravel",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -99,7 +111,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       },
       {
         "id": "2e57906a279edeb0",
@@ -111,7 +123,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Subjects/Codes/Languages/Python/Numpy基础.md"
+              }
             }
           }
         ]
@@ -127,6 +141,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -248,7 +263,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Subjects/Codes/Languages/Python/Numpy基础.md"
+              }
             }
           }
         ]
@@ -263,6 +280,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -285,6 +303,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -351,6 +370,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
+                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -594,7 +614,9 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {}
+                      "state": {
+                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md"
+                      }
                     }
                   }
                 ]
@@ -610,6 +632,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
+                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
                         "options": {
                           "collapse-filter": false,
                           "search": "",
@@ -838,6 +861,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
+                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -860,6 +884,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
+                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -898,7 +923,9 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {}
+                      "state": {
+                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md"
+                      }
                     }
                   }
                 ]
@@ -914,6 +941,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
+                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1134,6 +1162,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
+                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1156,6 +1185,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
+                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1194,7 +1224,9 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {}
+                      "state": {
+                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md"
+                      }
                     }
                   }
                 ]
@@ -1210,6 +1242,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
+                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1379,6 +1412,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
+                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1401,6 +1435,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
+                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1439,7 +1474,9 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {}
+                      "state": {
+                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md"
+                      }
                     }
                   }
                 ]
@@ -1455,6 +1492,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
+                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1679,6 +1717,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
+                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1701,6 +1740,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
+                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1739,7 +1779,9 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {}
+                      "state": {
+                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md"
+                      }
                     }
                   }
                 ]
@@ -1755,6 +1797,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
+                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1937,6 +1980,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
+                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1959,6 +2003,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
+                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1971,10 +2016,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 2560,
-        "y": 633,
+        "x": 680,
+        "y": 496,
         "width": 1200,
-        "height": 1346,
+        "height": 944,
         "maximize": false,
         "zoom": 0
       },
@@ -1997,7 +2042,9 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {}
+                      "state": {
+                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md"
+                      }
                     }
                   }
                 ]
@@ -2013,6 +2060,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
+                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -2173,6 +2221,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
+                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -2195,6 +2244,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
+                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -2233,7 +2283,9 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {}
+                      "state": {
+                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md"
+                      }
                     }
                   }
                 ]
@@ -2249,6 +2301,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
+                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -2477,6 +2530,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
+                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -2499,6 +2553,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
+                        "file": "Subjects/Codes/Languages/Python/Numpy基础.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -2511,8 +2566,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 362,
-        "y": 280,
+        "x": 386,
+        "y": 313,
         "width": 1438,
         "height": 889,
         "maximize": false,
@@ -2520,19 +2575,21 @@
       }
     ]
   },
-  "active": "ae4ce4ba7b386dca",
+  "active": "a1fd7cb85ab71d83",
   "lastOpenFiles": [
-    "sync.ffs_lock",
-    "Thoughts/sync.ffs_lock",
-    "Reference/GDZR5U7T/the-ai-economist.html",
-    "Reference/GDZR5U7T",
     "Subjects/sync.ffs_lock",
     "Reference_zotfile/sync.ffs_lock",
     "Reference/sync.ffs_lock",
     "Projects/YeeGames_design/sync.ffs_lock",
     "Projects/SystemicRisk_project/sync.ffs_lock",
     "Projects/EntelechySystem_theory/sync.ffs_lock",
+    "sync.ffs_lock",
+    "Thoughts/sync.ffs_lock",
+    "Reference/DZREXEMS/-062d.ffs_tmp",
+    "Reference/DZREXEMS/-df90.ffs_tmp",
+    "Reference/XV4VPBZ9/html.html",
     "Subjects/数据科学/Pandas 工具包/Pandas DataFrames.md",
+    "Subjects/Codes/Languages/Python/Numpy基础.md",
     "Subjects/Codes/Languages/Python/Python基础/Python 之 itertools 工具包.md",
     "Study/学习图网络.md",
     "Notes/学习图神经网络和组合优化.md",
@@ -2556,8 +2613,6 @@
     "Subjects/Codes/Languages/C sharp/C sharp 修饰符讲解大全.md",
     "Subjects/Codes/Languages/Python/Python基础.md",
     "Subjects/数学与系统科学/因果科学/因果科学相关研究.md",
-    "Study/复杂网络与控制.md",
-    "Reference/SYDDBTGN/Raﬃn et al_Stable-Baselines3 - Reliable Reinforcement Learning Implementations.pdf",
     "Reference/ZPP3QGF7/Sylvain_Jean-Edouard_et-al_2017_Where the Risks Lie - A Survey on Systemic Risk.assets/640.png",
     "Reference/ZPP3QGF7/Sylvain_Jean-Edouard_et-al_2017_Where the Risks Lie - A Survey on Systemic Risk.assets/image-20201028205208467.png",
     "Reference/ZPP3QGF7/Sylvain_Jean-Edouard_et-al_2017_Where the Risks Lie - A Survey on Systemic Risk.assets/640-20230114092812896.png",
