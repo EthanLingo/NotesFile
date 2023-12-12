@@ -1,9 +1,10 @@
 ---
 title: Python打包与发布
 authors: Ethan Lin
-year:
+year: 
 tags:
-  - 内容/编程语言/Python 
+  - 内容/编程语言/Python
+  - 来源/转载
 ---
 
 # Python打包与发布

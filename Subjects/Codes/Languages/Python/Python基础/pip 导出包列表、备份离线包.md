@@ -1,15 +1,15 @@
 ---
-title: pip备份离线包
+title: pip 导出包列表、备份离线包
 authors: Ethan Lin
-year: 2022-10-27 
+year: 2022-10-27
 tags:
-  - 日期/2022-10-27 
-  - 类型/笔记 
-  - 内容/python 
+  - 日期/2022-10-27
+  - 类型/笔记
+  - 内容/python
 ---
 
 
-# pip备份离线包
+# pip 导出包列表、备份离线包
 
 
 

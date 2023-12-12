@@ -5,7 +5,7 @@
  [[Subjects/Codes/Languages/Python/Python基础/pip install|pip install]]
  [[Subjects/Codes/Languages/Python/Python基础/pip|pip]]
  [[Subjects/Codes/Languages/Python/Python基础/pip删除所有包|pip删除所有包]]
- [[Subjects/Codes/Languages/Python/Python基础/pip备份离线包|pip备份离线包]]
+ [[pip 导出包列表、备份离线包|pip 导出包列表、备份离线包]]
  [[Subjects/Codes/Languages/Python/Python基础/python __file__、__name__、__dict__三个方法|python __file__、__name__、__dict__三个方法]]
  [[Subjects/Codes/Languages/Python/Python基础/Python Pip 参考手册|Python Pip 参考手册]]
  [[Subjects/Codes/Languages/Python/Python基础/Python switch语句实现方法|Python switch语句实现方法]]
