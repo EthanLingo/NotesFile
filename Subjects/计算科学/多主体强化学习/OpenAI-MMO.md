@@ -1,6 +1,6 @@
 
 
-![OpenAI重磅发布Neural MMO：大规模多智能体RL环境，训练只需一个CPU](OpenAI-MMO.assets/v2-fa397770c390cdd5e4d879f79745e348_1440w.jpg)
+![OpenAI重磅发布Neural MMO：大规模多智能体RL环境，训练只需一个CPU](v2-fa397770c390cdd5e4d879f79745e348_1440w.jpg)
 
 
 
@@ -59,7 +59,7 @@ OpenAI 在博客文章中详细介绍了 Neural MMO 强化学习环境的技术�
 
 **输出：**智能体为下一个 timestep 输出动作选项，动作包括一次移动和一次攻击。 
 
-![img](OpenAI-MMO.assets/v2-0a913309a5c67ec19f37354d833a0189_1440w.jpg)
+![img](v2-0a913309a5c67ec19f37354d833a0189_1440w.jpg)
 
 平台为价值函数、地图瓦片可视化分布和学习策略的 agent-agent 依赖关系提供了一个程序环境生成器 (procedural environment generator) 和可视化工具。 Baseline 使用超过 100 个世界的策略梯度进行训练。
 
@@ -71,7 +71,7 @@ GitHub 开源的版本包含了完全分布式训练实现，基于 PyTorch 和 
 
 ## **评估结果**
 
-![img](OpenAI-MMO.assets/v2-8c46dd5dceaeee98f083408c60d0a1a2_1440w.jpg)
+![img](v2-8c46dd5dceaeee98f083408c60d0a1a2_1440w.jpg)
 
 训练时的最大 population size 在 (16、32、64、128) 之间。为了提高效率，策略在由 16 个智能体组成的组之间共享。在测试时，我们将在成对实验中的 populations 合并，并在一个固定的 population size 下评估 lifetime。我们只对觅食任务进行评估，因为作战策略更难直接比较。结果显示，**在更大的 population 中训练出来的智能体总是表现得更好**。
 
@@ -91,7 +91,7 @@ Population size 的增大扩大了探索范围：智能体会分散开来，以�
 
 ## **物种数量的增加扩大了生态位的形成**
 
-![img](OpenAI-MMO.assets/v2-d633f5e4c28bece698b5db267ba0ee6a_1440w.jpg)
+![img](v2-d633f5e4c28bece698b5db267ba0ee6a_1440w.jpg)
 
 物种数量 (populations 的数量) 放大了生态位形成 (niche formation)。探索地图覆盖了游戏地图；不同的颜色对应不同的物种。训练单一种群往往会产生单一的深度探索路径。训练 8 个种群会导致许多更浅的路径：种群分散以避免物种间的竞争。
 
@@ -99,7 +99,7 @@ Population size 的增大扩大了探索范围：智能体会分散开来，以�
 
 **其他启发**
 
-![img](OpenAI-MMO.assets/v2-ff61fa2a14a5835d531bee68473762b0_1440w.jpg)
+![img](v2-ff61fa2a14a5835d531bee68473762b0_1440w.jpg)
 
 每个方形地图显示了位于地图中心的智能体对其周围智能体存在的响应。我们展示了初始化和训练早期的觅食地图，额外的依赖关系图对应于不同的觅食和战斗形式。
 
@@ -111,11 +111,11 @@ Population size 的增大扩大了探索范围：智能体会分散开来，以�
 
 ## **开源**
 
-[openai/neural-mmogithub.com/openai/neural-mmo![img](OpenAI-MMO.assets/v2-03008cb2c4b3ce7e3dc36e94875fde61_ipico.jpg)](https://link.zhihu.com/?target=https%3A//github.com/openai/neural-mmo)
+[openai/neural-mmogithub.com/openai/neural-mmo![img](v2-03008cb2c4b3ce7e3dc36e94875fde61_ipico.jpg)](https://link.zhihu.com/?target=https%3A//github.com/openai/neural-mmo)
 
 此存储库包含基于 THREE.js 的主要神经 MMO 项目的 3D 浏览器客户端。 它虽然是用 Javascript 写的，但读起来像 Python。
 
-![img](OpenAI-MMO.assets/v2-0d0c18f176d6ab49fabdcfe6a8f803f2_1440w.jpg)
+![img](v2-0d0c18f176d6ab49fabdcfe6a8f803f2_1440w.jpg)
 
 **安装**
 
@@ -145,6 +145,6 @@ Population size 的增大扩大了探索范围：智能体会分散开来，以�
 
 GitHub：
 
-[openai/neural-mmogithub.com/openai/neural-mmo![img](OpenAI-MMO.assets/v2-03008cb2c4b3ce7e3dc36e94875fde61_ipico.jpg)](https://link.zhihu.com/?target=https%3A//github.com/openai/neural-mmo)
+[openai/neural-mmogithub.com/openai/neural-mmo![img](v2-03008cb2c4b3ce7e3dc36e94875fde61_ipico.jpg)](https://link.zhihu.com/?target=https%3A//github.com/openai/neural-mmo)
 
 ------

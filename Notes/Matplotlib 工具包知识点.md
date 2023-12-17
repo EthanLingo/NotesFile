@@ -1,17 +1,26 @@
 ---
-title: Matplotlib速查
+title: Matplotlib 工具包知识点
 authors: Ethan Lin
-year: 2023-03-31 
+year: 2023-03-31
 tags:
-  - 日期/2023-03-31 
-  - 类型/笔记 
+  - 日期/2023-03-31
+  - 类型/笔记
+  - 内容/可视化
+  - 内容/Matplotlib
 ---
 
 
-# Matplotlib速查
+# Matplotlib 工具包知识点
 
 
+## Matplotlib速查
 
+[[Matplotlib 颜色映射图]]
+
+
+## Matplotlib 知识点
+
+[[Matplotlib辨析plt、fig、axes]]
 
 
 

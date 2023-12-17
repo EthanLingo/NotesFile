@@ -15,10 +15,22 @@
               "type": "markdown",
               "state": {
                 "file": "Study/Study.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true
+            }
+          },
+          {
+            "id": "3c8469491d7bbb94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Subjects/Codes/Programming/正则表达式/正则表达式教程_3.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -563,9 +575,9 @@
           }
         ],
         "direction": "vertical",
-        "x": 638,
-        "y": 341,
-        "width": 1517,
+        "x": 380,
+        "y": 288,
+        "width": 1200,
         "height": 1099,
         "maximize": false,
         "zoom": 0
@@ -721,7 +733,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Study/学习多智能体强化学习.md",
+                        "file": "Study/学习多主体强化学习.md",
                         "mode": "source",
                         "source": false
                       },
@@ -782,7 +794,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Subjects/计算科学/多智能体强化学习/多智能体强化学习.md",
+                        "file": "Subjects/计算科学/多主体强化学习/多主体强化学习.md",
                         "mode": "source",
                         "source": false
                       },
@@ -796,7 +808,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Subjects/计算科学/多智能体强化学习/多智能体强化学习相关资料.md",
+                        "file": "Subjects/计算科学/多主体强化学习/多主体强化学习相关资料.md",
                         "mode": "source",
                         "source": false
                       },
@@ -809,7 +821,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Study/学习多智能体强化学习.md",
+                        "file": "Study/学习多主体强化学习.md",
                         "mode": "source",
                         "source": false
                       }
@@ -872,9 +884,9 @@
           }
         ],
         "direction": "vertical",
-        "x": 975,
+        "x": 680,
         "y": 369,
-        "width": 1585,
+        "width": 1200,
         "height": 1071,
         "maximize": false,
         "zoom": 0
@@ -1199,9 +1211,9 @@
           }
         ],
         "direction": "vertical",
-        "x": 380,
+        "x": 680,
         "y": 170,
-        "width": 1800,
+        "width": 1200,
         "height": 1125,
         "maximize": false,
         "zoom": 0
@@ -1442,9 +1454,9 @@
           }
         ],
         "direction": "vertical",
-        "x": 307,
+        "x": 680,
         "y": 207,
-        "width": 1600,
+        "width": 1200,
         "height": 943,
         "maximize": false,
         "zoom": 0
@@ -1747,9 +1759,9 @@
           }
         ],
         "direction": "vertical",
-        "x": 1089,
+        "x": 680,
         "y": 170,
-        "width": 1471,
+        "width": 1200,
         "height": 1125,
         "maximize": false,
         "zoom": 0
@@ -1909,13 +1921,25 @@
                 }
               },
               {
+                "id": "5918cc64cb7de570",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Study/学习使用工具.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              },
+              {
                 "id": "bc244176cee41feb",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
                     "file": "Study/学习编程语言.md",
-                    "mode": "preview",
+                    "mode": "source",
                     "source": false
                   }
                 }
@@ -1931,9 +1955,21 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "883fb6084fc6fe2b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Subjects/数据科学/Pandas 工具包/Pandas 常用函数.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
               }
             ],
-            "currentTab": 1
+            "currentTab": 4
           },
           {
             "id": "e464f1de621eb73f",
@@ -1986,10 +2022,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 1536,
-        "y": 640,
-        "width": 1024,
-        "height": 800,
+        "x": 2674,
+        "y": 749,
+        "width": 1086,
+        "height": 1297,
         "maximize": false,
         "zoom": 0
       },
@@ -2226,7 +2262,7 @@
           }
         ],
         "direction": "vertical",
-        "x": 1356,
+        "x": 1369,
         "y": 496,
         "width": 1158,
         "height": 944,
@@ -2402,18 +2438,6 @@
                 }
               },
               {
-                "id": "7f610c744633ce1c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes/电子果蝇神经网络.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
                 "id": "5043b21c9564260c",
                 "type": "leaf",
                 "pinned": true,
@@ -2490,7 +2514,7 @@
                 }
               }
             ],
-            "currentTab": 8
+            "currentTab": 7
           },
           {
             "id": "159941faed59d868",
@@ -2543,9 +2567,9 @@
           }
         ],
         "direction": "vertical",
-        "x": 1122,
-        "y": 551,
-        "width": 1438,
+        "x": 667,
+        "y": 483,
+        "width": 1200,
         "height": 889,
         "maximize": false,
         "zoom": 0
@@ -2554,51 +2578,51 @@
   },
   "active": "8e9fa928aa3d2eb7",
   "lastOpenFiles": [
-    "Study/学习经管社科类.md",
-    "Study/Study.md",
-    "Notes/汇总若干经济类国内公布数据及代码期刊.md",
-    "attachment/99731702173597_.pic.jpg",
-    "Collection/99731702173597_.pic.jpg",
     "Subjects/sync.ffs_lock",
     "Reference_zotfile/sync.ffs_lock",
     "Reference/sync.ffs_lock",
     "Projects/YeeGames_design/sync.ffs_lock",
     "Projects/SystemicRiskResearch/sync.ffs_lock",
     "Projects/EntelechySystem_theory/sync.ffs_lock",
+    "Subjects/Codes/Programming/正则表达式/正则表达式教程_3.md",
+    "Study/Study.md",
+    "Study/学习多主体强化学习.md",
+    "Subjects/计算科学/多主体强化学习/多主体强化学习.md",
+    "Subjects/计算科学/多主体强化学习/多智能体同步与控制.md",
+    "Notes/Matplotlib 工具包知识点.md",
+    "Subjects/Codes/Programming/可视化工具/Matplotlib 颜色映射图.md",
+    "Subjects/Codes/Programming/可视化工具/Matplotlib 颜色映射图~.md",
+    "Subjects/Codes/Programming/可视化工具/Matplotlib 颜色映射图.assets/sphx_glr_colormap_reference_008.png",
+    "Subjects/Codes/Programming/可视化工具/Matplotlib 颜色映射图.assets/sphx_glr_colormap_reference_007.png",
+    "Subjects/Codes/Programming/可视化工具/Matplotlib 颜色映射图.assets/sphx_glr_colormap_reference_006.png",
+    "Subjects/Codes/Programming/可视化工具/Matplotlib 颜色映射图.assets/sphx_glr_colormap_reference_005.png",
+    "Subjects/Codes/Programming/可视化工具/Matplotlib 颜色映射图.assets/sphx_glr_colormap_reference_004.png",
+    "Subjects/Codes/Programming/可视化工具/Matplotlib 颜色映射图.assets/sphx_glr_colormap_reference_003.png",
+    "Subjects/Codes/Programming/可视化工具/Matplotlib 颜色映射图.assets/sphx_glr_colormap_reference_002.png",
+    "Subjects/Codes/Programming/可视化工具/Matplotlib 颜色映射图.assets/sphx_glr_colormap_reference_001.png",
+    "Subjects/Codes/Programming/可视化工具/Matplotlib 颜色映射图.assets",
+    "Subjects/数据科学/Pandas 工具包/Pandas 常用函数.md",
+    "Subjects/语言/NLP基础：常见语言学缩写.md",
+    "Study/学习通用人工智能.md",
+    "Notes/电子果蝇神经网络.md",
     "Thoughts/sync.ffs_lock",
     "sync.ffs_lock",
-    "Reference/TH9AA58N/-f609.ffs_tmp",
-    "Reference/TH9AA58N/-150d.ffs_tmp",
+    "Reference/TH9AA58N/-f4ae.ffs_tmp",
+    "Study/学习编程语言.md",
+    "Study/学习计算机科学与技术与编程语言.md",
+    "Study/学习使用工具.md",
+    "Subjects/Codes/Programming/正则表达式/常用的正则表达式.md",
+    "Subjects/Codes/Programming/正则表达式/_Index_of_正则表达式.md",
+    "Subjects/Codes/Programming/正则表达式/正则表达式教程.md",
+    "Subjects/Codes/Programming/正则表达式/常用编程语言提取正则表达式.md",
+    "Notes/汇总若干经济类国内公布数据及代码期刊.md",
+    "Study/学习经管社科类.md",
+    "attachment/99731702173597_.pic.jpg",
+    "Collection/99731702173597_.pic.jpg",
     "Collection/提问：202312061506.md",
     "Subjects/日常管理工具/电脑系统/MacOS/macOS 时光机器备份加速命令.md",
     "Subjects/Tools/Git/从 git 的历史记录中彻底删除文件或文件夹.md",
-    "Study/学习编程语言.md",
     "Study/学习计量经济学.md",
-    "Collection/2023-12-06.md",
-    "Reference/XPGPVBQQ/x3.png",
-    "Reference/XPGPVBQQ/x2.png",
-    "Reference/XPGPVBQQ/x1.png",
-    "Reference/XPGPVBQQ/config_example.png",
-    "Reference/XPGPVBQQ/ar5iv.png",
-    "Study/学习概率与统计.md",
-    "Study/学习数学系统科学物理学.md",
-    "Subjects/数学与系统科学/统计学/常见的统计学专业术语中英对照.md",
-    "Subjects/Tools/Git/Git 清除贡献者信息和历史提交记录.md",
-    "Subjects/Tools/Git/Git 新建分支其无提交历史记录.md",
-    "Study/学习计算机科学与技术与编程语言.md",
-    "Subjects/计算机科学与技术/算法与数据结构/二叉树前序、中序、后序遍历非递归写法的透彻解析.md",
-    "Subjects/Codes/Languages/Python/Python基础/pip 导出包列表、备份离线包.md",
-    "Subjects/Codes/Languages/Python/Python基础/Python部署.md",
-    "Subjects/Codes/Languages/Python/Python基础/Python打包与发布.md",
-    "Notes/概率统计的收敛.md",
-    "Notes/线性回归与线性投影的区别.md",
-    "Study/学习计算科学.md",
-    "Notes/学习因果涌现.md",
-    "Study/学习数学物理方法.md",
-    "Collection/概率统计的收敛~.md",
-    "Reference/ZPP3QGF7/Sylvain_Jean-Edouard_et-al_2017_Where the Risks Lie - A Survey on Systemic Risk.assets/640.png",
-    "Reference/ZPP3QGF7/Sylvain_Jean-Edouard_et-al_2017_Where the Risks Lie - A Survey on Systemic Risk.assets/image-20201028205208467.png",
-    "Reference/ZPP3QGF7/Sylvain_Jean-Edouard_et-al_2017_Where the Risks Lie - A Survey on Systemic Risk.assets/640-20230114092812896.png",
     "Subjects/Untitled.canvas"
   ]
 }
