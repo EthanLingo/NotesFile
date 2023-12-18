@@ -8,6 +8,16 @@
         "type": "tabs",
         "children": [
           {
+            "id": "844679e5393bab09",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
             "id": "8e9fa928aa3d2eb7",
             "type": "leaf",
             "pinned": true,
@@ -15,7 +25,7 @@
               "type": "markdown",
               "state": {
                 "file": "Study/Study.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "pinned": true
@@ -112,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/Study.md"
+                "file": "Subjects/计算科学/多主体强化学习/多主体强化学习相关资料.md"
               }
             }
           }
@@ -146,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Study/Study.md"
+                "file": "Subjects/计算科学/多主体强化学习/多主体强化学习相关资料.md"
               }
             }
           }
@@ -162,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/Study.md",
+                "file": "Subjects/计算科学/多主体强化学习/多主体强化学习相关资料.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/Study.md",
+                "file": "Subjects/计算科学/多主体强化学习/多主体强化学习相关资料.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +213,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Study/Study.md",
+                "file": "Subjects/计算科学/多主体强化学习/多主体强化学习相关资料.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -357,7 +367,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Study/Study.md",
+                        "file": "Subjects/计算科学/多主体强化学习/多主体强化学习相关资料.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -602,7 +612,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Study/Study.md"
+                        "file": "Subjects/计算科学/多主体强化学习/多主体强化学习相关资料.md"
                       }
                     }
                   }
@@ -619,7 +629,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Study/Study.md",
+                        "file": "Subjects/计算科学/多主体强化学习/多主体强化学习相关资料.md",
                         "options": {
                           "collapse-filter": false,
                           "search": "",
@@ -848,7 +858,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Study/Study.md",
+                        "file": "Subjects/计算科学/多主体强化学习/多主体强化学习相关资料.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -871,7 +881,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Study/Study.md",
+                        "file": "Subjects/计算科学/多主体强化学习/多主体强化学习相关资料.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -911,7 +921,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Study/Study.md"
+                        "file": "Subjects/计算科学/多主体强化学习/多主体强化学习相关资料.md"
                       }
                     }
                   }
@@ -928,7 +938,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Study/Study.md",
+                        "file": "Subjects/计算科学/多主体强化学习/多主体强化学习相关资料.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1175,7 +1185,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Study/Study.md",
+                        "file": "Subjects/计算科学/多主体强化学习/多主体强化学习相关资料.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1198,7 +1208,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Study/Study.md",
+                        "file": "Subjects/计算科学/多主体强化学习/多主体强化学习相关资料.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1238,7 +1248,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Study/Study.md"
+                        "file": "Subjects/计算科学/多主体强化学习/多主体强化学习相关资料.md"
                       }
                     }
                   }
@@ -1255,7 +1265,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Study/Study.md",
+                        "file": "Subjects/计算科学/多主体强化学习/多主体强化学习相关资料.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1418,7 +1428,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Study/Study.md",
+                        "file": "Subjects/计算科学/多主体强化学习/多主体强化学习相关资料.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1441,7 +1451,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Study/Study.md",
+                        "file": "Subjects/计算科学/多主体强化学习/多主体强化学习相关资料.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1481,7 +1491,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Study/Study.md"
+                        "file": "Subjects/计算科学/多主体强化学习/多主体强化学习相关资料.md"
                       }
                     }
                   }
@@ -1498,7 +1508,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Study/Study.md",
+                        "file": "Subjects/计算科学/多主体强化学习/多主体强化学习相关资料.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1723,7 +1733,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Study/Study.md",
+                        "file": "Subjects/计算科学/多主体强化学习/多主体强化学习相关资料.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1746,7 +1756,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Study/Study.md",
+                        "file": "Subjects/计算科学/多主体强化学习/多主体强化学习相关资料.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1786,7 +1796,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Study/Study.md"
+                        "file": "Subjects/计算科学/多主体强化学习/多主体强化学习相关资料.md"
                       }
                     }
                   }
@@ -1803,7 +1813,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Study/Study.md",
+                        "file": "Subjects/计算科学/多主体强化学习/多主体强化学习相关资料.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1986,7 +1996,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Study/Study.md",
+                        "file": "Subjects/计算科学/多主体强化学习/多主体强化学习相关资料.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -2009,7 +2019,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Study/Study.md",
+                        "file": "Subjects/计算科学/多主体强化学习/多主体强化学习相关资料.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -2049,7 +2059,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Study/Study.md"
+                        "file": "Subjects/计算科学/多主体强化学习/多主体强化学习相关资料.md"
                       }
                     }
                   }
@@ -2066,7 +2076,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Study/Study.md",
+                        "file": "Subjects/计算科学/多主体强化学习/多主体强化学习相关资料.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -2226,7 +2236,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Study/Study.md",
+                        "file": "Subjects/计算科学/多主体强化学习/多主体强化学习相关资料.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -2249,7 +2259,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Study/Study.md",
+                        "file": "Subjects/计算科学/多主体强化学习/多主体强化学习相关资料.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -2289,7 +2299,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Study/Study.md"
+                        "file": "Subjects/计算科学/多主体强化学习/多主体强化学习相关资料.md"
                       }
                     }
                   }
@@ -2306,7 +2316,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Study/Study.md",
+                        "file": "Subjects/计算科学/多主体强化学习/多主体强化学习相关资料.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -2531,7 +2541,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Study/Study.md",
+                        "file": "Subjects/计算科学/多主体强化学习/多主体强化学习相关资料.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -2554,7 +2564,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Study/Study.md",
+                        "file": "Subjects/计算科学/多主体强化学习/多主体强化学习相关资料.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -2576,16 +2586,33 @@
       }
     ]
   },
-  "active": "8e9fa928aa3d2eb7",
+  "active": "4fc3ae96cdd25e35",
   "lastOpenFiles": [
+    "Projects/EntelechySystem_theory/sync.ffs_lock",
     "Subjects/sync.ffs_lock",
     "Reference_zotfile/sync.ffs_lock",
     "Reference/sync.ffs_lock",
     "Projects/YeeGames_design/sync.ffs_lock",
     "Projects/SystemicRiskResearch/sync.ffs_lock",
-    "Projects/EntelechySystem_theory/sync.ffs_lock",
+    "Subjects/人工智能/多主体强化学习代码汇总/多智能体强化学习代码汇总.assets/v2-fe398353c46453d061f6aff20aa8ef7a_180x120.jpg",
+    "Subjects/人工智能/多主体强化学习代码汇总/多智能体强化学习代码汇总.assets/v2-fe398353c46453d061f6aff20aa8ef7a_180x120-20220714220611676.jpg",
+    "Subjects/人工智能/多主体强化学习代码汇总/多智能体强化学习代码汇总.assets/v2-e4c2e20c96e92514088415741b157221_180x120.jpg",
+    "Subjects/人工智能/多主体强化学习代码汇总/多智能体强化学习代码汇总.assets/v2-e4c2e20c96e92514088415741b157221_180x120-20220714220601313.jpg",
+    "Subjects/人工智能/多主体强化学习代码汇总/多智能体强化学习代码汇总.md",
+    "Subjects/人工智能/多主体强化学习代码汇总/多智能体强化学习代码汇总.assets",
+    "Subjects/人工智能/多主体强化学习代码汇总/_Index_of_多智能体强化学习代码汇总.md",
+    "Subjects/人工智能/多主体强化学习代码汇总/_Index_of_多智能体强化学习.md",
+    "Subjects/人工智能/多主体强化学习代码汇总",
+    "Subjects/计算科学/多主体强化学习/_Index_of_多主体强化学习.md",
+    "Subjects/计算科学/多主体强化学习/多主体强化学习相关资料.md",
+    "Reference/ZQ42GSEP/关于系统性风险分析的调查-b085.ffs_tmp",
+    "Reference/7JQE7EWM/-a2b5.ffs_tmp",
     "Subjects/Codes/Programming/正则表达式/正则表达式教程_3.md",
+    "DailyNotes/2023-08-10.md",
+    "DailyNotes/2022-08-24.md",
     "Study/Study.md",
+    "Collection/条件信念度.md",
+    "README.md",
     "Study/学习多主体强化学习.md",
     "Subjects/计算科学/多主体强化学习/多主体强化学习.md",
     "Subjects/计算科学/多主体强化学习/多智能体同步与控制.md",
@@ -2598,31 +2625,14 @@
     "Subjects/Codes/Programming/可视化工具/Matplotlib 颜色映射图.assets/sphx_glr_colormap_reference_005.png",
     "Subjects/Codes/Programming/可视化工具/Matplotlib 颜色映射图.assets/sphx_glr_colormap_reference_004.png",
     "Subjects/Codes/Programming/可视化工具/Matplotlib 颜色映射图.assets/sphx_glr_colormap_reference_003.png",
-    "Subjects/Codes/Programming/可视化工具/Matplotlib 颜色映射图.assets/sphx_glr_colormap_reference_002.png",
-    "Subjects/Codes/Programming/可视化工具/Matplotlib 颜色映射图.assets/sphx_glr_colormap_reference_001.png",
-    "Subjects/Codes/Programming/可视化工具/Matplotlib 颜色映射图.assets",
     "Subjects/数据科学/Pandas 工具包/Pandas 常用函数.md",
     "Subjects/语言/NLP基础：常见语言学缩写.md",
     "Study/学习通用人工智能.md",
     "Notes/电子果蝇神经网络.md",
-    "Thoughts/sync.ffs_lock",
-    "sync.ffs_lock",
-    "Reference/TH9AA58N/-f4ae.ffs_tmp",
     "Study/学习编程语言.md",
     "Study/学习计算机科学与技术与编程语言.md",
     "Study/学习使用工具.md",
     "Subjects/Codes/Programming/正则表达式/常用的正则表达式.md",
-    "Subjects/Codes/Programming/正则表达式/_Index_of_正则表达式.md",
-    "Subjects/Codes/Programming/正则表达式/正则表达式教程.md",
-    "Subjects/Codes/Programming/正则表达式/常用编程语言提取正则表达式.md",
-    "Notes/汇总若干经济类国内公布数据及代码期刊.md",
-    "Study/学习经管社科类.md",
-    "attachment/99731702173597_.pic.jpg",
-    "Collection/99731702173597_.pic.jpg",
-    "Collection/提问：202312061506.md",
-    "Subjects/日常管理工具/电脑系统/MacOS/macOS 时光机器备份加速命令.md",
-    "Subjects/Tools/Git/从 git 的历史记录中彻底删除文件或文件夹.md",
-    "Study/学习计量经济学.md",
     "Subjects/Untitled.canvas"
   ]
 }
