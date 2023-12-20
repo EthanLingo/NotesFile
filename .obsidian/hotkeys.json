@@ -20,13 +20,6 @@
   "command-palette:open": [
     {
       "modifiers": [
-        "Alt",
-        "Ctrl"
-      ],
-      "key": " "
-    },
-    {
-      "modifiers": [
         "Ctrl"
       ],
       "key": " "
@@ -38,14 +31,6 @@
     {
       "modifiers": [
         "Alt"
-      ],
-      "key": "Enter"
-    }
-  ],
-  "markdown:toggle-preview": [
-    {
-      "modifiers": [
-        "Mod"
       ],
       "key": "Enter"
     }
@@ -89,6 +74,10 @@
         "Mod"
       ],
       "key": "`"
+    },
+    {
+      "modifiers": [],
+      "key": "F4"
     }
   ],
   "workspace:split-horizontal": [
@@ -199,15 +188,6 @@
       "key": "I"
     }
   ],
-  "workspace:move-to-new-window": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "Enter"
-    }
-  ],
   "editor:toggle-checklist-status": [
     {
       "modifiers": [
@@ -224,14 +204,6 @@
         "Mod"
       ],
       "key": "D"
-    }
-  ],
-  "editor:follow-link": [
-    {
-      "modifiers": [
-        "Ctrl"
-      ],
-      "key": "Enter"
     }
   ],
   "editor:open-link-in-new-split": [
@@ -306,6 +278,14 @@
         "Mod"
       ],
       "key": "6"
+    }
+  ],
+  "editor:set-heading": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "0"
     }
   ],
   "obsidian-copy-block-link:copy-link-to-block": [
@@ -447,6 +427,15 @@
     }
   ],
   "obsidian-related-notes-finder:show-possible-links": [],
+  "workspace:open-in-new-window": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "Enter"
+    }
+  ],
   "app:toggle-left-sidebar": [
     {
       "modifiers": [],
@@ -459,25 +448,57 @@
       "key": "F9"
     }
   ],
-  "window:toggle-always-on-top": [
+  "audio-recorder:start": [
     {
       "modifiers": [],
-      "key": "F8"
+      "key": "F5"
     }
   ],
-  "editor:toggle-source": [
+  "audio-recorder:stop": [
     {
       "modifiers": [
-        "Alt",
-        "Mod"
+        "Alt"
       ],
-      "key": "/"
+      "key": "F5"
+    }
+  ],
+  "file-explorer:open": [
+    {
+      "modifiers": [],
+      "key": "F3"
+    }
+  ],
+  "editor:open-link-in-new-window": [
+    {
+      "modifiers": [
+        "Mod",
+        "Alt",
+        "Shift"
+      ],
+      "key": "Enter"
     },
     {
       "modifiers": [
+        "Alt",
         "Ctrl",
-        "Mod",
         "Shift"
+      ],
+      "key": "Enter"
+    }
+  ],
+  "obsidian-autocomplete-plugin:autocomplete-toggle": [],
+  "obsidian-tasks-plugin:edit-task": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Enter"
+    }
+  ],
+  "editor:follow-link": [
+    {
+      "modifiers": [
+        "Ctrl"
       ],
       "key": "Enter"
     }
