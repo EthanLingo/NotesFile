@@ -58,3 +58,11 @@ https://obsidian.md/download
 ### Obsidian 官方提供的历史版本
 https://github.com/obsidianmd/obsidian-releases/releases
 
+
+# Obsidian 一些技巧
+
+
+## Obsidian 同步
+
+[obsidian好用的icloud同步方案 - 知乎](https://zhuanlan.zhihu.com/p/459147364)
+

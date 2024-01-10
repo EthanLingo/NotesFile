@@ -45,6 +45,11 @@
           "type": "file",
           "path": "Subjects/日常管理工具/电脑系统/MacOS/macOS 时光机器备份加速命令.md",
           "ctime": 1683299002878
+        },
+        {
+          "type": "file",
+          "ctime": 1704170482519,
+          "path": "Subjects/Tools/Git/git配置中的CRLF、LF、CR.md"
         }
       ],
       "title": "常用操作"

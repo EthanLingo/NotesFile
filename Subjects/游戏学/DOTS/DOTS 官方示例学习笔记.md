@@ -51,3 +51,5 @@ tags:
 ###### 输入控制角色功能
 
 使用了传统的输入系统：[EntitiesSamples/Assets/Miscellaneous/FirstPersonController](https://github.com/Unity-Technologies/EntityComponentSystemSamples/tree/master/EntitiesSamples/Assets/Miscellaneous/FirstPersonController)
+
+结合 Unity Input System 与 DOTS：[PhysicsSamples/Assets/Common/Scripts/DemoInputGatheringSystem](https://github.com/Unity-Technologies/EntityComponentSystemSamples/blob/master/PhysicsSamples/Assets/Common/Scripts/DemoInputGatheringSystem.cs)

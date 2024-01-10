@@ -7,6 +7,7 @@ tags:
   - 类型/笔记
   - 内容/DOTS
 ---
+# DOTS 之 Blob Asset
 
 
 ![[71827697-BF83-4D2C-8F93-9B2A1801DFD6_1_105_c.jpeg]]

@@ -1,8 +1,20 @@
+---
+title: 结合 Unity Input System 与 DOTS
+authors: Ethan Lin
+year: 2023-08-11
+tags:
+  - 类型/笔记
+  - 日期/2023-12-22
+  - 日期/2023-08-11
+  - 类型/AI问答笔记
+  - "#内容/Unity"
+  - "#内容/DOTS"
+---
+# 结合 Unity Input System 与 DOTS
 
 
 
 
-tags: #日期/2023-08-11 #类型/笔记 #内容/Unity #内容/DOTS #类型/AI问答笔记 
 
 
 > [!question]
