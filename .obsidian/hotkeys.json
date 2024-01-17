@@ -498,13 +498,16 @@
   "markdown:toggle-preview": [
     {
       "modifiers": [
-        "Mod"
+        "Ctrl"
       ],
-      "key": "E"
-    },
+      "key": "Enter"
+    }
+  ],
+  "editor:toggle-source": [
     {
       "modifiers": [
-        "Ctrl"
+        "Ctrl",
+        "Mod"
       ],
       "key": "Enter"
     }

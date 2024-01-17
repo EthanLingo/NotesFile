@@ -128,7 +128,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "2e57906a279edeb0",
@@ -141,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subjects/Tools/Git/git配置中的CRLF、LF、CR.md"
+                "file": "Study/Study.md"
               }
             }
           }
@@ -149,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.5
+    "width": 487.5
   },
   "right": {
     "id": "aade5a834a514cf8",
@@ -165,8 +166,24 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Subjects/Tools/Git/git配置中的CRLF、LF、CR.md"
+                "file": "Study/Study.md"
               }
+            }
+          },
+          {
+            "id": "d3deec2b03120e7d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "13cb232ab39190fc",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {}
             }
           }
         ]
@@ -181,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/Tools/Git/git配置中的CRLF、LF、CR.md",
+                "file": "Study/Study.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subjects/Tools/Git/git配置中的CRLF、LF、CR.md",
+                "file": "Study/Study.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +239,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Subjects/Tools/Git/git配置中的CRLF、LF、CR.md",
+                "file": "Study/Study.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -376,7 +393,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Subjects/Tools/Git/git配置中的CRLF、LF、CR.md",
+                        "file": "Study/Study.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -621,7 +638,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Subjects/Tools/Git/git配置中的CRLF、LF、CR.md"
+                        "file": "Study/Study.md"
                       }
                     }
                   }
@@ -638,7 +655,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Subjects/Tools/Git/git配置中的CRLF、LF、CR.md",
+                        "file": "Study/Study.md",
                         "options": {
                           "collapse-filter": false,
                           "search": "",
@@ -813,7 +830,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Subjects/Tools/Git/git配置中的CRLF、LF、CR.md",
+                        "file": "Study/Study.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -836,7 +853,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Subjects/Tools/Git/git配置中的CRLF、LF、CR.md",
+                        "file": "Study/Study.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -876,7 +893,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Subjects/Tools/Git/git配置中的CRLF、LF、CR.md"
+                        "file": "Study/Study.md"
                       }
                     }
                   }
@@ -893,7 +910,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Subjects/Tools/Git/git配置中的CRLF、LF、CR.md",
+                        "file": "Study/Study.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1140,7 +1157,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Subjects/Tools/Git/git配置中的CRLF、LF、CR.md",
+                        "file": "Study/Study.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1163,7 +1180,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Subjects/Tools/Git/git配置中的CRLF、LF、CR.md",
+                        "file": "Study/Study.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1203,7 +1220,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Subjects/Tools/Git/git配置中的CRLF、LF、CR.md"
+                        "file": "Study/Study.md"
                       }
                     }
                   }
@@ -1220,7 +1237,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Subjects/Tools/Git/git配置中的CRLF、LF、CR.md",
+                        "file": "Study/Study.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1383,7 +1400,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Subjects/Tools/Git/git配置中的CRLF、LF、CR.md",
+                        "file": "Study/Study.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1406,7 +1423,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Subjects/Tools/Git/git配置中的CRLF、LF、CR.md",
+                        "file": "Study/Study.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1446,7 +1463,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Subjects/Tools/Git/git配置中的CRLF、LF、CR.md"
+                        "file": "Study/Study.md"
                       }
                     }
                   }
@@ -1463,7 +1480,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Subjects/Tools/Git/git配置中的CRLF、LF、CR.md",
+                        "file": "Study/Study.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1696,7 +1713,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Subjects/Tools/Git/git配置中的CRLF、LF、CR.md",
+                        "file": "Study/Study.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1719,7 +1736,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Subjects/Tools/Git/git配置中的CRLF、LF、CR.md",
+                        "file": "Study/Study.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1759,7 +1776,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Subjects/Tools/Git/git配置中的CRLF、LF、CR.md"
+                        "file": "Study/Study.md"
                       }
                     }
                   }
@@ -1776,7 +1793,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Subjects/Tools/Git/git配置中的CRLF、LF、CR.md",
+                        "file": "Study/Study.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1959,7 +1976,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Subjects/Tools/Git/git配置中的CRLF、LF、CR.md",
+                        "file": "Study/Study.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1982,7 +1999,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Subjects/Tools/Git/git配置中的CRLF、LF、CR.md",
+                        "file": "Study/Study.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -2022,7 +2039,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Subjects/Tools/Git/git配置中的CRLF、LF、CR.md"
+                        "file": "Study/Study.md"
                       }
                     }
                   }
@@ -2039,7 +2056,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Subjects/Tools/Git/git配置中的CRLF、LF、CR.md",
+                        "file": "Study/Study.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -2199,7 +2216,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Subjects/Tools/Git/git配置中的CRLF、LF、CR.md",
+                        "file": "Study/Study.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -2222,7 +2239,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Subjects/Tools/Git/git配置中的CRLF、LF、CR.md",
+                        "file": "Study/Study.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -2262,7 +2279,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Subjects/Tools/Git/git配置中的CRLF、LF、CR.md"
+                        "file": "Study/Study.md"
                       }
                     }
                   }
@@ -2279,7 +2296,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Subjects/Tools/Git/git配置中的CRLF、LF、CR.md",
+                        "file": "Study/Study.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -2504,7 +2521,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Subjects/Tools/Git/git配置中的CRLF、LF、CR.md",
+                        "file": "Study/Study.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -2527,7 +2544,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Subjects/Tools/Git/git配置中的CRLF、LF、CR.md",
+                        "file": "Study/Study.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -2549,8 +2566,13 @@
       }
     ]
   },
-  "active": "b08123952e8f2d18",
+  "active": "8e9fa928aa3d2eb7",
   "lastOpenFiles": [
+    "Thoughts/sync.ffs_lock",
+    "sync.ffs_lock",
+    "Subjects/日常管理工具/电脑系统/Linux/ssh免密登陆以及安全配置.md",
+    "Subjects/日常管理工具/电脑系统/Linux/SSH隧道使用.md",
+    "Subjects/Tools/Git/git配置中的CRLF、LF、CR.md",
     "Subjects/游戏学/DOTS/DOTS 官方示例学习笔记.md",
     "Projects/SystemicRiskResearch/sync.ffs_lock",
     "Projects/EntelechySystem_theory/sync.ffs_lock",
@@ -2558,10 +2580,7 @@
     "Projects/YeeGames_design/sync.ffs_lock",
     "Subjects/sync.ffs_lock",
     "Reference_zotfile/sync.ffs_lock",
-    "Thoughts/sync.ffs_lock",
-    "sync.ffs_lock",
     "Collection/DOTS 之 Blob Asset.md",
-    "Subjects/Tools/Git/git配置中的CRLF、LF、CR.md",
     "Subjects/Tools/Git/常用Git操作.md",
     "Subjects/Codes/Languages/Python/Numpy基础.md",
     "Subjects/计算机科学与技术/算法与数据结构/二叉树前序、中序、后序遍历非递归写法的透彻解析.md",
@@ -2588,8 +2607,6 @@
     "Subjects/人工智能/多主体强化学习代码汇总/多智能体强化学习代码汇总.assets/v2-e4c2e20c96e92514088415741b157221_180x120.jpg",
     "Subjects/人工智能/多主体强化学习代码汇总/多智能体强化学习代码汇总.assets/v2-e4c2e20c96e92514088415741b157221_180x120-20220714220601313.jpg",
     "Subjects/人工智能/多主体强化学习代码汇总/多智能体强化学习代码汇总.md",
-    "Subjects/人工智能/多主体强化学习代码汇总/_Index_of_多智能体强化学习代码汇总.md",
-    "Subjects/人工智能/多主体强化学习代码汇总/_Index_of_多智能体强化学习.md",
     "Subjects/Codes/Programming/可视化工具/Matplotlib 颜色映射图.assets/sphx_glr_colormap_reference_008.png",
     "Subjects/Codes/Programming/可视化工具/Matplotlib 颜色映射图.assets/sphx_glr_colormap_reference_007.png",
     "Subjects/Codes/Programming/可视化工具/Matplotlib 颜色映射图.assets/sphx_glr_colormap_reference_006.png",
