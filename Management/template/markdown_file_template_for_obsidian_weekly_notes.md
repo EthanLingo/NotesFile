@@ -1,5 +1,5 @@
 ---
-title: {{title}}
+title: [{{title}}]
 authors: Ethan Lin
 year: {{date:YYYY-MM-DD}}
 tags:
