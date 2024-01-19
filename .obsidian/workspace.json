@@ -17,21 +17,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "b08123952e8f2d18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Subjects/Tools/Git/git配置中的CRLF、LF、CR.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "5762c8811f552c3a",
@@ -51,8 +38,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "4088e8d66ef96bfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thoughts/神思者/神思者.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/Study.md"
+                "file": "Thoughts/神思者/神思者.md"
               }
             }
           }
@@ -150,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 487.5
+    "width": 327.5
   },
   "right": {
     "id": "aade5a834a514cf8",
@@ -166,7 +166,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Study/Study.md"
+                "file": "Thoughts/神思者/神思者.md"
               }
             }
           },
@@ -198,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/Study.md",
+                "file": "Thoughts/神思者/神思者.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/Study.md",
+                "file": "Thoughts/神思者/神思者.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,7 +239,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Study/Study.md",
+                "file": "Thoughts/神思者/神思者.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -336,7 +336,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 323.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -393,7 +394,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Study/Study.md",
+                        "file": "Thoughts/神思者/神思者.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -638,7 +639,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Study/Study.md"
+                        "file": "Thoughts/神思者/神思者.md"
                       }
                     }
                   }
@@ -655,7 +656,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Study/Study.md",
+                        "file": "Thoughts/神思者/神思者.md",
                         "options": {
                           "collapse-filter": false,
                           "search": "",
@@ -830,7 +831,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Study/Study.md",
+                        "file": "Thoughts/神思者/神思者.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -853,7 +854,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Study/Study.md",
+                        "file": "Thoughts/神思者/神思者.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -893,7 +894,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Study/Study.md"
+                        "file": "Thoughts/神思者/神思者.md"
                       }
                     }
                   }
@@ -910,7 +911,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Study/Study.md",
+                        "file": "Thoughts/神思者/神思者.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1157,7 +1158,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Study/Study.md",
+                        "file": "Thoughts/神思者/神思者.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1180,7 +1181,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Study/Study.md",
+                        "file": "Thoughts/神思者/神思者.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1220,7 +1221,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Study/Study.md"
+                        "file": "Thoughts/神思者/神思者.md"
                       }
                     }
                   }
@@ -1237,7 +1238,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Study/Study.md",
+                        "file": "Thoughts/神思者/神思者.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1400,7 +1401,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Study/Study.md",
+                        "file": "Thoughts/神思者/神思者.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1423,7 +1424,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Study/Study.md",
+                        "file": "Thoughts/神思者/神思者.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1463,7 +1464,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Study/Study.md"
+                        "file": "Thoughts/神思者/神思者.md"
                       }
                     }
                   }
@@ -1480,7 +1481,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Study/Study.md",
+                        "file": "Thoughts/神思者/神思者.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1713,7 +1714,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Study/Study.md",
+                        "file": "Thoughts/神思者/神思者.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1736,7 +1737,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Study/Study.md",
+                        "file": "Thoughts/神思者/神思者.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1749,7 +1750,7 @@
           }
         ],
         "direction": "vertical",
-        "x": 1280,
+        "x": -40,
         "y": 25,
         "width": 1280,
         "height": 1415,
@@ -1776,7 +1777,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Study/Study.md"
+                        "file": "Thoughts/神思者/神思者.md"
                       }
                     }
                   }
@@ -1793,7 +1794,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Study/Study.md",
+                        "file": "Thoughts/神思者/神思者.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1976,7 +1977,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Study/Study.md",
+                        "file": "Thoughts/神思者/神思者.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1999,7 +2000,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Study/Study.md",
+                        "file": "Thoughts/神思者/神思者.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -2013,7 +2014,7 @@
         ],
         "direction": "vertical",
         "x": 2642,
-        "y": 493,
+        "y": 513,
         "width": 979,
         "height": 1076,
         "maximize": false,
@@ -2039,7 +2040,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Study/Study.md"
+                        "file": "Thoughts/神思者/神思者.md"
                       }
                     }
                   }
@@ -2056,7 +2057,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Study/Study.md",
+                        "file": "Thoughts/神思者/神思者.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -2216,7 +2217,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Study/Study.md",
+                        "file": "Thoughts/神思者/神思者.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -2239,7 +2240,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Study/Study.md",
+                        "file": "Thoughts/神思者/神思者.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -2279,7 +2280,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Study/Study.md"
+                        "file": "Thoughts/神思者/神思者.md"
                       }
                     }
                   }
@@ -2296,7 +2297,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Study/Study.md",
+                        "file": "Thoughts/神思者/神思者.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -2521,7 +2522,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Study/Study.md",
+                        "file": "Thoughts/神思者/神思者.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -2544,7 +2545,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Study/Study.md",
+                        "file": "Thoughts/神思者/神思者.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -2566,20 +2567,26 @@
       }
     ]
   },
-  "active": "8e9fa928aa3d2eb7",
+  "active": "4088e8d66ef96bfb",
   "lastOpenFiles": [
-    "Thoughts/sync.ffs_lock",
+    "management/template/markdown_file_template_for_obsidian_转载~.md",
+    "Study/Study.md",
+    "Thoughts/神思者/神思者.md",
+    "Thoughts/神思者/随思：关于帮助.md",
+    "Thoughts/神思者/随想之于宇宙之基本属性.md",
     "sync.ffs_lock",
+    "Subjects/sync.ffs_lock",
+    "Reference_zotfile/sync.ffs_lock",
+    "Reference/sync.ffs_lock",
+    "Projects/YeeGames_design/sync.ffs_lock",
+    "Projects/SystemicRiskResearch/sync.ffs_lock",
+    "Projects/EntelechySystem_theory/sync.ffs_lock",
+    "Thoughts/sync.ffs_lock",
+    "Subjects/Tools/Git/从 git 的历史记录中彻底删除文件或文件夹.md",
     "Subjects/日常管理工具/电脑系统/Linux/ssh免密登陆以及安全配置.md",
     "Subjects/日常管理工具/电脑系统/Linux/SSH隧道使用.md",
     "Subjects/Tools/Git/git配置中的CRLF、LF、CR.md",
     "Subjects/游戏学/DOTS/DOTS 官方示例学习笔记.md",
-    "Projects/SystemicRiskResearch/sync.ffs_lock",
-    "Projects/EntelechySystem_theory/sync.ffs_lock",
-    "Reference/sync.ffs_lock",
-    "Projects/YeeGames_design/sync.ffs_lock",
-    "Subjects/sync.ffs_lock",
-    "Reference_zotfile/sync.ffs_lock",
     "Collection/DOTS 之 Blob Asset.md",
     "Subjects/Tools/Git/常用Git操作.md",
     "Subjects/Codes/Languages/Python/Numpy基础.md",
@@ -2598,15 +2605,10 @@
     "Notes/Unity3D第三方插件Agent Navigation学习笔记.md",
     "Study/学习多媒体艺术.md",
     "Study/学习强化学习.md",
-    "Subjects/计算科学/强化学习/强化学习.md",
-    "Study/Study.md",
-    "Subjects/Codes/Programming/正则表达式/正则表达式教程_3.md",
-    "Subjects/计算科学/多主体强化学习/多主体强化学习相关资料.md",
     "Subjects/人工智能/多主体强化学习代码汇总/多智能体强化学习代码汇总.assets/v2-fe398353c46453d061f6aff20aa8ef7a_180x120.jpg",
     "Subjects/人工智能/多主体强化学习代码汇总/多智能体强化学习代码汇总.assets/v2-fe398353c46453d061f6aff20aa8ef7a_180x120-20220714220611676.jpg",
     "Subjects/人工智能/多主体强化学习代码汇总/多智能体强化学习代码汇总.assets/v2-e4c2e20c96e92514088415741b157221_180x120.jpg",
     "Subjects/人工智能/多主体强化学习代码汇总/多智能体强化学习代码汇总.assets/v2-e4c2e20c96e92514088415741b157221_180x120-20220714220601313.jpg",
-    "Subjects/人工智能/多主体强化学习代码汇总/多智能体强化学习代码汇总.md",
     "Subjects/Codes/Programming/可视化工具/Matplotlib 颜色映射图.assets/sphx_glr_colormap_reference_008.png",
     "Subjects/Codes/Programming/可视化工具/Matplotlib 颜色映射图.assets/sphx_glr_colormap_reference_007.png",
     "Subjects/Codes/Programming/可视化工具/Matplotlib 颜色映射图.assets/sphx_glr_colormap_reference_006.png",
