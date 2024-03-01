@@ -13,10 +13,116 @@ tags:
 ---
 
 
+# Matplotlib 命名颜色列表
+
+首先，我们定义一个用于制作颜色表的辅助函数，然后我们在一些常见的颜色类别上使用它。
+
+```python
+import math
+
+import matplotlib.pyplot as plt
+
+import matplotlib.colors as mcolors
+from matplotlib.patches import Rectangle
+
+
+def plot_colortable(colors, *, ncols=4, sort_colors=True):
+
+    cell_width = 212
+    cell_height = 22
+    swatch_width = 48
+    margin = 12
+
+    # Sort colors by hue, saturation, value and name.
+    if sort_colors is True:
+        names = sorted(
+            colors, key=lambda c: tuple(mcolors.rgb_to_hsv(mcolors.to_rgb(c))))
+    else:
+        names = list(colors)
+
+    n = len(names)
+    nrows = math.ceil(n / ncols)
+
+    width = cell_width * ncols + 2 * margin
+    height = cell_height * nrows + 2 * margin
+    dpi = 72
+
+    fig, ax = plt.subplots(figsize=(width / dpi, height / dpi), dpi=dpi)
+    fig.subplots_adjust(margin/width, margin/height,
+                        (width-margin)/width, (height-margin)/height)
+    ax.set_xlim(0, cell_width * ncols)
+    ax.set_ylim(cell_height * (nrows-0.5), -cell_height/2.)
+    ax.yaxis.set_visible(False)
+    ax.xaxis.set_visible(False)
+    ax.set_axis_off()
+
+    for i, name in enumerate(names):
+        row = i % nrows
+        col = i // nrows
+        y = row * cell_height
+
+        swatch_start_x = cell_width * col
+        text_pos_x = cell_width * col + swatch_width + 7
+
+        ax.text(text_pos_x, y, name, fontsize=14,
+                horizontalalignment='left',
+                verticalalignment='center')
+
+        ax.add_patch(
+            Rectangle(xy=(swatch_start_x, y-9), width=swatch_width,
+                      height=18, facecolor=colors[name], edgecolor='0.7')
+        )
+
+    return fig
+```
 
 
 
-# 来源
+## Base colors[#](https://matplotlib.org/stable/gallery/color/named_colors.html#base-colors "Link to this heading") 基色#
+
+```python
+plot_colortable([mcolors.BASE_COLORS](https://docs.python.org/3/library/stdtypes.html#dict "builtins.dict"), ncols=3, sort_colors=False)
+```
+
+
+
+![named colors](https://matplotlib.org/stable/_images/sphx_glr_named_colors_001.png)
+
+## Tableau Palette[](https://matplotlib.org/stable/gallery/color/named_colors.html#tableau-palette "Link to this heading") 调色板表#
+
+```python
+plot_colortable([mcolors.TABLEAU_COLORS](https://docs.python.org/3/library/stdtypes.html#dict "builtins.dict"), ncols=2, sort_colors=False)
+```
+
+
+
+![named colors](https://matplotlib.org/stable/_images/sphx_glr_named_colors_002.png)
+
+## CSS Colors[](https://matplotlib.org/stable/gallery/color/named_colors.html#css-colors "Link to this heading") CSS 颜色#
+
+```python
+plot_colortable([mcolors.CSS4_COLORS](https://docs.python.org/3/library/stdtypes.html#dict "builtins.dict"))
+[plt.show](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.show.html#matplotlib.pyplot.show "matplotlib.pyplot.show")()
+```
+
+
+
+![named colors](https://matplotlib.org/stable/_images/sphx_glr_named_colors_003.png)
+
+
+
+Matplotlib 支持来自 xkcd 颜色调查的颜色，例如 `"xkcd:sky blue"` .由于它包含近 1000 种颜色，因此这个数字会非常大，因此此处省略。您可以使用以下代码自行生成概述
+
+```python
+xkcd_fig = plot_colortable(mcolors.XKCD_COLORS)
+xkcd_fig.savefig("XKCD_Colors.png")
+```
+
+
+
+
+
+# Matplotlib 颜色映射图
 
 > https://matplotlib.org/stable/gallery/color/colormap_reference.html#sphx-glr-gallery-color-colormap-reference-py
 

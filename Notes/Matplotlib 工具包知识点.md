@@ -15,7 +15,7 @@ tags:
 
 ## Matplotlib速查
 
-[[Matplotlib 颜色映射图]]
+[[Matplotlib 命名颜色列表]]
 
 
 ## Matplotlib 知识点
