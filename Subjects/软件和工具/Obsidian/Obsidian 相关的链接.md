@@ -16,6 +16,9 @@ https://help.obsidian.md
 ### Obsidian 中文教程：
 https://publish.obsidian.md/help-zh/由此开始
 
+### PKMER 的 Obsidian 教程：
+[PKMER 的 Obsidian 教程](https://pkmer.cn/Pkmer-Docs/10-obsidian/obsidian/)
+
 
 ## Obsidian 中心：
 https://publish.obsidian.md/hub/00+-+Start+here
@@ -30,6 +33,9 @@ https://obsidian-plugin-stats.vercel.app/
 
 ### Obsidian 插件汇总：
 https://ob.pory.app
+
+### PKMER 的 Obsidian 插件集市
+[PKMER 的 Obsidian 插件集市](https://pkmer.cn/products/plugin/pluginMarket/)
 
 ## Obsidian 论坛与交流群：
 
@@ -59,8 +65,12 @@ https://obsidian.md/download
 https://github.com/obsidianmd/obsidian-releases/releases
 
 
-# Obsidian 一些技巧
+# Obsidian 一些资源
 
+
+
+
+# Obsidian 一些技巧
 
 ## Obsidian 同步
 

@@ -71,6 +71,8 @@ Priority: 3
 
 ### Petting Zoo：
 
+- [ ] 学习搭建自定义的环境 ⏳ 2024-03-01 
+
 [MPE Environments | PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
 
  
