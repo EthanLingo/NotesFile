@@ -6,7 +6,6 @@
       {
         "id": "7eecbea521c00d9a",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
             "id": "844679e5393bab09",
@@ -17,14 +16,7 @@
               "state": {},
               "pinned": true
             }
-          }
-        ]
-      },
-      {
-        "id": "5762c8811f552c3a",
-        "type": "tabs",
-        "dimension": 50,
-        "children": [
+          },
           {
             "id": "8e9fa928aa3d2eb7",
             "type": "leaf",
@@ -37,18 +29,6 @@
                 "source": false
               },
               "pinned": true
-            }
-          },
-          {
-            "id": "4088e8d66ef96bfb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Thoughts/神思者/神思者.md",
-                "mode": "preview",
-                "source": false
-              }
             }
           }
         ],
@@ -72,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "input auto",
+                "query": "穿透",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -142,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thoughts/神思者/神思者.md"
+                "file": "Study/Study.md"
               }
             }
           }
@@ -166,7 +146,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Thoughts/神思者/神思者.md"
+                "file": "Study/Study.md"
               }
             }
           },
@@ -198,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thoughts/神思者/神思者.md",
+                "file": "Study/Study.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thoughts/神思者/神思者.md",
+                "file": "Study/Study.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,7 +219,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Thoughts/神思者/神思者.md",
+                "file": "Study/Study.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -326,7 +306,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.8264455933534072,
+                  "scale": 0.6702453111878931,
                   "close": true
                 }
               }
@@ -336,8 +316,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5,
-    "collapsed": true
+    "width": 323.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -364,22 +343,21 @@
           {
             "id": "b8a4a378e855c198",
             "type": "split",
-            "dimension": 23.45191040843215,
+            "dimension": 18.166666666666668,
             "children": [
               {
                 "id": "7f29d5c8077d24b5",
                 "type": "tabs",
+                "dimension": 70.21857923497268,
                 "children": [
                   {
                     "id": "f279a56d1e63e949",
                     "type": "leaf",
-                    "pinned": true,
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Study/学习ABM建模.md"
-                      },
-                      "pinned": true
+                        "file": "Study/Study.md"
+                      }
                     }
                   }
                 ]
@@ -387,6 +365,7 @@
               {
                 "id": "837eb29ce18cb9a0",
                 "type": "tabs",
+                "dimension": 29.78142076502732,
                 "children": [
                   {
                     "id": "a178165251b25473",
@@ -394,7 +373,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Thoughts/神思者/神思者.md",
+                        "file": "Study/Study.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -479,9 +458,9 @@
                           "collapse-forces": true,
                           "centerStrength": 0.518713248970312,
                           "repelStrength": 10,
-                          "linkStrength": 1,
-                          "linkDistance": 250,
-                          "scale": 1,
+                          "linkStrength": 0.6876220703125,
+                          "linkDistance": 439,
+                          "scale": 0.18337983020998444,
                           "close": true
                         }
                       }
@@ -495,7 +474,7 @@
           {
             "id": "c39c18cdf4e5b551",
             "type": "split",
-            "dimension": 23.78129117259552,
+            "dimension": 29.055555555555557,
             "children": [
               {
                 "id": "6d08cffabfb1c744",
@@ -504,13 +483,15 @@
                   {
                     "id": "8d46d1f48f2eddd7",
                     "type": "leaf",
+                    "pinned": true,
                     "state": {
                       "type": "markdown",
                       "state": {
                         "file": "Study/学习ABM建模.md",
                         "mode": "source",
                         "source": false
-                      }
+                      },
+                      "pinned": true
                     }
                   }
                 ]
@@ -541,7 +522,7 @@
           {
             "id": "90fbd1e91ef322fd",
             "type": "tabs",
-            "dimension": 38.27404479578392,
+            "dimension": 38.27777777777778,
             "children": [
               {
                 "id": "af45b1f505278699",
@@ -550,7 +531,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "Collection/工具包 PettingZoo 相关的一些代码文件文档.md",
-                    "mode": "source",
+                    "mode": "preview",
                     "source": false
                   }
                 }
@@ -560,7 +541,7 @@
           {
             "id": "8a5a32b02624cbbc",
             "type": "split",
-            "dimension": 14.492753623188404,
+            "dimension": 14.499999999999998,
             "children": [
               {
                 "id": "cf36588c884de019",
@@ -612,10 +593,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 380,
-        "y": 288,
-        "width": 1200,
-        "height": 1099,
+        "x": 109,
+        "y": 262,
+        "width": 2048,
+        "height": 1065,
         "maximize": false,
         "zoom": 0
       },
@@ -639,7 +620,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Thoughts/神思者/神思者.md"
+                        "file": "Study/Study.md"
                       }
                     }
                   }
@@ -656,7 +637,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Thoughts/神思者/神思者.md",
+                        "file": "Study/Study.md",
                         "options": {
                           "collapse-filter": false,
                           "search": "",
@@ -814,7 +795,7 @@
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 3
           },
           {
             "id": "80c6b4ae5bc4aca6",
@@ -831,7 +812,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Thoughts/神思者/神思者.md",
+                        "file": "Study/Study.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -854,7 +835,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Thoughts/神思者/神思者.md",
+                        "file": "Study/Study.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -867,10 +848,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 680,
-        "y": 369,
-        "width": 1200,
-        "height": 1071,
+        "x": 144,
+        "y": 104,
+        "width": 1251,
+        "height": 1035,
         "maximize": false,
         "zoom": 0
       },
@@ -894,7 +875,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Thoughts/神思者/神思者.md"
+                        "file": "Study/Study.md"
                       }
                     }
                   }
@@ -911,7 +892,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Thoughts/神思者/神思者.md",
+                        "file": "Study/Study.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1158,7 +1139,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Thoughts/神思者/神思者.md",
+                        "file": "Study/Study.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1181,7 +1162,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Thoughts/神思者/神思者.md",
+                        "file": "Study/Study.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1194,10 +1175,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 680,
-        "y": 170,
-        "width": 1200,
-        "height": 1125,
+        "x": 0,
+        "y": 118,
+        "width": 1024,
+        "height": 974,
         "maximize": false,
         "zoom": 0
       },
@@ -1221,7 +1202,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Thoughts/神思者/神思者.md"
+                        "file": "Study/Study.md"
                       }
                     }
                   }
@@ -1238,7 +1219,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Thoughts/神思者/神思者.md",
+                        "file": "Study/Study.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1401,7 +1382,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Thoughts/神思者/神思者.md",
+                        "file": "Study/Study.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1424,7 +1405,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Thoughts/神思者/神思者.md",
+                        "file": "Study/Study.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1437,10 +1418,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 680,
-        "y": 207,
-        "width": 1200,
-        "height": 943,
+        "x": 0,
+        "y": 108,
+        "width": 1024,
+        "height": 983,
         "maximize": false,
         "zoom": 0
       },
@@ -1464,7 +1445,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Thoughts/神思者/神思者.md"
+                        "file": "Study/Study.md"
                       }
                     }
                   }
@@ -1481,7 +1462,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Thoughts/神思者/神思者.md",
+                        "file": "Study/Study.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1687,17 +1668,9 @@
                     "source": false
                   }
                 }
-              },
-              {
-                "id": "8dd737df24280b38",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                }
               }
             ],
-            "currentTab": 3
+            "currentTab": 7
           },
           {
             "id": "2677eddafa0c3c68",
@@ -1714,7 +1687,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Thoughts/神思者/神思者.md",
+                        "file": "Study/Study.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -1737,7 +1710,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Thoughts/神思者/神思者.md",
+                        "file": "Study/Study.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -1750,10 +1723,10 @@
           }
         ],
         "direction": "vertical",
-        "x": -40,
-        "y": 25,
-        "width": 1280,
-        "height": 1415,
+        "x": 0,
+        "y": 102,
+        "width": 1024,
+        "height": 944,
         "maximize": false,
         "zoom": 0
       },
@@ -1777,7 +1750,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Thoughts/神思者/神思者.md"
+                        "file": "Study/Study.md"
                       }
                     }
                   }
@@ -1794,7 +1767,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Thoughts/神思者/神思者.md",
+                        "file": "Study/Study.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -1881,7 +1854,7 @@
                           "repelStrength": 10,
                           "linkStrength": 1,
                           "linkDistance": 250,
-                          "scale": 0.5675531155334456,
+                          "scale": 0.5831038773996128,
                           "close": true
                         }
                       }
@@ -1958,9 +1931,49 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "b3f00765f63bdba1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Subjects/Codes/Languages/Julia/Julia基础/Julia给结构体数组赋值.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "03b071b9f59c32aa",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Subjects/Codes/Languages/Julia/Julia工具包/Julia 之 VSCode 插件之快捷键与命令.md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "b06c8ab87072f17b",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Subjects/Codes/Languages/LaTeX/Markdown教程.md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "pinned": true
+                }
               }
             ],
-            "currentTab": 4
+            "currentTab": 7
           },
           {
             "id": "e464f1de621eb73f",
@@ -1977,7 +1990,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Thoughts/神思者/神思者.md",
+                        "file": "Study/Study.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -2000,7 +2013,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Thoughts/神思者/神思者.md",
+                        "file": "Study/Study.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -2013,10 +2026,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 2642,
-        "y": 513,
-        "width": 979,
-        "height": 1076,
+        "x": 393,
+        "y": 119,
+        "width": 1542,
+        "height": 1198,
         "maximize": false,
         "zoom": 0
       },
@@ -2040,7 +2053,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Thoughts/神思者/神思者.md"
+                        "file": "Study/Study.md"
                       }
                     }
                   }
@@ -2057,7 +2070,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Thoughts/神思者/神思者.md",
+                        "file": "Study/Study.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -2217,7 +2230,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Thoughts/神思者/神思者.md",
+                        "file": "Study/Study.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -2240,7 +2253,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Thoughts/神思者/神思者.md",
+                        "file": "Study/Study.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -2253,9 +2266,9 @@
           }
         ],
         "direction": "vertical",
-        "x": 1369,
-        "y": 496,
-        "width": 1158,
+        "x": 0,
+        "y": 118,
+        "width": 1024,
         "height": 944,
         "maximize": false,
         "zoom": 0
@@ -2280,7 +2293,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Thoughts/神思者/神思者.md"
+                        "file": "Study/Study.md"
                       }
                     }
                   }
@@ -2297,7 +2310,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Thoughts/神思者/神思者.md",
+                        "file": "Study/Study.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -2429,6 +2442,20 @@
                 }
               },
               {
+                "id": "45824ee4231175b7",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Study/学习大语言模型.md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
                 "id": "5043b21c9564260c",
                 "type": "leaf",
                 "pinned": true,
@@ -2471,6 +2498,18 @@
                 }
               },
               {
+                "id": "e7e602c3b10e519f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Subjects/人工智能/通用人工智能/NARS/NARS 原理.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
                 "id": "c4209a00bad3e34d",
                 "type": "leaf",
                 "pinned": true,
@@ -2485,19 +2524,21 @@
                 }
               },
               {
-                "id": "92c93a7f828c5a6b",
+                "id": "381f3c16a024944a",
                 "type": "leaf",
+                "pinned": true,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Subjects/语言/NLP基础：常见语言学缩写.md",
-                    "mode": "source",
+                    "file": "Notes/集智俱乐部读书会《大语言模型与多智能体系统》.md",
+                    "mode": "preview",
                     "source": false
-                  }
+                  },
+                  "pinned": true
                 }
               },
               {
-                "id": "381f3c16a024944a",
+                "id": "81dcaaa91e79f967",
                 "type": "leaf",
                 "state": {
                   "type": "empty",
@@ -2505,7 +2546,7 @@
                 }
               }
             ],
-            "currentTab": 7
+            "currentTab": 9
           },
           {
             "id": "159941faed59d868",
@@ -2522,7 +2563,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "Thoughts/神思者/神思者.md",
+                        "file": "Study/Study.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -2545,7 +2586,7 @@
                     "state": {
                       "type": "outgoing-link",
                       "state": {
-                        "file": "Thoughts/神思者/神思者.md",
+                        "file": "Study/Study.md",
                         "linksCollapsed": false,
                         "unlinkedCollapsed": true
                       }
@@ -2558,53 +2599,54 @@
           }
         ],
         "direction": "vertical",
-        "x": 667,
-        "y": 483,
-        "width": 1200,
-        "height": 889,
+        "x": 190,
+        "y": 131,
+        "width": 1656,
+        "height": 1080,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "4088e8d66ef96bfb",
+  "active": "5ffff676023bc38c",
   "lastOpenFiles": [
-    "management/template/markdown_file_template_for_obsidian_转载~.md",
-    "Study/Study.md",
-    "Thoughts/神思者/神思者.md",
-    "Thoughts/神思者/随思：关于帮助.md",
-    "Thoughts/神思者/随想之于宇宙之基本属性.md",
-    "sync.ffs_lock",
-    "Subjects/sync.ffs_lock",
-    "Reference_zotfile/sync.ffs_lock",
-    "Reference/sync.ffs_lock",
-    "Projects/YeeGames_design/sync.ffs_lock",
     "Projects/SystemicRiskResearch/sync.ffs_lock",
     "Projects/EntelechySystem_theory/sync.ffs_lock",
     "Thoughts/sync.ffs_lock",
-    "Subjects/Tools/Git/从 git 的历史记录中彻底删除文件或文件夹.md",
+    "sync.ffs_lock",
+    "Study/Study.md",
     "Subjects/日常管理工具/电脑系统/Linux/ssh免密登陆以及安全配置.md",
+    "Subjects/日常管理工具/电脑系统/Linux/Linux设置免密登录.md",
     "Subjects/日常管理工具/电脑系统/Linux/SSH隧道使用.md",
-    "Subjects/Tools/Git/git配置中的CRLF、LF、CR.md",
-    "Subjects/游戏学/DOTS/DOTS 官方示例学习笔记.md",
-    "Collection/DOTS 之 Blob Asset.md",
-    "Subjects/Tools/Git/常用Git操作.md",
-    "Subjects/Codes/Languages/Python/Numpy基础.md",
-    "Subjects/计算机科学与技术/算法与数据结构/二叉树前序、中序、后序遍历非递归写法的透彻解析.md",
-    "Subjects/数据科学/Pandas 工具包/Pandas 常用函数.md",
-    "Subjects/游戏学/DOTS/DOTS 学习笔记.md",
-    "Notes/结合 Unity Input System 与 DOTS.md",
-    "Notes/随机生成和谐美观的色彩分布.md",
-    "Subjects/游戏学/Unity3D/各种数据类型之赋值方式：引用、复制？.md",
-    "Thoughts/编织者/半自动化更新变量设计模式/fun_finance.py",
-    "Thoughts/编织者/半自动化更新变量设计模式",
-    "Thoughts/编织者/有用的代码段.md",
-    "Thoughts/有用的代码段/有用的代码段.md",
-    "Collection/Hexo、Apache部署个人网站.md",
-    "Thoughts/创造者/有用的代码段/有用的代码段.md",
-    "Notes/Unity3D第三方插件Agent Navigation学习笔记.md",
-    "Study/学习多媒体艺术.md",
-    "Study/学习强化学习.md",
+    "Subjects/计算科学/强化学习/笔记：解读强化学习代码.md",
+    "Subjects/计算科学/强化学习/强化学习.md",
+    "Subjects/Codes/Languages/LaTeX/Markdown教程.md",
+    "Reference/CNTA49TY/Shoham_Multiagent Systems - Algorithmic, Game-Theoretic, and Logical Foundations.pdf",
+    "Reference/EFTZQ9L5/Körber et al. - 2021 - Comparing Popular Simulation Environments in the Scope of Robotics and Reinforcement Learning.pdf",
+    "Reference/EFTZQ9L5",
+    "Subjects/Codes/Languages/Julia/Julia工具包/Julia 之 VSCode 插件之快捷键与命令.md",
+    "Subjects/人工智能/通用人工智能/NARS/NARS 原理.md",
+    "Subjects/Codes/Programming/可视化工具/Matplotlib辨析plt、fig、axes.md",
+    "Subjects/Codes/Programming/可视化工具/Matplotlib 命名颜色列表.md",
+    "Study/学习He4o.md",
+    "Study/学习NARS系统.md",
+    "Study/学习BrainSimII、fanshemoxing.md",
+    "Study/学习大语言模型.md",
+    "Study/学习通用人工智能.md",
+    "Notes/学习人工智能认知科学数据科学.md",
+    "Notes/集智俱乐部读书会《大语言模型与多智能体系统》.md",
+    "Study/学习计量经济学.md",
+    "Subjects/语言/NLP基础：常见语言学缩写.md",
+    "Subjects/日常管理工具/电脑系统/区分计算机系统之「软链接」、「硬链接」.md",
+    "Subjects/日常管理工具/电脑系统/MacOS/macOS 时光机器备份加速命令.md",
+    "Study/学习ABM建模.md",
+    "Reference/Z4VXBVJQ/Qian et al_2023_Communicative Agents for Software Development.pdf",
+    "Reference/Z4VXBVJQ",
+    "Reference/VGPCREDR/Mandi et al_2023_RoCo - Dialectic Multi-Robot Collaboration with Large Language Models.pdf",
+    "Reference/VGPCREDR",
+    "Study/学习大语言模型与多智能体系统.md",
+    "Notes/集智俱乐部读书会《大语言模型与多智能体系统》.assets/7e0870a9bc83bac330c7788333227a87.png",
+    "Collection/工具包 PettingZoo 相关的一些代码文件文档.md",
     "Subjects/人工智能/多主体强化学习代码汇总/多智能体强化学习代码汇总.assets/v2-fe398353c46453d061f6aff20aa8ef7a_180x120.jpg",
     "Subjects/人工智能/多主体强化学习代码汇总/多智能体强化学习代码汇总.assets/v2-fe398353c46453d061f6aff20aa8ef7a_180x120-20220714220611676.jpg",
     "Subjects/人工智能/多主体强化学习代码汇总/多智能体强化学习代码汇总.assets/v2-e4c2e20c96e92514088415741b157221_180x120.jpg",
@@ -2614,7 +2656,6 @@
     "Subjects/Codes/Programming/可视化工具/Matplotlib 颜色映射图.assets/sphx_glr_colormap_reference_006.png",
     "Subjects/Codes/Programming/可视化工具/Matplotlib 颜色映射图.assets/sphx_glr_colormap_reference_005.png",
     "Subjects/Codes/Programming/可视化工具/Matplotlib 颜色映射图.assets/sphx_glr_colormap_reference_004.png",
-    "Subjects/Codes/Programming/可视化工具/Matplotlib 颜色映射图.assets/sphx_glr_colormap_reference_003.png",
     "Subjects/Untitled.canvas"
   ]
 }
