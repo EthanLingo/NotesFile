@@ -14,13 +14,13 @@
 
 [[配置pip在Mac之终端之内]]
 
-[[配置Anaconda]]
+[[配置 Anaconda]]
 
 [[Python虚拟环境]]
 
 [[几种Python虚拟环境管理]]
 
-[[Python和Anaconda切换镜像源]]
+[[Python 和 Anaconda切换镜像源]]
 
 [[Python离线打包和安装]]
 

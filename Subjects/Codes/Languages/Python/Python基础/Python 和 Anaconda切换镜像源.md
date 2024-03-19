@@ -1,11 +1,22 @@
-tags: #来源/转载 
-#资料 
-#笔记 
+---
+title:
+  - Python和Anaconda切换镜像源
+authors: Ethan Lin
+year: 2024-03-19
+tags:
+  - 类型/笔记
+  - 日期/2024-03-19
+  - 来源/转载
+  - 内容/软件/Anaconda
+  - 内容/编程语言/Python
+---
+
+
 
 [[配置Python]]
-[[配置Anaconda]]
+[[配置 Anaconda]]
 
-# Python和Anaconda切换镜像源
+# Python 和 Anaconda切换镜像源
 
 Python默认的镜像源是（逐一尝试）：
 ```bash

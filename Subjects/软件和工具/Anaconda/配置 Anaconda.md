@@ -1,15 +1,24 @@
-tags: #来源/转载 #解决 #笔记 
+---
+title:
+  - 配置Anaconda
+authors: Ethan Lin
+year: 2024-03-19
+tags:
+  - 类型/笔记
+  - 日期/2024-03-19
+  - 来源/转载
+---
+
 
 [[Python]]
-[[配置Anaconda]]
+[[配置 Anaconda]]
 
-# 配置Anaconda
+# 配置 Anaconda
 
-## 配置Anaconda
-TODO
 
 ## 部署Anaconda
-# 删除Anaconda于Mac系统
+
+### 删除Anaconda于Mac系统
 
 2019年1月15日更新
 
