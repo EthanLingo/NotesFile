@@ -1,5 +1,5 @@
 ---
-title: [原因：{{title}}_{{date:YYYYMMDDHHmmss}}]
+title: 原因：{{title}}_{{date:YYYYMMDDHHmmss}}
 authors: Ethan Lin
 year: {{date:YYYY-MM-DD}}
 tags:

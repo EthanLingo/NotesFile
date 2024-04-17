@@ -1,5 +1,5 @@
 ---
-title: [交流：{{title}}_{{date:YYYYMMDDHHmmss}}]
+title: 交流：{{title}}_{{date:YYYYMMDDHHmmss}}
 authors: Ethan Lin
 year: {{date:YYYY-MM-DD}}
 tags:

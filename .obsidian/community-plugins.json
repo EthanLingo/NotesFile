@@ -23,5 +23,7 @@
   "marginnote-companion",
   "obsidian-auto-link-title",
   "auto-note-mover",
-  "obsidian-citation-plugin"
+  "obsidian-citation-plugin",
+  "obsidian-regex-replace",
+  "obsidian-quickshare"
 ]
