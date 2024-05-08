@@ -149,14 +149,6 @@
       "key": "ArrowRight"
     }
   ],
-  "auto-note-mover:Move-the-note": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "M"
-    }
-  ],
   "switcher:open": [
     {
       "modifiers": [
