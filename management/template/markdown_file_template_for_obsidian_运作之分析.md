@@ -7,5 +7,7 @@ tags:
   - 日期/{{date:YYYY-MM-DD}} 
   - 类型/运作
   - 运作/分析
+alias:
+  - {{title}}
 ---
 # 分析：{{title}}_{{date:YYYYMMDDHHmmss}}

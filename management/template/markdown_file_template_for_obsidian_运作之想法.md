@@ -8,7 +8,8 @@ tags:
   - 日期/{{date:YYYY-MM-DD}} 
   - 类型/运作
   - 运作/想法
-
+alias:
+  - {{title}}
 ---
 
 # 想法：{{title}}_{{date:YYYYMMDDHHmmss}}

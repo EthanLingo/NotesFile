@@ -7,6 +7,8 @@ tags:
   - 日期/{{date:YYYY-MM-DD}} 
   - 类型/运作
   - 运作/现状
+alias:
+  - {{title}}
 ---
 # 现状：{{title}}_{{date:YYYYMMDDHHmmss}}
 

@@ -7,6 +7,8 @@ tags:
   - 日期/{{date:YYYY-MM-DD}} 
   - 类型/运作
   - 运作/原因
+alias:
+  - {{title}}
 ---
 # 原因：{{title}}_{{date:YYYYMMDDHHmmss}}
 

@@ -7,5 +7,7 @@ tags:
   - 日期/{{date:YYYY-MM-DD}} 
   - 类型/运作
   - 运作/目标
+alias:
+  - {{title}}
 ---
 # 目标：{{title}}_{{date:YYYYMMDDHHmmss}}
