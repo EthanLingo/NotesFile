@@ -6,6 +6,9 @@ Agents.jl是Julia制作的，适合作为学习和使用的工具；
 RePast用C++制作，因此大全难，是一个值得在服务器上运行的工具；  
 NetLogo运行速度慢，但是可视化和案例多，适合教学和学习案例用；  
 
+相关分析资料：
+- [微信公众号：Agent调研--19类Agent框架对比](https://mp.weixin.qq.com/s/rogMCoS1zDN0mAAC5EKhFQ)
+
 ## 【目标】
 
 - [x] #2021-11-05 能够运行Agents.jl一个完整案例；  
@@ -145,6 +148,17 @@ Priority: 2
 
 
 #### smallvillage
+
+
+
+#### WarAgent
+
+
+
+#### BattleAgent
+
+- [ ] ⏳ 2024-04-23 看看作者是否发布了源码；
+
 
 
 

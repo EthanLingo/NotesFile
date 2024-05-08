@@ -1,4 +1,24 @@
+---
+title: Transformer 与 LSTM
+authors: Ethan Lin
+year: 2024-03-19
+tags:
+  - 类型/AI问答笔记
+  - 日期/2024-05-08
+  - 内容/机器学习
+  - 类型/辨析
+aliases:
+  - Transformer 与 LSTM
+---
 # Transformer 与 LSTM
+
+
+> [!attention]
+> 以下由AI回答，不保证正确性！
+
+
+
+
 
 
 

@@ -6,6 +6,8 @@ year: 2024-03-20
 tags:
   - 类型/笔记
   - 日期/2024-03-20
+  - 内容/Transformer
+  - 学科/AI
 ---
 # 机器学习 Transformer 结构
 

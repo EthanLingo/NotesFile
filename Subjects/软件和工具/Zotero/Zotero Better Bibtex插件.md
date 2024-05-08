@@ -35,3 +35,9 @@ tags:
 此外，我选择了`jieba`分词选项，用于中文分词。
 
 官方对于关键词之帮助参考：[Citation Keys :: Better BibTeX for Zotero](https://retorque.re/zotero-better-bibtex/citing/)
+
+
+# 资源
+
+一些中文的入门选项配置指南：
+[Guangyao Zhao - Better BibTex](https://guangyaozhao.netlify.app/posts/setting/better%20bibtex)

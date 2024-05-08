@@ -1,4 +1,16 @@
+---
+title: Obsdian 联动 Zotero
+authors: Ethan Lin
+year: 2024-03-20
+tags:
+  - 类型/笔记
+  - 日期/2024-03-20
+  - 内容/软件
+aliases:
+  - Obsdian 联动 Zotero
+---
 # Obsdian 联动 Zotero
+
 
 
 
