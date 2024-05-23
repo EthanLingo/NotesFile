@@ -25,5 +25,7 @@
   "auto-note-mover",
   "obsidian-citation-plugin",
   "obsidian-regex-replace",
-  "obsidian-quickshare"
+  "obsidian-quickshare",
+  "cm-chs-patch",
+  "tag-wrangler"
 ]
