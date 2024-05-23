@@ -3,7 +3,7 @@
  [[Subjects/Codes/Languages/Python/Python基础/importlib库的方法举例|importlib库的方法举例]]
  [[Subjects/Codes/Languages/Python/Python基础/numpy判断语句提速|numpy判断语句提速]]
  [[Subjects/Codes/Languages/Python/Python基础/pip install|pip install]]
- [[Subjects/Codes/Languages/Python/Python基础/pip|pip]]
+ [[pip相关的功能|pip相关的功能]]
  [[Subjects/Codes/Languages/Python/Python基础/pip删除所有包|pip删除所有包]]
  [[pip 导出包列表、备份离线包|pip 导出包列表、备份离线包]]
  [[Subjects/Codes/Languages/Python/Python基础/python __file__、__name__、__dict__三个方法|python __file__、__name__、__dict__三个方法]]

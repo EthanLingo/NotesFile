@@ -16,7 +16,7 @@ tags:
 检出新的分支
 
 ```
-# orphan参数用于创建没有commit记录的分支
+# Git 清除贡献者信息和历史提交记录
 $ git checkout --orphan latest_branch
 ```
 
