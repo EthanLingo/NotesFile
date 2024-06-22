@@ -1,9 +1,18 @@
+---
+title: Obsidian 一些资源
+authors: Ethan Lin
+year: 2024-06-05
+tags:
+  - 类型/笔记
+  - "#日期/2023-07-28"
+  - "#内容/Obsidian"
+aliases:
+  - Obsidian 一些资源
+---
 
 
-# Obsidian 相关的链接
+# Obsidian 一些资源
 
-
-#日期/2023-07-28 #类型/笔记 #内容/Obsidian 
 
 
 
@@ -46,7 +55,8 @@ https://forum-zh.obsidian.md
 https://forum.obsidian.md/
 
 ### Obsidian 相关的QQ群：
-Obsidian交流群：936473213
+Obsidian 交流群：936473213
+Obsidian 交流群 2：763794445
 Obsidian：774176839
 Obsidian插件魔改：427063403
 
@@ -64,8 +74,6 @@ https://obsidian.md/download
 ### Obsidian 官方提供的历史版本
 https://github.com/obsidianmd/obsidian-releases/releases
 
-
-# Obsidian 一些资源
 
 
 
