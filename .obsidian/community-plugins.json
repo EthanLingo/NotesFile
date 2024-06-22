@@ -27,5 +27,6 @@
   "obsidian-regex-replace",
   "obsidian-quickshare",
   "cm-chs-patch",
-  "tag-wrangler"
+  "tag-wrangler",
+  "obsidian-tikzjax"
 ]

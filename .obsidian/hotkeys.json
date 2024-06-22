@@ -170,6 +170,12 @@
         "Shift"
       ],
       "key": "I"
+    },
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "I"
     }
   ],
   "editor:toggle-checklist-status": [
