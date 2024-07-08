@@ -3,7 +3,7 @@
   "defaultViewMode": "preview",
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
-  "attachmentFolderPath": "attachment",
+  "attachmentFolderPath": "./attachments",
   "showLineNumber": false,
   "newLinkFormat": "shortest",
   "showUnsupportedFiles": true,
