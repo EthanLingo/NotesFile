@@ -87,6 +87,12 @@ Forth语言和Axiom，Zillions of Games。
 [[学习多媒体艺术]]
 
 
+## 杂项
+
+#### 标准 readme 写法
+
+[GitHub - RichardLitt/standard-readme: A standard style for README files](https://github.com/RichardLitt/standard-readme)
+
 
   
 # 相关项目
