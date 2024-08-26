@@ -22,13 +22,18 @@ tags: #内容/Git
 
 彻底删除文件：
 
-`git filter-branch --force --index-filter 'git rm --cached --ignore-unmatch 《你要删除的文件名称比如walterlv.xml》' --prune-empty --tag-name-filter cat -- --all`
+```shell
+git filter-branch --force --index-filter 'git rm --cached --ignore-unmatch 《你要删除的文件名称比如walterlv.xml》' --prune-empty --tag-name-filter cat -- --all
+```
+
 
 其中 walterlv.xml 是本来不应该上传的私钥文件，于是使用此命令彻底删除。后面的命令 --tag-name-filter 指所有相关的标签都需要更新。
 
 彻底删除文件夹：
 
-`git filter-branch --force --index-filter 'git rm --cached -r --ignore-unmatch 《你要删除的文件夹名称》' --prune-empty --tag-name-filter cat -- --all`
+```shell
+git filter-branch --force --index-filter 'git rm --cached -r --ignore-unmatch 《你要删除的文件夹名称》' --prune-empty --tag-name-filter cat -- --all
+```
 
 删除文件夹时需要额外带一个 -r 选项，并指定文件夹名称，这里的例子是 WalterlvDemoFolder。
 
@@ -40,7 +45,9 @@ tags: #内容/Git
 
 于是使用推送命令：
 
-`git push 《你的远程仓库名》 《你的本地分支名》:《你的远程分支名》 --tags --force`
+```shell
+git push 《你的远程仓库名》 《你的本地分支名》:《你的远程分支名》 --tags --force
+```
 
 我的博客会首发于 https://blog.walterlv.com/，而 CSDN 会从其中精选发布，但是一旦发布了就很少更新。
 

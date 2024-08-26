@@ -19,9 +19,10 @@ tags:
 
 
 在使用Zotero插件Better Bibtex时，我使用自动导出bibtex文件与LaTex编辑器联动。关于cite key设置方面，目前觉得适合的几个可选设置如下：
-- `[auth.auth.ea]_[year]_[Title:skipwords:clean:nopunctordash:select,1,3]`
+
+- `[auth.auth.ea:capitalize]_[year]_[Title:capitalize:skipwords:clean:nopunctordash:select,1,3]`
 	注解：
-	- `[auth.auth.ea]`最多二作者，超过加ea字样；
+	- `[auth.auth.ea:capitalize]`最多二作者，超过加ea字样，每个单词首字母大写；
 	- `_`：下划线分隔；
 	- `[year]`：年份；
 	- `Title`：标题，且所有标题单词首字母大写。其中：
@@ -29,7 +30,9 @@ tags:
 		- `clean`：清除不确定字符；
 		- `nopunctordash`：删除标点符号与连接破折号；
 		- `select,1,3`：仅使用从第一个单词开始的前三个单词，其余不作为cite key。
-- `[auth.auth.ea]_[year]_[Title:skipwords:clean:nopunctordash]`
+		- `capitalize`：每个单词首字母大写。
+
+- `[auth.auth.ea:capitalize]_[year]_[Title:capitalize:skipwords:clean:nopunctordash]`
 	注解：与上面设置项不同在于，标题使用所有单词。
 
 此外，我选择了`jieba`分词选项，用于中文分词。
